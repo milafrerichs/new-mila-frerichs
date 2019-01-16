@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en{{ end }}">
+  <head>
+    <meta charset="utf-8">
+    {{ .Hugo.Generator }}
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    {{ if .RSSLink }}
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
+    {{ end }}
+
+		{{ $style := resources.Get "css/styles.css" | resources.PostCSS (dict "config" "./assets/css/postcss.config.js") }}
+		<link rel="stylesheet" href="{{ $style.Permalink }}" data>
+
+    <meta property="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js" type="text/javascript"></script>
+  </head>
+  <body>
+    {{ block "header" . }}{{ end }}
+    <main role="main" class="py-8 lg:py-16 px-6 md:px-16 lg:px-24">
+      {{ block "main" . }}{{ end }}
+    </main>
+  </body>
+		<script src="js/main.js" type="text/javascript"></script>
+</html>

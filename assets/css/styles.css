@@ -1,0 +1,9 @@
+/* Base - Variables: tailwind-config.js */
+@tailwind preflight;
+
+a {
+	@apply text-black font-bold;
+}
+@tailwind components;
+/* Site Specific */
+@tailwind utilities;

@@ -1,0 +1,10 @@
+{{ define "main" }}
+	<div class="font-sans text-lg text-grey-darkest spaced-y-6">
+		{{.Content}}
+		<div class="mt-16">
+			{{ range $.Site.Data.workshops }}
+				{{ partial "workshop.html" . }}
+			{{ end }}
+		</div>
+	</div>
+{{ end }}
