@@ -1,0 +1,17 @@
+{
+  "name": "milafrerichs.de",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "postcss-cli": "^6.1.1",
+    "tailwindcss-spaced-items": "^0.1.0"
+  },
+  "scripts": {
+    "start": "hugo --gc"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.5",
+    "tailwindcss": "^0.7.3"
+  }
+}
