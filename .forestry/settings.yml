@@ -32,7 +32,7 @@ build:
   - HUGO_VERSION=0.53
   publish_env:
   - HUGO_ENV=HUGO_ENV
-  - HUGO_VERSION=0.5.0
+  - HUGO_VERSION=0.53
   preview_output_directory: public
   output_directory: public
 version: '0.53'
