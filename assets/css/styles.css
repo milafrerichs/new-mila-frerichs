@@ -4,6 +4,14 @@
 a {
 	@apply text-black font-bold;
 }
+
 @tailwind components;
 /* Site Specific */
 @tailwind utilities;
+
+.btn {
+	@apply text-lg text-white bg-blue font-bold text-center rounded-sm p-4 w-1/2;
+}
+.btn a{
+	@apply text-white no-underline;
+}
