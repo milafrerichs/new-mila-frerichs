@@ -1,0 +1,12 @@
+{{ $talks := .Page.Site.Data.talks }}
+{{ if eq 3 (len $.Params) }}
+  {{ (len $.Params) }}
+  {{ now }}
+  {{ $talks := where .Page.Site.Data.talks (.Get 0) (.Get 1) now }}}
+{{ end }}
+{{ range $talks }}
+  {{ partial "talk.html" . }}
+{{ end }}
+{{ range where .Site.Data.talks "date" "ge" .Now }}
+  {{ partial "talk.html" . }}
+{{ end }}
