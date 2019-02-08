@@ -9,6 +9,10 @@ linktitle: "Talks/Workshops"
 
 I like give talks and go to conferences.  
 
-Here is a list of my most recent talks. 
+## My upcoming talks
 
-{{< talks "date" "lt" "ow ">}}
+{{< talks "date" "gt" >}}
+
+## My previous talks
+
+{{< talks "date" "lt" >}}
