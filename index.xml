@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mila Frerichs</title>
+    <link>/</link>
+    <description>Recent content on Mila Frerichs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Now</title>
+      <link>/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/now/</guid>
+      <description>Right now I’m in Berlin with my wife and our dog Ruby. Finishing up a big client project in precision farming using open satellite data.
+Next conferences I attend/talk
+ Berlin Open Data Day FOSS4G Oceania, November in Melbourne Australia
+I will be giving a workshop about „Geospatial data voszualizations with d3“
+  Next family trips
+ Creta Greece for a wedding (October) Vancouver Canada for Snowboarding (December)  What I will be working on</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talks-workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks-workshops/</guid>
+      <description> Talks I like give talks and go to conferences.
+My upcoming talks Let&amp;#39;s talk about maps Good Tech Fest, 2019  My previous talks Fast and cost effective geospatial data analysis pipeline with AWS (Lambda) FOSS4G Oceania, 2018  Mapping with d3 Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  </description>
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>/themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
