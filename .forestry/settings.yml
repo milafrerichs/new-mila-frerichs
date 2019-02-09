@@ -5,10 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/journal/**/*
+  label: Journals
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: content/talks
   label: Talks
