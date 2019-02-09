@@ -19,7 +19,7 @@ sections:
   label: Data
   create: all
   match: "**/*"
-  new_doc_ext: ".yaml"
+  new_doc_ext: yaml
 - type: directory
   path: data
   label: Talks
@@ -31,7 +31,7 @@ sections:
   label: Workshops
   create: all
   match: workshops.yaml
-  new_doc_ext: ".yaml"
+  new_doc_ext: yaml
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
