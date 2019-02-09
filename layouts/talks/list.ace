@@ -1,0 +1,7 @@
+= content main
+  .font-sans.text-lg.text-grey-darkest.spaced-y-6
+		{{.Content}}
+		.mt-16
+			{{ range $.Site.Data.talks }}
+				{{ partial "talk.html" . }}
+			{{ end }}
