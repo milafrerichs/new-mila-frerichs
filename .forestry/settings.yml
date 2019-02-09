@@ -5,22 +5,23 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/journal/**/*
-  label: Journals
-  create: all
-  match: "**/*"
-- type: directory
   path: content
   label: Pages
   create: all
   match: "**/*"
 - type: directory
-  path: content/talks
-  label: Talks
+  path: content/journal
+  label: Journals
   create: all
   match: "**/*"
 - type: directory
-  path: content/workshops
+  path: data/talks
+  label: Talks
+  create: all
+  match: "**/*"
+  new_doc_ext: ".yaml"
+- type: directory
+  path: data/workshops
   label: Workshops
   create: all
   match: "**/*"
