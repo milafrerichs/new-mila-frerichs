@@ -3,10 +3,6 @@
 = content main
   .font-sans.text-lg.text-grey-darkest.spaced-y-6
     {{.Content}}
-    ul
-      {{ range .Pages }}
-        li
-          a href="{{ .Permalink }}" {{ .Title }}
-      {{ end }}
+
 = content footer
   {{ partial "footer" . }}

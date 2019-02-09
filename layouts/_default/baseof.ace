@@ -1,9 +1,12 @@
 = doctype html
+{{ $style := resources.Get "css/styles.css" | resources.PostCSS (dict "config" "./assets/css/postcss.config.js") }}
 html lang=en
   head
-    {{ $style := resources.Get "css/styles.css" | resources.PostCSS (dict "config" "./assets/css/postcss.config.js") }}
+    meta charset=utf-8
     link rel="stylesheet" href="{{ $style.Permalink }}"
   body
-    = yield header
-    main role="main" class="py-8 lg:py-16 px-6 md:px-16 lg:px-24"
+    main.py-8.lg:py-16.px-6.md:px-16 class="lg:px-24" role="main"
+      = yield nav
+      = yield header
       = yield main
+    = yield footer

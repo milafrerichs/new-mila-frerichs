@@ -1,0 +1,18 @@
+---
+type: page
+menu:
+  main:
+    weight: 10
+linktitle: "Talks/Workshops"
+---
+# Talks
+
+I like give talks and go to conferences.  
+
+## My upcoming talks
+
+{{< talks "date" "gt" >}}
+
+## My previous talks
+
+{{< talks "date" "lt" >}}
