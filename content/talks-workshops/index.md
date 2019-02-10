@@ -2,7 +2,9 @@
 type: page
 menu:
   main:
-    weight: 10
+    weight: 20
+  footer:
+    weight: 20
 linktitle: "Talks/Workshops"
 ---
 # Talks
