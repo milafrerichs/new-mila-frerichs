@@ -4,6 +4,8 @@ linktitle: Themes
 menu:
   main:
     weight: 30
+  footer:
+    weight: 30
 
 ---
 Instead of goals I adapted an approach by Brian Casel using [themes](https://briancasel.com/themes-not-goals/).

@@ -3,7 +3,9 @@ title: Now
 linktitle: Now
 menu:
   main:
-    weight: 20
+    weight: 30
+  footer:
+    weight: 30
 
 ---
 _Last updated: 10.02.2019_
