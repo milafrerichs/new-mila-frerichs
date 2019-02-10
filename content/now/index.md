@@ -1,33 +1,36 @@
 ---
 title: Now
+linktitle: Now
 menu:
   main:
     weight: 20
-linktitle: "Now"
+
 ---
+_Last updated: 10.02.2019_
 
-Right now I’m in Berlin with my wife and our dog Ruby. Finishing up a big client project in precision farming using open satellite data.
+Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with streetmix to improve their testing.
 
-Next conferences I attend/talk
+I’m available for work in March.
 
-- Berlin Open Data Day
-- FOSS4G Oceania, November in Melbourne Australia
+## Next conferences I attend/talk
 
-    I will be giving a workshop about „Geospatial data voszualizations with d3“
+* FOSS4G NA, April 2019, San Diego, USA
+* GoodTechFest, May 2019, Chicago, USA
 
-Next family trips
+## Next family trips
 
-- Creta Greece for a wedding (October)
-- Vancouver Canada for Snowboarding (December)
+* None is planned right now
+* Will be more short term weekend trips probably
 
-What I will be working on
+## What I will be working on
 
-- Open Data projects
-- Civic data visualizations/dashboards
+* Improve your organizations outreach by creating data visualizations to increase engagement
+* Help your organization to tell stories with data
+* Help organizations find Open Data for their projects and reports
+* Improve or create data pipelines for organizations
+* Help grow your civic tech prototype to a more mature application
 
-Wuat i will not be working kb
+## What I will not be working on
 
-- Random react/angular projects
-- Projects without an social impact
--
-
+* Random react/angular projects
+* Projects without an social impact
