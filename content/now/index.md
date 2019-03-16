@@ -8,14 +8,15 @@ menu:
     weight: 30
 
 ---
-_Last updated: 10.02.2019_
+_Last updated: 15.03.2019_
 
-Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with streetmix to improve their testing.
+Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with [streetmix](https://streetmix.net) to improve their testing.
 
-I’m available for work in March.
+I’m available for work in May.
 
 ## Next conferences I attend/talk
 
+* S-H-O-W, April, Amsterdam, NL
 * FOSS4G NA, April 2019, San Diego, USA
 * GoodTechFest, May 2019, Chicago, USA
 
@@ -34,5 +35,5 @@ I’m available for work in March.
 
 ## What I will not be working on
 
-* Random react/angular projects
 * Projects without an social impact
+* Random react/angular projects

@@ -18,3 +18,13 @@ I like give talks and go to conferences.
 ## My previous talks
 
 {{< talks "date" "lt" >}}
+
+# Workshops
+
+## My upcoming workshops
+
+{{< workshops "date" "gt" >}}
+
+## My previous workshops
+
+{{< workshops "date" "lt" >}}
