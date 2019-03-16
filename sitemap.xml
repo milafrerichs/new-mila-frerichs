@@ -16,11 +16,19 @@
   </url>
   
   <url>
+    <loc>/legal/</loc>
+  </url>
+  
+  <url>
     <loc>/me/</loc>
   </url>
   
   <url>
     <loc>/now/</loc>
+  </url>
+  
+  <url>
+    <loc>/legal/privacy/</loc>
   </url>
   
   <url>
