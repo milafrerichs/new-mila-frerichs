@@ -1,7 +1,7 @@
 ---
 
 ---
-# I help civic advocacy groups and <br/> improve the life of citizens with the help of Open Data.
+# I help civic advocacy groups <br/> improve the life of citizens with the help of Open Data.
 
 I use the power of public open data and open source to build tools and visualization for civic advocacy groups to increase transparency and accountability.
 
