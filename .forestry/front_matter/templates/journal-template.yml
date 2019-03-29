@@ -1,0 +1,16 @@
+---
+label: Journal Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Social Media description
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
