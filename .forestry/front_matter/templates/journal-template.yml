@@ -15,3 +15,5 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+pages:
+- content/journal/work-journal-march.md
