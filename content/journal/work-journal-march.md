@@ -5,15 +5,15 @@ draft = true
 title = "Work Journal: March 31st"
 
 +++
-I want to share more what I do every day so I started this journal after inspiration from Adam Wathan. Love what the guy is doing, so I will do something similar.
+I want to share more what I do every day so I started this journal after inspiration from [Adam Wathan](https://adamwathan.me/journal/). Love what the guy is doing, so I will do something similar.
 
-This week started off very well with the public launch of the waiting list for my upcoming Online Workshop about "geospatial data visualization with d3".
+This week started off very well with the public launch of the waiting list for my upcoming Online Workshop about ["Geospatial Data Visualization with d3"](https://civic.vision/geospatial-data-visualization-with-d3/).
 
 And I'm very happy with the result. This encourages me to start on this rather sooner than later and is kind of a bummer that I did not do this earlier. :)
 
 # What I was exited about
 
-The launch of the waiting list for the online video course "Geospatial Data Visualization with d3". And I'm excited about FOSS4G in my favorite American city: San Diego.
+The launch of the waiting list for the [online video course "Geospatial Data Visualization with d3"](https://civic.vision/geospatial-data-visualization-with-d3/). And I'm excited about [FOSS4G](2019.foss4g-na.org) in my favorite American city: San Diego.
 
 And naturally the start of the Baseball Season! Let's go Padres, let's go!
 
@@ -32,7 +32,6 @@ I use cloudinary after Adam mentioned it in his podcast (Full Stack Radio). And 
 It took some time and a few messages with support to figure this out, but this is how you can use the subscribers email address in Rightmessage personalization
 
     {{convertkit.email}}
-    
 
 ### Radius scaling explanation with observable
 
@@ -40,7 +39,7 @@ In preparation for my workshops and talks I looked at
 
 # Stuff that I launched
 
-Online Video Course Geospatuon Data Visualiation with d3
+[Online Video course Geospatial Data Visualizations with d3](https://civic.vision/geospatial-data-visualization-with-d3/)
 
 # Blog posts published
 
@@ -48,7 +47,7 @@ Only this one this week :)
 
 # Successes
 
-Launch of my waiting list.
+[Launch of my waiting list.](https://civic.vision/geospatial-data-visualization-with-d3/)
 
 # Podcast episode I loved listening to
 
