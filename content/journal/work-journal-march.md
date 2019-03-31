@@ -33,10 +33,6 @@ It took some time and a few messages with support to figure this out, but this i
 
     {{convertkit.email}}
 
-### Radius scaling explanation with observable
-
-In preparation for my workshops and talks I looked at
-
 # Stuff that I launched
 
 [Online Video course Geospatial Data Visualizations with d3](https://civic.vision/geospatial-data-visualization-with-d3/)
