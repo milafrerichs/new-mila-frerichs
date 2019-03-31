@@ -1,7 +1,6 @@
 +++
 date = "2019-03-29T11:11:32+01:00"
 description = ""
-draft = true
 title = "Work Journal: March 31st"
 
 +++
