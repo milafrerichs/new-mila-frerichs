@@ -54,3 +54,11 @@ Only this one this week :)
 * Double Your Freelancing Podcast Episode 84 (it's back, yeah!)
 
 # Pictures of the week
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1554060163/milafrerichs.com/journal/march-31/IMG_4071.jpg)
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1554060157/milafrerichs.com/journal/march-31/IMG_4099.jpg)
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1554060153/milafrerichs.com/journal/march-31/IMG_4089.jpg)
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1554060159/milafrerichs.com/journal/march-31/IMG_4105.jpg)
