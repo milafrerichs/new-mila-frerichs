@@ -3,10 +3,11 @@
 = content main
   .font-sans.text-lg.text-grey-darkest.spaced-y-6
     {{.Content}}
-    ul
+    ul.list-reset.mt-16.spaced-y-8
       {{ range .Pages }}
         li
-          a href="{{ .Permalink }}" {{ .Title }}
+          span.block.text-grey-dark.uppercase.font-semibold.text-xs.tracking-wide.mb-2 {{dateFormat "Jan 2, 2006" .Date}}
+          a.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
       {{ end }}
 = content footer
   {{ partial "footer" . }}
