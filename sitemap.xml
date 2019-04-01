@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/journal/work-journal-march-31/</loc>
+    <loc>/articles/work-journal-march-31/</loc>
     <lastmod>2019-03-29T11:11:32+01:00</lastmod>
   </url>
   
@@ -17,7 +17,7 @@
   </url>
   
   <url>
-    <loc>/journal/</loc>
+    <loc>/articles/</loc>
     <lastmod>2019-03-29T11:11:32+01:00</lastmod>
   </url>
   
@@ -28,6 +28,12 @@
   
   <url>
     <loc>/legal/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/journal/</loc>
+    <lastmod>2019-03-29T11:11:32+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
