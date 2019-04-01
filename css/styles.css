@@ -6491,6 +6491,58 @@ a {
   margin-bottom: 0;
 }
 
+.markdown {
+  font-size: 1.125rem;
+  line-height: 1.5;
+  color: #606f7b;
+}
+
+.markdown a {
+  text-decoration: none;
+}
+
+.markdown a:hover {
+  text-decoration: underline;
+}
+
+.markdown>*+*,
+.markdown li+li,
+.markdown li>p+p {
+  margin-top: 1rem;
+}
+
+.markdown h2 {
+  margin-bottom: .5rem;
+  margin-top: 2.5rem;
+  font-size: 1.25rem;
+  color: #3d4852;
+  line-height: 1.25;
+}
+
+.markdown h3 {
+  margin-bottom: -0.5rem;
+  margin-top: 1.5rem;
+  font-size: 1.125rem;
+  color: #3d4852;
+  line-height: 1.25;
+}
+
+.markdown code {
+  font-size: .875rem;
+  display: inline;
+  background-color: #f1f5f8;
+  padding-left: .25rem;
+  padding-right: .25rem;
+  color: #fff;
+}
+
+.markdown pre code {
+  display: block;
+  background-color: #22292f;
+  padding: 1rem;
+  border-radius: .25rem;
+}
+
 .btn {
   font-size: 1.125rem;
   color: #fff;
