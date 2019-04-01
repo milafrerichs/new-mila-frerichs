@@ -5,9 +5,44 @@ a {
 	@apply text-black font-bold;
 }
 
+
 @tailwind components;
 /* Site Specific */
 @tailwind utilities;
+
+.markdown {
+	@apply text-lg leading-normal text-grey-darker;
+}
+.markdown a {
+  @apply no-underline;
+}
+.markdown a:hover {
+  @apply underline;
+}
+.markdown>*+*, .markdown li+li, .markdown li>p+p {
+  @apply mt-4;
+}
+.markdown h2 {
+  @apply mb-2 mt-10 text-xl text-grey-darkest leading-tight;
+}
+.markdown h3 {
+  @apply -mb-2 mt-6 text-lg text-grey-darkest leading-tight;
+}
+.markdown code {
+  font-size: .875rem;
+  display: inline;
+  background-color: #f1f5f8;
+  padding-left: .25rem;
+  padding-right: .25rem;
+  color: #fff;
+}
+
+.markdown pre code {
+  display: block;
+  background-color: #22292f;
+  padding: 1rem;
+  border-radius: .25rem
+}
 
 .btn {
 	@apply text-lg text-white bg-blue font-bold text-center rounded-sm p-4 w-1/2;

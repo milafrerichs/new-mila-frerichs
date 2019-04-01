@@ -1,8 +1,11 @@
 = content nav
   {{ partial "nav" . }}
 = content main
-  .font-sans.text-lg.text-grey-darkest.spaced-y-6
-    {{.Content}}
+  .font-sans.text-lg.text-grey-darkest
+    span.block.text-grey-dark.uppercase.font-semibold.text-xs.tracking-wide.mb-2 {{dateFormat "Jan 2, 2006" .Date}}
+    h1.mt-0.mb-4 {{ .Title }}
+    div.leading-normal.markdown
+      {{.Content}}
 
 = content footer
   {{ partial "footer" . }}
