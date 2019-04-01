@@ -2,9 +2,9 @@
 title: Themes
 linktitle: Themes
 menu:
-  main:
-    weight: 30
   footer:
+    weight: 30
+  main:
     weight: 30
 
 ---
@@ -24,8 +24,8 @@ Take my wife with me on conferences. She should get more from my travels. Will b
 
 ## Work more with nonprofit clients
 
-Last year I mostly worked with for profit clients. Which is totally fine and allowed me to add more to the bottom line. 
+Last year I mostly worked with for profit clients. Which is totally fine and allowed me to add more to the bottom line.
 
-## Publish more stuff (Twitter, LinkedIn and blog/newsletter)
+## Publish more (Twitter, LinkedIn and blog/newsletter)
 
 I want to be more proactive sharing stuff that I did. And share insights from my work day. I will probably start a work journal that I update weekly or bi-weekly.
