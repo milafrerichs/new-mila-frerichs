@@ -1,8 +1,14 @@
 ---
+linktitle: "Articles"
+title: Articles
 type: page
 menu:
   main:
     weight: 50
-linktitle: "Journal"
+    menu:
+  footer:
+    weight: 30
+
 ---
-# Journal
+# Articles
+
