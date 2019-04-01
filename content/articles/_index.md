@@ -7,7 +7,7 @@ menu:
     weight: 50
     menu:
   footer:
-    weight: 30
+    weight: 50
 
 ---
 # Articles
