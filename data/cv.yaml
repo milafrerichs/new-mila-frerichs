@@ -1,0 +1,27 @@
+professionel:
+  - name: Civic Vision UG
+    location: Berlin
+    date: since August 2014
+    title: "Owner, Developer"
+  - name: Zweitag GmbH
+    location: Münster
+    date: Feb 2013 - July 2014
+    title: "Software Developer (student trainee), Ruby on Rails, Javascript"
+  - name: Avency GmbH
+    date: Feb 2009 - Jan 2013
+    title: Frontend Developer (student trainee), Javascript
+    location: Telgte
+  - name: Institute for Geoinformatics
+    date: March 2008 - Feb 2009
+    title: student trainee
+education:
+  - name: Westfälische Wilhems-Universität Münster
+    date: 2005 - 2015
+    title: "program: Geoinformatics"
+nonprofit:
+  - name: "Code for Münster / Code for Germany"
+    date: Feb 2014 - Nov 2015
+    title: Lab Lead
+  - name: "Münster Cardianls e.v."
+    date: Feb 2010 - Feb 2014
+    title: club president

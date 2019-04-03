@@ -1,0 +1,4 @@
+div
+  h3 {{ .name }}
+  h5.text-grey-darker.mb-2 {{ .date }}
+  p {{ .title }}
