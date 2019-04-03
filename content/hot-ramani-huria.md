@@ -44,4 +44,7 @@ I mostly create data pipelines for project where it makes sense. This could eith
 
 In my previous consulting engagement I worked with a big agriculture company to improve their algorithms using satellite data. In this context we used a lot of Jupyter notebooks to test out theories and worked with numpy, rasterio and sentinel hub.
 
+[GitHub](https://github.com/milafrerichs)
+[Twitter](https://twitter.com/milafrerichs)
+
 [Curriculum Vitae](/cv)
