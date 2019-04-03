@@ -9,21 +9,23 @@ Habari HOT Team,
 
 my Name is Mila and I help civic advocacy groups and nonprofits improve the life of citizens with the help of Open Data. I use the power of public open data and open source to build tools and visualization for civic advocacy groups and governments to increase transparency and accountability.
 
+**I'm applying for the Data Communications and Visualization Specialist contract.** 
+
 ![](https://res.cloudinary.com/civicvision/image/upload/ar_1:1,c_fill,w_300,g_faces,r_max/q_auto,f_auto/v1554302066/milafrerichs.com/IMG_4709.jpg)
 
 # Motivation
 
 I would love to help HOT with my skills to communicate the success of the Ramani Huria project to the worldbank and the world.
 
-I want to use my skills to do good in the world and work almost exclusively with nonprofits and this opportunity seems like a great way to apply my skills and help Tanzania.
+I want to use my skills to do good in the world and work almost exclusively with nonprofits, and this opportunity seems like a great way to apply my skills and help Tanzania.
 
-I attended the FOSS4G in Dar last year and as part of the conference participated in a marine mapping workshop at the University of Zanzibar. The conference and especially the workshop were a good opportunity for me to get to know Zanzibaris and Tanzanians and I enjoyed talking to them and see their passion about HOT and mapping in general. 
+I attended the FOSS4G in Dar last year and as part of the conference participated in a marine mapping workshop at the University of Zanzibar. The conference and especially the workshop were an excellent opportunity for me to get to know Zanzibaris and Tanzanians and I enjoyed talking to them and see their passion for HOT and mapping in general.
 
-I love diving into data and creating reports and analysis from datasets. I volunteered with Code for America and Code for Germany because I'm especially interested in Civic Tech.
+I love diving into data and creating reports and analysis from datasets. I volunteered with Code for America and Code for Germany because I’m especially interested in Civic Tech.
 
- I worked professionally with nonprofits like the Open Knowledge Foundation in Germany and Code for America. And have worked indirectly on a visualization dashboard for the Nepal Earthquakes. 
+I worked professionally with nonprofits like the Open Knowledge Foundation in Germany and Code for America. Moreover, I have worked indirectly on a visualization dashboard for the Nepal Earthquakes.
 
-I gave and will be giving workshops about "Geospatial data visualizations with d3" at geospatial conferences.
+I gave and will be offering workshops about “Geospatial data visualizations with d3” at geospatial conferences.
 
 Hakuna Matata.
 
