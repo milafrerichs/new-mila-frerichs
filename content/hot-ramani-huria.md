@@ -6,7 +6,7 @@ title = "HOT Data Communications and Visualization Specialist -Tanzania Applicat
 +++
 Habari HOT Team,
 
-my Name is Mila and I help civic advocacy groups and nonprofits improve the life of citizens with the help of Open Data. I use the power of public open data and open source to build tools and visualization for civic advocacy groups and governments to increase transparency and accountability.
+my Name is Mila and I help civic advocacy groups and nonprofits improve the life of citizens with the help of Open Data. I use the power of public open data and open source to build tools and visualization for civic advocacy groups and non-profits to increase transparency and accountability.
 
 **I'm applying for the Data Communications and Visualization Specialist contract.** 
 
