@@ -1,0 +1,4 @@
+{{ $data := index $.Site.Data.cv (.Get 0) }}
+{{range $data }}
+  {{ partial "cv" .}}
+{{end }}
