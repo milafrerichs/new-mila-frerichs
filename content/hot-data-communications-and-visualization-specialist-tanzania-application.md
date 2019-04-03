@@ -15,7 +15,7 @@ my Name is Mila and I help civic advocacy groups and nonprofits improve the life
 
 # Motivation
 
-I would love to help HOT with my skills to communicate the success of the Ramani Huria project to the worldbank and the world.
+I would love to help by using my skills to communicate the success of the Ramani Huria project to the worldbank and the world.
 
 I want to use my skills to do good in the world and work almost exclusively with nonprofits, and this opportunity seems like a great way to apply my skills and help Tanzania.
 
