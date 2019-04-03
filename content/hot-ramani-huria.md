@@ -44,7 +44,13 @@ I mostly create data pipelines for project where it makes sense. This could eith
 
 In my previous consulting engagement I worked with a big agriculture company to improve their algorithms using satellite data. In this context we used a lot of Jupyter notebooks to test out theories and worked with numpy, rasterio and sentinel hub.
 
-[GitHub](https://github.com/milafrerichs)
+[GitHub](https://github.com/milafrerichs)  
 [Twitter](https://twitter.com/milafrerichs)
 
 [Curriculum Vitae](/cv)
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/civicvision/60min', text: 'Schedule time with me', color: '#00a2ff', branding: false});</script>
+<!-- Calendly badge widget end -->
