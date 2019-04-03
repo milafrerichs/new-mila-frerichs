@@ -1,7 +1,6 @@
 +++
 date = "2019-04-03T16:38:02+02:00"
 description = ""
-draft = true
 title = "HOT Data Communications and Visualization Specialist -Tanzania Application"
 
 +++
@@ -44,3 +43,5 @@ I am passionate about HOT and mapping in general, I used missing maps a lot in t
 I mostly create data pipelines for project where it makes sense. This could either be a simple Makefile or a full-fledged pipeline with python and AWS Lambda.
 
 In my previous consulting engagement I worked with a big agriculture company to improve their algorithms using satellite data. In this context we used a lot of Jupyter notebooks to test out theories and worked with numpy, rasterio and sentinel hub.
+
+[Curriculum Vitae](/cv)
