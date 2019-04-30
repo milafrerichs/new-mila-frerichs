@@ -1,0 +1,52 @@
+- title: Wahlkarte
+  type: visualization
+  technologies:
+    - d3
+  language: JavaScript
+  date: 2014-09-01
+  github: codeformuenster/wahlkarte
+  link: https://codeformuenster.org/wahlkarte
+  image: '/assets/images/election_map.png'
+- title: Infrastructure San Diego
+  date: 2014-03-01
+  github: opensandiego/infrastructure
+  type: dashboard
+- title: Energy Production germany
+  description: A d3 visualisation
+  type: visualization
+  technologies:
+    - d3
+  date: 2016-08-01
+  url: https://civic.vision/energy-production-germany/
+  github: CivicVision/energy-production-germany
+- title: Armsexport Map
+  copy: "Remake of a map about german arms export. Client project for the OKF."
+  type: visualization
+  github: okfde/armsexport-map
+  url: http://okfde.github.io/armsexport-map/
+  image: '/assets/images/armsexport_map.png'
+  date: 2014-12-29
+  technologies:
+    - knockout
+    - mapbox
+- title: "Recovery Dashboard: Nepal Earthquake"
+  copy: ""
+  type: dashboard
+  github: GFDRR/recovery_dashboard
+  url: http://okfde.github.io/armsexport-map/
+  image: '/assets/images/armsexport_map.png'
+  date: 2015-06-23
+  technologies:
+    - openlayers
+    - angular
+- title: Budget Visualization Rheinland-Pfalz
+  type: visualization
+  url: https://fm.rlp.de/de/themen/finanzen/landeshaushalt/haushalt-interaktiv/
+  date: 2017-12-12
+- title: Geonode Viewer
+  date: 2018-08-08
+  type: tool
+  github: geonode/geonode-client
+  technologies:
+    - react
+    - openlayers
