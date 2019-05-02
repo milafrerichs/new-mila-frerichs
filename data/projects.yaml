@@ -151,6 +151,8 @@
   - openlayers
   languages:
   - JavaScript
+  cloudinary: milafrerichs.com/projects/geonode-client
+  link: http://client.geonode.org
 - title: Open Data Harvester
   description: "To analyze the metadata of the different Open Data Portals of the
     city of Berlin the Technology Foundation hired me to aggregate and automate the
