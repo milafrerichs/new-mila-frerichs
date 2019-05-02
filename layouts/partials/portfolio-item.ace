@@ -13,7 +13,7 @@
     {{ end }}
   div
     .p-4
-      h4.text-grey-darker.mb-2 {{ default "Private Project" .client }} &#129; {{ dateFormat "January 2006" .date}} {{ if .duration }} &#129; {{ .duration }} months {{ end }}
+      h4.text-grey-darker.mb-2 {{ default "Private Project" .client }} &middot; {{ dateFormat "January 2006" .date}} {{ if .duration }} &middot; {{ .duration }} months {{ end }}
       p.text-grey-dark.leading-tight
         {{.description | markdownify }}
     .mt-2.p-4.bg-grey-lighter.text-grey-dark.flex.justify-between
