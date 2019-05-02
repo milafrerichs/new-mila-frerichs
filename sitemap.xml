@@ -26,12 +26,33 @@
   </url>
   
   <url>
+    <loc>/articles/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/articles/2016-08-02-five-podcastss/</loc>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-26-mapswipe/</loc>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-21-activities/</loc>
+  </url>
+  
+  <url>
     <loc>/legal/</loc>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-27-inbox-zero/</loc>
   </url>
   
   <url>
@@ -44,11 +65,31 @@
   </url>
   
   <url>
+    <loc>/articles/2014-01-31-nokogiri-helper/</loc>
+  </url>
+  
+  <url>
     <loc>/now/</loc>
   </url>
   
   <url>
+    <loc>/articles/2016-07-28-podcasts/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
     <loc>/legal/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-25-drinking-water/</loc>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-20-conferences/</loc>
   </url>
   
   <url>
@@ -62,6 +103,14 @@
   
   <url>
     <loc>/themes/</loc>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-19-habits/</loc>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-08-01-two-years/</loc>
   </url>
   
 </urlset>

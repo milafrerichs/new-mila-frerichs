@@ -1,52 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mila Frerichs</title>
-    <link>/</link>
-    <description>Recent content on Mila Frerichs</description>
+    <title>Articles on Mila Frerichs</title>
+    <link>/articles/</link>
+    <description>Recent content in Articles on Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2019 16:38:02 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>HOT Data Communications and Visualization Specialist -Tanzania Application</title>
-      <link>/hot-ramani-huria/</link>
-      <pubDate>Wed, 03 Apr 2019 16:38:02 +0200</pubDate>
-      
-      <guid>/hot-ramani-huria/</guid>
-      <description>Habari HOT Team,
-my Name is Mila and I help civic advocacy groups and nonprofits improve the life of citizens with the help of Open Data. I use the power of public open data and open source to build tools and visualization for civic advocacy groups and non-profits to increase transparency and accountability.
-I&amp;rsquo;m applying for the Data Communications and Visualization Specialist contract.
-Motivation I would love to help by using my skills to communicate the success of the Ramani Huria project to the worldbank and the world.</description>
-    </item>
-    
-    <item>
-      <title>Work Journal: March 31st</title>
-      <link>/journal/work-journal-march-31/</link>
-      <pubDate>Sun, 31 Mar 2019 11:11:32 +0100</pubDate>
-      
-      <guid>/journal/work-journal-march-31/</guid>
-      <description>I want to share more what I do every day, so I&amp;rsquo;m starting this (weekly) journal after inspiration from Adam Wathan. Love what the guy is doing so I will do something similar.
-Waiting list for my upcoming online-course This week started off very well with the public launch of the waiting list for my upcoming Online Workshop about &amp;ldquo;Geospatial Data Visualization with d3&amp;rdquo;. I&amp;rsquo;m excited about the launch of the waiting list for my first product.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/</guid>
-      <description>Curriculum Vitae Professionel Civic Vision UGsince August 2014Owner, Developer
- Zweitag GmbHFeb 2013 - July 2014Software Developer (student trainee), Ruby on Rails, Javascript
- Avency GmbHFeb 2009 - Jan 2013Frontend Developer (student trainee), Javascript
- Institute for GeoinformaticsMarch 2008 - Feb 2009student trainee
- Education Westfälische Wilhems-Universität Münster2005 - 2015program: Geoinformatics
- Nonprofit commitment Code for Münster / Code for GermanyFeb 2014 - Nov 2015Lab Lead
- Münster Cardianls e.</description>
-    </item>
     
     <item>
       <title>Five podcasts that changed how I run my business</title>
@@ -93,17 +55,6 @@ I started with my personal account because it&amp;rsquo;s easier to clean up.</d
     </item>
     
     <item>
-      <title></title>
-      <link>/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/me/</guid>
-      <description>Hi, I&amp;rsquo;m Mila Frerichs. I love to help advocacy groups and non-profits make cities and the world a better place. That&amp;rsquo;s why I love what I do and would not exchange it for a regular job.
-I use my software development skills to do good and help others. I am fortunate that I can use my passion to make a living.
-I love what I do and if I would not have founded my own company Civic Vision in 2014, I would volunteer my time to do good.</description>
-    </item>
-    
-    <item>
       <title>Nokogiri Search Helper</title>
       <link>/articles/2014-01-31-nokogiri-helper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -116,35 +67,12 @@ You can find the class here: {% gist 8491837%}</description>
     </item>
     
     <item>
-      <title>Now</title>
-      <link>/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/now/</guid>
-      <description> Last updated: 25.03.2019
-Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with streetmix to improve their testing.
-I’m available for work in May.
-Next conferences I attend/talk  S-H-O-W, April, Utrecht, NL FOSS4G NA, April 2019, San Diego, USA GoodTechFest, May 2019, Chicago, USA  Next family trips  None is planned right now Will be more short term weekend trips probably  What I will be working on  Improve your organizations outreach by creating data visualizations to increase engagement Help your organization to tell stories with data Help organizations find Open Data for their projects and reports Improve or create data pipelines for organizations Help grow your civic tech prototype to a more mature application  What I will not be working on  Projects without an social impact Random react/angular projects  </description>
-    </item>
-    
-    <item>
       <title>Podcasts I listen to regularly</title>
       <link>/articles/2016-07-28-podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/articles/2016-07-28-podcasts/</guid>
       <description>I listen to podcast for a while now. I started with technical podcast like giant robots smashing into other giant robots, ruby rogues, nsbrief, etc. I love listen to podcasts even about technical stuff. I think I have an easier time listening to something than to read a blogpost. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/legal/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/legal/privacy/</guid>
-      <description>Datenschutzerklärung: Datenschutz
-Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</description>
     </item>
     
     <item>
@@ -165,29 +93,6 @@ Finding the right dataset After looking through several datasets and trying to f
       <guid>/articles/2016-07-20-conferences/</guid>
       <description>I went to just a few conferences this year just yet but plan on going to a few more. Conferences are a good way to connect with people, learn more about your craft or other people&amp;rsquo;s business and get in the mindset of learning and speaking/socializing.
 Brennan Dunn recently tweeted something which struck a nerve with me, and I regretted not going to DYFC in Sweden this year. But I will go to more conferences next year and a few more business conferences as well, and DYFC 2017 is already on my calendar.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talks-workshops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/talks-workshops/</guid>
-      <description> Talks I like give talks and go to conferences.
-My upcoming talks Let&amp;#39;s talk about maps Good Tech Fest, 2019  My previous talks Fast and cost effective geospatial data analysis pipeline with AWS (Lambda) FOSS4G Oceania, 2018  Mapping with d3 Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Workshops My upcoming workshops My previous workshops Geospatial data visualizations with d3 FOSS4G NA, 2019  Geospatial data visualizations with d3 FOSS4G Oceania, 2018  Mapping with d3 FOSS4G, 2017  Mapping in d3 FOSSGIS, 2014  </description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>/themes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/themes/</guid>
-      <description>Instead of goals I adapted an approach by Brian Casel using themes.
-I think this is more aligned with my thinking and lifestyle.Here are my themes as of February 2019.
-Travel to at least two new cities/regions I want to explore more of the world.
-Last year I managed to visit 4 continents. Only one is left: Antartica
-This can be challenging but I want to make it someday.</description>
     </item>
     
     <item>
