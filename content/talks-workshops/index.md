@@ -1,4 +1,5 @@
 ---
+title: Talks/Workshops
 type: page
 menu:
   main:

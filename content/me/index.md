@@ -1,4 +1,5 @@
 ---
+title: About Me
 menu:
   main:
     weight: 10

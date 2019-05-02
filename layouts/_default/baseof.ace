@@ -4,6 +4,7 @@ html lang=en
   head
     meta charset=utf-8
     link rel="stylesheet" href="{{ $style.Permalink }}"
+    title {{ if .IsHome -}} {{ .Site.Title }} {{- else -}} {{ .Title }} – {{ .Site.Title }} {{- end }}
     {{ partial "rightmessage" }}
   body
     main.container.py-8.lg:py-16.px-6.md:px-16 class="lg:px-24" role="main"
