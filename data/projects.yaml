@@ -134,6 +134,7 @@
   - openlayers
   - angular
   - d3
+  cloudinary: milafrerichs.com/projects/geosure
 - title: Geonode Viewer
   description: 'For the Open Source project __Geonode__ I developed a new client for
     __displaying and editing maps__. Based on React and OpenLayers I created a new
