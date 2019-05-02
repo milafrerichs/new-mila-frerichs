@@ -11,6 +11,8 @@
     maps. Furthermore was I responsible to improve the algorithm for creating automatic
     application maps from satellite imagery.
   technologies:
+  - Jupyter Notebooks
+  - rasterio
   - mapbox-draw
   - mapbox
   - react
