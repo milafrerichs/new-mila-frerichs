@@ -1,5 +1,6 @@
 ---
 title: "Progress Update: Civic Tech Project"
+date: 2016-07-25
 image:
   url: drinking-water.png
   alt: Drinking Water

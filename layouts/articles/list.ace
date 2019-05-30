@@ -1,0 +1,17 @@
+= content nav
+  {{ partial "nav" . }}
+= content main
+  .font-sans.text-lg.text-grey-darkest.spaced-y-6
+    {{.Content}}
+    .mt-16
+      {{ range .Pages.ByDate.Reverse }}
+        .mb-16
+          a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+          p.text-grey-darkest.text-base
+            {{.Summary}}
+          {{ if .Truncated }}
+            a.block.mt-2.font-normal.text-base.text-grey-darkest.no-underline.hover:underline href="{{ .RelPermalink }}" Read More
+          {{ end }}
+      {{ end }}
+= content footer
+  {{ partial "footer" . }}

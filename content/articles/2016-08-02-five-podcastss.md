@@ -1,5 +1,6 @@
 ---
 title: "Five podcasts that changed how I run my business"
+date: 2016-08-02
 image:
   url: podcasts.jpg
   alt: Podcasts

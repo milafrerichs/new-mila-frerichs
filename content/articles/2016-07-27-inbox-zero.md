@@ -1,5 +1,6 @@
 ---
 title: "Inbox Zero"
+date: 2016-07-27
 image:
   url: inbox-zero.jpg
   alt: Success
