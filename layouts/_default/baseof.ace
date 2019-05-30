@@ -3,6 +3,7 @@
 html lang=en
   head
     meta charset=utf-8
+    meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
     link rel="stylesheet" href="{{ $style.Permalink }}"
     title {{ if .IsHome -}} {{ .Site.Title }} {{- else -}} {{ .Title }} – {{ .Site.Title }} {{- end }}
     {{ partial "rightmessage" }}
@@ -12,3 +13,4 @@ html lang=en
       = yield header
       = yield main
     = yield footer
+    script type="text/javascript" src="/js/main.js"
