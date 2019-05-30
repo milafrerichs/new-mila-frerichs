@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/articles/vizrisk-challenge-entry/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/hot-ramani-huria/</loc>
     <lastmod>2019-04-03T16:38:02+02:00</lastmod>
   </url>
@@ -13,12 +18,58 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-04-03T16:38:02+02:00</lastmod>
+    <loc>/articles/2016-08-02-five-podcastss/</loc>
+    <lastmod>2016-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/articles/vizrisk-challenge-entry/</loc>
+    <loc>/articles/2016-08-01-two-years/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-28-podcasts/</loc>
+    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-27-inbox-zero/</loc>
+    <lastmod>2016-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-26-mapswipe/</loc>
+    <lastmod>2016-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-25-drinking-water/</loc>
+    <lastmod>2016-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-21-activities/</loc>
+    <lastmod>2016-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-20-conferences/</loc>
+    <lastmod>2016-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/2016-07-19-habits/</loc>
+    <lastmod>2016-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/2014-01-31-nokogiri-helper/</loc>
+    <lastmod>2014-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -31,6 +82,7 @@
   
   <url>
     <loc>/articles/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -39,23 +91,7 @@
   </url>
   
   <url>
-    <loc>/articles/2016-08-02-five-podcastss/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/2016-07-26-mapswipe/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/2016-07-21-activities/</loc>
-  </url>
-  
-  <url>
     <loc>/legal/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/2016-07-27-inbox-zero/</loc>
   </url>
   
   <url>
@@ -68,15 +104,7 @@
   </url>
   
   <url>
-    <loc>/articles/2014-01-31-nokogiri-helper/</loc>
-  </url>
-  
-  <url>
     <loc>/now/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/2016-07-28-podcasts/</loc>
   </url>
   
   <url>
@@ -85,14 +113,6 @@
   
   <url>
     <loc>/legal/privacy/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/2016-07-25-drinking-water/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/2016-07-20-conferences/</loc>
   </url>
   
   <url>
@@ -106,14 +126,6 @@
   
   <url>
     <loc>/themes/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/2016-07-19-habits/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/2016-08-01-two-years/</loc>
   </url>
   
 </urlset>

@@ -6,23 +6,24 @@
     <description>Recent content in Articles on Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>VizRisk Challenge Entry</title>
       <link>/articles/vizrisk-challenge-entry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/articles/vizrisk-challenge-entry/</guid>
-      <description>VizRisk Challenge Entry I love playing Softball and I‘m playing for more than 10 years now, it is a great team sport and I love the mix of action, team play and personal challenge getting up 1 vs. 1 against the pitcher. I used to coach the women&amp;rsquo;s team of the town that I studied in and was asked again to coach my team here in Berlin. I love coaching a team sport, strategizing how to approach the game and most important see players improve over time.</description>
+      <description>I love playing Softball and I‘m playing for more than 10 years now, it is a great team sport and I love the mix of action, team play and personal challenge getting up 1 vs. 1 against the pitcher. I used to coach the women&amp;rsquo;s team of the town that I studied in and was asked again to coach my team here in Berlin. I love coaching a team sport, strategizing how to approach the game and most important see players improve over time.</description>
     </item>
     
     <item>
       <title>Five podcasts that changed how I run my business</title>
       <link>/articles/2016-08-02-five-podcastss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>/articles/2016-08-02-five-podcastss/</guid>
       <description>I listen to podcasts for a while now. I started with technical podcasts like Giant Robots Smashing Into Other Giant Robots, Ruby Rogues, Core Intuition and more. I think I have an easier time listening to something than to read a blog post. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.
@@ -30,31 +31,30 @@ Since starting my own business in 2014, I listen to more and more business and f
     </item>
     
     <item>
-      <title>Help families in need: MapSwipe</title>
-      <link>/articles/2016-07-26-mapswipe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Two-year anniversary</title>
+      <link>/articles/2016-08-01-two-years/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/articles/2016-07-26-mapswipe/</guid>
-      <description>A new app launched a little more than a week ago called MapSwipe. And it is great; I try to use it every day.
-You help families with mapping certain areas of the world. But it is mapping you can do without a geospatial background.
-What’s the purpose  With every swipe and tap, you help put families on the map
- That’s how they describe their app. And it is that simple.</description>
+      <guid>/articles/2016-08-01-two-years/</guid>
+      <description>Wow, I can’t believe it! It’s been two years already. I did it! :)
+Today I’m in business for two years with my company Civic Vision. I founded the company on Aug. 2014 and am happy to report that we’re still operating and growing every year.
+Our revenue grew every year and our profit as well.
+I had the opportunity to work with awesome companies and organizations such as Code for America, Open Knowledge Foundation Germany, Worldbank, 18f, Terranodo.</description>
     </item>
     
     <item>
-      <title>How I keep myself healthy and inspired while working for myself</title>
-      <link>/articles/2016-07-21-activities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Podcasts I listen to regularly</title>
+      <link>/articles/2016-07-28-podcasts/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/articles/2016-07-21-activities/</guid>
-      <description>Working for yourself can get lonely and monotone. Here are a few things I do to stay active and inspired.
-Activities I love doing sports. I’m a very active and sport-hungry person. And I love team-sports. I play Softball for almost ten years now, and I love going to tournaments, compete and have fun with friends. I met my wife through Softball, and I’m very grateful for that. But even walking my dog is an activity I enjoy most of the time.</description>
+      <guid>/articles/2016-07-28-podcasts/</guid>
+      <description>I listen to podcast for a while now. I started with technical podcast like giant robots smashing into other giant robots, ruby rogues, nsbrief, etc. I love listen to podcasts even about technical stuff. I think I have an easier time listening to something than to read a blogpost. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.</description>
     </item>
     
     <item>
       <title>Inbox Zero</title>
       <link>/articles/2016-07-27-inbox-zero/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>/articles/2016-07-27-inbox-zero/</guid>
       <description>I&amp;rsquo;m happy to be able to say: I&amp;rsquo;m back at Inbox Zero
@@ -64,30 +64,21 @@ I started with my personal account because it&amp;rsquo;s easier to clean up.</d
     </item>
     
     <item>
-      <title>Nokogiri Search Helper</title>
-      <link>/articles/2014-01-31-nokogiri-helper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Help families in need: MapSwipe</title>
+      <link>/articles/2016-07-26-mapswipe/</link>
+      <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/articles/2014-01-31-nokogiri-helper/</guid>
-      <description>I recently used Scraperwiki to scrape some data off a couple of sites.
-During the development process (which I will describe in a coming post) I encountered some repetitive code/task. I then refactored the code and wrote a small class which I then would use for every site.
-Most often you want the first text of the matching selector and the attr of the first element matching.
-You can find the class here: {% gist 8491837%}</description>
-    </item>
-    
-    <item>
-      <title>Podcasts I listen to regularly</title>
-      <link>/articles/2016-07-28-podcasts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-07-28-podcasts/</guid>
-      <description>I listen to podcast for a while now. I started with technical podcast like giant robots smashing into other giant robots, ruby rogues, nsbrief, etc. I love listen to podcasts even about technical stuff. I think I have an easier time listening to something than to read a blogpost. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.</description>
+      <guid>/articles/2016-07-26-mapswipe/</guid>
+      <description>A new app launched a little more than a week ago called MapSwipe. And it is great; I try to use it every day.
+You help families with mapping certain areas of the world. But it is mapping you can do without a geospatial background.
+What’s the purpose  With every swipe and tap, you help put families on the map
+ That’s how they describe their app. And it is that simple.</description>
     </item>
     
     <item>
       <title>Progress Update: Civic Tech Project</title>
       <link>/articles/2016-07-25-drinking-water/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>/articles/2016-07-25-drinking-water/</guid>
       <description>Last week I decided I should do something with the newly released Open Data Portal of the City of San Diego. And I thought about Data Sets where I could reuse/redeploy apps from other cities. There are 44 datasets in the current portal, and I wanted to use something that could be done relatively quickly but still would be an improvement.
@@ -95,9 +86,19 @@ Finding the right dataset After looking through several datasets and trying to f
     </item>
     
     <item>
+      <title>How I keep myself healthy and inspired while working for myself</title>
+      <link>/articles/2016-07-21-activities/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-07-21-activities/</guid>
+      <description>Working for yourself can get lonely and monotone. Here are a few things I do to stay active and inspired.
+Activities I love doing sports. I’m a very active and sport-hungry person. And I love team-sports. I play Softball for almost ten years now, and I love going to tournaments, compete and have fun with friends. I met my wife through Softball, and I’m very grateful for that. But even walking my dog is an activity I enjoy most of the time.</description>
+    </item>
+    
+    <item>
       <title>See you at these conferences!</title>
       <link>/articles/2016-07-20-conferences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>/articles/2016-07-20-conferences/</guid>
       <description>I went to just a few conferences this year just yet but plan on going to a few more. Conferences are a good way to connect with people, learn more about your craft or other people&amp;rsquo;s business and get in the mindset of learning and speaking/socializing.
@@ -107,7 +108,7 @@ Brennan Dunn recently tweeted something which struck a nerve with me, and I regr
     <item>
       <title>Three new habits to get better at writing</title>
       <link>/articles/2016-07-19-habits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>/articles/2016-07-19-habits/</guid>
       <description>I want to start a few habits and it’s tough to find the right ones to start and to maintain.
@@ -116,15 +117,15 @@ I tried for the last months to get into reading and writing habit. And I must ad
     </item>
     
     <item>
-      <title>Two-year anniversary</title>
-      <link>/articles/2016-08-01-two-years/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Nokogiri Search Helper</title>
+      <link>/articles/2014-01-31-nokogiri-helper/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/articles/2016-08-01-two-years/</guid>
-      <description>Wow, I can’t believe it! It’s been two years already. I did it! :)
-Today I’m in business for two years with my company Civic Vision. I founded the company on Aug. 2014 and am happy to report that we’re still operating and growing every year.
-Our revenue grew every year and our profit as well.
-I had the opportunity to work with awesome companies and organizations such as Code for America, Open Knowledge Foundation Germany, Worldbank, 18f, Terranodo.</description>
+      <guid>/articles/2014-01-31-nokogiri-helper/</guid>
+      <description>I recently used Scraperwiki to scrape some data off a couple of sites.
+During the development process (which I will describe in a coming post) I encountered some repetitive code/task. I then refactored the code and wrote a small class which I then would use for every site.
+Most often you want the first text of the matching selector and the attr of the first element matching.
+You can find the class here: {% gist 8491837%}</description>
     </item>
     
   </channel>
