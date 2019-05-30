@@ -1,0 +1,11 @@
+= content nav
+  {{ partial "nav" . }}
+= content main
+  article
+    header
+      h1.font-sans.text-4xl.text-black.font-bold.mb-4
+        {{.Title}}
+    .font-sans.text-lg.text-grey-darkest.spaced-y-6.leading-normal
+      {{.Content}}
+= content footer
+  {{ partial "footer" . }}

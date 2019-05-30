@@ -1,4 +1,7 @@
-#  VizRisk Challenge Entry
+---
+title: VizRisk Challenge Entry
+date: 2019-05-29
+---
 I love playing Softball and I‘m playing for more than 10 years now, it is a great team sport and I love the mix of action, team play and personal challenge getting up 1 vs. 1 against the pitcher. I used to coach the women's team of the town that I studied in and was asked again to coach my team here in Berlin. I love coaching a team sport, strategizing how to approach the game and most important see players improve over time. 
 Practice makes perfect and I love to practice and challenging myself to get better at something and to challenge the other players to get better and teach them what I learned over the years. 
 

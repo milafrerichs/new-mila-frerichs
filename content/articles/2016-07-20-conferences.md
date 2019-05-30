@@ -1,5 +1,6 @@
 ---
 title: See you at these conferences!
+date: 2016-07-20
 image:
   url: conference.jpg
   alt: NTC 2016 in San Jose

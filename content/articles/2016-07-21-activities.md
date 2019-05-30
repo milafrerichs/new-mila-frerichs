@@ -1,5 +1,6 @@
 ---
 title: How I keep myself healthy and inspired while working for myself
+date: 2016-07-21
 image:
   url: activities.jpg
   alt: Hipnotics Wakepark Antalya Turkey
