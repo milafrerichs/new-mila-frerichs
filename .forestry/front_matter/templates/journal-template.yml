@@ -16,5 +16,5 @@ fields:
     schema:
       format: markdown
 pages:
-- content/photos/photos.md
 - content/hot-ramani-huria.md
+- content/photos/photos.md
