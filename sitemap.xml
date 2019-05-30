@@ -18,6 +18,10 @@
   </url>
   
   <url>
+    <loc>/articles/vizrisk-challenge-entry/</loc>
+  </url>
+  
+  <url>
     <loc>/cv/</loc>
   </url>
   
@@ -27,7 +31,6 @@
   
   <url>
     <loc>/articles/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

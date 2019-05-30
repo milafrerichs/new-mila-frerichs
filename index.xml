@@ -35,6 +35,15 @@ Waiting list for my upcoming online-course This week started off very well with 
     
     <item>
       <title></title>
+      <link>/articles/vizrisk-challenge-entry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/vizrisk-challenge-entry/</guid>
+      <description>VizRisk Challenge Entry I love playing Softball and I‘m playing for more than 10 years now, it is a great team sport and I love the mix of action, team play and personal challenge getting up 1 vs. 1 against the pitcher. I used to coach the women&amp;rsquo;s team of the town that I studied in and was asked again to coach my team here in Berlin. I love coaching a team sport, strategizing how to approach the game and most important see players improve over time.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -123,8 +132,8 @@ You can find the class here: {% gist 8491837%}</description>
       <guid>/now/</guid>
       <description> Last updated: 03.05.2019
 Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with streetmix to improve their testing.
-I’m available for work in June.
-Next conferences I attend/talk  GoodTechFest, May 2019, Chicago, USA  Next family trips  None is planned right now Will be more short term weekend trips probably  What I will be working on  Improve your organizations outreach by creating data visualizations to increase engagement Help your organization to tell stories with data Help organizations find Open Data for their projects and reports Improve or create data pipelines for organizations Help grow your civic tech prototype to a more mature application  What I will not be working on  Projects without an social impact Random react/angular projects  </description>
+I’m available for work in August.
+Next conferences I attend/talk  GoodTechFest, May 2019, Chicago, USA  Next family trips  None is planned right now Will be more short term weekend trips probably  What I will be working on  Improve your organizations outreach by creating data visualizations to increase engagement Help your organization to tell stories with data Help organizations find Open Data for their projects and reports Improve or create data pipelines for organizations Help grow your civic tech prototype to a more mature application  What I will not be working on  Projects without an social impact Random Javascript/react/angular projects  </description>
     </item>
     
     <item>
@@ -174,7 +183,7 @@ Brennan Dunn recently tweeted something which struck a nerve with me, and I regr
       
       <guid>/talks-workshops/</guid>
       <description> Talks I like give talks and go to conferences.
-My upcoming talks Let&amp;#39;s talk about maps Good Tech Fest, 2019  My previous talks Fast and cost effective geospatial data analysis pipeline with AWS (Lambda) FOSS4G Oceania, 2018  Mapping with d3 Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Workshops My upcoming workshops My previous workshops Geospatial data visualizations with d3 FOSS4G NA, 2019  Geospatial data visualizations with d3 FOSS4G Oceania, 2018  Mapping with d3 FOSS4G, 2017  Mapping in d3 FOSSGIS, 2014  </description>
+My upcoming talks My previous talks Let&amp;#39;s talk about maps Good Tech Fest, 2019  Fast and cost effective geospatial data analysis pipeline with AWS (Lambda) FOSS4G Oceania, 2018  Mapping with d3 Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Workshops My upcoming workshops My previous workshops Geospatial data visualizations with d3 FOSS4G NA, 2019  Geospatial data visualizations with d3 FOSS4G Oceania, 2018  Mapping with d3 FOSS4G, 2017  Mapping in d3 FOSSGIS, 2014  </description>
     </item>
     
     <item>
