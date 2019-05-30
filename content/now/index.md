@@ -12,7 +12,7 @@ _Last updated: 03.05.2019_
 
 Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with [streetmix](https://streetmix.net) to improve their testing.
 
-I’m available for work in June.
+I’m available for work in August.
 
 ## Next conferences I attend/talk
 
@@ -34,4 +34,4 @@ I’m available for work in June.
 ## What I will not be working on
 
 * Projects without an social impact
-* Random react/angular projects
+* Random Javascript/react/angular projects
