@@ -22,10 +22,12 @@ First thing I changed is the title. The description of the chart already had som
 
 The next thing was to remove the gradients, flip the chart so that the age ranges are more readable.
 
-Start the baseline at 0. Otherwise, you skew the results. You can read more about it [here]().
+Start the baseline at 0. Otherwise, you skew the results. You can read more about it [here](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/).
 
 And the thing that is the most crucial aspect is to highlight the bars that I want people to focus on.
 
 The result is much easier to read and understand and probably more memorable.
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1559901980/milafrerichs.com/articles/sleep-times-america.png)
+
+You can find the code [here](https://observablehq.com/@milafrerichs/makeover-monday)
