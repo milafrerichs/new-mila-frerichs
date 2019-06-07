@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 title = "Makeover Monday: How Americans Sleep"
 
 +++
