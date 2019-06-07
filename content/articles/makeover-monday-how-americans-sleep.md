@@ -8,7 +8,7 @@ Practicing your skills is essential in every aspect of your life, primarily when
 
 One goal for me for this year is to share more stuff openly and not just work on my skills in private. That’s why I will participate more in challenges and share my results on my blog and twitter.
 
-I already [posted]() about my motivation to participate in the VizRisk Challenge from GFDRR and mapbox. Another skill practicing task that I want to do, if time permits, is to start participating in MakeoverMonday. You can read more about it [here](http://makeovermonday.co.uk/).
+I already [posted](/articles/vizrisk-challenge-entry/) about my motivation to participate in the VizRisk Challenge from GFDRR and mapbox. Another skill practicing task that I want to do, if time permits, is to start participating in MakeoverMonday. You can read more about it [here](http://makeovermonday.co.uk/).
 
 This weeks visualization is from the [Bureau of Labor Statistics](https://www.bls.gov/tus/charts/sleep.htm), and the questions ask by MakeoverMonday were:
 
