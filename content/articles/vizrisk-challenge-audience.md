@@ -1,7 +1,7 @@
 +++
 description = ""
 title = "VizRisk Challenge: Audience"
-
+date = 2019-06-12
 +++
 When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.
 
