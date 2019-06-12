@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 title = "VizRisk Challenge: Audience"
 
 +++
