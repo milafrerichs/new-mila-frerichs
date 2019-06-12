@@ -6,10 +6,19 @@
     <description>Recent content on Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VizRisk Challenge: Audience</title>
+      <link>/articles/vizrisk-challenge-audience/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/vizrisk-challenge-audience/</guid>
+      <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
+    </item>
     
     <item>
       <title>Makeover Monday: How Americans Sleep</title>
@@ -230,15 +239,6 @@ I think this is more aligned with my thinking and lifestyle.Here are my themes a
 Travel to at least two new cities/regions I want to explore more of the world.
 Last year I managed to visit 4 continents. Only one is left: Antartica
 This can be challenging but I want to make it someday.</description>
-    </item>
-    
-    <item>
-      <title>VizRisk Challenge: Audience</title>
-      <link>/articles/vizrisk-challenge-audience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/vizrisk-challenge-audience/</guid>
-      <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
     </item>
     
   </channel>

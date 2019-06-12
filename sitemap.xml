@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/articles/vizrisk-challenge-audience/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/articles/makeover-monday-how-americans-sleep/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url>
@@ -74,7 +79,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -87,7 +92,7 @@
   
   <url>
     <loc>/articles/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -131,10 +136,6 @@
   
   <url>
     <loc>/themes/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/vizrisk-challenge-audience/</loc>
   </url>
   
 </urlset>
