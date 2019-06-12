@@ -16,6 +16,7 @@ fields:
     schema:
       format: markdown
 pages:
+- content/articles/vizrisk-challenge-audience.md
 - content/articles/makeover-monday-how-americans-sleep.md
-- content/hot-ramani-huria.md
 - content/photos/photos.md
+- content/hot-ramani-huria.md
