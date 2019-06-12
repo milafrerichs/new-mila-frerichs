@@ -24,9 +24,18 @@ The more you know about your audience, the easier it is to design visualizations
 
 For the VizRisk challenge, I choose Monrovia City Corporation (MCC) officials that want to improve the flood risk if their governing body. During my research, I found that Monrovia does not have an organized district administration; it is harder to find responsible governance bodies.
 
-The research for the government structure of Monrovia and Liberia turned out to be a lot more complicated than I have imagined.
+The research for the government structure of Monrovia and Liberia turned out to be a lot more complicated than I have imagined.  
+Monrovia is a district of the Montserrado County and only the county has a defined government as seen below. 
 
-Here are a few links:
+![](https://res.cloudinary.com/civicvision/image/upload/v1560339536/milafrerichs.com/articles/monteserrando-county-structure.png)
+
+Here are a few links about Monrovia and the structure that I could find: 
+
+[https://www.emansion.gov.lr/doc/MontserradoCDA.pdf](https://www.emansion.gov.lr/doc/MontserradoCDA.pdf "https://www.emansion.gov.lr/doc/MontserradoCDA.pdf")
+
+[https://en.wikipedia.org/wiki/Monrovia#cite_note-Development-20](https://en.wikipedia.org/wiki/Monrovia#cite_note-Development-20 "https://en.wikipedia.org/wiki/Monrovia#cite_note-Development-20")
+
+[http://www.eeas.europa.eu/archives/delegations/liberia/documents/projects/10edf_en.pdf](http://www.eeas.europa.eu/archives/delegations/liberia/documents/projects/10edf_en.pdf "http://www.eeas.europa.eu/archives/delegations/liberia/documents/projects/10edf_en.pdf")
 
 I need to validate my assumptions here with the GFDRR team.
 
