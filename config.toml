@@ -1,5 +1,5 @@
-baseURL = ""
 languageCode = "en-us"
+baseURL = "http://milafrerichs.de"
 title = "Mila Frerichs, Data Visualization consultant for social good"
 enableEmoji = true
 keywords = ["Data Visualization", "Consultant", "Data Storytelling", "Geospatial", "Maps", "visualization for social good", "non-profit", "civic advocacy"]
