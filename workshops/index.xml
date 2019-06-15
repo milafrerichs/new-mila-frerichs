@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mila Frerichs, Data Visualization consultant for social good</title>
-    <link>/workshops/</link>
+    <link>http://milafrerichs.de/workshops/</link>
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/workshops/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://milafrerichs.de/workshops/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
