@@ -8,7 +8,7 @@ menu:
     weight: 30
 
 ---
-_Last updated: 03.05.2019_
+_Last updated: 15.06.2019_
 
 Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with [streetmix](https://streetmix.net) to improve their testing.
 
@@ -16,7 +16,7 @@ I’m available for work in August.
 
 ## Next conferences I attend/talk
 
-* GoodTechFest, May 2019, Chicago, USA
+* FOSS4G UK, 19-20 September 2019, Edinburgh, UK
 
 ## Next family trips
 
