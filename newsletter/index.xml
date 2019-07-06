@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mila Frerichs, Data Visualization consultant for social good</title>
+    <link>http://milafrerichs.de/newsletter/</link>
+    <description>Weekly Newsletter of Mila Frerichs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://milafrerichs.de/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>http://milafrerichs.de/newsletter/2019-07-01-weekly-notes/</link>
+                <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+                
+                <guid>http://milafrerichs.de/newsletter/2019-07-01-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;How was your week? Mine was tumultuous. I got my Open Water Diver license, and I look forward to exploring the underwater world. But other than that a lot of stuff was going on.&lt;/p&gt;
+
+&lt;p&gt;What fun have you done the last week? Hit reply and share it with me.&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;geospatial-data-visualization-with-d3&#34;&gt;Geospatial Data Visualization with d3&lt;/h2&gt;
+
+&lt;p&gt;Over the last couple of months, I&amp;rsquo;m preparing an online video course on creating maps with d3. I now have a more detailed landingpage and finally a domain. I&amp;rsquo;ve been working on a free lesson which I will be releasing soon (get on the waiting list to be the first to know). And for that free lesson, I was working on a tool/platform to make it easy and interactive. You can read more about it if you scroll to the end of this email.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mappingwithd3.com?lsc=mf&#34;&gt;Video Course Geospatial Data Visualization with d3&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;feature-comparison-mapping-libraries&#34;&gt;Feature Comparison Mapping Libraries&lt;/h2&gt;
+
+&lt;p&gt;I published a short feature comparison of popular mapping libraries. I looked at 13 features and compared them between 5 libraries that I consider the leading players: mapbox.js, OpenLayers, Leaflet, Google Maps, D3.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mappingwithd3.com/feature-comparison/?lsc=mf&#34;&gt;You can check it out here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I will update this comparison over the next few days with more detailed descriptions.&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;h2 id=&#34;how-the-uk-transformed-electricity-supply&#34;&gt;How the UK transformed electricity supply&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://interactive.carbonbrief.org/how-uk-transformed-electricity-supply-decade/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/uk-transform-energy.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you seen the interactive of CarbonBrief?&lt;/p&gt;
+
+&lt;p&gt;It is really well done, and the colors are great. I especially liked that they included their methodology at the end of the interactive. Everyone should do it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://interactive.carbonbrief.org/how-uk-transformed-electricity-supply-decade/&#34;&gt;https://interactive.carbonbrief.org/how-uk-transformed-electricity-supply-decade/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;cities-start-to-question-an-american-ideal-a-house-with-a-yard-on-every-lot&#34;&gt;Cities Start to Question an American Ideal: A House With a Yard on Every Lot&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/zoning-us-cities.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Really lovely visuals about Zoning in the US, especially Single Family home zoning and how it differs between cities.&lt;/p&gt;
+
+&lt;p&gt;I want to do something similar for San Diego. Are you missing a city that you would like to see analyzed in that manner? Hit Reply. And I try to take a look if it‘s possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html&#34;&gt;https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;p&gt;The CityLab Berlin launched a couple of weeks ago. It is modeled a little bit after the Civic Hall in New York (&lt;a href=&#34;https://civichall.org&#34;&gt;https://civichall.org&lt;/a&gt;). Looking forward to the events and direction they will take.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.citylab-berlin.org&#34;&gt;https://www.citylab-berlin.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;As I mentioned above, I&amp;rsquo;m currently working on the launch of my video course on d3. For that, I built a small tool that makes it easier to show tutorial content (Markdown, HTML), a code editor, and the result of that code. It is similar to CodeSandbox and other online code editors, but it adds the ability to show explanations and solutions for your tutorial/exercise.&lt;/p&gt;
+
+&lt;p&gt;You can check it out here: &lt;a href=&#34;https://github.com/milafrerichs/browser-repl-js&#34;&gt;https://github.com/milafrerichs/browser-repl-js&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5193.jpg&#34; alt=&#34;Beautiful Amsterdam&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;tip-of-the-week&#34;&gt;Tip of the week&lt;/h1&gt;
+
+&lt;p&gt;Always be shipping. It felt really good shipping small things the past few weeks. You feel better, even if it is not 100%. I fall into the trap as well, so many times. But I try to improve and always be shipping.&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>http://milafrerichs.de/newsletter/2019-06-18-weekly-notes/</link>
+                <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+                
+                <guid>http://milafrerichs.de/newsletter/2019-06-18-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;Last weekend I had another session in the pool on my way of getting the Open Water Diver certificate. This is really fun and I&amp;rsquo;m looking forward exploring the Oceans.&lt;/p&gt;
+
+&lt;p&gt;On the weekend I wanted to create something small. I wanted to create something that I might want to use for my workshops. After trying out if it would work as I would expected and it did, I started looking into javascript frameworks. I wanted to learn a new one anyway and I wanted to find one where I could get something done quickly. After a bit of research and watching a few talks on youtube about these frameworks I settled on Svelte. It was quite easy to get started and I like the concept of it. Will try to write a more detailed post later.
+You can follow my progress here: &lt;a href=&#34;https://github.com/milafrerichs/browser-repl-js&#34;&gt;https://github.com/milafrerichs/browser-repl-js&lt;/a&gt;
+Need to come up with a good name though :)&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;p&gt;I &lt;a href=&#34;http://milafrerichs.de/articles/vizrisk-challenge-audience?lsc=mf&#34;&gt;published&lt;/a&gt; a new post on my blog about the VizRisk challenge I&amp;rsquo;m participating in. It&amp;rsquo;s about what audience I choose and what questions you come along when you&amp;rsquo;re trying to choose an audience.&lt;/p&gt;
+
+&lt;h1 id=&#34;tip-of-the-week&#34;&gt;Tip of the week&lt;/h1&gt;
+
+&lt;p&gt;This happened to me last week: I tried to find a way to get a library to work as I thought it should. Spent almost the whole day on. In the end I looked at another library and it did what I wanted and was smaller and better maintained. So my tip for this week: Choose another library quicker if the one you’re using does not get you were you want.&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_70,w_1024/milafrerichs.com/newsletter/photo_of_the_week/IMG_5133.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>http://milafrerichs.de/newsletter/2019-06-09-weekly-notes/</link>
+                <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+                
+                <guid>http://milafrerichs.de/newsletter/2019-06-09-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;Hope you had a great week. I certainly had an entertaining week. A lot of stuff has happened.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s new with me&lt;/p&gt;
+
+&lt;p&gt;I started my diving lessons to get my Open Water Diver certificate, so I can dive with my wife on our next family vacation. That should be fun.
+What fun vacation are you planning next? Just reply and let me know. I&amp;rsquo;m curious, especially if you plan a diving trip. I want to know about it :)&lt;/p&gt;
+
+&lt;p&gt;I also started my journey on submitting an entry to the VizRisk challenge from GFDRR, mapbox, and the Data Visualization society. I will write about my progress on my &lt;a href=&#34;http://milafrerichs.de/articles&#34;&gt;blog&lt;/a&gt;. The first entry was &lt;a href=&#34;http://milafrerichs.de/articles/vizrisk-challenge-entry/&#34;&gt;published&lt;/a&gt; last week.&lt;/p&gt;
+
+&lt;p&gt;I will try to participate in the MakeoverMonday challenge. This weeks challenge was about a chart from the U.S. Bureau of Labor Statistics about Sleep Patterns of Americans. I added an entry and wrote a short &lt;a href=&#34;http://milafrerichs.de/articles/makeover-monday-how-americans-sleep/&#34;&gt;post&lt;/a&gt; about it as well. Here is the makeover as a gif, to see the difference:
+&lt;a href=&#34;http://milafrerichs.de/articles/makeover-monday-how-americans-sleep/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit//milafrerichs.com/newsletter/sleep-time-makeover.gif&#34; alt=&#34;Makeover Chart&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech-news&#34;&gt;Civic Tech News&lt;/h1&gt;
+
+&lt;p&gt;Have you seen the article on StateScoop about the NYPD using a combination of machine learning models, called Patternizr, to spot patterns in crime and solve cases? Though these tools have the potential to improve the safety of our communities, they need to be used with caution. Algorithms can have biases and need to be adequately trained to produce accurate findings. This is a good start to machine-learning based crime analysis, but there is still work to be done to increase the effectiveness of these tools.
+What do you think about it?&lt;/p&gt;
+
+&lt;p&gt;Have you seen or used the Civic Tech Field Guide? It is a valuable resource for staying in the loop and learning more about active civictech projects and tools used around the world.&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5020.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+  </channel>
+</rss>

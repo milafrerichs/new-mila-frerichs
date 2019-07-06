@@ -6,10 +6,31 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Notes</title>
+      <link>http://milafrerichs.de/newsletter/2019-07-01-weekly-notes/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/newsletter/2019-07-01-weekly-notes/</guid>
+      <description>How was your week? Mine was tumultuous. I got my Open Water Diver license, and I look forward to exploring the underwater world. But other than that a lot of stuff was going on.
+What fun have you done the last week? Hit reply and share it with me.
+Geospatial Development Geospatial Data Visualization with d3 Over the last couple of months, I&amp;rsquo;m preparing an online video course on creating maps with d3.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Notes</title>
+      <link>http://milafrerichs.de/newsletter/2019-06-18-weekly-notes/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/newsletter/2019-06-18-weekly-notes/</guid>
+      <description>Last weekend I had another session in the pool on my way of getting the Open Water Diver certificate. This is really fun and I&amp;rsquo;m looking forward exploring the Oceans.
+On the weekend I wanted to create something small. I wanted to create something that I might want to use for my workshops. After trying out if it would work as I would expected and it did, I started looking into javascript frameworks.</description>
+    </item>
     
     <item>
       <title>VizRisk Challenge: Audience</title>
@@ -18,6 +39,17 @@
       
       <guid>http://milafrerichs.de/articles/vizrisk-challenge-audience/</guid>
       <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Notes</title>
+      <link>http://milafrerichs.de/newsletter/2019-06-09-weekly-notes/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/newsletter/2019-06-09-weekly-notes/</guid>
+      <description>Hope you had a great week. I certainly had an entertaining week. A lot of stuff has happened.
+What&amp;rsquo;s new with me
+I started my diving lessons to get my Open Water Diver certificate, so I can dive with my wife on our next family vacation. That should be fun. What fun vacation are you planning next? Just reply and let me know. I&amp;rsquo;m curious, especially if you plan a diving trip.</description>
     </item>
     
     <item>
