@@ -3,15 +3,18 @@ date = "2019-07-07"
 title = "Weekly Notes"
 +++
 
-In hindsight I had a productive week. I published two new content items the last week. 
+I love that e-scooters have finally arrived in Berlin. I already used them to get around and shorten my trips. This weekend we had some close friends over and we used the scooters to show them the city from a different perspective. It's definetely a fun and great way to get around. Although my last work week did not feel that productive but I published two new content items the last week. More productive than I thoight
 
-## [Single Family Zoning San Diego](http://milafrerichs.de/articles/zoning-san-diego)
+## [Single Family Zoning San Diego](http://milafrerichs.de/articles/sandiego-zoning/)
 
-Last week I shared an article from The NY Times about zoning in American cities. And I was thinking about doing the same analysis for San Diego. And I did. You can read more about it [here](). 
+Last week I shared an article from The NY Times about zoning in American cities. And I was thinking about doing the same analysis for San Diego. And I did. You can read more about it [here](http://milafrerichs.de/articles/sandiego-zoning/).  
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/building-zoning-san-diego-high-res.png)
 
-## Comparison of d3.js and Mapbox GL JS
+## [Comparison of d3.js and Mapbox GL JS](https://mappingwithd3.com/mapbox-d3/)
+
+I also [published](https://mappingwithd3.com/mapbox-d3/) a comparison of d3.js and Mapbox GL JS looking at the code and how they're different.  
+Take a look and tell me what you think. :)
 
 # (Geospatial) Data Visualization
 
@@ -31,11 +34,11 @@ Alberto Cairo had an interesting take on that visualization. You can read it her
 
 ## [Visualizing unreported murders in Mexico](https://zonas-de-silencio.eluniversal.com.mx)
 
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/homicides-mexico.jpg)](https://zonas-de-silencio.eluniversal.com.mx)
+
 > El Universal, in collaboration with Google News Lab, has just launched a project that analyzes unreported murders in Mexico, those cases that don't get covered in the news
 
 I‘m not a huge fan of 3D maps. But I like that people try to experiment with different map types. 
-
-[Making of Article](https://www.blog.google/outreach-initiatives/google-news-initiative/journalism-and-ai-team-measure-missing-stories/amp/)
 
 # Civic Tech/Open Data
 
@@ -52,12 +55,17 @@ This is a great initiative and everyone should adopt such a policy:
 
 ## [Cities lead the way on open source tools for mobility](https://www.smartcitiesworld.net/news/news/cities-lead-the-way-on-open-source-tools-for-mobility-4314)
 
+> A coalition of cities committed to using open-source technology have launched the Open Mobility Foundation (OMF) to help develop and deploy digital mobility tools and put in the place governance to manage them.
+
 # Business/Consulting
 
 I will be giving two more workshop at geospatial conferences. It will be the same as my previous and will largely be influenced by the online workshop I’m currently creating. 
 
-# Photo of the Week
-
 # Tip of the week
+If you want to include images in your Readme on github but don't want to upload that image into your repo:  
+Create an issue, add that image there, now GitHub uploads it for you and provides you with a convenient markdown snippet to add to your Readme :)
 
-GitHub tip
+# Photo of the Week
+![Bonsai Tree in Basement](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5333.jpg)
+Found in the basement of a restaurant in Berlin.
+
