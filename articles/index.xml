@@ -12,16 +12,6 @@
     
     
     <item>
-      <title>San Diego Zoning - Methodology</title>
-      <link>http://milafrerichs.de/articles/sandiego-zoning-methodology/</link>
-      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://milafrerichs.de/articles/sandiego-zoning-methodology/</guid>
-      <description>Zoning San Diego How I redid the single family zoning maps from the NYT.
-The New York Times were using Urban Footprint to create those graphics or at least get the data. Since Urban Footprint is not free to use, but the data is available as Open Data, I challenged myself to recreate it for San Diego. And because the New York Times did not do an analysis for San Diego I thought it might be a good addition.</description>
-    </item>
-    
-    <item>
       <title>Single family homes in San Diego</title>
       <link>http://milafrerichs.de/articles/sandiego-zoning/</link>
       <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
