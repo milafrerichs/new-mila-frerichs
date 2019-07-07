@@ -6,10 +6,98 @@
     <description>Weekly Newsletter of Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://milafrerichs.de/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>http://milafrerichs.de/newsletter/2019-07-06-weekly-notes/</link>
+                <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+                
+                <guid>http://milafrerichs.de/newsletter/2019-07-06-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;I love that e-scooters have finally arrived in Berlin. I already used them to get around and shorten my trips. This weekend we had some close friends over, and we used the scooters to show them the city from a different perspective. It&amp;rsquo;s definitely a fun and great way to get around. Although my last work week did not feel that productive, I published two new content items last week. More productive than I thought!&lt;/p&gt;
+
+&lt;h2 id=&#34;single-family-zoning-san-diego-http-milafrerichs-de-articles-sandiego-zoning&#34;&gt;&lt;a href=&#34;http://milafrerichs.de/articles/sandiego-zoning/&#34;&gt;Single Family Zoning San Diego&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Last week I shared an article from The NY Times about zoning in American cities. And I was thinking about doing the same analysis for San Diego. And I did. You can read more about it &lt;a href=&#34;http://milafrerichs.de/articles/sandiego-zoning/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/building-zoning-san-diego-high-res.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;comparison-of-d3-js-and-mapbox-gl-js-https-mappingwithd3-com-mapbox-d3&#34;&gt;&lt;a href=&#34;https://mappingwithd3.com/mapbox-d3/&#34;&gt;Comparison of d3.js and Mapbox GL JS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I also &lt;a href=&#34;https://mappingwithd3.com/mapbox-d3/&#34;&gt;published&lt;/a&gt; a comparison of d3.js and Mapbox GL JS looking at the code and how they&amp;rsquo;re different.&lt;br /&gt;
+Take a look and tell me what you think. :)&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-data-visualization&#34;&gt;(Geospatial) Data Visualization&lt;/h1&gt;
+
+&lt;p&gt;A lot of interesting maps were floating around the last week. Here are a couple of my favorites:&lt;/p&gt;
+
+&lt;h2 id=&#34;power-plants-in-europe&#34;&gt;Power Plants in Europe&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://public.flourish.studio/visualisation/448632/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/2FB2E3F2-F8C9-4981-AEBF-9D351D2D697F.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a great take on power plants in Europe. I did a similar one just for Germany. This reminded me to update the data on my visualization and share it.&lt;/p&gt;
+
+&lt;h2 id=&#34;mapping-diversity-https-www-axios-com-where-americas-diversity-is-increasing-the-fastest-ae06eea7-e031-46a2-bb64-c74de85eca77-html&#34;&gt;&lt;a href=&#34;https://www.axios.com/where-americas-diversity-is-increasing-the-fastest-ae06eea7-e031-46a2-bb64-c74de85eca77.html&#34;&gt;Mapping diversity&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thefunctionalart.com/2019/07/mapping-diversity-and-taking.html&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1562487796/milafrerichs.com/newsletter/data-viz/diversity-index-change.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alberto Cairo had an interesting take on that visualization. You can read it here: &lt;a href=&#34;http://www.thefunctionalart.com/2019/07/mapping-diversity-and-taking.html&#34;&gt;Mapping diversity and taking probability and base rates into account&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;visualizing-unreported-murders-in-mexico-https-zonas-de-silencio-eluniversal-com-mx&#34;&gt;&lt;a href=&#34;https://zonas-de-silencio.eluniversal.com.mx&#34;&gt;Visualizing unreported murders in Mexico&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://zonas-de-silencio.eluniversal.com.mx&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/homicides-mexico.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;El Universal, in collaboration with Google News Lab, has just launched a project that analyzes unreported murders in Mexico, those cases that don&amp;rsquo;t get covered in the news&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I‘m not a huge fan of 3D maps. But I like that people try to experiment with different map types.&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech-open-data&#34;&gt;Civic Tech/Open Data&lt;/h1&gt;
+
+&lt;h2 id=&#34;iop-publishing-begins-open-data-trial-https-www-miragenews-com-iop-publishing-begins-open-data-trial&#34;&gt;&lt;a href=&#34;https://www.miragenews.com/iop-publishing-begins-open-data-trial/&#34;&gt;IOP Publishing begins open data trial&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This is a great initiative, and everyone should adopt such a policy:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The policy requires authors to include a data availability statement with their article, indicating whether data is accessible and, if so, where it can be found and under what licensing terms. The policy also strongly encourages authors to share their data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;fda-supports-open-data-to-improve-patient-safety-https-www-beckershospitalreview-com-quality-fda-supports-open-data-to-improve-patient-safety-html&#34;&gt;&lt;a href=&#34;https://www.beckershospitalreview.com/quality/fda-supports-open-data-to-improve-patient-safety.html&#34;&gt;FDA supports open data to improve patient safety&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The U.S. Food and Drug Administration signed a letter of support May 30 for openly sharing data through efforts such as the Patient Safety Movement Foundation&amp;rsquo;s Open Data Pledge, according to an announcement made June 27.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;cities-lead-the-way-on-open-source-tools-for-mobility-https-www-smartcitiesworld-net-news-news-cities-lead-the-way-on-open-source-tools-for-mobility-4314&#34;&gt;&lt;a href=&#34;https://www.smartcitiesworld.net/news/news/cities-lead-the-way-on-open-source-tools-for-mobility-4314&#34;&gt;Cities lead the way on open source tools for mobility&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A coalition of cities committed to using open-source technology have launched the Open Mobility Foundation (OMF) to help develop and deploy digital mobility tools and put in the place governance to manage them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I will be giving two more workshops at geospatial conferences. It will be the same as my previous and will largely be influenced by the online workshop I’m currently creating.&lt;/p&gt;
+
+&lt;h1 id=&#34;tip-of-the-week&#34;&gt;Tip of the week&lt;/h1&gt;
+
+&lt;p&gt;If you want to include images in your Readme on github but don&amp;rsquo;t want to upload that image into your repo:&lt;br /&gt;
+Create an issue, add that image there, now GitHub uploads it for you and provides you with a convenient markdown snippet to add to your Readme :)&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5333.jpg&#34; alt=&#34;Bonsai Tree in Basement&#34; /&gt;
+Found in the basement of a restaurant in Berlin.&lt;/p&gt;
+</description>
+            </item>
         
             <item>
                 <title>Weekly Notes</title>
