@@ -1,9 +1,10 @@
 +++
+date = "2019-07-05T00:00:00.000+00:00"
 description = ""
+draft = true
 title = "San Diego Zoning - Methodology"
-date = 2019-07-05
-+++
 
++++
 # Zoning San Diego
 How I redid the single family zoning maps from the NYT.
 
@@ -38,5 +39,4 @@ If I would do it again I would use Postgres and postgis to match the zones. Much
 
 Next, transform the now 140mb big geojson into TopoJSON to make it even smaller. Great, now we’re at 112mb, still big but better. 
 
-Final thing to do, use my prototype map for just the zones and use it for the buildings. I changed the code to use canvas instead of svg because of the amount of data we’re going to. Display. Your browser would crash if I would have used svg for 500k path elements. 
-
+Final thing to do, use my prototype map for just the zones and use it for the buildings. I changed the code to use canvas instead of svg because of the amount of data we’re going to. Display. Your browser would crash if I would have used svg for 500k path elements.
