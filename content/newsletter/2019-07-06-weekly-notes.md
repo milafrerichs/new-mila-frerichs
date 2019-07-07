@@ -3,10 +3,15 @@ date = "2019-07-07"
 title = "Weekly Notes"
 +++
 
+In hindsight I had a productive week. I published two new content items the last week. 
+
+## [Single Family Zoning San Diego](http://milafrerichs.de/articles/zoning-san-diego)
+
 Last week I shared an article from The NY Times about zoning in American cities. And I was thinking about doing the same analysis for San Diego. And I did. You can read more about it [here](). 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/building-zoning-san-diego-high-res.png)
 
+## Comparison of d3.js and Mapbox GL JS
 
 # (Geospatial) Data Visualization
 
