@@ -1,0 +1,51 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><meta name="google-site-verification" content="muu33Ix4WWGE23IzCYzZCiIlPyGbTNBewVjLjRF6ITA"><link rel="stylesheet" href="http://milafrerichs.de/css/styles.css"><meta name="description" content=""><title>San Diego Zoning - Methodology – Mila Frerichs, Data Visualization consultant for social good</title>
+ <script type="text/javascript"> 
+   (function(p, a, n, d, o, b) {
+       o = n.createElement('script'); o.type = 'text/javascript'; o.async = true; o.src = 'https://tag.rightmessage.com/'+p+'.js';
+       b = n.getElementsByTagName('script')[0]; b.parentNode.insertBefore(o, b);
+       d = function(h, u, i) { var o = n.createElement('style'); o.id = 'rmcloak'+i; o.type = 'text/css';
+               o.appendChild(n.createTextNode('.rmcloak'+h+'{visibility:hidden}.rmcloak'+u+'{display:none}'));
+               b.parentNode.insertBefore(o, b); return o; }; o = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');
+       setTimeout(function() { o.parentNode && o.parentNode.removeChild(o); }, a);
+   })('598252326', 2500, document);
+ </script>
+</head><body><main class="container py-8 lg:py-16 px-6 md:px-16 lg:px-24" role="main"><nav class="font-sans flex flex-wrap justify-start items-center my-4 overflow-hidden"><a class="mr-4" href="/">mf</a><div class="block md:hidden"><button id="menu" class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white"><svg class="fill-current h-3 w-3" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path></svg></button></div><div id="menu-items" class="w-full flex-grow md:flex md:items-center md:w-auto hidden md:block"><div class="text-sm md:flex-grow"><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/me/">Me</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/talks-workshops/">Talks/Workshops</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/now/">Now</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/themes/">Themes</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/articles/">Articles</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/journal/">Journal</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/projects/">Portfolio</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="https://civicvision.de">Company</a></div></div></nav><article><header><h1 class="font-sans text-4xl text-black font-bold mb-4">San Diego Zoning - Methodology</h1></header><div class="font-sans text-lg text-grey-darkest spaced-y-6 leading-normal">
+
+<h1 id="zoning-san-diego">Zoning San Diego</h1>
+
+<p>How I redid the single family zoning maps from the NYT.</p>
+
+<p>The New York Times were using Urban Footprint to create those graphics or at least get the data.
+Since Urban Footprint is not free to use, but the data is available as Open Data, I challenged myself to recreate it for San Diego. And because the New York Times did not do an analysis for San Diego I thought it might be a good addition.</p>
+
+<h2 id="first-getting-the-data">First getting the data</h2>
+
+<p>That was quite easy using the open data portal fo the city I got the zoning layer. Nice.
+Next find the zoning codes.
+Good thing I already did a project with zoning in Sanford so I knew were to look.
+The municipal code is the way to go. You can take a look at my previous projects about general zoning here and my quick Airbnb project here.
+Done. now I know which codes are for single family zoning.</p>
+
+<h2 id="quick-check-here-is-the-map-just-using-the-zones">Quick check, here is the map just using the zones.</h2>
+
+<p>But we’re not done yet. The New York Times used buildings to show more precisely the zoning code.
+That turned out more challenging than I anticipated. First I looked at openstreetmap sijce I know that have good building data. But turns out they have huge gaps in San Diego.
+So I looked what Data urban footprint was using and it turns out Microsoft did a research project and they have building data for California as well. Great.
+But.
+It’s a huge GeoJSON file. Xgb
+That could be a challenge.
+So first task: get only San Diego data.
+Here is the python script I used to filter out data for the city.
+I tried an MVP with just a boundary that I drew and looked at chunks of data to find out if my script works.
+Now I can use the exact boundaries of San Diego.</p>
+
+<h2 id="next-up-finding-the-right-zoning-code-for-the-building">Next up: finding the right zoning code for the building.</h2>
+
+<p>Easy task for a geonerd so go through all the buildings and find out if they’re in a specific zone. If it matches great.
+I used a naive approach here and it took my computer almost a day to go through the 500.000 buildings.
+If I would do it again I would use Postgres and postgis to match the zones. Much more efficient. And while I was thinking about it ugh about and found an old project of mine that makes it easy to setup your own docker container with postgis and load data into it to perform queries. It’s 4 years old and you can find it here:</p>
+
+<p>Next, transform the now 140mb big geojson into TopoJSON to make it even smaller. Great, now we’re at 112mb, still big but better.</p>
+
+<p>Final thing to do, use my prototype map for just the zones and use it for the buildings. I changed the code to use canvas instead of svg because of the amount of data we’re going to. Display. Your browser would crash if I would have used svg for 500k path elements.</p>
+</div></article></main><footer class="font-sans md:py-8 px-4"><div class="mx-auto container overflow-hidden flex flex-col justify-between text-center"><div class="w-full flex-grow md:flex md:items-center md:w-auto"><div class="text-sm md:flex-grow"><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/me/">Me</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/talks-workshops/">Talks/Workshops</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/now/">Now</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/themes/">Themes</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/articles/">Articles</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/journal/">Journal</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/projects/">Portfolio</a></div></div><ul class="text-grey-dark list-reset font-thin flex text-center justify-center text-2xl py-2 flex-col"><li class="pt-2">☕️🐕❄️☀️</li><li class="pt-2">🥃</li><li class="pt-2">⚾️🏈🏄‍♂️🏊‍♂️🏂🧗‍♀️</li><li class="pt-2">🍣🍔🌮🌯🍕</li><li class="pt-2">🗺🏔🏟✈️🚍🚃</li></ul><div class="flex"><a class="block flex items-center text-white hover:text-grey mr-6 no-underline" href="#"><i class="fab fa-github-alt"></i></a><a class="block flex items-center text-white hover:text-grey mr-6 no-underline" href="#"><i class="fab fa-slack"></i></a><a class="block flex items-center text-white hover:text-grey no-underline" href="#"><i class="fab fa-twitter"></i></a></div><div class="text-xs pt-2 mt-2 text-grey-darker text-center">©2019 Mila Frerichs. All rights reserved.</div><ul class="text-grey-dark list-reset font-thin flex text-left justify-center"><li><a class="inline-block text-xs py-2 px-3 text-grey hover:text-grey-light no-underline" href="/legal/">Impressum</a></li><li><a class="inline-block text-xs py-2 px-3 text-grey hover:text-grey-light no-underline" href="/legal/privacy/">Privacy</a></li></ul></div></footer><script type="text/javascript" src="/js/main.js"></script></body></html>
