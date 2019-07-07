@@ -32,6 +32,8 @@ Ocean Beach kinda surprised me, I knew that central OB is multi-family zone but 
 
 Not as surprising as OB but still the amount is a little surprising to me. 
 
+I made an [interactive version](https://civic.vision/sandiego-zoning-viz) of this as well. You can check it out here, but be aware it is relatively slow due to the amount of buildings. Might update it if there is interest in it. 
+
 # Methodology
 I used [open zoning data](https://data.sandiego.gov/datasets/zoning/) from the City of San Diego, used the zoning information from the [Municipal Code](https://www.sandiego.gov/city-clerk/officialdocs/municipal-code/chapter-13) and building data from [Microsoft](https://github.com/Microsoft/USBuildingFootprints/).  
 I matched those buildings up with the zone they’re in and colored according to the code. 
