@@ -3,7 +3,7 @@ date = "2019-07-07"
 title = "Weekly Notes"
 +++
 
-I love that e-scooters have finally arrived in Berlin. I already used them to get around and shorten my trips. This weekend we had some close friends over and we used the scooters to show them the city from a different perspective. It's definetely a fun and great way to get around. Although my last work week did not feel that productive but I published two new content items the last week. More productive than I thoight
+I love that e-scooters have finally arrived in Berlin. I already used them to get around and shorten my trips. This weekend we had some close friends over, and we used the scooters to show them the city from a different perspective. It's definitely a fun and great way to get around. Although my last work week did not feel that productive, I published two new content items last week. More productive than I thought!
 
 ## [Single Family Zoning San Diego](http://milafrerichs.de/articles/sandiego-zoning/)
 
@@ -44,7 +44,7 @@ I‘m not a huge fan of 3D maps. But I like that people try to experiment with d
 
 ## [IOP Publishing begins open data trial](https://www.miragenews.com/iop-publishing-begins-open-data-trial/)
 
-This is a great initiative and everyone should adopt such a policy: 
+This is a great initiative, and everyone should adopt such a policy: 
 
 > The policy requires authors to include a data availability statement with their article, indicating whether data is accessible and, if so, where it can be found and under what licensing terms. The policy also strongly encourages authors to share their data.
 
@@ -59,7 +59,7 @@ This is a great initiative and everyone should adopt such a policy:
 
 # Business/Consulting
 
-I will be giving two more workshop at geospatial conferences. It will be the same as my previous and will largely be influenced by the online workshop I’m currently creating. 
+I will be giving two more workshops at geospatial conferences. It will be the same as my previous and will largely be influenced by the online workshop I’m currently creating. 
 
 # Tip of the week
 If you want to include images in your Readme on github but don't want to upload that image into your repo:  
