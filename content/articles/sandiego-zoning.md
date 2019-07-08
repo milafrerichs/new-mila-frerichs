@@ -1,10 +1,10 @@
 +++
-title = "Single family homes in San Diego"
-date = 2019-07-05
-images = ["https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/building-zoning-san-diego-high-res.png"]
+date = "2019-07-05T00:00:00.000+00:00"
 description = "How does single family zoning look like in San Diego. Inspired by a New York times article I created similar maps for San Diego looking at single family zoning vs other residential zoning in San Diego."
-+++
+images = ["https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/building-zoning-san-diego-high-res.jpg"]
+title = "Single family homes in San Diego"
 
++++
 Inspired by [this article](https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html) from the New York Times I wanted to create the same map for San Diego. Since the article did not include San Diego, I thought I can do it. 
 
 Residential land zone for <svg width="25" height="20"><rect y="2" width="18" height="18" fill="#EA60B9" /></svg>detached single-family &nbsp; <svg width="25" height="20"><rect y="2" width="18" height="18" fill="#4CAFC5" /></svg>other housing
@@ -41,4 +41,4 @@ I matched those buildings up with the zone they’re in and colored according to
 Everything that starts with RS is <svg width="15" height="15"><rect width="15" height="15" fill="#EA60B9"></svg> and is labeled in the municipal code as __Residential--Single Unit__.  
 And every other Rx is <svg width="15" height="15"><rect width="15" height="15" fill="#4CAFC5"></svg> for all other residential zones. 
 
-I will publish another article about the technical implementation soon. 
+I will publish another article about the technical implementation soon.
