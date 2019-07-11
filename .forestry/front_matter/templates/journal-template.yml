@@ -16,6 +16,8 @@ fields:
     schema:
       format: markdown
 pages:
+- content/articles/makeover-monday-how-americans-sleep.md
+- content/articles/vizrisk-challenge-audience.md
 - content/articles/vizrisk-challenge-audience.md
 - content/articles/makeover-monday-how-americans-sleep.md
 - content/photos/photos.md
