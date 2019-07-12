@@ -1,9 +1,5 @@
 ---
 - Title: Rapid and repeatable geospatial analysis with python and node using notebooks
-  Conference: FOSS4G NA
-  description: ''
-  date: 2019-04-17T00:00:00+02:00
-- Title: Rapid and repeatable geospatial analysis with python and node using notebooks
   Conference: FOSS4G UK
   description: ''
   date: 2019-09-19T00:00:00+02:00
@@ -11,6 +7,10 @@
   Conference: Good Tech Fest
   description: ''
   date: 2019-05-15
+- Title: Rapid and repeatable geospatial analysis with python and node using notebooks
+  Conference: FOSS4G NA
+  description: ''
+  date: 2019-04-17T00:00:00+02:00
 - Title: Fast and cost effective geospatial data analysis pipeline with AWS (Lambda)
   Conference: FOSS4G Oceania
   description: ''
