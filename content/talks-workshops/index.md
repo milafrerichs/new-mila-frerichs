@@ -1,16 +1,17 @@
 ---
 title: Talks/Workshops
 type: page
+linktitle: Talks/Workshops
 menu:
-  main:
-    weight: 20
   footer:
     weight: 20
-linktitle: "Talks/Workshops"
+  main:
+    weight: 20
+
 ---
 # Talks
 
-I like give talks and go to conferences.  
+I like giving talks and go to conferences.
 
 ## My upcoming talks
 
