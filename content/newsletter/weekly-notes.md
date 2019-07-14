@@ -50,7 +50,7 @@ The [data](http://web.mta.info/developers/data/archives.html) is Open Data from 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/draw-it.gif)
 
-This is great research and the tool looks promising. Still in the early phases and only works with linecharts and only GoogleSheets but still good progress. Would love to see more research into data viz recall.
+Geat research by the _Midwest Uncertainty (MU) Collective from_ Jessica Hullman (Northwestern) & Matthew Kay (UMichigan). The tool looks very promising. Still in the early phases and only works with linecharts and only GoogleSheets but still good progress. Would love to see more research into data viz recall.
 
 > _We found that when users had the ability to draw their expectations and see them against the observed data, they **recalled the data 20–25% more accurately** a short time later._
 
