@@ -6,9 +6,9 @@ title = "Weekly Notes"
 +++
 # (Geospatial) Data Visualization
 
-## Atlas of the Moon
+## What Micro-Mapping a City's Density Reveals
 
-[https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/ "https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/")
+[https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/](https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/ "https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/")
 
 ## Homeless and Urban Planning San Diego
 
@@ -18,9 +18,11 @@ The San Diego Data Library from Eric Busbom with Data Science for Non-Profits is
 
 [https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313](https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313 "https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313")
 
-## What Micro-Mapping a City's Density Reveals
+## Atlas of the Moon
 
-[https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/](https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/ "https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/")
+[https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/ "https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/")
+
+## 
 
 ## New Tool: **TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization**
 
