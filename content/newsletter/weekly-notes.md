@@ -4,13 +4,15 @@ draft = true
 title = "Weekly Notes"
 
 +++
+Welcome to this new edition of my newsletter. I hope you all had a great week. I certainly had one. 
+
 ## Tools & Frameworks for Mapping Data
 
-After a discussion on twitter and a question I saw in a facebook group about what Tools are out there to create maps I thought I create a list of all the tools I could find. 
+After a discussion on twitter and a question I saw in a facebook group about what Tools are out there to create maps, I thought I create a list of all the tools and Frameworks I could find. 
 
 I created a new airtable and integrated it here. I also included the Tool/Framework is free to use or only paid. 
 
-If you find a tool or framework that I missed please let me know I will add it to the list. 
+If you find a tool or framework that I missed, please let me know, and I will add it to the list. 
 
 # (Geospatial) Data Visualization
 
@@ -36,7 +38,7 @@ The whole article is well worth a read and the visualization is nice to play wit
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/subway-commute-nyc.jpg)
 
-Nice visualization from the New York Times about your subway commute. I always love transportation visualizations. You can do so much with these datasets. 
+Nice visualization from the New York Times about your subway commute in New York. I always love transportation visualizations. You can do so much with these datasets. 
 
 The [data](http://web.mta.info/developers/data/archives.html) is Open Data from the M.T.A.
 
@@ -44,13 +46,15 @@ The [data](http://web.mta.info/developers/data/archives.html) is Open Data from 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/atlas-of-moon.jpg)
 
+Stunning visuals from the moons of the galaxy. I especially like the feature where you overlay known countries or regions to get a sense of the scale. 
+
 [https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/ "https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/")
 
 ## [New Tool: **TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization**]()
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/draw-it.gif)
 
-Geat research by the _Midwest Uncertainty (MU) Collective from_ Jessica Hullman (Northwestern) & Matthew Kay (UMichigan). The tool looks very promising. Still in the early phases and only works with linecharts and only GoogleSheets but still good progress. Would love to see more research into data viz recall.
+Geat research by the _Midwest Uncertainty (MU) Collective from_ Jessica Hullman (Northwestern) & Matthew Kay (UMichigan). The tool looks very promising. Still in the early phases and only works with linecharts and only GoogleSheets, but still good progress. Would love to see more research into data viz recall.
 
 > _We found that when users had the ability to draw their expectations and see them against the observed data, they **recalled the data 20–25% more accurately** a short time later._
 
