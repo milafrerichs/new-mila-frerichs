@@ -42,7 +42,15 @@ The [data](http://web.mta.info/developers/data/archives.html) is Open Data from 
 
 ## [Atlas of the Moon]()
 
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/atlas-of-moon.jpg)
+
 [https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/ "https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/")
+
+## [New Tool: **TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization**]()
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/draw-it.gif)
+
+[https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480](https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480 "https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480")
 
 ## [Homeless and Urban Planning San Diego]()
 
@@ -51,10 +59,6 @@ The San Diego Data Library from Eric Busbom with Data Science for Non-Profits is
 ## [Data Visualization for Audiences in Low & Middle-Income Countries]()
 
 [https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313](https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313 "https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313")
-
-## [New Tool: **TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization**]()
-
-[https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480](https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480 "https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480")
 
 ## [What Are Data Visualization Style Guidelines?]()
 
