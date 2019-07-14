@@ -1,12 +1,34 @@
 +++
-date = "2019-07-07"
+date = "2019-07-14T00:00:00+02:00"
 draft = true
 title = "Weekly Notes"
 
 +++
+## Tools & Frameworks for Mapping Data
+
+After a discussion on twitter and a question I saw in a facebook group about what Tools are out there to create maps I thought I create a list of all the tools I could find. 
+
+I created a new airtable and integrated it here. I also included the Tool/Framework is free to use or only paid. 
+
+If you find a tool or framework that I missed please let me know I will add it to the list. 
+
 # (Geospatial) Data Visualization
 
-## What Micro-Mapping a City's Density Reveals
+Another great week of geospatial data visualizations. 
+
+## [What Micro-Mapping a City's Density Reveals]()
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/density-chicago.jpg)
+
+An interesting new look at density using satellite imagery and a different measure of density. By looking at a regular pattern of equally sized cells of one square kilometer you get a different perspective of cities. 
+
+> _This perspective lets us drill down to the micro-geography of density in American cities, with oftentimes surprising results, as in the densest grid cell of greater Salt Lake City (below), which isn’t high-rises but mobile home parks._
+
+This is a fascinating observation. I would have not guessed that a mobile home park would be more dense than a high-rise area. 
+
+> _Just as average wealth and income statistics can’t take us very far in explaining how to fairly structure the distribution of economic gain in our society, the average population density of a vast metropolitan area does little to capture the many different ways that we might want to structure our cities and neighborhoods._
+
+The whole article is well worth a read and the visualization is nice to play with. 
 
 [https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/](https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/ "https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/")
 
@@ -14,21 +36,23 @@ title = "Weekly Notes"
 
 The San Diego Data Library from Eric Busbom with Data Science for Non-Profits is starting a series of meetings exploring homelessness and urban planning. With Open Data datasets and data visualization they're going to look at the homeless population in San Diego.
 
-## Data Visualization for Audiences in Low & Middle-Income Countries
+## Subway Commute NYC
 
-[https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313](https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313 "https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313")
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/subway-commute-nyc.jpg)
 
-## Atlas of the Moon
+## [Atlas of the Moon]()
 
 [https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/ "https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/")
 
-## 
+## [Data Visualization for Audiences in Low & Middle-Income Countries]()
 
-## New Tool: **TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization**
+[https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313](https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313 "https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313")
+
+## [New Tool: **TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization**]()
 
 [https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480](https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480 "https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480")
 
-## What Are Data Visualization Style Guidelines?
+## [What Are Data Visualization Style Guidelines?]()
 
 [https://medium.com/data-visualization-society/style-guidelines-92ebe166addc](https://medium.com/data-visualization-society/style-guidelines-92ebe166addc "https://medium.com/data-visualization-society/style-guidelines-92ebe166addc")
 
@@ -42,10 +66,6 @@ The parliament in a German state has a new procurement law where Open Source sol
 ## The Scooters Are Coming: let’s require data this time
 
 [https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/](https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/ "https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/")
-
-## Open Data Events in Europe
-
-https://www.europeandataportal.eu/en/what-we-do/calendar/month/2019-08
 
 ## The limits of civic tech: Learning from kleineAnfragen
 
