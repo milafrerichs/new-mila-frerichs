@@ -21,16 +21,11 @@ Now I know which codes are for single family zoning.
 
 ## Quick check, here is the map just using the zones.
 
-But we’re not done yet. The New York Times used buildings to show more precisely the zoning code.
-That turned out more challenging than I anticipated. First I looked at openstreetmap sijce I know that have good building data. But turns out they have huge gaps in San Diego.
-So I looked what Data urban footprint was using and it turns out Microsoft did a research project and they have building data for California as well. Great.
-But.
-It’s a huge GeoJSON file. Xgb
-That could be a challenge.
-So first task: get only San Diego data.
-Here is the python script I used to filter out data for the city.
-I tried an MVP with just a boundary that I drew and looked at chunks of data to find out if my script works.
-Now I can use the exact boundaries of San Diego.
+But we’re not done yet. The New York Times used buildings to show  the zoning code more precisely. That turned out more challenging than I anticipated.   
+First I looked at OpenStreetMap since I know they have good building data. But turns out they have huge gaps in San Diego. \[include picture\]  
+So I looked what Data Urban Footprint was using and it turns out Microsoft did a research project and they have building data for California as well.   
+Great.   
+But, It’s a huge GeoJSON file. Xgb That could be a challenge. So first task: get only San Diego data. Here is the python script I used to filter out data for the city. I tried an MVP with just a boundary that I drew and looked at chunks of data to find out if my script works. Now I can use the exact boundaries of San Diego.
 
 ## Next up: finding the right zoning code for the building.
 
