@@ -66,9 +66,15 @@ The San Diego Data Library from Eric Busbom with Data Science for Non-Profits is
 
 ## [Data Visualization for Audiences in Low & Middle-Income Countries]()
 
+The Data Visualization Society is a great place to hang out and get a better sense of what‘s happening worldwide in the data visualization sector. The Medium posts summarize discussions that happen inside the Slack room. This one is very important for anyone doing data viz in Low & Middle-Income countries.
+
+> _With limited time to digest data, it becomes extremely important to use data visualization as an effective, memorable communication tool._
+
 [https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313](https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313 "https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313")
 
 ## [What Are Data Visualization Style Guidelines?]()
+
+Another great article from the Society. 
 
 [https://medium.com/data-visualization-society/style-guidelines-92ebe166addc](https://medium.com/data-visualization-society/style-guidelines-92ebe166addc "https://medium.com/data-visualization-society/style-guidelines-92ebe166addc")
 
