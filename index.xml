@@ -6,10 +6,21 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Notes</title>
+      <link>http://milafrerichs.de/newsletter/weekly-notes/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://milafrerichs.de/newsletter/weekly-notes/</guid>
+      <description>Welcome to this new edition of my newsletter. I hope you all had a great week. I certainly had one.
+Tools &amp;amp; Frameworks for Mapping Data After a discussion on twitter and a question I saw in a facebook group about what Tools are out there to create maps, I thought I create a list of all the tools and Frameworks I could find.
+I created a new airtable and integrated it here.</description>
+    </item>
     
     <item>
       <title>Weekly Notes</title>

@@ -6,10 +6,139 @@
     <description>Weekly Newsletter of Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="http://milafrerichs.de/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>http://milafrerichs.de/newsletter/weekly-notes/</link>
+                <pubDate>Sun, 14 Jul 2019 00:00:00 +0200</pubDate>
+                
+                <guid>http://milafrerichs.de/newsletter/weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;Welcome to this new edition of my newsletter. I hope you all had a great week. I certainly had one.&lt;/p&gt;
+
+&lt;h2 id=&#34;tools-frameworks-for-mapping-data-https-mappingwithd3-com-mapping-resources&#34;&gt;&lt;a href=&#34;https://mappingwithd3.com/mapping-resources/&#34;&gt;Tools &amp;amp; Frameworks for Mapping Data&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;After a discussion on twitter and a question I saw in a facebook group about what Tools are out there to create maps, I thought I create a list of all the tools and Frameworks I could find.&lt;/p&gt;
+
+&lt;p&gt;I created a new airtable and integrated it here. I also included the Tool/Framework is free to use or only paid.&lt;/p&gt;
+
+&lt;p&gt;If you find a tool or framework that I missed, please let me know, and I will add it to the list.&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-data-visualization&#34;&gt;(Geospatial) Data Visualization&lt;/h1&gt;
+
+&lt;p&gt;Another great week of geospatial data visualizations.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-micro-mapping-a-city-s-density-reveals-https-www-citylab-com-perspective-2019-07-urban-density-map-city-population-data-geography-591760&#34;&gt;&lt;a href=&#34;https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/&#34;&gt;What Micro-Mapping a City&amp;rsquo;s Density Reveals&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/density-chicago.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An interesting new look at density using satellite imagery and a different measure of density. By looking at a regular pattern of equally sized cells of one square kilometer you get a different perspective of cities.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This perspective lets us drill down to the micro-geography of density in American cities, with oftentimes surprising results, as in the densest grid cell of greater Salt Lake City (below), which isn’t high-rises but mobile home parks.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a fascinating observation. I would have not guessed that a mobile home park would be more dense than a high-rise area.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Just as average wealth and income statistics can’t take us very far in explaining how to fairly structure the distribution of economic gain in our society, the average population density of a vast metropolitan area does little to capture the many different ways that we might want to structure our cities and neighborhoods.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The whole article is well worth a read and the visualization is nice to play with.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/&#34;&gt;https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;subway-commute-nyc-https-www-nytimes-com-interactive-2019-07-08-upshot-nyc-subway-variability-calculator-html&#34;&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/07/08/upshot/nyc-subway-variability-calculator.html&#34;&gt;Subway Commute NYC&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/07/08/upshot/nyc-subway-variability-calculator.html&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/subway-commute-nyc.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nice visualization from the New York Times about your subway commute in New York. I always love transportation visualizations. You can do so much with these datasets.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://web.mta.info/developers/data/archives.html&#34;&gt;data&lt;/a&gt; is Open Data from the M.T.A.&lt;/p&gt;
+
+&lt;h2 id=&#34;atlas-of-the-moon-https-www-nationalgeographic-com-science-2019-07-the-atlas-of-moons&#34;&gt;&lt;a href=&#34;https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/&#34;&gt;Atlas of the Moon&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/atlas-of-moon.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stunning visuals from the moons of the galaxy. I especially like the feature where you overlay known countries or regions to get a sense of the scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/&#34;&gt;https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;new-tool-theydrawit-an-authoring-tool-for-belief-driven-visualization-https-medium-com-multiple-views-visualization-research-explained-theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&#34;&gt;&lt;a href=&#34;https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&#34;&gt;&lt;strong&gt;New Tool:&lt;/strong&gt; TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/draw-it.gif&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Geat research by the &lt;em&gt;Midwest Uncertainty (MU) Collective from&lt;/em&gt; Jessica Hullman (Northwestern) &amp;amp; Matthew Kay (UMichigan). The tool looks very promising. Still in the early phases and only works with linecharts and only GoogleSheets, but still good progress. Would love to see more research into data viz recall.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We found that when users had the ability to draw their expectations and see them against the observed data, they &lt;strong&gt;recalled the data 20–25% more accurately&lt;/strong&gt; a short time later.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&#34;&gt;https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;homeless-and-urban-planning-san-diego-https-www-sandiegodata-org-2019-07-data-for-social-good-workshop-homelessness-and-urban-planning&#34;&gt;&lt;a href=&#34;https://www.sandiegodata.org/2019/07/data-for-social-good-workshop-homelessness-and-urban-planning/&#34;&gt;Homeless and Urban Planning San Diego&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The San Diego Data Library from Eric Busbom with Data Science for Non-Profits is starting a series of meetings exploring homelessness and urban planning. With Open Data datasets and data visualization they&amp;rsquo;re going to look at the homeless population in San Diego.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-visualization-for-audiences-in-low-middle-income-countries-https-medium-com-data-visualization-society-data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313&#34;&gt;&lt;a href=&#34;https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313&#34;&gt;Data Visualization for Audiences in Low &amp;amp; Middle-Income Countries&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Data Visualization Society is a great place to hang out and get a better sense of what‘s happening worldwide in the data visualization sector. The Medium posts summarize discussions that happen inside the Slack room. This one is very important for anyone doing data viz in Low &amp;amp; Middle-Income countries.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;With limited time to digest data, it becomes extremely important to use data visualization as an effective, memorable communication tool.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313&#34;&gt;https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-are-data-visualization-style-guidelines-https-medium-com-data-visualization-society-style-guidelines-92ebe166addc&#34;&gt;&lt;a href=&#34;https://medium.com/data-visualization-society/style-guidelines-92ebe166addc&#34;&gt;What Are Data Visualization Style Guidelines?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Another great article from the Society.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/data-visualization-society/style-guidelines-92ebe166addc&#34;&gt;https://medium.com/data-visualization-society/style-guidelines-92ebe166addc&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech-open-data&#34;&gt;Civic Tech/Open Data&lt;/h1&gt;
+
+&lt;h2 id=&#34;open-source-procurement-law-in-german-state&#34;&gt;Open Source procurement law in German state&lt;/h2&gt;
+
+&lt;p&gt;The parliament in a German state has a new procurement law where Open Source solutions shall be given preference if it&amp;rsquo;s technically possible and economically feasable. Whatever that means :)
+&lt;a href=&#34;http://www.parldok.thueringen.de/ParlDok/dokument/71600/gesetz_zur_aenderung_des_thueringer_vergabegesetzes_und_anderer_haushaltsrechtlicher_vorschriften.pdf&#34;&gt;Law (if you can read Germany)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-scooters-are-coming-let-s-require-data-this-time-https-www-azavea-com-blog-2019-07-10-the-scooters-are-coming&#34;&gt;&lt;a href=&#34;https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/&#34;&gt;The Scooters Are Coming: let’s require data this time&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I agree with Andrew that these scooters are very convenient and I wrote about the scooters in Berlin last week. He makes great points, that cities should and probably must require data as part of the regulatory environment and should release them as Open Data.&lt;/p&gt;
+
+&lt;p&gt;Go check out that article:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/&#34;&gt;https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-limits-of-civic-tech-learning-from-kleineanfragen-https-toridykes-com-blog-2019-6-24-kleine-anfragen&#34;&gt;&lt;a href=&#34;https://toridykes.com/blog/2019/6/24/kleine-anfragen&#34;&gt;The limits of civic tech: Learning from kleineAnfragen&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Great article from Tori about the civic tech project kleineAnfragen and lack of government technology and funding in general in Germany.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;the status quo whereby the civic tech scene is responsible for a huge portion of the work being done for a more transparent and open digital future while only being supported by short-term grants of money (if funded at all) is not sustainable. Governments need to do more, and they need to do better.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://toridykes.com/blog/2019/6/24/kleine-anfragen&#34;&gt;https://toridykes.com/blog/2019/6/24/kleine-anfragen&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I‘m currently in video production mode for my upcoming course &lt;a href=&#34;https://mappingwithd3.com/&#34;&gt;„Geospatial Data Visualization with d3“&lt;/a&gt;. Currently producing more entry-level material that will be released for free soon. If you want to get more info head over to &lt;a href=&#34;https://mappingwithd3.com/&#34;&gt;mappingwithd3.com&lt;/a&gt; and sign up.&lt;/p&gt;
+
+&lt;h1 id=&#34;tip-of-the-week&#34;&gt;Tip of the week&lt;/h1&gt;
+
+&lt;p&gt;Get out, enjoy the sun. Go to a café work in a different environment. It will improve your productivity.&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/45BFBC35-12B4-4AD6-80D2-9252EE2F0FB5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+            </item>
         
             <item>
                 <title>Weekly Notes</title>
