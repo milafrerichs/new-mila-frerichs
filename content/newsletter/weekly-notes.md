@@ -85,16 +85,28 @@ Another great article from the Society.
 The parliament in a German state has a new procurement law where Open Source solutions shall be given preference if it's technically possible and economically feasable. Whatever that means :)
 [Law (if you can read Germany)](http://www.parldok.thueringen.de/ParlDok/dokument/71600/gesetz_zur_aenderung_des_thueringer_vergabegesetzes_und_anderer_haushaltsrechtlicher_vorschriften.pdf)
 
-## The Scooters Are Coming: let’s require data this time
+## [The Scooters Are Coming: let’s require data this time]()
+
+I agree with Andrew that these scooters are very convenient and I wrote about the scooters in Berlin last week. He makes great points, that cities should and probably must require data as part of the regulatory environment and should release them as Open Data.
+
+Go check out that article:  
 
 [https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/](https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/ "https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/")
 
-## The limits of civic tech: Learning from kleineAnfragen
+## [The limits of civic tech: Learning from kleineAnfragen]()
+
+Great article from Tori about the civic tech project kleineAnfragen and lack of government technology and funding in general in Germany.
+
+> **the status quo whereby the civic tech scene is responsible for a huge portion of the work being done for a more transparent and open digital future while only being supported by short-term grants of money (if funded at all) is not sustainable. Governments need to do more, and they need to do better.**
 
 [https://toridykes.com/blog/2019/6/24/kleine-anfragen](https://toridykes.com/blog/2019/6/24/kleine-anfragen "https://toridykes.com/blog/2019/6/24/kleine-anfragen")
 
 # Business/Consulting
 
+I‘m currently in video production mode for my upcoming course [„Geospatial Data Visualization with d3“](https://mappingwithd3.com/). Currently producing more entry-level material that will be released for free soon. If you want to get more info head over to [mappingwithd3.com]() and sign up. 
+
 # Tip of the week
+
+Get out, enjoy the sun. Go to a café work in a different environment. It will improve your productivity. 
 
 # Photo of the Week
