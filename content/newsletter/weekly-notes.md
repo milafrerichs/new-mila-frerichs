@@ -32,17 +32,21 @@ The whole article is well worth a read and the visualization is nice to play wit
 
 [https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/](https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/ "https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/")
 
-## Homeless and Urban Planning San Diego
-
-The San Diego Data Library from Eric Busbom with Data Science for Non-Profits is starting a series of meetings exploring homelessness and urban planning. With Open Data datasets and data visualization they're going to look at the homeless population in San Diego.
-
 ## Subway Commute NYC
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/subway-commute-nyc.jpg)
 
+Nice visualization from the New York Times about your subway commute. I always love transportation visualizations. You can do so much with these datasets. 
+
+The [data](http://web.mta.info/developers/data/archives.html) is Open Data from the M.T.A.
+
 ## [Atlas of the Moon]()
 
 [https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/ "https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/")
+
+## [Homeless and Urban Planning San Diego]()
+
+The San Diego Data Library from Eric Busbom with Data Science for Non-Profits is starting a series of meetings exploring homelessness and urban planning. With Open Data datasets and data visualization they're going to look at the homeless population in San Diego.
 
 ## [Data Visualization for Audiences in Low & Middle-Income Countries]()
 
