@@ -1,6 +1,10 @@
 +++
 date = "2019-07-02"
+description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
+images = ["https://res.cloudinary.com/civicvision/image/upload/v1563173925/milafrerichs.com/newsletter/social-media-header/weekly-notes-2019-07-02.png"]
+summary = "This week includes a great map from CarbonBrief about electricity supply in the UK. As well as Zoning in the US with a lot of detailed maps from the NYT."
 title = "Weekly Notes"
+
 +++
 How was your week? Mine was tumultuous. I got my Open Water Diver license, and I look forward to exploring the underwater world. But other than that a lot of stuff was going on.
 
