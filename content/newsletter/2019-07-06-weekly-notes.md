@@ -1,6 +1,7 @@
 +++
 date = "2019-07-07"
 title = "Weekly Notes"
+images = ["https://res.cloudinary.com/civicvision/image/upload/v1563172585/milafrerichs.com/newsletter/social-media-header/weekly-notes-2019-07-07.png"]
 +++
 
 I love that e-scooters have finally arrived in Berlin. I already used them to get around and shorten my trips. This weekend we had some close friends over, and we used the scooters to show them the city from a different perspective. It's definitely a fun and great way to get around. Although my last work week did not feel that productive, I published two new content items last week. More productive than I thought!

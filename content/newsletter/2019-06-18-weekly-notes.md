@@ -1,6 +1,7 @@
 +++
 date = "2019-06-18"
 title = "Weekly Notes"
+images = ["https://res.cloudinary.com/civicvision/image/upload/v1563172585/milafrerichs.com/newsletter/social-media-header/weekly-notes-2019-06-18.png"]
 +++
 Last weekend I had another session in the pool on my way of getting the Open Water Diver certificate. This is really fun and I'm looking forward exploring the Oceans.
 

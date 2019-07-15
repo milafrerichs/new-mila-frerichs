@@ -1,6 +1,7 @@
 +++
 date = "2019-06-09"
 title = "Weekly Notes"
+images = ["https://res.cloudinary.com/civicvision/image/upload/v1563172585/milafrerichs.com/newsletter/social-media-header/weekly-notes-2019-06-09.png"]
 +++
 Hope you had a great week. I certainly had an entertaining week. A lot of stuff has happened.
 
