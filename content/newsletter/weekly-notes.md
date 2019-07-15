@@ -1,5 +1,7 @@
 +++
 date = "2019-07-14T10:00:00+02:00"
+description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
+images = ["https://res.cloudinary.com/civicvision/image/upload/v1563172585/milafrerichs.com/newsletter/social-media-header/Weekly_Notes.png"]
 title = "Weekly Notes"
 
 +++
