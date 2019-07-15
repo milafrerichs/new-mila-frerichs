@@ -17,12 +17,21 @@ fields:
   label: images
 - name: description
   type: textarea
-  default: ''
+  default: Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech
   config:
     required: false
     wysiwyg: false
     schema:
       format: markdown
   label: Description
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
 pages:
 - content/newsletter/2019-07-14-weekly-notes.md
