@@ -1,7 +1,9 @@
 = content nav
   {{ partial "nav" . }}
 = content main
-  article
+  a.text-grey-darkest href="/newsletter" View all newsletters
+  article.mt-8
+    .text-grey-dark.uppercase.font-semibold.text-xs.tracking-wide.mb-2 {{dateFormat "Jan 2, 2006" .Date}}
     header
       h1.font-sans.text-4xl.text-black.font-bold.mb-4
         {{.Title}}
