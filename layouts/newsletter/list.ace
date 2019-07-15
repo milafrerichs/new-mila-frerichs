@@ -6,12 +6,20 @@
     .mt-16
       {{ range .Pages.ByDate.Reverse }}
         .mb-16
-          a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
-          p.text-grey-darkest.text-base
-            {{.Summary}}
-          {{ if .Truncated }}
-            a.block.mt-2.font-normal.text-base.text-grey-darkest.no-underline.hover:underline href="{{ .RelPermalink }}" Read More
+          {{ if .Params.images }}
+          a.relative.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}"
+            {{- with .Params.images -}}
+            {{ $imageUrl := index . 0 }}
+            {{ $cloudinaryIn := "(https://res.cloudinary.com/.*/image/upload/)(.*)" }}
+            {{ $cloudinaryOut := "$1,dpr_auto,f_auto,q_70,w_auto/$2" }}
+            {{ $src := $imageUrl | replaceRE $cloudinaryIn $cloudinaryOut }}
+            img src="{{$src}}" alt="Weekly Notes"
+            {{ end }}
+            span.absolute.pin-t.pin-l.block.text-white.mt-2.ml-2.uppercase.font-semibold.text-xs.tracking-wide.mb-2 {{dateFormat "Jan 2, 2006" .Date}}
           {{ end }}
+          p.text-grey-darkest.text-xl
+            {{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ .Summary }}{{ end }}
+          a.block.mt-2.font-normal.text-grey-darker.hover:text-black.text-sm.no-underline.hover:underline href="{{ .RelPermalink }}" Read More
       {{ end }}
 = content footer
   {{ partial "footer" . }}
