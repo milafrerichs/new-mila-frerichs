@@ -7,6 +7,11 @@ summary = ""
 title = "Weekly Notes"
 
 +++
+Welcome to this new edition of "Weekly Notes", a weekly newsletter about Maps, Data Visualization, Civic Tech and Open Data.
+
+You can find [previsous issues here](https://milafrerichs.com/newsletter)
+
+
 # Geospatial Development
 
 ## [Green Space is Good for Mental Health](https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health)
@@ -32,6 +37,11 @@ Great study and a great use of satellite data.
 I updated my feature comparison of popular mapping libraries post to include more info about the specific features. I looked at 13 features and compared them between 5 libraries that I consider the leading players: mapbox.js, OpenLayers, Leaflet, Google Maps, D3.
 
 [You can check it out here](http://mappingwithd3.com/feature-comparison/?lsc=mf)
+
+## FOSS4G UK 2019 tickets now available
+The local Free and Open Source for Geospatial Conference in the UK will be held in Edinburgh in September. 
+I will be there, giving a talk and my workshop [Geospatial Data Visualization with d3](https://mappingwithd3.com?lsc=mf).
+Join me and buy your ticket! 
 
 # Data Visualization
 
@@ -102,6 +112,9 @@ Great project by the Ordnance Survey. They looked at the most complex motorway j
 > _Every road in each junction was assigned a different colour. Making more primary roads either red or green, and secondary roads either blue or yellow. Where one road changes over to another road, a gradient from one colour to the next was used to create the final product._
 
 [https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/](https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/)
+
+
+https://www.madefromdata.com/product/apollo-50?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter
 
 # Civic Tech
 
