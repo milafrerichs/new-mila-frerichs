@@ -84,11 +84,13 @@ Disturbing map about abortion access for women in poverty. But an important addi
 
 [https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f](https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f "https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f")
 
-## Britain’s most complex motorway junctions 
+## [Britain’s most complex motorway junctions ]()
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/highway-junctions-uk.png)
 
-Great project by the Ordnance Survey. They looked at the most complex motorway junctions in Britain. And 
+Great project by the Ordnance Survey. They looked at the most complex motorway junctions in Britain. They even have a poster version you can print out! 
+
+> _Every road in each junction was assigned a different colour. Making more primary roads either red or green, and secondary roads either blue or yellow. Where one road changes over to another road, a gradient from one colour to the next was used to create the final product._
 
 [https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/](https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=&utm_campaign=e1c05029-2389-4e27-98c9-e630755b672d "https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=&utm_campaign=e1c05029-2389-4e27-98c9-e630755b672d")
 
