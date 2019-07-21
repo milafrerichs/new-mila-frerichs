@@ -24,17 +24,25 @@ Thirty years of [@NASA_Landsat](https://twitter.com/NASA_Landsat) data helped sc
 
 ## Feature Comparison Mapping Libraries
 
-I published a short feature comparison of popular mapping libraries. I looked at 13 features and compared them between 5 libraries that I consider the leading players: mapbox.js, OpenLayers, Leaflet, Google Maps, D3.
+I updated my feature comparison of popular mapping libraries post to include more info about the specific features. I looked at 13 features and compared them between 5 libraries that I consider the leading players: mapbox.js, OpenLayers, Leaflet, Google Maps, D3.
 
 [You can check it out here](http://mappingwithd3.com/feature-comparison/?lsc=mf)
 
-I will update this comparison over the next few days with more detailed descriptions.
-
 # Data Visualization
 
-## To prepare for rising temperatures, scientists map urban ‘hot spots’
+A lot of great content over the last week. I had a hard time to decide what not to include :) 
+
+## [To prepare for rising temperatures, scientists map urban ‘hot spots’]()
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/heat-island.jpg)
+
+This is a great looking map and very important for future urban developments and thinking about how we can improve the livability of cities. 
+
+> _Volunteers drove three one-hour sessions throughout the day, recording air temperature on prescribed routes. Together, they collected over 75,000 temperature measurements from across each city._
+
+I might take a look at Berlin, but instead of using volunteers I take a look at the Sentinel Land Surface Temperature (LST) Data. It is not as detailed as volunteer based data but should be a good estimate. 
+
+More explanation on their method here: [https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and](https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and "https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and")
 
 [https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/?sf215830391=1](https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/?sf215830391=1 "https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/?sf215830391=1")
 
@@ -50,9 +58,9 @@ Great use of images, small multiples and encoding the amount of access at the bo
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-prices-switherland-transit.png)
 
-Small little project from local newspaper in Switzerland.
+Small little project from local newspaper in Switzerland. Looking at rent prices near light rail line. 
 
-Unfortunetely behind a paywall. 
+**Unfortunetely behind a paywall.** 
 
 [https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/](https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/ "https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/")
 
@@ -60,9 +68,11 @@ Unfortunetely behind a paywall.
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/carbon-footprint-world.png)
 
-## If We All Left to “Go Back Where We Came From”
+## [If We All Left to “Go Back Where We Came From”]()
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/leave-us.png)
+
+The map is a great response to the Trumpian claim that the four congresswomen should "go back where they came from". 
 
 [https://flowingdata.com/2018/05/16/go-back-where-you-came-from/](https://flowingdata.com/2018/05/16/go-back-where-you-came-from/ "https://flowingdata.com/2018/05/16/go-back-where-you-came-from/")
 
@@ -70,11 +80,15 @@ Unfortunetely behind a paywall.
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/abortion-usa.jpg)
 
+Disturbing map about abortion access for women in poverty. But an important addition to the national discussion on the topic. 
+
 [https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f](https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f "https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f")
 
 ## Britain’s most complex motorway junctions 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/highway-junctions-uk.png)
+
+Great project by the Ordnance Survey. They looked at the most complex motorway junctions in Britain. And 
 
 [https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/](https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=&utm_campaign=e1c05029-2389-4e27-98c9-e630755b672d "https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=&utm_campaign=e1c05029-2389-4e27-98c9-e630755b672d")
 
@@ -84,13 +98,22 @@ Unfortunetely behind a paywall.
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ny-buswatcher.png)
 
+A great civic tech project looking at bus services in New Jersey. Espacially looking at the quality of the service. 
+
+> _When buses are arriving, how frequently they arrive, and whether adequate spacing is being maintained to ensure good service. These can be viewed by the day, week, month, or year._
+
 [http://www.njbuswatcher.com](http://www.njbuswatcher.com "http://www.njbuswatcher.com")
 
-## Machine Learning Crime Map from local newspaper
+## [Machine Learning Crime Map from local newspaper]()
+
+A German local newspaper uses machine learning to classify police reports into 9 categories and visualize them on a map.   
+They should explain more of the risks just using police reports, because they can have biasses and it will leak into the machine learning model. But interesting start, I will follow along what they do with it. 
 
 [https://www.stuttgarter-zeitung.de/crimemap](https://www.stuttgarter-zeitung.de/crimemap "https://www.stuttgarter-zeitung.de/crimemap")
 
 ## [Protecting New Zealand’s biosecurity via machine learning]()
+
+> _Researchers are working on a program to help everyday Kiwis identify pest species with the use of their smartphone._
 
 [https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/](https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/ "https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/")
 
