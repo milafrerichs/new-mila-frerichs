@@ -11,7 +11,6 @@ Welcome to this new edition of "Weekly Notes", a weekly newsletter about Maps, D
 
 You can find [previsous issues here](https://milafrerichs.com/newsletter)
 
-
 # Geospatial Development
 
 ## [Green Space is Good for Mental Health](https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health)
@@ -39,9 +38,12 @@ I updated my feature comparison of popular mapping libraries post to include mor
 [You can check it out here](http://mappingwithd3.com/feature-comparison/?lsc=mf)
 
 ## FOSS4G UK 2019 tickets now available
-The local Free and Open Source for Geospatial Conference in the UK will be held in Edinburgh in September. 
+
+The local **F**ree and **O**pen **S**ource **S**oftware for **G**eospatial Conference in the UK will be held in Edinburgh in September.
 I will be there, giving a talk and my workshop [Geospatial Data Visualization with d3](https://mappingwithd3.com?lsc=mf).
-Join me and buy your ticket! 
+Join me and buy your ticket!
+
+[https://uk.osgeo.org/foss4guk2019/tickets.html](https://uk.osgeo.org/foss4guk2019/tickets.html "https://uk.osgeo.org/foss4guk2019/tickets.html")
 
 # Data Visualization
 
@@ -83,6 +85,9 @@ Small little project from local newspaper in Switzerland. Looking at rent prices
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/carbon-footprint-world.png)
 
+Interesting dataset and presentation. You see a huge spike in China which should not be a surprise anymore.   
+Unfortunately they used the Mercator projection which disturbs the represented area. But still interesting to explore. 
+
 ## [If We All Left to “Go Back Where We Came From”](https://flowingdata.com/2018/05/16/go-back-where-you-came-from/)
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/leave-us.png)](https://flowingdata.com/2018/05/16/go-back-where-you-came-from/)
@@ -115,7 +120,7 @@ Great project by the Ordnance Survey. They looked at the most complex motorway j
 
 ## [A LIMITED EDITION RUN OF 50 PRINTS TO CELEBRATE THE 50TH ANNIVERSARY OF APOLLO 11.](https://www.madefromdata.com/product/apollo-50?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
 
-Great looking poster! 
+Great looking poster!
 
 # Civic Tech
 
