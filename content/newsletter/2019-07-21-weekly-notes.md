@@ -113,8 +113,9 @@ Great project by the Ordnance Survey. They looked at the most complex motorway j
 
 [https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/](https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/)
 
+## [A LIMITED EDITION RUN OF 50 PRINTS TO CELEBRATE THE 50TH ANNIVERSARY OF APOLLO 11.](https://www.madefromdata.com/product/apollo-50?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
 
-https://www.madefromdata.com/product/apollo-50?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter
+Great looking poster! 
 
 # Civic Tech
 
