@@ -15,15 +15,15 @@ title = "Weekly Notes"
 
 Thirty years of [@NASA_Landsat](https://twitter.com/NASA_Landsat) data helped scientists complete the largest epidemiological study of its kind
 
-> In a sweeping nationwide study, researchers from Denmark’s University of Aarhus found that childhood exposure to green space—parks, forests, rural lands, etc.—reduces the risk for developing an array of psychiatric disorders during adolescence and adulthood.
+> _In a sweeping nationwide study, researchers from Denmark’s University of Aarhus found that childhood exposure to green space—parks, forests, rural lands, etc.—reduces the risk for developing an array of psychiatric disorders during adolescence and adulthood._
 
-Great study and a great use of satellite data. 
+Great study and a great use of satellite data.
 
 [https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health](https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health)
 
 ## [Galileo went down](https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/)
 
-> What is being called a “major outage” by the European Global Navigation Satellite System (GNSS) Agency, or GSA, highlights the critical importance played by the satellite systems that provide accurate positioning
+> _What is being called a “major outage” by the European Global Navigation Satellite System (GNSS) Agency, or GSA, highlights the critical importance played by the satellite systems that provide accurate positioning_
 
 [https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/](https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/)
 
@@ -35,17 +35,17 @@ I updated my feature comparison of popular mapping libraries post to include mor
 
 # Data Visualization
 
-A lot of great content over the last week. I had a hard time to decide what not to include :) 
+A lot of great content over the last week. I had a hard time to decide what not to include :)
 
 ## [To prepare for rising temperatures, scientists map urban ‘hot spots’](https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/)
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/heat-island.jpg)](https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/)
 
-This is a great looking map and very important for future urban developments and thinking about how we can improve the livability of cities. 
+This is a great looking map and very important for future urban developments and thinking about how we can improve the livability of cities.
 
 > _Volunteers drove three one-hour sessions throughout the day, recording air temperature on prescribed routes. Together, they collected over 75,000 temperature measurements from across each city._
 
-I might take a look at Berlin, but instead of using volunteers I take a look at the Sentinel Land Surface Temperature (LST) Data. It is not as detailed as volunteer based data but should be a good estimate. 
+I might take a look at Berlin, but instead of using volunteers I take a look at the Sentinel Land Surface Temperature (LST) Data. It is not as detailed as volunteer based data but should be a good estimate.
 
 More explanation on their method here: [https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and](https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and)
 
@@ -55,7 +55,7 @@ More explanation on their method here: [https://www.noaa.gov/education/stories/s
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/lake-access-swiss.png)](https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/)
 
-Great use of images, small multiples and encoding the amount of access at the bottom of the images. Overall great project, and they did it all by hand. Worth checking out. 
+Great use of images, small multiples and encoding the amount of access at the bottom of the images. Overall great project, and they did it all by hand. Worth checking out.
 
 [https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/](https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/)
 
@@ -63,9 +63,9 @@ Great use of images, small multiples and encoding the amount of access at the bo
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-prices-switherland-transit.png)](https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/)
 
-Small little project from local newspaper in Switzerland. Looking at rent prices near light rail line. 
+Small little project from local newspaper in Switzerland. Looking at rent prices near light rail line.
 
-**Unfortunetely behind a paywall.** 
+**Unfortunetely behind a paywall.**
 
 [https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/](https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/)
 
@@ -77,7 +77,7 @@ Small little project from local newspaper in Switzerland. Looking at rent prices
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/leave-us.png)](https://flowingdata.com/2018/05/16/go-back-where-you-came-from/)
 
-The map is a great response to the Trumpian claim that the four congresswomen should "go back where they came from". 
+The map is a great response to the Trumpian claim that the four congresswomen should "go back where they came from".
 
 [https://flowingdata.com/2018/05/16/go-back-where-you-came-from/](https://flowingdata.com/2018/05/16/go-back-where-you-came-from/)
 
@@ -85,7 +85,7 @@ The map is a great response to the Trumpian claim that the four congresswomen sh
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/abortion-usa.jpg)](https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/)
 
-Disturbing map about abortion access for women in poverty. But an important addition to the national discussion on the topic. 
+Disturbing map about abortion access for women in poverty. But an important addition to the national discussion on the topic.
 
 [https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f](https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/)
 
@@ -93,7 +93,7 @@ Disturbing map about abortion access for women in poverty. But an important addi
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/highway-junctions-uk.png)](https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/)
 
-Great project by the Ordnance Survey. They looked at the most complex motorway junctions in Britain. They even have a poster version you can print out! 
+Great project by the Ordnance Survey. They looked at the most complex motorway junctions in Britain. They even have a poster version you can print out!
 
 > _Every road in each junction was assigned a different colour. Making more primary roads either red or green, and secondary roads either blue or yellow. Where one road changes over to another road, a gradient from one colour to the next was used to create the final product._
 
@@ -101,22 +101,22 @@ Great project by the Ordnance Survey. They looked at the most complex motorway j
 
 # Civic Tech
 
-## New Jersey Bus Watcher
+## [New Jersey Bus Watcher](http://www.njbuswatcher.com)
 
-![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ny-buswatcher.png)
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ny-buswatcher.png)](http://www.njbuswatcher.com)
 
-A great civic tech project looking at bus services in New Jersey. Espacially looking at the quality of the service. 
+A great civic tech project looking at bus services in New Jersey. Espacially looking at the quality of the service.
 
 > _When buses are arriving, how frequently they arrive, and whether adequate spacing is being maintained to ensure good service. These can be viewed by the day, week, month, or year._
 
-[http://www.njbuswatcher.com](http://www.njbuswatcher.com "http://www.njbuswatcher.com")
+[http://www.njbuswatcher.com](http://www.njbuswatcher.com)
 
-## [Machine Learning Crime Map from local newspaper]()
+## [Machine Learning Crime Map from local newspaper](https://www.stuttgarter-zeitung.de/crimemap)
 
-A German local newspaper uses machine learning to classify police reports into 9 categories and visualize them on a map.   
-They should explain more of the risks just using police reports, because they can have biasses and it will leak into the machine learning model. But interesting start, I will follow along what they do with it. 
+A German local newspaper uses machine learning to classify police reports into 9 categories and visualize them on a map.  
+They should explain more of the risks just using police reports, because they can have biasses and it will leak into the machine learning model. But interesting start, I will follow along what they do with it.
 
-[https://www.stuttgarter-zeitung.de/crimemap](https://www.stuttgarter-zeitung.de/crimemap "https://www.stuttgarter-zeitung.de/crimemap")
+[https://www.stuttgarter-zeitung.de/crimemap](https://www.stuttgarter-zeitung.de/crimemap)
 
 ## [Protecting New Zealand’s biosecurity via machine learning]()
 
@@ -126,7 +126,7 @@ They should explain more of the risks just using police reports, because they ca
 
 # Business/Consulting
 
-I'm currently in a group with other consultants and they shared some resources with me. I think you might find some of these interesting. I definitely did :) 
+I'm currently in a group with other consultants and they shared some resources with me. I think you might find some of these interesting. I definitely did :)
 
 # Photo of the Week
 
