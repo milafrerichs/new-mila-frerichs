@@ -1,5 +1,5 @@
 +++
-date = "2019-07-21T00:00:00+02:00"
+date = "2019-07-21T09:00:00+02:00"
 description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
 images = ["https://res.cloudinary.com/civicvision/image/upload/v1563740205/milafrerichs.com/newsletter/social-media-header/weekly-notes-2019-07-21.png"]
 summary = "Green space is good for mental health, mapping 'hot spots' in urban areas, accessibility of lakes in Switzerland and more. "
