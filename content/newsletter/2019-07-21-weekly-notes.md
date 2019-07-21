@@ -85,8 +85,8 @@ Small little project from local newspaper in Switzerland. Looking at rent prices
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/carbon-footprint-world.png)
 
-Interesting dataset and presentation. You see a huge spike in China which should not be a surprise anymore.   
-Unfortunately they used the Mercator projection which disturbs the represented area. But still interesting to explore. 
+Interesting dataset and presentation. You see a huge spike in China which should not be a surprise anymore.  
+Unfortunately they used the Mercator projection which disturbs the represented area. But still interesting to explore.
 
 > Just 100 cities are responsible for 18% of CO2 emissions.
 
@@ -159,20 +159,20 @@ They should explain more of the risks just using police reports, because they ca
 
 I'm currently part of a group with other consultants and they shared some resources with me. I think you might find some of these interesting. I definitely did :)
 
-[5 Ways To Use Digital Doping To Gain a (Legal) Athletic Edge](http://wlcm.growthtools.net/VOiIwvltXzaxatZ)
-[Free Digital Compliance Kit: Privacy Policy & More For Your Webpages & Email Communications](https://websitelegalpages.lawyer2warrior.com/website-legal-pages-package-optin)
-[5 Essential Skills Every Technologist Must Have](https://elevaros.com/5-essential-skills/)
-[5 Best Meal Prep Essentials for Busy Moms](https://welcomely.growthtools.com/p/mealprepessentials)
-[60-Seconds to Your Revenue Goal calculator](http://wlcm.growthtools.net/ArcODeIKKIbQwer)
-[5 Resources for Starting a Business in the Netherlands](https://welcomely.growthtools.com/p/smesolutions.nl)
-[5 Best Resources to improve your EDI environment](http://wlcm.growthtools.net/yyJjSRYvCrvdlUK)
-[Happy Retirement: A Simple Guide to Your Next Big Adventure](https://www.assetdynamics.com/free-ebook)
-[Work Up to Your First Solo Trip in 5 Steps](https://www.shegoessolotravel.com/work-up-to-your-first-solo-trip)
-[How To Help Your Player Turn Frustration Into Focus](https://welcomely.growthtools.com/p/xwqLVIngDYfwPdb?preview=true)
-[The 5 Best Resources for Finding your Perfect Job!](http://primalcareer.com/5-best-resources-to-find-a-perfect-job/)
-[5 Resources to Develop Your Leadership ](http://wlcm.growthtools.net/QPgaEwsGCjYNNxc)
-[5 Must-Use Productivity Tools to Grow Your Business](https://jeroenroosenboom.com/resources/)
-[5 Best Copywriting Resources for Speakers: Help your written word become as powerful as your spoken word.](https://welcomely.growthtools.com/p/tMFUmKJyiRiQlQK?preview=true)
+[5 Ways To Use Digital Doping To Gain a (Legal) Athletic Edge](http://wlcm.growthtools.net/VOiIwvltXzaxatZ)  
+[Free Digital Compliance Kit: Privacy Policy & More For Your Webpages & Email Communications](https://websitelegalpages.lawyer2warrior.com/website-legal-pages-package-optin)  
+[5 Essential Skills Every Technologist Must Have](https://elevaros.com/5-essential-skills/)  
+[5 Best Meal Prep Essentials for Busy Moms](https://welcomely.growthtools.com/p/mealprepessentials)  
+[60-Seconds to Your Revenue Goal calculator](http://wlcm.growthtools.net/ArcODeIKKIbQwer)  
+[5 Resources for Starting a Business in the Netherlands](https://welcomely.growthtools.com/p/smesolutions.nl)  
+[5 Best Resources to improve your EDI environment](http://wlcm.growthtools.net/yyJjSRYvCrvdlUK)  
+[Happy Retirement: A Simple Guide to Your Next Big Adventure](https://www.assetdynamics.com/free-ebook)  
+[Work Up to Your First Solo Trip in 5 Steps](https://www.shegoessolotravel.com/work-up-to-your-first-solo-trip)  
+[How To Help Your Player Turn Frustration Into Focus](https://welcomely.growthtools.com/p/xwqLVIngDYfwPdb?preview=true)  
+[The 5 Best Resources for Finding your Perfect Job!](http://primalcareer.com/5-best-resources-to-find-a-perfect-job/)  
+[5 Resources to Develop Your Leadership ](http://wlcm.growthtools.net/QPgaEwsGCjYNNxc)  
+[5 Must-Use Productivity Tools to Grow Your Business](https://jeroenroosenboom.com/resources/)  
+[5 Best Copywriting Resources for Speakers: Help your written word become as powerful as your spoken word.](https://welcomely.growthtools.com/p/tMFUmKJyiRiQlQK?preview=true)  
 
 # Photo of the Week
 
