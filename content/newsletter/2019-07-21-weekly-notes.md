@@ -79,6 +79,10 @@ Small little project from local newspaper in Switzerland. Looking at rent prices
 
 The map is a great response to the Trumpian claim that the four congresswomen should "go back where they came from".
 
+> That leaves about 2.1 million Native American or Alaska Natives and 0.5 million Native Hawaiian or Other Pacific Islander. After that, it’s an empty shell of a country.
+
+> A simplified view, but you get the point. Everyone comes from somewhere.
+
 [https://flowingdata.com/2018/05/16/go-back-where-you-came-from/](https://flowingdata.com/2018/05/16/go-back-where-you-came-from/)
 
 ## [Abortion access is more difficult for women in poverty](https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/)
