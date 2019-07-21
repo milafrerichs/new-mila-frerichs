@@ -6,10 +6,215 @@
     <description>Weekly Newsletter of Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2019 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="http://milafrerichs.de/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>http://milafrerichs.de/newsletter/2019-07-21-weekly-notes/</link>
+                <pubDate>Sun, 21 Jul 2019 00:00:00 +0200</pubDate>
+                
+                <guid>http://milafrerichs.de/newsletter/2019-07-21-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;Welcome to this new edition of &amp;ldquo;Weekly Notes&amp;rdquo;, a weekly newsletter about Maps, Data Visualization, Civic Tech and Open Data.&lt;/p&gt;
+
+&lt;p&gt;You can find &lt;a href=&#34;https://milafrerichs.com/newsletter&#34;&gt;previsous issues here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a lot of great maps and projects in this newsletter. Enjoy!&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;green-space-is-good-for-mental-health-https-earthobservatory-nasa-gov-images-145305-green-space-is-good-for-mental-health&#34;&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health&#34;&gt;Green Space is Good for Mental Health&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/green-space-denmark.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thirty years of &lt;a href=&#34;https://twitter.com/NASA_Landsat&#34;&gt;@NASA_Landsat&lt;/a&gt; data helped scientists complete the largest epidemiological study of its kind&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;In a sweeping nationwide study, researchers from Denmark’s University of Aarhus found that childhood exposure to green space—parks, forests, rural lands, etc.—reduces the risk for developing an array of psychiatric disorders during adolescence and adulthood.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great study and a great use of satellite data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health&#34;&gt;https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;galileo-went-down-https-www-gislounge-com-european-global-position-system-failure-points-to-the-importance-of-location-technology&#34;&gt;&lt;a href=&#34;https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/&#34;&gt;Galileo went down&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;What is being called a “major outage” by the European Global Navigation Satellite System (GNSS) Agency, or GSA, highlights the critical importance played by the satellite systems that provide accurate positioning&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/&#34;&gt;https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;feature-comparison-mapping-libraries-http-mappingwithd3-com-feature-comparison-lsc-mf&#34;&gt;&lt;a href=&#34;http://mappingwithd3.com/feature-comparison/?lsc=mf&#34;&gt;Feature Comparison Mapping Libraries&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I updated my feature comparison of popular mapping libraries post to include more info about the specific features. I looked at 13 features and compared them between 5 libraries that I consider the leading players: mapbox.js, OpenLayers, Leaflet, Google Maps, D3.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mappingwithd3.com/feature-comparison/?lsc=mf&#34;&gt;You can check it out here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;foss4g-uk-2019-tickets-now-available&#34;&gt;FOSS4G UK 2019 tickets now available&lt;/h2&gt;
+
+&lt;p&gt;The local &lt;strong&gt;F&lt;/strong&gt;ree and &lt;strong&gt;O&lt;/strong&gt;pen &lt;strong&gt;S&lt;/strong&gt;ource &lt;strong&gt;S&lt;/strong&gt;oftware for &lt;strong&gt;G&lt;/strong&gt;eospatial Conference in the UK will be held in Edinburgh in September.
+I will be there, giving a talk and my workshop &lt;a href=&#34;https://mappingwithd3.com?lsc=mf&#34;&gt;Geospatial Data Visualization with d3&lt;/a&gt;.
+Join me and buy your ticket!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uk.osgeo.org/foss4guk2019/tickets.html&#34; title=&#34;https://uk.osgeo.org/foss4guk2019/tickets.html&#34;&gt;https://uk.osgeo.org/foss4guk2019/tickets.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;p&gt;A lot of great content over the last week. I had a hard time to decide what not to include :)&lt;/p&gt;
+
+&lt;h2 id=&#34;to-prepare-for-rising-temperatures-scientists-map-urban-hot-spots-https-www-nationalgeographic-com-magazine-2019-08-map-shows-urban-heat-islands-washington-dc&#34;&gt;&lt;a href=&#34;https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/&#34;&gt;To prepare for rising temperatures, scientists map urban ‘hot spots’&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/heat-island.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a great looking map and very important for future urban developments and thinking about how we can improve the livability of cities.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Volunteers drove three one-hour sessions throughout the day, recording air temperature on prescribed routes. Together, they collected over 75,000 temperature measurements from across each city.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I might take a look at Berlin, but instead of using volunteers I take a look at the Sentinel Land Surface Temperature (LST) Data. It is not as detailed as volunteer based data but should be a good estimate.&lt;/p&gt;
+
+&lt;p&gt;More explanation on their method here: &lt;a href=&#34;https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and&#34;&gt;https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/&#34;&gt;https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;which-lakes-are-accessible-for-the-public-https-www-addendum-org-seezugang-welche-seen-zugaenglich-sind&#34;&gt;&lt;a href=&#34;https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/&#34;&gt;Which lakes are accessible for the public?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/lake-access-swiss.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Great use of images, small multiples and encoding the amount of access at the bottom of the images. Overall great project, and they did it all by hand. Worth checking out.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/&#34;&gt;https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;along-which-public-transit-light-rail-line-is-the-rent-the-highest-https-interaktiv-tagesanzeiger-ch-2019-miet-map-zuerich&#34;&gt;&lt;a href=&#34;https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/&#34;&gt;Along which public transit light rail line is the rent the highest?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-prices-switherland-transit.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Small little project from local newspaper in Switzerland. Looking at rent prices near light rail line.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unfortunetely behind a paywall.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/&#34;&gt;https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;seoul-guangzhou-and-new-york-city-top-list-of-cities-with-largest-carbon-footprints-how-does-your-city-rank-https-thecityfix-com-blog-seoul-guangzhou-new-york-city-top-list-cities-largest-carbon-footprints-city-rank-emily-cassidy-daniel-moran&#34;&gt;&lt;a href=&#34;https://thecityfix.com/blog/seoul-guangzhou-new-york-city-top-list-cities-largest-carbon-footprints-city-rank-emily-cassidy-daniel-moran/&#34;&gt;&lt;strong&gt;Seoul, Guangzhou and New York City Top List of Cities With Largest Carbon Footprints. How Does Your City Rank?&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/carbon-footprint-world.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Interesting dataset and presentation. You see a huge spike in China which should not be a surprise anymore.&lt;br /&gt;
+Unfortunately they used the Mercator projection which disturbs the represented area. But still interesting to explore.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Just 100 cities are responsible for 18% of CO2 emissions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;if-we-all-left-to-go-back-where-we-came-from-https-flowingdata-com-2018-05-16-go-back-where-you-came-from&#34;&gt;&lt;a href=&#34;https://flowingdata.com/2018/05/16/go-back-where-you-came-from/&#34;&gt;If We All Left to “Go Back Where We Came From”&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://flowingdata.com/2018/05/16/go-back-where-you-came-from/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/leave-us.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The map is a great response to the Trumpian claim that the four congresswomen should &amp;ldquo;go back where they came from&amp;rdquo;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;That leaves about 2.1 million Native American or Alaska Natives and 0.5 million Native Hawaiian or Other Pacific Islander. After that, it’s an empty shell of a country.&lt;/p&gt;
+
+&lt;p&gt;A simplified view, but you get the point. Everyone comes from somewhere.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://flowingdata.com/2018/05/16/go-back-where-you-came-from/&#34;&gt;https://flowingdata.com/2018/05/16/go-back-where-you-came-from/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;abortion-access-is-more-difficult-for-women-in-poverty-https-www-washingtonpost-com-national-2019-07-10-abortion-access-is-more-difficult-women-poverty&#34;&gt;&lt;a href=&#34;https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/&#34;&gt;Abortion access is more difficult for women in poverty&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/abortion-usa.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Disturbing map about abortion access for women in poverty. But an important addition to the national discussion on the topic.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/&#34;&gt;https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;britain-s-most-complex-motorway-junctions-https-www-ordnancesurvey-co-uk-blog-2019-07-britains-most-complex-motorway-junctions&#34;&gt;&lt;a href=&#34;https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/&#34;&gt;Britain’s most complex motorway junctions &lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/highway-junctions-uk.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Great project by the Ordnance Survey. They looked at the most complex motorway junctions in Britain. They even have a poster version you can print out!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Every road in each junction was assigned a different colour. Making more primary roads either red or green, and secondary roads either blue or yellow. Where one road changes over to another road, a gradient from one colour to the next was used to create the final product.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/&#34;&gt;https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-limited-edition-run-of-50-prints-to-celebrate-the-50th-anniversary-of-apollo-11-https-www-madefromdata-com-product-apollo-50-utm-campaign-spatial-20awareness-utm-medium-email-utm-source-revue-20newsletter&#34;&gt;&lt;a href=&#34;https://www.madefromdata.com/product/apollo-50?utm_campaign=Spatial%20Awareness&amp;amp;utm_medium=email&amp;amp;utm_source=Revue%20newsletter&#34;&gt;A LIMITED EDITION RUN OF 50 PRINTS TO CELEBRATE THE 50TH ANNIVERSARY OF APOLLO 11.&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Great looking poster!&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;h2 id=&#34;new-jersey-bus-watcher-http-www-njbuswatcher-com&#34;&gt;&lt;a href=&#34;http://www.njbuswatcher.com&#34;&gt;New Jersey Bus Watcher&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.njbuswatcher.com&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ny-buswatcher.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A great civic tech project looking at bus services in New Jersey. Espacially looking at the quality of the service.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;When buses are arriving, how frequently they arrive, and whether adequate spacing is being maintained to ensure good service. These can be viewed by the day, week, month, or year.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.njbuswatcher.com&#34;&gt;http://www.njbuswatcher.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;volunteer-assisted-capital-area-food-bank-https-www-giscorps-org-cafb-245&#34;&gt;&lt;a href=&#34;https://www.giscorps.org/cafb-245/&#34;&gt;Volunteer Assisted Capital Area Food Bank&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;GISCorps volunteer Sarah Welt (@iMapOpenData)  put her geospatial skills to work updating and enhancing the Hunger Heat Map for Capital Area Food Bank in Washington, DC&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.giscorps.org/cafb-245/&#34;&gt;https://www.giscorps.org/cafb-245/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;machine-learning-crime-map-from-local-newspaper-https-www-stuttgarter-zeitung-de-crimemap&#34;&gt;&lt;a href=&#34;https://www.stuttgarter-zeitung.de/crimemap&#34;&gt;Machine Learning Crime Map from local newspaper&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A German local newspaper uses machine learning to classify police reports into 9 categories and visualize them on a map.&lt;br /&gt;
+They should explain more of the risks just using police reports, because they can have biasses and it will leak into the machine learning model. But interesting start, I will follow along what they do with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.stuttgarter-zeitung.de/crimemap&#34;&gt;https://www.stuttgarter-zeitung.de/crimemap&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;protecting-new-zealand-s-biosecurity-via-machine-learning-https-www-opengovasia-com-protecting-new-zealands-biosecurity-via-machine-learning&#34;&gt;&lt;a href=&#34;https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/&#34;&gt;Protecting New Zealand’s biosecurity via machine learning&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Researchers are working on a program to help everyday Kiwis identify pest species with the use of their smartphone.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/&#34;&gt;https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I&amp;rsquo;m currently part of a group with other consultants and they shared some resources with me. I think you might find some of these interesting. I definitely did :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wlcm.growthtools.net/VOiIwvltXzaxatZ&#34;&gt;5 Ways To Use Digital Doping To Gain a (Legal) Athletic Edge&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://websitelegalpages.lawyer2warrior.com/website-legal-pages-package-optin&#34;&gt;Free Digital Compliance Kit: Privacy Policy &amp;amp; More For Your Webpages &amp;amp; Email Communications&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://elevaros.com/5-essential-skills/&#34;&gt;5 Essential Skills Every Technologist Must Have&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://welcomely.growthtools.com/p/mealprepessentials&#34;&gt;5 Best Meal Prep Essentials for Busy Moms&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://wlcm.growthtools.net/ArcODeIKKIbQwer&#34;&gt;60-Seconds to Your Revenue Goal calculator&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://welcomely.growthtools.com/p/smesolutions.nl&#34;&gt;5 Resources for Starting a Business in the Netherlands&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://wlcm.growthtools.net/yyJjSRYvCrvdlUK&#34;&gt;5 Best Resources to improve your EDI environment&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.assetdynamics.com/free-ebook&#34;&gt;Happy Retirement: A Simple Guide to Your Next Big Adventure&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.shegoessolotravel.com/work-up-to-your-first-solo-trip&#34;&gt;Work Up to Your First Solo Trip in 5 Steps&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://welcomely.growthtools.com/p/xwqLVIngDYfwPdb?preview=true&#34;&gt;How To Help Your Player Turn Frustration Into Focus&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://primalcareer.com/5-best-resources-to-find-a-perfect-job/&#34;&gt;The 5 Best Resources for Finding your Perfect Job!&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://wlcm.growthtools.net/QPgaEwsGCjYNNxc&#34;&gt;5 Resources to Develop Your Leadership &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://jeroenroosenboom.com/resources/&#34;&gt;5 Must-Use Productivity Tools to Grow Your Business&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://welcomely.growthtools.com/p/tMFUmKJyiRiQlQK?preview=true&#34;&gt;5 Best Copywriting Resources for Speakers: Help your written word become as powerful as your spoken word.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you find this newsletter useful I would love to hear from you.&lt;br /&gt;
+A few others have reached out to me, so don&amp;rsquo;t be shy. I read each and every email and respond as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;And feel free to share it with someone who might be interested in this newsletter.&lt;br /&gt;
+Send them to the &lt;a href=&#34;http://milafrerichs.com/newsletter&#34;&gt;newsletter overview.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
         
             <item>
                 <title>Weekly Notes</title>
