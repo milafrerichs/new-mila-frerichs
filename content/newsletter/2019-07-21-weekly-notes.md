@@ -11,6 +11,9 @@ Welcome to this new edition of "Weekly Notes", a weekly newsletter about Maps, D
 
 You can find [previsous issues here](https://milafrerichs.com/newsletter)
 
+There are a lot of great maps and projects in this newsletter. Enjoy!
+
+
 # Geospatial Development
 
 ## [Green Space is Good for Mental Health](https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health)
@@ -149,11 +152,11 @@ They should explain more of the risks just using police reports, because they ca
 
 [https://www.stuttgarter-zeitung.de/crimemap](https://www.stuttgarter-zeitung.de/crimemap)
 
-## [Protecting New Zealand’s biosecurity via machine learning]()
+## [Protecting New Zealand’s biosecurity via machine learning](https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/)
 
 > _Researchers are working on a program to help everyday Kiwis identify pest species with the use of their smartphone._
 
-[https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/](https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/ "https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/")
+[https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/](https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/)
 
 # Business/Consulting
 
@@ -174,8 +177,10 @@ I'm currently part of a group with other consultants and they shared some resour
 [5 Must-Use Productivity Tools to Grow Your Business](https://jeroenroosenboom.com/resources/)  
 [5 Best Copywriting Resources for Speakers: Help your written word become as powerful as your spoken word.](https://welcomely.growthtools.com/p/tMFUmKJyiRiQlQK?preview=true)  
 
-# Photo of the Week
+If you find this newsletter useful I would love to hear from you.   
+A few others have reached out to me, so don't be shy. I read each and every email and respond as soon as possible. 
 
-# Tip of the week
+And feel free to share it with someone who might be interested in this newsletter.  
+Send them to the [newsletter overview.](http://milafrerichs.com/newsletter)
 
 <div class="rm-area-end-of-content"></div>
