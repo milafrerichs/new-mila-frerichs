@@ -4,7 +4,7 @@ description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civ
 draft = true
 images = []
 summary = ""
-title = "Weekly Notes"
+title = "Weekly Notes: Template"
 
 +++
 # Geospatial Development
