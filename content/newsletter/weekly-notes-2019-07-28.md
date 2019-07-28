@@ -34,11 +34,11 @@ Another gorgeous viz related to satellites. You can see how the sat images are b
 
 And yet another sat images related story. Regarding the earthquake in CA.
 
-[https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake](https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake)
-
 ## Lion King no more
 
 > that lion numbers have dropped by half since _The Lion King_ premiered in theaters in 1994.
+
+Sad visualization about the decline in lion population. 
 
 ## [Greenest cities in German state](https://bnn.de/lokales/karlsruhe/gruenste-staedte-baden-wuerttemberg-ranking-parks-gruenflaechen)
 
