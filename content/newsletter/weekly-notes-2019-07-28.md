@@ -7,6 +7,10 @@ summary = ""
 title = "Weekly Notes: Template"
 
 +++
+Welcome to this new edition of “Weekly Notes”, a weekly newsletter about Maps, Data Visualization, Civic Tech and Open Data.
+
+You can find previous issues [here](http://milafrerichs.com/newsletter).
+
 # Geospatial Development
 
 ## [Building Footprint Comparison](https://demos.azavea.com/building-footprint-comparison/#3.96/35.41/-105.84)
@@ -37,6 +41,8 @@ Another gorgeous visualization related to satellites and their data. You can see
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ridgecrest_alos2_2019189_lrg.jpg)](https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake)
 
+> The ground beneath Southern California moved furiously in early July 2019 due to two large earthquakes, one of which was the strongest in the region in at least two decades. Remote sensing scientists are getting better at measuring such events and showing how they disrupt and move the land surface.
+
 And yet another sat images related story. Regarding the earthquake in CA. I am fascinated by these natural disasters. And I might do another visualization in that space soon. :) 
 
 ## [Lion King no more](https://www.nationalgeographic.com/animals/2019/07/lion-numbers-halved-since-original-lion-king/)
@@ -60,6 +66,10 @@ Reusing data from an older visualization done by the Berliner Morgenpost a local
 A [new Brigade](https://twitter.com/open_eugene) is welcomed in the Code for America family! Looking forward what you are producing :) 
 
 ## [Hacking for Housing: How open data and civic hacking creates wins for housing advocates](https://sunlightfoundation.com/2019/07/22/hacking-for-housing-how-open-data-and-civic-hacking-creates-wins-for-housing-advocates/)
+
+> Throughout this summer, I’m going to build a tool for civic hackers to create databases of housing data for their own cities. My goal is to build on the work that civic hackers have initiated in New York, DC, and elsewhere, thereby reducing the startup effort required to develop apps to support housing advocacy efforts.
+
+Great initiative from the Sunlight Foundation. Will definitely be in touch with them. 
 
 ## [Belgium: government source code is public information](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive)
 
@@ -89,10 +99,8 @@ The Open Knowledge Foundation Germany is collecting environment and sustainabili
 
 This is great news. CivicTech and GovTech needs more of these accelerators!
 
-# Business/Consulting
-
 # Photo of the Week
 
-# Tip of the week
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5410.jpg)
 
 <div class="rm-area-end-of-content"></div>
