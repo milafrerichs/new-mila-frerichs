@@ -23,9 +23,13 @@ I recently used the Microsoft building footprint for my Zoning analysis in San D
 
 ## [Second heatwave across europe](https://earthobservatory.nasa.gov/images/145377/a-second-scorching-heatwave-in-europe)
 
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/europe_geos5_2019206_lrg.png)](https://earthobservatory.nasa.gov/images/145377/a-second-scorching-heatwave-in-europe)
+
 I love satellite data and die to the current heat wave that we experience as well I'm thought I share this picture with you.
 
 ## [Planet](https://nbremer.github.io/planet-globe/)
+
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/planet-satellites.png)](https://nbremer.github.io/planet-globe/)
 
 Another gorgeous viz related to satellites. You can see how the sat images are being constructed. very nice.
 
@@ -37,7 +41,9 @@ Another gorgeous viz related to satellites. You can see how the sat images are b
 
 And yet another sat images related story. Regarding the earthquake in CA.
 
-## Lion King no more
+## [Lion King no more](https://www.nationalgeographic.com/animals/2019/07/lion-numbers-halved-since-original-lion-king/)
+
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/lion-afrika.jpg)](https://www.nationalgeographic.com/animals/2019/07/lion-numbers-halved-since-original-lion-king/)
 
 > that lion numbers have dropped by half since _The Lion King_ premiered in theaters in 1994.
 
@@ -58,6 +64,8 @@ A [new Brigade](https://twitter.com/open_eugene) is welcomed in the Code for Ame
 ## [Hacking for Housing: How open data and civic hacking creates wins for housing advocates](https://sunlightfoundation.com/2019/07/22/hacking-for-housing-how-open-data-and-civic-hacking-creates-wins-for-housing-advocates/)
 
 ## [Belgium: government source code is public information](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive)
+
+> The government of Belgium considers the source code of software solutions created for or by its public services to be public information that must be made available on request. 
 
 [https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive)
 
