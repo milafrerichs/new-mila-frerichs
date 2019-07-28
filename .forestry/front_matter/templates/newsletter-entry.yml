@@ -34,6 +34,7 @@ fields:
       format: markdown
   label: Summary
 pages:
+- content/newsletter/weekly-notes-template.md
 - content/newsletter/weekly-notes.md
 - content/newsletter/2019-07-21-weekly-notes.md
 - content/newsletter/2019-07-01-weekly-notes.md
