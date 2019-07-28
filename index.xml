@@ -6,10 +6,23 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2019 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2019 08:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Notes</title>
+      <link>http://milafrerichs.de/newsletter/weekly-notes-2019-07-28/</link>
+      <pubDate>Sun, 28 Jul 2019 08:00:00 +0200</pubDate>
+      
+      <guid>http://milafrerichs.de/newsletter/weekly-notes-2019-07-28/</guid>
+      <description>Welcome to this new edition of “Weekly Notes”, a weekly newsletter about Maps, Data Visualization, Civic Tech, and Open Data.
+You can find previous issues here.
+Geospatial Development Building Footprint Comparison 
+Fascinating comparison of building footprints from Microsoft and OpenStreetMap.
+I recently used the Microsoft building footprint for my Zoning analysis in San Diego. When I looked for building data I found that the Microsoft dataset was more complete than the Open Street Map data.</description>
+    </item>
     
     <item>
       <title>Weekly Notes</title>
