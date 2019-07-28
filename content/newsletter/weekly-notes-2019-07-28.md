@@ -1,10 +1,10 @@
 +++
-date = "2019-07-21T00:00:00+02:00"
+date = "2019-07-28T08:00:00+02:00"
 description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
 draft = true
 images = []
 summary = ""
-title = "Weekly Notes: Template"
+title = "Weekly Notes"
 
 +++
 Welcome to this new edition of “Weekly Notes”, a weekly newsletter about Maps, Data Visualization, Civic Tech, and Open Data.
