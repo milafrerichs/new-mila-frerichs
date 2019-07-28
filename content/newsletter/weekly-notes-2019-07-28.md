@@ -1,7 +1,6 @@
 +++
 date = "2019-07-28T08:00:00+02:00"
 description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
-draft = true
 images = []
 summary = ""
 title = "Weekly Notes"
