@@ -25,21 +25,19 @@ I recently used the Microsoft building footprint for my Zoning analysis in San D
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/europe_geos5_2019206_lrg.png)](https://earthobservatory.nasa.gov/images/145377/a-second-scorching-heatwave-in-europe)
 
-I love satellite data and die to the current heat wave that we experience as well I'm thought I share this picture with you.
+I love satellite data and due to the current heat wave that we experience here in Europe, I'm thought I share this picture with you. We're hitting up to 41°C (107°F) in Germany. Not in Berlin, but still crazy. 
 
 ## [Planet](https://nbremer.github.io/planet-globe/)
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/planet-satellites.png)](https://nbremer.github.io/planet-globe/)
 
-Another gorgeous viz related to satellites. You can see how the sat images are being constructed. very nice.
-
-[https://nbremer.github.io/planet-globe/](https://nbremer.github.io/planet-globe/)
+Another gorgeous visualization related to satellites and their data. You can see how the satellite images are being constructed; very nice.
 
 ## [Measuring Movement from the Ridgecrest Quake](https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake)
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ridgecrest_alos2_2019189_lrg.jpg)](https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake)
 
-And yet another sat images related story. Regarding the earthquake in CA.
+And yet another sat images related story. Regarding the earthquake in CA. I am fascinated by these natural disasters. And I might do another visualization in that space soon. :) 
 
 ## [Lion King no more](https://www.nationalgeographic.com/animals/2019/07/lion-numbers-halved-since-original-lion-king/)
 
@@ -47,27 +45,27 @@ And yet another sat images related story. Regarding the earthquake in CA.
 
 > that lion numbers have dropped by half since _The Lion King_ premiered in theaters in 1994.
 
-Sad visualization about the decline in lion population.
+Sad visualization about the decline in lion population. I hope some day I will still be able to see one of these magnificent creatures. (Not in a zoo of course :) )
 
 ## [Greenest cities in German state](https://bnn.de/lokales/karlsruhe/gruenste-staedte-baden-wuerttemberg-ranking-parks-gruenflaechen)
 
-Reusing data from an older visualization done by the Morgenpost the local newspaper showed the greenest cities in their state. (in german only :) )
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/08_gruene_staedte_mannheim.jpg)
 
-[https://bnn.de/lokales/karlsruhe/gruenste-staedte-baden-wuerttemberg-ranking-parks-gruenflaechen](https://bnn.de/lokales/karlsruhe/gruenste-staedte-baden-wuerttemberg-ranking-parks-gruenflaechen)
+Reusing data from an older visualization done by the Berliner Morgenpost a local newspaper showed the greenest cities in their state. (in german only :) )
 
 # Civic Tech
 
 ## Welcome Eugene: Code for America adds new Brigade in Eugene, OR
 
-A [new Brigade](https://twitter.com/open_eugene) is welcomed in the Code for America family!
+A [new Brigade](https://twitter.com/open_eugene) is welcomed in the Code for America family! Looking forward what you are producing :) 
 
 ## [Hacking for Housing: How open data and civic hacking creates wins for housing advocates](https://sunlightfoundation.com/2019/07/22/hacking-for-housing-how-open-data-and-civic-hacking-creates-wins-for-housing-advocates/)
 
 ## [Belgium: government source code is public information](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive)
 
-> The government of Belgium considers the source code of software solutions created for or by its public services to be public information that must be made available on request. 
+> The government of Belgium considers the source code of software solutions created for or by its public services to be public information that must be made available on request.
 
-[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive)
+If this initiative succeed it could be a model for other countries. We need to keep pushing that eventually all government source code is Open Source! We already paid for it anyway!
 
 ## [Pittsburgh released parking transaction data](http://www.wprdc.org/news/published-data-pittsburgh-parking-transactions/)
 
