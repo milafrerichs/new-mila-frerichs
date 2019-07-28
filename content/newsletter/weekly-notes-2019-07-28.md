@@ -11,6 +11,8 @@ title = "Weekly Notes: Template"
 
 ## [Building Footprint Comparison](https://demos.azavea.com/building-footprint-comparison/#3.96/35.41/-105.84)
 
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/building-footprints.png)](https://demos.azavea.com/building-footprint-comparison/#3.96/35.41/-105.84)
+
 Very interesting comparison of building footprints from Microsoft and OpenStreetMap.
 
 I recently used the Microsoft building footprint for my Zoning analysis in San Diego. And when I looked for building data I found that the Microsoft dataset was more complete than the Open Street Map data and if you look at the map it confirms it. And shows even more. very interesting, thanks for doing this.
@@ -22,7 +24,6 @@ I recently used the Microsoft building footprint for my Zoning analysis in San D
 ## [Second heatwave across europe](https://earthobservatory.nasa.gov/images/145377/a-second-scorching-heatwave-in-europe)
 
 I love satellite data and die to the current heat wave that we experience as well I'm thought I share this picture with you.
-
 
 ## [Planet](https://nbremer.github.io/planet-globe/)
 
@@ -38,7 +39,7 @@ And yet another sat images related story. Regarding the earthquake in CA.
 
 > that lion numbers have dropped by half since _The Lion King_ premiered in theaters in 1994.
 
-Sad visualization about the decline in lion population. 
+Sad visualization about the decline in lion population.
 
 ## [Greenest cities in German state](https://bnn.de/lokales/karlsruhe/gruenste-staedte-baden-wuerttemberg-ranking-parks-gruenflaechen)
 
@@ -50,7 +51,9 @@ Reusing data from an older visualization done by the Morgenpost the local newspa
 
 ## Welcome Eugene: Code for America adds new Brigade in Eugene, OR
 
-A [new Brigade](https://twitter.com/open_eugene) is welcomed in the Code for America family! 
+A [new Brigade](https://twitter.com/open_eugene) is welcomed in the Code for America family!
+
+## [Hacking for Housing: How open data and civic hacking creates wins for housing advocates](https://sunlightfoundation.com/2019/07/22/hacking-for-housing-how-open-data-and-civic-hacking-creates-wins-for-housing-advocates/)
 
 ## [Belgium: government source code is public information](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive)
 
@@ -60,7 +63,9 @@ A [new Brigade](https://twitter.com/open_eugene) is welcomed in the Code for Ame
 
 > Developing a better understanding of how people park can help support efforts by the City and Authority to set rates based on demand. Having access to data can also help the Authority share information on revenue generation with City leadership, and develop a better understanding of mobility in Pittsburgh.
 
-## Open Environment Data collection for Germany
+## [Open Environment Data collection for Germany](https://hackmd.okfn.de/OJQIPlRiQD61VOS-sVV4JQ?view#)
+
+The Open Knowledge Foundation Germany is collecting environment and sustainability data for germany and the world. Take a look, already some great datasets in there.
 
 ## [San Francisco Planning looks to hire data and analytics manager](https://twitter.com/DataSF/status/1151153459069980672)
 
@@ -74,7 +79,7 @@ A [new Brigade](https://twitter.com/open_eugene) is welcomed in the Code for Ame
 
 > _A new startup accelerator has chosen 10 companies for a two-year mentorship program to bring civic technology solutions to market, with a specific focus on enduring problems that face state and local government._
 
-This is great news. CivicTech and GovTech needs more of these accelerators! 
+This is great news. CivicTech and GovTech needs more of these accelerators!
 
 # Business/Consulting
 
