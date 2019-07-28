@@ -33,6 +33,8 @@ Another gorgeous viz related to satellites. You can see how the sat images are b
 
 ## [Measuring Movement from the Ridgecrest Quake](https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake)
 
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ridgecrest_alos2_2019189_lrg.jpg)](https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake)
+
 And yet another sat images related story. Regarding the earthquake in CA.
 
 ## Lion King no more
