@@ -6,10 +6,20 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2019 08:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Notes: Template</title>
+      <link>http://milafrerichs.de/newsletter/weekly-notes-2019-08-11/</link>
+      <pubDate>Sun, 11 Aug 2019 10:00:00 +0200</pubDate>
+      
+      <guid>http://milafrerichs.de/newsletter/weekly-notes-2019-08-11/</guid>
+      <description>I had a very busy two weeks but found some very interesting pieces the last week. I especially like the Heat Vulnerability Map from Vienna. And all over the place you see that Earth Observation (satellite) data is used more and more in analysis and data visualization. I love this trend and I love pocking not satellite data myself.
+Geospatial Development Stop Using Zip Codes for Geospatial Analysis Great article by Carto explaining where Zip codes originate, why they&amp;rsquo;re not useful for geospatial analysis and what you should use instead.</description>
+    </item>
     
     <item>
       <title>Weekly Notes</title>

@@ -1,0 +1,119 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><meta name="google-site-verification" content="muu33Ix4WWGE23IzCYzZCiIlPyGbTNBewVjLjRF6ITA"><link rel="stylesheet" href="http://milafrerichs.de/css/styles.css"><meta name="description" content="Weekly Newsletter about Maps, Data Visualization, Open Data &amp; Civic Tech"><title>Weekly Notes: Template – Mila Frerichs, Data Visualization consultant for social good</title>
+ <script type="text/javascript"> 
+   (function(p, a, n, d, o, b) {
+       o = n.createElement('script'); o.type = 'text/javascript'; o.async = true; o.src = 'https://tag.rightmessage.com/'+p+'.js';
+       b = n.getElementsByTagName('script')[0]; b.parentNode.insertBefore(o, b);
+       d = function(h, u, i) { var o = n.createElement('style'); o.id = 'rmcloak'+i; o.type = 'text/css';
+               o.appendChild(n.createTextNode('.rmcloak'+h+'{visibility:hidden}.rmcloak'+u+'{display:none}'));
+               b.parentNode.insertBefore(o, b); return o; }; o = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');
+       setTimeout(function() { o.parentNode && o.parentNode.removeChild(o); }, a);
+   })('598252326', 2500, document);
+ </script>
+<meta property="og:title" content="Weekly Notes: Template" />
+<meta property="og:description" content="Weekly Newsletter about Maps, Data Visualization, Open Data &amp; Civic Tech" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://milafrerichs.de/newsletter/weekly-notes-2019-08-11/" /><meta property="article:published_time" content="2019-08-11T10:00:00&#43;02:00"/>
+<meta property="article:modified_time" content="2019-08-11T10:00:00&#43;02:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Weekly Notes: Template"/>
+<meta name="twitter:description" content="Weekly Newsletter about Maps, Data Visualization, Open Data &amp; Civic Tech"/>
+</head><body><main class="container py-8 lg:py-16 px-6 md:px-16 lg:px-24" role="main"><nav class="font-sans flex flex-wrap justify-start items-center my-4 overflow-hidden"><a class="mr-4" href="/">mf</a><div class="block md:hidden"><button id="menu" class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white"><svg class="fill-current h-3 w-3" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path></svg></button></div><div id="menu-items" class="w-full flex-grow md:flex md:items-center md:w-auto hidden md:block"><div class="text-sm md:flex-grow"><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/me/">Me</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/talks-workshops/">Talks/Workshops</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/now/">Now</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/themes/">Themes</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/articles/">Articles</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/journal/">Journal</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/projects/">Portfolio</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="https://civicvision.de">Company</a></div></div></nav><a class="text-grey-darkest" href="/newsletter">View all newsletters</a><article class="mt-8"><div class="text-grey-dark uppercase font-semibold text-xs tracking-wide mb-2">Aug 11, 2019</div><header><h1 class="font-sans text-4xl text-black font-bold mb-4">Weekly Notes: Template</h1></header><div class="font-sans text-lg text-grey-darkest spaced-y-6 leading-normal">
+
+<p>I had a very busy two weeks but found some very interesting pieces the last week. I especially like the Heat Vulnerability Map from Vienna. And all over the place you see that Earth Observation (satellite) data is used more and more in analysis and data visualization. I love this trend and I love pocking not satellite data myself.</p>
+
+<h1 id="geospatial-development">Geospatial Development</h1>
+
+<h2 id="stop-using-zip-codes-for-geospatial-analysis-https-carto-com-blog-zip-codes-spatial-analysis"><a href="https://carto.com/blog/zip-codes-spatial-analysis/">Stop Using Zip Codes for Geospatial Analysis</a></h2>
+
+<p>Great article by Carto explaining where Zip codes originate, why they&rsquo;re not useful for geospatial analysis and what you should use instead.</p>
+
+<p>The problem with zip codes are:</p>
+
+<blockquote>
+<p>They don&rsquo;t represent real boundaries, but rather routes</p>
+
+<p>They don&rsquo;t represent how humans behave</p>
+</blockquote>
+
+<p>Read the <a href="https://carto.com/blog/zip-codes-spatial-analysis/">full article</a>, it&rsquo;s well worth it.</p>
+
+<h2 id="urban-heat-vulnerability-map-of-vienna">Urban Heat Vulnerability Map of Vienna</h2>
+
+<p><img src="https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/urban-heat-vulnerability-map-vienna.png" alt="" /></p>
+
+<p>Literal heat map of the city of Vienna.</p>
+
+<p>There is also a methodology <a href="https://www.wien.gv.at/stadtentwicklung/energie/pdf/hitzekarte-methode.pdf">PDF</a> which explains the methodology very detailed. They used satellite data to calculate the average yearly temperature. Very interesting, I thought about something similar as well. I might actual do one of those for San Diego and Berlin sometime soon.</p>
+
+<h2 id="bubble-maker-https-observablehq-com-datadesk-plug-and-play-bubble-map"><a href="https://observablehq.com/@datadesk/plug-and-play-bubble-map">Bubble Maker</a></h2>
+
+<p>Do you need a Bubble map? Do you have a geojson? Look no further than this great notebook from the LA Times data desk on Observable.</p>
+
+<h1 id="data-visualization">Data Visualization</h1>
+
+<h2 id="where-the-last-pristine-skies-in-america-are-https-www-washingtonpost-com-business-2019-08-06-where-last-pristine-skies-america-are"><a href="https://www.washingtonpost.com/business/2019/08/06/where-last-pristine-skies-america-are/">Where the last pristine skies in America are</a></h2>
+
+<p><img src="https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/pristine-skies-usa.png" alt="" /></p>
+
+<p>Light pollution is something everyone kind of knows but we&rsquo;re not really aware of it. We&rsquo;re used to how the sky looks like in the city. But man are we missing out. Look at the gorgeous photos in this article and find the place were you can see the real sky.</p>
+
+<h2 id="risk-of-sunburn-across-the-u-s-https-earthobservatory-nasa-gov-images-145413-new-map-shows-risk-of-sunburn-across-the-us"><a href="https://earthobservatory.nasa.gov/images/145413/new-map-shows-risk-of-sunburn-across-the-us">Risk of Sunburn Across the U.S.</a></h2>
+
+<p><img src="https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/uv-dose-usa.png" alt="" /></p>
+
+<p>We all know it and I&rsquo;m guilty as well of not using sun blocker all the time. The Earth Observatory from NASA published a great gif of maps showing the risk of sunburn across the U.S.</p>
+
+<p>And in my favorite American City, San Diego the risk is there throughout the year :) Great and not so great for someone like me who does not use sun blocker that often.</p>
+
+<h2 id="how-much-warmer-is-your-city-https-www-bbc-co-uk-news-resources-idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee"><a href="https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee">How much warmer is your city?</a></h2>
+
+<p><img src="https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/how-much-warmer.png" alt="" /></p>
+
+<p>Impressive but sad story. You can personalize it to the city you live in. Great globe visualization and animations about sea level rises.</p>
+
+<p><a href="https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee">https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee</a></p>
+
+<h2 id="almost-half-of-europe-s-soil-is-dryer-than-normal-https-vis4-net-drought-in-europe"><a href="https://vis4.net/drought-in-europe/">Almost half of Europe&rsquo;s soil is dryer than normal</a></h2>
+
+<p><img src="https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/dry-europe.png" alt="" /></p>
+
+<p>Another sad visualization but very interesting to look at and the animation makes it even more depressing. Worth checking out.</p>
+
+<p><a href="https://vis4.net/drought-in-europe/">https://vis4.net/drought-in-europe/</a></p>
+
+<h1 id="civic-tech">Civic Tech</h1>
+
+<h2 id="civic-tech-fellows-offer-their-ideas-for-attracting-youth-to-public-service-https-www-nextgov-com-cio-briefing-2019-08-civic-tech-fellows-offer-their-ideas-attracting-youth-public-service-159076"><a href="https://www.nextgov.com/cio-briefing/2019/08/civic-tech-fellows-offer-their-ideas-attracting-youth-public-service/159076/">Civic Tech Fellows Offer Their Ideas for Attracting Youth to Public Service</a></h2>
+
+<blockquote>
+<p>After just 10 weeks in government, the Coding It Forward fellows were able to succinctly identify the promise and challenges in getting young people to join the government.</p>
+</blockquote>
+
+<h2 id="announcing-the-state-software-budgeting-handbook-https-18f-gsa-gov-2019-08-05-budgeting-handbook"><a href="https://18f.gsa.gov/2019/08/05/budgeting-handbook/">Announcing the State Software Budgeting Handbook</a></h2>
+
+<blockquote>
+<p>The handbook will provide state officials with tools to make custom technology projects more successful. Over a dozen best practices are documented, including budgeting for software as an operational expertise, limiting contract size, measuring success iteratively, and hiring in-house tech talent.</p>
+</blockquote>
+
+<h2 id="where-chicago-issues-parking-tickets-and-who-pays-for-them-https-projects-propublica-org-chicago-tickets"><a href="https://projects.propublica.org/chicago-tickets/">Where Chicago Issues Parking Tickets and Who Pays For Them</a></h2>
+
+<blockquote>
+<p>This interactive database contains more than 54 million parking, standing and vehicle compliance tickets issued since 1996, obtained by ProPublica Illinois in partnership with WBEZ and made public for the first time.</p>
+</blockquote>
+
+<p>Great database, story and dashboard from ProPublica and WBEZ Chicago. Worth checking out and diving into the data.</p>
+
+<p><a href="https://projects.propublica.org/chicago-tickets/">https://projects.propublica.org/chicago-tickets/</a></p>
+
+<h1 id="business-consulting">Business/Consulting</h1>
+
+<p>I used the weekend to work on my monthly and weekly planning. <a href="https://www.notion.so/?r=ae698dfc15534740ba1f3db7a89dff7b">Notion</a> is a great tool for organizing your business. I use it for all my documents and ideas that I have. For my weekly planning. Just not yet for my daily tasks. It&rsquo;s just not there yet, their apps are not at the level I want for a task manager. But for organizing all my other business stuff I use <a href="https://www.notion.so/?r=ae698dfc15534740ba1f3db7a89dff7b">Notion</a>. Be sure to check it <a href="https://www.notion.so/?r=ae698dfc15534740ba1f3db7a89dff7b">out</a>. (Affiliate Link, you get 10$ credit for a plan).</p>
+
+<h1 id="photo-of-the-week">Photo of the Week</h1>
+
+<p><img src="https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5461.jpg" alt="" /></p>
+
+<p>We were at a coworking space this week and I plan to integrate a coworking day once a week. Should be fun.</p>
+
+<div class="rm-area-end-of-content"></div>
+</div></article></main><footer class="font-sans md:py-8 px-4"><div class="mx-auto container overflow-hidden flex flex-col justify-between text-center"><div class="w-full flex-grow md:flex md:items-center md:w-auto"><div class="text-sm md:flex-grow"><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/me/">Me</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/talks-workshops/">Talks/Workshops</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/now/">Now</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/themes/">Themes</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/articles/">Articles</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/journal/">Journal</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/projects/">Portfolio</a></div></div><ul class="text-grey-dark list-reset font-thin flex text-center justify-center text-2xl py-2 flex-col"><li class="pt-2">☕️🐕❄️☀️</li><li class="pt-2">🥃</li><li class="pt-2">⚾️🏈🏄‍♂️🏊‍♂️🏂🧗‍♀️</li><li class="pt-2">🍣🍔🌮🌯🍕</li><li class="pt-2">🗺🏔🏟✈️🚍🚃</li></ul><div class="flex"><a class="block flex items-center text-white hover:text-grey mr-6 no-underline" href="#"><i class="fab fa-github-alt"></i></a><a class="block flex items-center text-white hover:text-grey mr-6 no-underline" href="#"><i class="fab fa-slack"></i></a><a class="block flex items-center text-white hover:text-grey no-underline" href="#"><i class="fab fa-twitter"></i></a></div><div class="text-xs pt-2 mt-2 text-grey-darker text-center">©2019 Mila Frerichs. All rights reserved.</div><ul class="text-grey-dark list-reset font-thin flex text-left justify-center"><li><a class="inline-block text-xs py-2 px-3 text-grey hover:text-grey-light no-underline" href="/legal/">Impressum</a></li><li><a class="inline-block text-xs py-2 px-3 text-grey hover:text-grey-light no-underline" href="/legal/privacy/">Privacy</a></li></ul></div></footer><script type="text/javascript" src="/js/main.js"></script></body></html>
