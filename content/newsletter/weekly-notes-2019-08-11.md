@@ -59,6 +59,8 @@ And in my favorite American City, San Diego the risk is there throughout the yea
 
 ## [Announcing the State Software Budgeting Handbook](https://18f.gsa.gov/2019/08/05/budgeting-handbook/)
 
+> The handbook will provide state officials with tools to make custom technology projects more successful. Over a dozen best practices are documented, including budgeting for software as an operational expertise, limiting contract size, measuring success iteratively, and hiring in-house tech talent. 
+
 ## Where Chicago Issues Parking Tickets and Who Pays For Them
 
 [https://projects.propublica.org/chicago-tickets/](https://projects.propublica.org/chicago-tickets/)
