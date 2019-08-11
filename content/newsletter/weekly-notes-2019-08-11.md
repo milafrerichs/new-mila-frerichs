@@ -3,7 +3,7 @@ date = "2019-08-11T10:00:00+02:00"
 description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
 images = []
 summary = ""
-title = "Weekly Notes: Template"
+title = "Weekly Notes"
 
 +++
 I had a very busy two weeks but found some very interesting pieces the last week. I especially like the Heat Vulnerability Map from Vienna. And all over the place you see that Earth Observation (satellite) data is used more and more in analysis and data visualization. I love this trend and I love pocking not satellite data myself. 
