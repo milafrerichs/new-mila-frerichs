@@ -45,6 +45,8 @@ And in my favorite American City, San Diego the risk is there throughout the yea
 
 ## [How much warmer is your city?](https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee)
 
+Impressive but sad story. You can personalize it to the city you live in. Great globe visualization and animations about sea level rises. 
+
 [https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee](https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee)
 
 ## [Almost half of Europe's soil is dryer than normal](https://vis4.net/drought-in-europe/)
@@ -61,7 +63,11 @@ And in my favorite American City, San Diego the risk is there throughout the yea
 
 > The handbook will provide state officials with tools to make custom technology projects more successful. Over a dozen best practices are documented, including budgeting for software as an operational expertise, limiting contract size, measuring success iteratively, and hiring in-house tech talent. 
 
-## Where Chicago Issues Parking Tickets and Who Pays For Them
+## [Where Chicago Issues Parking Tickets and Who Pays For Them](https://projects.propublica.org/chicago-tickets/)
+
+> This interactive database contains more than 54 million parking, standing and vehicle compliance tickets issued since 1996, obtained by ProPublica Illinois in partnership with WBEZ and made public for the first time. 
+
+Great database, story and dashboard from ProPublica and WBEZ Chicago. Worth checking out and diving into the data. 
 
 [https://projects.propublica.org/chicago-tickets/](https://projects.propublica.org/chicago-tickets/)
 
