@@ -21,6 +21,8 @@ And take a look at this tweet ;)
 
 ## Mercator
 
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mercator.jpg)
+
 Another great look into the real size of Mercator. Still amazed that so many people on the web default to Mercator projections for their projects.
 
 Here is another interactive version: [https://engaging-data.com/country-sizes-mercator/](https://engaging-data.com/country-sizes-mercator/ "https://engaging-data.com/country-sizes-mercator/")
@@ -43,6 +45,8 @@ Great guide from the great people at Datawrapper. A must read resource and you s
 
 ## Striving for Equity in Public Investments in Water in California
 
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/Bildschirmfoto_2019-08-25_um_21.26.07.png)
+
 [https://www.ioes.ucla.edu/project/prop1](https://www.ioes.ucla.edu/project/prop1 "https://www.ioes.ucla.edu/project/prop1")
 
 ## Job Loss by County
@@ -63,6 +67,14 @@ I love maps that just show the data and some supporting things ( in this case ri
 
 [https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on](https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on "https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on")
 
+## See the complicated landscape of plastic bans in the U.S.
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/plastic-bag-ban.png)
+
+Another great map and use of annotations. 
+
+[https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/](https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/ "https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/")
+
 # Civic Tech
 
 ## Growth of  
@@ -75,7 +87,13 @@ Not very beautiful to look at but crazy to see the amount of parking. They have 
 
 [http://www.transportationlca.org/losangelesparking/](http://www.transportationlca.org/losangelesparking/ "http://www.transportationlca.org/losangelesparking/")
 
+# How Civic Engagement Is Unlocking California’s DMV Web Services
+
+[https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0](https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0 "https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0")
+
 # Business/Consulting
+
+I have some consulting availability in mid September if you want my help creating an interactive map or chart or create a mapping tool. Or just in general have an interesting project, just how reply. 
 
 # Photo of the Week
 
