@@ -89,6 +89,10 @@ Not very beautiful to look at but crazy to see the amount of parking. They have 
 
 # How Civic Engagement Is Unlocking California’s DMV Web Services
 
+> Governor Gavin Newsom created a Strike Team earlier this year to tackle the Department of Motor Vehicle’s long-standing problems with customer service and technology. An obvious first step was to overhaul the DMV website.
+
+Great use of civic tech volunteers and a first step to overhaul service delivery by the CA government. 
+
 [https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0](https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0 "https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0")
 
 # Business/Consulting
