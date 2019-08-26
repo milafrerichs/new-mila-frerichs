@@ -6,10 +6,25 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Notes</title>
+      <link>http://milafrerichs.de/newsletter/weekly-notes-2019-08-25/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://milafrerichs.de/newsletter/weekly-notes-2019-08-25/</guid>
+      <description>Geospatial Development Tool Have you checked out: http://projectionwizard.org yet?
+It is a nice tool to select a good projection for the area of interest.
+And take a look at this tweet ;)
+https://twitter.com/BojanSavric/status/1162788720686145536
+Mercator Another great look into the real size of Mercator. I&amp;rsquo;m still amazed that so many people on the web default to Mercator projections for their projects.
+Here is another interactive version: https://engaging-data.com/country-sizes-mercator/
+Precision and Size in GeoJSON  It&amp;rsquo;s wild how many GeoJSON files are in use with a coordinate precision of 10 or higher — I&amp;rsquo;ve seen file sizes cut in half just by hacking it down to 6 (RFC 7946 recommendation) + removing duplicate coords with zero change in visual correctness</description>
+    </item>
     
     <item>
       <title>Weekly Notes</title>

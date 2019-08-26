@@ -6,10 +6,114 @@
     <description>Weekly Newsletter of Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="http://milafrerichs.de/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>http://milafrerichs.de/newsletter/weekly-notes-2019-08-25/</link>
+                <pubDate>Sun, 25 Aug 2019 00:00:00 +0200</pubDate>
+                
+                <guid>http://milafrerichs.de/newsletter/weekly-notes-2019-08-25/</guid>
+                <description>
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;tool&#34;&gt;Tool&lt;/h2&gt;
+
+&lt;p&gt;Have you checked out: &lt;a href=&#34;http://projectionwizard.org&#34; title=&#34;http://projectionwizard.org&#34;&gt;http://projectionwizard.org&lt;/a&gt; yet?&lt;br /&gt;
+It is a nice tool to select a good projection for the area of interest.&lt;br /&gt;
+And take a look at this tweet ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/BojanSavric/status/1162788720686145536&#34; title=&#34;https://twitter.com/BojanSavric/status/1162788720686145536&#34;&gt;https://twitter.com/BojanSavric/status/1162788720686145536&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mercator&#34;&gt;Mercator&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mercator.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another great look into the real size of Mercator. I&amp;rsquo;m still amazed that so many people on the web default to Mercator projections for their projects.&lt;/p&gt;
+
+&lt;p&gt;Here is another interactive version: &lt;a href=&#34;https://engaging-data.com/country-sizes-mercator/&#34; title=&#34;https://engaging-data.com/country-sizes-mercator/&#34;&gt;https://engaging-data.com/country-sizes-mercator/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;precision-and-size-in-geojson&#34;&gt;Precision and Size in GeoJSON&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s wild how many GeoJSON files are in use with a coordinate precision of 10 or higher — I&amp;rsquo;ve seen file sizes cut in &lt;em&gt;half&lt;/em&gt; just by hacking it down to 6 (RFC 7946 recommendation) + removing duplicate coords with zero change in visual correctness&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From Ryan Murphy and I could not agree more. I shared another example a few weeks ago. We should all think about our usage of precision in our GeoJSON files, especially if they grow bigger in size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/rdmurphy/status/1160261547463081985&#34; title=&#34;https://twitter.com/rdmurphy/status/1160261547463081985&#34;&gt;https://twitter.com/rdmurphy/status/1160261547463081985&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;h2 id=&#34;color-guide&#34;&gt;Color Guide&lt;/h2&gt;
+
+&lt;p&gt;Great guide from the great people at Datawrapper. A must read resource and you should save it for future reference.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.datawrapper.de/colorguide/&#34; title=&#34;https://blog.datawrapper.de/colorguide/&#34;&gt;https://blog.datawrapper.de/colorguide/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;job-loss-by-county&#34;&gt;Job Loss by County&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/job-loss-trade-war.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A little older from the week before but so good I need to share this.&lt;br /&gt;
+The use of annotation and highlighting important aspects of the map are just great. And they still left it interactive so you can explore while still having some explanatory aspects included.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://publicintegrity.org/business/trump-country-trade-off-tariffs-could-trigger-u-s-job-losses/&#34; title=&#34;https://publicintegrity.org/business/trump-country-trade-off-tariffs-could-trigger-u-s-job-losses/&#34;&gt;https://publicintegrity.org/business/trump-country-trade-off-tariffs-could-trigger-u-s-job-losses/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mapping-the-strain-on-our-water&#34;&gt;&lt;strong&gt;Mapping the strain on our water&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mapping-strain.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I love maps that just show the data and only a few supporting items that do not interfere too much with the data. The rivers are a great addition but have a very light blue and are important for the data since we&amp;rsquo;re talking about water stress. I&amp;rsquo;m curious about the use of labels. Only a few states are labeled and I can not figure out why they choose them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on&#34; title=&#34;https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on&#34;&gt;https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;see-the-complicated-landscape-of-plastic-bans-in-the-u-s&#34;&gt;See the complicated landscape of plastic bans in the U.S.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/plastic-bag-ban.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nice mixture of a bubble map (local bans) and choropleth with texture for future bans. Also the use of labels is great. Only adding state labels to the states that have bans. Not sure though why Austin and Laredo are labeled. Any idea? :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/&#34; title=&#34;https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/&#34;&gt;https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;h2 id=&#34;growth-of&#34;&gt;Growth of&lt;/h2&gt;
+
+&lt;p&gt;Parking Infrastructure&lt;br /&gt;
+in Los Angeles&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/parking-la.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not very beautiful to look at but crazy to see the amount of parking. They have a gif on their page showing the increase over decades as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.transportationlca.org/losangelesparking/&#34; title=&#34;http://www.transportationlca.org/losangelesparking/&#34;&gt;http://www.transportationlca.org/losangelesparking/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;how-civic-engagement-is-unlocking-california-s-dmv-web-services&#34;&gt;How Civic Engagement Is Unlocking California’s DMV Web Services&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Governor Gavin Newsom created a Strike Team earlier this year to tackle the Department of Motor Vehicle’s long-standing problems with customer service and technology. An obvious first step was to overhaul the DMV website.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great use of civic tech volunteers and a first step to overhaul service delivery by the CA government.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0&#34; title=&#34;https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0&#34;&gt;https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I have some consulting availability in mid September if you want my help creating an interactive map, chart or create a mapping/open data tool. Or just in general have an interesting project, just hit reply.&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5525.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
         
             <item>
                 <title>Weekly Notes</title>
