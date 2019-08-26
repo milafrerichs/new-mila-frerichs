@@ -1,7 +1,6 @@
 +++
-date = "2019-07-21T00:00:00+02:00"
+date = "2019-08-25T00:00:00+02:00"
 description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
-draft = true
 images = []
 summary = ""
 title = "Weekly Notes"
@@ -91,5 +90,7 @@ Great use of civic tech volunteers and a first step to overhaul service delivery
 I have some consulting availability in mid September if you want my help creating an interactive map, chart or create a mapping/open data tool. Or just in general have an interesting project, just hit reply. 
 
 # Photo of the Week
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5525.jpg)
 
 <div class="rm-area-end-of-content"></div>
