@@ -35,7 +35,7 @@ A nice transition from just raw data to heat map and later to insight. (Thanks J
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-california-latimes.png)
 
-Nice interactive tool where you can put your salary and see where you could afford to live in California. For my upcoming course **Geospatial data visualization with d3** I'm using housing data for Chicago to map in a similar fashion. But I'm using neighborhoods as a measurement (because the data is provided in that fashion for the most part.) 
+Nice interactive tool where you can put your salary and see where you could afford to live in California. For my upcoming course **Geospatial data visualization with d3** I'm using housing data for Chicago to map in a similar fashion. But I'm using neighborhoods as a measurement (because the data is provided in that format for the most part.) 
 
 [https://www.latimes.com/projects/california-rental-calculator-map/](https://www.latimes.com/projects/california-rental-calculator-map/ "https://www.latimes.com/projects/california-rental-calculator-map/")
 
@@ -46,6 +46,8 @@ Nice interactive tool where you can put your salary and see where you could affo
 [https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/](https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/ "https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/")
 
 # Short-term rentals in Toronto: UPGo city spotlight
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/str-toronto.png)
 
 The great thing about this report is not the small multiples (although I ❤️  small multiples). But rather that they published all their results on Github to be reproduced. Although the data is not available on GitHub just their analysis code. 
 
