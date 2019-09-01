@@ -9,6 +9,10 @@ title = "Weekly Notes"
 +++
 # Geospatial Development
 
+## FOSS4G (UK)
+
+The global FOSS4G conference just ended on Friday and my twitter feed was full of it. Very interesting things, need to watch a few of those videos. I'm sad that I missed the global version of the conference this year. But I attended the North American version earlier this year, will attend the UK version later this month and likely head down to New Zealand for the Oceania version. 
+
 ## Mercator, again
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mercator-line.png)
@@ -34,6 +38,12 @@ A nice transition from just raw data to heat map and later to insight. (Thanks J
 Nice interactive tool where you can put your salary and see where you could afford to live in California. For my upcoming course **Geospatial data visualization with d3** I'm using housing data for Chicago to map in a similar fashion. But I'm using neighborhoods as a measurement (because the data is provided in that fashion for the most part.) 
 
 [https://www.latimes.com/projects/california-rental-calculator-map/](https://www.latimes.com/projects/california-rental-calculator-map/ "https://www.latimes.com/projects/california-rental-calculator-map/")
+
+## We’re at the peak of the global fire season
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/fire-season-satellites.png)
+
+[https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/](https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/ "https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/")
 
 # Short-term rentals in Toronto: UPGo city spotlight
 
@@ -66,6 +76,8 @@ The great thing is the immediate feedback in a chart and a map. Although I would
 # Business/Consulting
 
 # Photo of the Week
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5550.jpg)
 
 # Tip of the week
 
