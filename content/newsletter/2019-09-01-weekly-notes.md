@@ -21,7 +21,7 @@ title = "Weekly Notes"
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/wildfires-amazonas.gif)
 
-A nice 
+A nice transition from just raw data to heat map and later to insight. (Thanks Josh for the nice summary 😁 )
 
 [https://twitter.com/wallacetim/status/1166123435224776704](https://twitter.com/wallacetim/status/1166123435224776704?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=notion%3A%2F%2Fwww.notion.so%2Fcivicvision%2Ff345268b30284d63a14e2a364c911c99%3Fv%3Dad118395f6994986aa59bf39d4e455b5%26p%3D3683996ffe4d45409ee88fa02b0de439 "https://twitter.com/wallacetim/status/1166123435224776704?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=notion%3A%2F%2Fwww.notion.so%2Fcivicvision%2Ff345268b30284d63a14e2a364c911c99%3Fv%3Dad118395f6994986aa59bf39d4e455b5%26p%3D3683996ffe4d45409ee88fa02b0de439")
 
@@ -31,7 +31,9 @@ A nice
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-california-latimes.png)
 
-Nice interactive tool where you can put your salary and see where you could afford to live in California. 
+Nice interactive tool where you can put your salary and see where you could afford to live in California. For my upcoming course **Geospatial data visualization with d3** I'm using housing data for Chicago to map in a similar fashion. But I'm using neighborhoods as a measurement (because the data is provided in that fashion for the most part.) 
+
+[https://www.latimes.com/projects/california-rental-calculator-map/](https://www.latimes.com/projects/california-rental-calculator-map/ "https://www.latimes.com/projects/california-rental-calculator-map/")
 
 # Short-term rentals in Toronto: UPGo city spotlight
 
@@ -49,7 +51,7 @@ The great thing about this report is not the small multiples (although I ❤️ 
 
 Did I mention that I ❤️ small multiples? This is a gorgeous example. 
 
-And the first section is an explanation of how the charts works and how to read it. It's always recommended to include such a section if you have a novel way or a not standard way of showing data. 
+And the first section is an explanation of how the charts work and how to read it. It's always recommended to include such a section if you have a novel way or choose a not standard way of showing data. 
 
 ## Color Tool
 
