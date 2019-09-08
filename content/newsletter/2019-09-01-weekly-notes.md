@@ -75,6 +75,8 @@ And the first section is an explanation of how the charts work and how to read i
 
 ## Here’s Who Owns the Most Land in America
 
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/bloomberg-who-owns-land.png)
+
 [https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/ "https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/")
 
 ## Color Tool
@@ -84,6 +86,17 @@ And the first section is an explanation of how the charts work and how to read i
 The great thing is the immediate feedback in a chart and a map. Although I would have used another chart than a pie.
 
 [https://learnui.design/tools/data-color-picker.html#palette](https://learnui.design/tools/data-color-picker.html#palette "https://learnui.design/tools/data-color-picker.html#palette")
+
+# Civic Tech
+
+## Civic Tech projects in Canada
+
+> The team at [@opennorth](https://twitter.com/opennorth) is collecting examples of [#civictech](https://twitter.com/hashtag/civictech?src=hash) projects in Canada, and will be submitting them to the [@civictechguide](https://twitter.com/civictechguide)!  
+>   
+> If you're working on a project (or have worked on one) take a minute and add it to their list.  
+> [https://twitter.com/code4ca/status/1169334327978672128](https://twitter.com/code4ca/status/1169334327978672128 "https://twitter.com/code4ca/status/1169334327978672128")
+
+## Explore the NYC Capital Commitment Plan
 
 # Photo of the Week
 
