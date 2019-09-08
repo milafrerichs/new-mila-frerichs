@@ -13,49 +13,49 @@ title = "Weekly Notes"
 
 The global FOSS4G conference ended last Friday and my twitter feed was full of it. Very interesting things, need to watch a few of those videos. I'm sad that I missed the global version of the conference this year. But I attended the North American version earlier this year, will attend the UK version later this month and likely head down to New Zealand for the Oceania version.
 
-## Mercator, again
+## [Mercator, again](https://twitter.com/John_M_Nelson/status/1165967275209478144)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mercator-line.png)
 
 > _A fun old Illustration I dug up from a 9 year old blog post about how straight lines look in Mercator. (From John Nelson)_
 
-[https://twitter.com/John_M_Nelson/status/1165967275209478144](https://twitter.com/John_M_Nelson/status/1165967275209478144?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=notion%3A%2F%2Fwww.notion.so%2Fcivicvision%2Ff345268b30284d63a14e2a364c911c99%3Fv%3Dad118395f6994986aa59bf39d4e455b5%26p%3D3683996ffe4d45409ee88fa02b0de439 "https://twitter.com/John_M_Nelson/status/1165967275209478144?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=notion%3A%2F%2Fwww.notion.so%2Fcivicvision%2Ff345268b30284d63a14e2a364c911c99%3Fv%3Dad118395f6994986aa59bf39d4e455b5%26p%3D3683996ffe4d45409ee88fa02b0de439")
+[https://twitter.com/John_M_Nelson/status/1165967275209478144](https://twitter.com/John_M_Nelson/status/1165967275209478144)
 
-## Wildfires
+## [Wildfires](https://twitter.com/wallacetim/status/1166123435224776704)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/wildfires-amazonas.gif)
 
 A nice transition from just raw data to heat map and later to insight. (Thanks Josh for the nice summary 😁 )
 
-[https://twitter.com/wallacetim/status/1166123435224776704](https://twitter.com/wallacetim/status/1166123435224776704?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=notion%3A%2F%2Fwww.notion.so%2Fcivicvision%2Ff345268b30284d63a14e2a364c911c99%3Fv%3Dad118395f6994986aa59bf39d4e455b5%26p%3D3683996ffe4d45409ee88fa02b0de439 "https://twitter.com/wallacetim/status/1166123435224776704?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=notion%3A%2F%2Fwww.notion.so%2Fcivicvision%2Ff345268b30284d63a14e2a364c911c99%3Fv%3Dad118395f6994986aa59bf39d4e455b5%26p%3D3683996ffe4d45409ee88fa02b0de439")
+[https://twitter.com/wallacetim/status/1166123435224776704](https://twitter.com/wallacetim/status/1166123435224776704)
 
 # Data Visualization
 
-# Where can you afford to rent in California?
+## [Where can you afford to rent in California?]((https://www.latimes.com/projects/california-rental-calculator-map/))
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-california-latimes.png)
 
 Nice interactive tool where you can put your salary and see where you could afford to live in California. For my upcoming course **Geospatial data visualization with d3** I'm using housing data for Chicago to map in a similar fashion. But I'm using neighborhoods as a measurement (because the data is provided in that format for the most part.)
 
-[https://www.latimes.com/projects/california-rental-calculator-map/](https://www.latimes.com/projects/california-rental-calculator-map/ "https://www.latimes.com/projects/california-rental-calculator-map/")
+[https://www.latimes.com/projects/california-rental-calculator-map/](https://www.latimes.com/projects/california-rental-calculator-map/)
 
-## We’re at the peak of the global fire season
+## [We’re at the peak of the global fire season](https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/)
 
-![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/fire-season-satellites.png)
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/fire-season-satellites.png)](https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/)
 
 Great usage of satellite data and pretty interesting color scale choice. Worth exploring more.
 
-[https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/](https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/ "https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/")
+[https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/](https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/)
 
-# Short-term rentals in Toronto: UPGo city spotlight
+## [Short-term rentals in Toronto: UPGo city spotlight](https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/)
 
-![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/str-toronto.png)
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/str-toronto.png)](https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/)
 
 The great thing about this report is not the small multiples (although I ❤️  small multiples). But rather that they published all their results on Github to be reproduced. Although the data is not available on GitHub just their analysis code.
 
-[https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/](https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/ "https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/")
+[https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/](https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/)
 
-## A night under the stars
+## [A night under the stars]
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/night-under-stars.png)
 
@@ -67,31 +67,31 @@ Did I mention that I ❤️ small multiples? This is a gorgeous example.
 
 And the first section is an explanation of how the charts work and how to read it. It's always recommended to include such a section if you have a novel way or choose a not standard way of showing data.
 
-## As Rising Heat Bakes U.S. Cities, The Poor Often Feel It Most
+## [As Rising Heat Bakes U.S. Cities, The Poor Often Feel It Most](https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864)
 
-![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/npr-heat-income.png)
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/npr-heat-income.png)](https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864)
 
-[https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864](https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864 "https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864")
+[https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864](https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864)
 
-## Here’s Who Owns the Most Land in America
+## [Here’s Who Owns the Most Land in America](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/)
 
-![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/bloomberg-who-owns-land.png)
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/bloomberg-who-owns-land.png)](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/)
 
-[https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/ "https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/")
+[https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/)
 
-## ‘Off-the-charts’ heat to affect millions in U.S. in coming decades
+## [‘Off-the-charts’ heat to affect millions in U.S. in coming decades](https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1)
 
-![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/off-the-charts-heat.png)
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/off-the-charts-heat.png)](https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1)
 
-[https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1](https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1 "https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1")
+[https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1](https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1)
 
-## Color Tool
+## [Color Tool](https://learnui.design/tools/data-color-picker.html#palette)
 
-![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/color-tool.png)
+[![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/color-tool.png)](https://learnui.design/tools/data-color-picker.html#palette)
 
 The great thing is the immediate feedback in a chart and a map. Although I would have used another chart than a pie.
 
-[https://learnui.design/tools/data-color-picker.html#palette](https://learnui.design/tools/data-color-picker.html#palette "https://learnui.design/tools/data-color-picker.html#palette")
+[https://learnui.design/tools/data-color-picker.html#palette](https://learnui.design/tools/data-color-picker.html#palette)
 
 # Civic Tech
 
