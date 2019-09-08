@@ -79,6 +79,12 @@ And the first section is an explanation of how the charts work and how to read i
 
 [https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/ "https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/")
 
+## ‘Off-the-charts’ heat to affect millions in U.S. in coming decades
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/off-the-charts-heat.png)
+
+[https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1](https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1 "https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1")
+
 ## Color Tool
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/color-tool.png)
@@ -97,6 +103,17 @@ The great thing is the immediate feedback in a chart and a map. Although I would
 > [https://twitter.com/code4ca/status/1169334327978672128](https://twitter.com/code4ca/status/1169334327978672128 "https://twitter.com/code4ca/status/1169334327978672128")
 
 ## Explore the NYC Capital Commitment Plan
+
+New civic tech project from Chris Whong exploring capital spending in NYC.
+
+[https://capital-commitments.chriswhong.com/fy19](https://capital-commitments.chriswhong.com/fy19 "https://capital-commitments.chriswhong.com/fy19")
+
+## Scooter startup says needy communities in San Francisco asked to be excluded
+
+This is an interesting set of articles from the LA Times. The first article was titled "Scooter startup says needy communities in San Francisco asked to be excluded" and after the article was published Scoot responded that the commented asked to be excluded. We need to be careful how we use the data from scooter companies. My question to the LA Times would be, did not sent the article to Scoot before publishing it? 
+
+[https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks](https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks "https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks")  
+[https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird](https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird "https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird")
 
 # Photo of the Week
 
