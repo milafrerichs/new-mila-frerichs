@@ -11,7 +11,7 @@ title = "Weekly Notes"
 
 ## FOSS4G (UK)
 
-The global FOSS4G conference just ended on Friday and my twitter feed was full of it. Very interesting things, need to watch a few of those videos. I'm sad that I missed the global version of the conference this year. But I attended the North American version earlier this year, will attend the UK version later this month and likely head down to New Zealand for the Oceania version.
+The global FOSS4G conference ended last Friday and my twitter feed was full of it. Very interesting things, need to watch a few of those videos. I'm sad that I missed the global version of the conference this year. But I attended the North American version earlier this year, will attend the UK version later this month and likely head down to New Zealand for the Oceania version.
 
 ## Mercator, again
 
@@ -66,6 +66,16 @@ The great thing about this report is not the small multiples (although I ❤️ 
 Did I mention that I ❤️ small multiples? This is a gorgeous example.
 
 And the first section is an explanation of how the charts work and how to read it. It's always recommended to include such a section if you have a novel way or choose a not standard way of showing data.
+
+## As Rising Heat Bakes U.S. Cities, The Poor Often Feel It Most
+
+![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/npr-heat-income.png)
+
+[https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864](https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864 "https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864")
+
+## Here’s Who Owns the Most Land in America
+
+[https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/ "https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/")
 
 ## Color Tool
 
