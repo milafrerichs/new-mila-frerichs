@@ -6,10 +6,19 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Notes</title>
+      <link>http://milafrerichs.de/newsletter/2019-09-01-weekly-notes/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://milafrerichs.de/newsletter/2019-09-01-weekly-notes/</guid>
+      <description>Geospatial Development FOSS4G (UK) The global FOSS4G conference ended last Friday and my twitter feed was full of it. Very interesting things, need to watch a few of those videos. I&amp;rsquo;m sad that I missed the global version of the conference this year. But I attended the North American version earlier this year, will attend the UK version later this month and likely head down to New Zealand for the Oceania version.</description>
+    </item>
     
     <item>
       <title>Weekly Notes</title>

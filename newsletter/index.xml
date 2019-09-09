@@ -6,10 +6,146 @@
     <description>Weekly Newsletter of Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="http://milafrerichs.de/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>http://milafrerichs.de/newsletter/2019-09-01-weekly-notes/</link>
+                <pubDate>Sun, 08 Sep 2019 00:00:00 +0200</pubDate>
+                
+                <guid>http://milafrerichs.de/newsletter/2019-09-01-weekly-notes/</guid>
+                <description>
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;foss4g-uk&#34;&gt;FOSS4G (UK)&lt;/h2&gt;
+
+&lt;p&gt;The global FOSS4G conference ended last Friday and my twitter feed was full of it. Very interesting things, need to watch a few of those videos. I&amp;rsquo;m sad that I missed the global version of the conference this year. But I attended the North American version earlier this year, will attend the UK version later this month and likely head down to New Zealand for the Oceania version.&lt;/p&gt;
+
+&lt;h2 id=&#34;mercator-again-https-twitter-com-john-m-nelson-status-1165967275209478144&#34;&gt;&lt;a href=&#34;https://twitter.com/John_M_Nelson/status/1165967275209478144&#34;&gt;Mercator, again&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mercator-line.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;A fun old Illustration I dug up from a 9 year old blog post about how straight lines look in Mercator. (From John Nelson)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/John_M_Nelson/status/1165967275209478144&#34;&gt;https://twitter.com/John_M_Nelson/status/1165967275209478144&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;wildfires-https-twitter-com-wallacetim-status-1166123435224776704&#34;&gt;&lt;a href=&#34;https://twitter.com/wallacetim/status/1166123435224776704&#34;&gt;Wildfires&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/wildfires-amazonas.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A nice transition from just raw data to heat map and later to insight. (Thanks Josh for the nice summary 😁 )&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/wallacetim/status/1166123435224776704&#34;&gt;https://twitter.com/wallacetim/status/1166123435224776704&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;h2 id=&#34;where-can-you-afford-to-rent-in-california-https-www-latimes-com-projects-california-rental-calculator-map&#34;&gt;&lt;a href=&#34;(https://www.latimes.com/projects/california-rental-calculator-map/)&#34;&gt;Where can you afford to rent in California?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-california-latimes.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nice interactive tool where you can put your salary and see where you could afford to live in California. For my upcoming course &lt;strong&gt;Geospatial data visualization with d3&lt;/strong&gt; I&amp;rsquo;m using housing data for Chicago to map in a similar fashion. But I&amp;rsquo;m using neighborhoods as a measurement (because the data is provided in that format for the most part.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.latimes.com/projects/california-rental-calculator-map/&#34;&gt;https://www.latimes.com/projects/california-rental-calculator-map/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;we-re-at-the-peak-of-the-global-fire-season-https-www-washingtonpost-com-climate-environment-2019-08-30-were-peak-global-fire-season&#34;&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/&#34;&gt;We’re at the peak of the global fire season&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/fire-season-satellites.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Great usage of satellite data and pretty interesting color scale choice. Worth exploring more.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/&#34;&gt;https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;short-term-rentals-in-toronto-upgo-city-spotlight-https-upgo-lab-mcgill-ca-2019-08-23-short-term-rentals-in-toronto-report&#34;&gt;&lt;a href=&#34;https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/&#34;&gt;Short-term rentals in Toronto: UPGo city spotlight&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/str-toronto.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The great thing about this report is not the small multiples (although I ❤️  small multiples). But rather that they published all their results on Github to be reproduced. Although the data is not available on GitHub just their analysis code.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/&#34;&gt;https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-night-under-the-stars&#34;&gt;[A night under the stars]&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/night-under-stars.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;A look at overnight stays at US National Parks&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;When should you pitch your tent? Or when is it better to opt for lodging? When should you visit to avoid the crowds? Let’s have a look!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Did I mention that I ❤️ small multiples? This is a gorgeous example.&lt;/p&gt;
+
+&lt;p&gt;And the first section is an explanation of how the charts work and how to read it. It&amp;rsquo;s always recommended to include such a section if you have a novel way or choose a not standard way of showing data.&lt;/p&gt;
+
+&lt;h2 id=&#34;as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most-https-www-npr-org-2019-09-03-754044732-as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most-t-1567964800864&#34;&gt;&lt;a href=&#34;https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864&#34;&gt;As Rising Heat Bakes U.S. Cities, The Poor Often Feel It Most&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/npr-heat-income.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another great collection of small multiples. Overall this project is great. I love the usage of satellite data to get the temperatures and tailor it to your audience since you can select your won city. It&amp;rsquo;s a novel approach to look at temperature and income at the same time. And they have their process documented and the code uploaded to GitHub. Thanks a lot!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864&#34;&gt;https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;here-s-who-owns-the-most-land-in-america-https-www-bloomberg-com-graphics-2019-largest-landowners-in-us&#34;&gt;&lt;a href=&#34;https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/&#34;&gt;Here’s Who Owns the Most Land in America&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/bloomberg-who-owns-land.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I love the annotations and storytelling part. You can click on the dots on the right side and it will showcase different owners and the map will center on the region of these properties. Well done!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/&#34;&gt;https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;off-the-charts-heat-to-affect-millions-in-u-s-in-coming-decades-https-www-nationalgeographic-com-environment-2019-07-extreme-heat-to-affect-millions-of-americans-sf215943283-1-sf218432239-1&#34;&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&amp;amp;sf218432239=1&#34;&gt;‘Off-the-charts’ heat to affect millions in U.S. in coming decades&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&amp;amp;sf218432239=1&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/off-the-charts-heat.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a circle to showcase number of dangerous days is an interesting approach. Especially interesting is the way the annotation works. They used Seattle for a lengthier explanation of the number underneath the city name because they had enough space to add it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&amp;amp;sf218432239=1&#34;&gt;https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&amp;amp;sf218432239=1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;color-tool-https-learnui-design-tools-data-color-picker-html-palette&#34;&gt;&lt;a href=&#34;https://learnui.design/tools/data-color-picker.html#palette&#34;&gt;Color Tool&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://learnui.design/tools/data-color-picker.html#palette&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/color-tool.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The great thing is the immediate feedback in a chart and a map. Although I would have used another chart than a pie.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://learnui.design/tools/data-color-picker.html#palette&#34;&gt;https://learnui.design/tools/data-color-picker.html#palette&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;h2 id=&#34;civic-tech-projects-in-canada&#34;&gt;Civic Tech projects in Canada&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The team at &lt;a href=&#34;https://twitter.com/opennorth&#34;&gt;@opennorth&lt;/a&gt; is collecting examples of &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&#34;&gt;#civictech&lt;/a&gt; projects in Canada, and will be submitting them to the &lt;a href=&#34;https://twitter.com/civictechguide&#34;&gt;@civictechguide&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re working on a project (or have worked on one) take a minute and add it to their list.&lt;br /&gt;
+&lt;a href=&#34;https://twitter.com/code4ca/status/1169334327978672128&#34; title=&#34;https://twitter.com/code4ca/status/1169334327978672128&#34;&gt;https://twitter.com/code4ca/status/1169334327978672128&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;explore-the-nyc-capital-commitment-plan&#34;&gt;Explore the NYC Capital Commitment Plan&lt;/h2&gt;
+
+&lt;p&gt;New civic tech project from Chris Whong exploring capital spending in NYC.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://capital-commitments.chriswhong.com/fy19&#34; title=&#34;https://capital-commitments.chriswhong.com/fy19&#34;&gt;https://capital-commitments.chriswhong.com/fy19&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;scooter-startup-says-needy-communities-in-san-francisco-asked-to-be-excluded&#34;&gt;Scooter startup says needy communities in San Francisco asked to be excluded&lt;/h2&gt;
+
+&lt;p&gt;This is an interesting set of articles from the LA Times. The first article was titled &amp;ldquo;Scooter startup says needy communities in San Francisco asked to be excluded&amp;rdquo; and after the article was published Scoot responded that the commented asked to be excluded. We need to be careful how we use the data from scooter companies. My question to the LA Times would be, did not sent the article to Scoot before publishing it?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks&#34; title=&#34;https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks&#34;&gt;https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird&#34; title=&#34;https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird&#34;&gt;https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
         
             <item>
                 <title>Weekly Notes</title>
