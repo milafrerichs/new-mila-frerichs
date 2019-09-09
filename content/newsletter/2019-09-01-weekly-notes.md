@@ -1,5 +1,5 @@
 +++
-date = "2019-07-21T00:00:00+02:00"
+date = "2019-09-08T00:00:00+02:00"
 description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
 draft = true
 images = []
@@ -55,7 +55,7 @@ The great thing about this report is not the small multiples (although I ❤️ 
 
 [https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/](https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/)
 
-## [A night under the stars]
+## \[A night under the stars\]
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/night-under-stars.png)
 
@@ -71,17 +71,23 @@ And the first section is an explanation of how the charts work and how to read i
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/npr-heat-income.png)](https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864)
 
+Another great collection of small multiples. Overall this project is great. I love the usage of satellite data to get the temperatures and tailor it to your audience since you can select your won city. It's a novel approach to look at temperature and income at the same time. And they have their process documented and the code uploaded to GitHub. Thanks a lot! 
+
 [https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864](https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864)
 
 ## [Here’s Who Owns the Most Land in America](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/)
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/bloomberg-who-owns-land.png)](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/)
 
+I love the annotations and storytelling part. You can click on the dots on the right side and it will showcase different owners and the map will center on the region of these properties. Well done! 
+
 [https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/](https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/)
 
 ## [‘Off-the-charts’ heat to affect millions in U.S. in coming decades](https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1)
 
 [![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/off-the-charts-heat.png)](https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1)
+
+Using a circle to showcase number of dangerous days is an interesting approach. Especially interesting is the way the annotation works. They used Seattle for a lengthier explanation of the number underneath the city name because they had enough space to add it. 
 
 [https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1](https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&sf218432239=1)
 
@@ -97,8 +103,8 @@ The great thing is the immediate feedback in a chart and a map. Although I would
 
 ## Civic Tech projects in Canada
 
-> The team at [@opennorth](https://twitter.com/opennorth) is collecting examples of [#civictech](https://twitter.com/hashtag/civictech?src=hash) projects in Canada, and will be submitting them to the [@civictechguide](https://twitter.com/civictechguide)!  
->   
+> The team at [@opennorth](https://twitter.com/opennorth) is collecting examples of [#civictech](https://twitter.com/hashtag/civictech?src=hash) projects in Canada, and will be submitting them to the [@civictechguide](https://twitter.com/civictechguide)!
+>
 > If you're working on a project (or have worked on one) take a minute and add it to their list.  
 > [https://twitter.com/code4ca/status/1169334327978672128](https://twitter.com/code4ca/status/1169334327978672128 "https://twitter.com/code4ca/status/1169334327978672128")
 
@@ -110,7 +116,7 @@ New civic tech project from Chris Whong exploring capital spending in NYC.
 
 ## Scooter startup says needy communities in San Francisco asked to be excluded
 
-This is an interesting set of articles from the LA Times. The first article was titled "Scooter startup says needy communities in San Francisco asked to be excluded" and after the article was published Scoot responded that the commented asked to be excluded. We need to be careful how we use the data from scooter companies. My question to the LA Times would be, did not sent the article to Scoot before publishing it? 
+This is an interesting set of articles from the LA Times. The first article was titled "Scooter startup says needy communities in San Francisco asked to be excluded" and after the article was published Scoot responded that the commented asked to be excluded. We need to be careful how we use the data from scooter companies. My question to the LA Times would be, did not sent the article to Scoot before publishing it?
 
 [https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks](https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks "https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks")  
 [https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird](https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird "https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird")
