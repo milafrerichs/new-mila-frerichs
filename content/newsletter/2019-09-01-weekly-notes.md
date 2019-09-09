@@ -1,7 +1,6 @@
 +++
 date = "2019-09-08T00:00:00+02:00"
 description = "Weekly Newsletter about Maps, Data Visualization, Open Data & Civic Tech"
-draft = true
 images = []
 summary = "Let's take another stab at mercator. Looking at how to transform just a blog of data into something meaningful and a new color tool to explore. "
 title = "Weekly Notes"
