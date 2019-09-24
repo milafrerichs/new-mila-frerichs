@@ -1,0 +1,27 @@
+---
+label: Blog post - articles
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group
+  name: image
+  label: image
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: text
+    name: alt
+    label: alt
+- type: field_group
+  name: card
+  label: card
+  fields:
+  - type: text
+    name: description
+    label: description
