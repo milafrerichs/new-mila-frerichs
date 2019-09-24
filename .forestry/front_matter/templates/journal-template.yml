@@ -16,6 +16,7 @@ fields:
     schema:
       format: markdown
 pages:
+- content/articles/foss4g-uk-review.md
 - content/articles/makeover-monday-how-americans-sleep.md
 - content/articles/vizrisk-challenge-audience.md
 - content/articles/vizrisk-challenge-audience.md
