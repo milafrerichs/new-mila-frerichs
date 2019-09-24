@@ -6,10 +6,20 @@
     <description>Recent content in Articles on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 04:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FOSS4G UK Review</title>
+      <link>http://milafrerichs.de/articles/foss4g-uk-review/</link>
+      <pubDate>Tue, 24 Sep 2019 04:00:00 +0200</pubDate>
+      
+      <guid>http://milafrerichs.de/articles/foss4g-uk-review/</guid>
+      <description>I had a great time at FOSS4G UK last week. I was not feeling well the week before so it was a good change of pace for me. Get out and enjoy a different city. It always is sad to leave my small family (wife and dog) but I love traveling around the world.
+I was looking forward to Edinburgh, I heard so many goods things about the city and Scotland in general.</description>
+    </item>
     
     <item>
       <title>Single family homes in San Diego</title>
@@ -157,16 +167,6 @@ I tried for the last months to get into reading and writing habit. And I must ad
 During the development process (which I will describe in a coming post) I encountered some repetitive code/task. I then refactored the code and wrote a small class which I then would use for every site.
 Most often you want the first text of the matching selector and the attr of the first element matching.
 You can find the class here: {% gist 8491837%}</description>
-    </item>
-    
-    <item>
-      <title>FOSS4G UK Review</title>
-      <link>http://milafrerichs.de/articles/foss4g-uk-review/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://milafrerichs.de/articles/foss4g-uk-review/</guid>
-      <description>I had a great time at FOSS4G UK last week. I was not feeling well the week before so it was a good change of pace for me. Get out and enjoy a different city. It always is sad to leave my small family (wife and dog) but I love traveling around the world.
-I was looking forward to Edinburgh, I heard so many goods things about the city and Scotland in general.</description>
     </item>
     
   </channel>
