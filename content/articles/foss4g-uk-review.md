@@ -1,6 +1,12 @@
 +++
+date = "2019-09-24T04:00:00+02:00"
 description = ""
 title = "FOSS4G UK Review"
+[card]
+description = ""
+[image]
+alt = ""
+url = ""
 
 +++
 ![me giving a talk](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/AF6327DF-1615-487D-B969-AD5D3F925BBF.jpg)
