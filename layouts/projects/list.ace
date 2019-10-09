@@ -3,8 +3,9 @@
 = content main
   .font-sans.text-lg.text-grey-darkest.spaced-y-6
     {{.Content}}
+    a href="/technologies/d3" D3
     ul.list-reset.mt-16.spaced-y-8
-      {{ range sort $.Site.Data.projects "date" "desc" }}
+      {{ range .Site.Taxonomies.portfolios.default.Pages }}
         .projects
           {{ partial "portfolio-item" . }}
       {{ end }}

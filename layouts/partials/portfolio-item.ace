@@ -1,11 +1,11 @@
-{{ $image := .image }}
-{{ if .cloudinary }}
-  {{ $image = printf "%s%s" "https://res.cloudinary.com/civicvision/image/upload/fl_relative,w_1.0,h_1.0,l_bg,o_60/" .cloudinary }}
+{{ $image := .Params.image }}
+{{ if .Params.cloudinary }}
+  {{ $image = printf "%s%s" "https://res.cloudinary.com/civicvision/image/upload/fl_relative,w_1.0,h_1.0,l_bg,o_60/" .Params.cloudinary }}
 {{ end }}
 .shadow.bg-white
-  .bg-size.bg-blue-dark.bg-cover class="{{ default "bg-left-top" .image_position}}" style="background-image: url('{{$image}}')" 
+  .bg-size.bg-blue-dark.bg-cover class="{{ default "bg-left-top" .Params.image_position}}" style="background-image: url('{{$image}}')" 
     .p-4.h-48.flex.items-end.text-white
-      h3.mb-2 {{.title}}
+      h3.mb-2 {{.Title}}
     {{ if false }}
       .relative
         button.bg-green.hover:bg-green-light.absolute.pin-r.mr-4.-mt-8.flex.justify-center.items-center.rounded-full.h-12.w-12.p-2
@@ -13,24 +13,24 @@
     {{ end }}
   div
     .p-4
-      h4.text-grey-darker.mb-2 {{ default "Private Project" .client }} &middot; {{ dateFormat "January 2006" .date}} {{ if .duration }} &middot; {{ .duration }} months {{ end }}
+      h4.text-grey-darker.mb-2 {{ default "Private Project" .Params.client }} &middot; {{ dateFormat "January 2006" .Params.date}} {{ if .Params.duration }} &middot; {{ .Params.duration }} months {{ end }}
       p.text-grey-dark.leading-tight
-        {{.description | markdownify }}
+        {{.Params.description | markdownify }}
     .mt-2.p-4.bg-grey-lighter.text-grey-dark.flex.justify-between
       .mr-4
-        {{ if .link }}
-          a.no-underline.mr-4.hover:underline href="{{.link}}" Project
+        {{ if .Params.link }}
+          a.no-underline.mr-4.hover:underline href="{{.Params.link}}" Project
         {{end}}
-        {{if .github}}
-          a.no-underline.mr-4.hover:underline href="https://github.com/{{.github}}"  GitHub
+        {{if .Params.github}}
+          a.no-underline.mr-4.hover:underline href="https://github.com/{{.Params.github}}"  GitHub
         {{end}}
       .mr-4
-        {{ if .languages }}
-          {{ delimit .languages ", " }}
+        {{ if .Params.languages }}
+          {{ delimit .Params.languages ", " }}
         {{ end }}
       .inline-flex.justify-end
-        {{ if .technologies }}
-          {{ delimit .technologies ", " }}
+        {{ if .Params.technologies }}
+          {{ delimit .Params.technologies ", " }}
         {{ end }}
 
 
