@@ -8,3 +8,23 @@ fields:
 - type: text
   name: linktitle
   label: linktitle
+- name: menu
+  type: field_group
+  config: {}
+  fields:
+  - name: main
+    type: field_group
+    config: {}
+    fields:
+    - name: weight
+      type: number
+      label: weight
+      description: ''
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+    label: main
+  label: menu
