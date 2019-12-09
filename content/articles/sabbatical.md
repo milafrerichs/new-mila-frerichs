@@ -1,6 +1,5 @@
 +++
 date = 2019-12-08T23:00:00Z
-draft = true
 title = "Sabbatical"
 [card]
 description = ""
