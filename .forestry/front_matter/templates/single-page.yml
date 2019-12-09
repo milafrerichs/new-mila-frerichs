@@ -28,3 +28,5 @@ fields:
         step: 
     label: main
   label: menu
+pages:
+- content/travel.md
