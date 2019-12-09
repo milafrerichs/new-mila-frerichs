@@ -6,10 +6,20 @@
     <description>Recent content in Articles on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2019 04:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2019 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sabbatical</title>
+      <link>http://milafrerichs.de/articles/sabbatical/</link>
+      <pubDate>Sun, 08 Dec 2019 23:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/articles/sabbatical/</guid>
+      <description>I took a week off last week and did not plan to work and did not schedule anything. I wanted to take a sabbatical as Sean Wes proposed. Every 7th week plan a sabbatical. And I did I put it in my calendar and was determined to not work.
+I put it in the week where I wanted to take a small vacation with my wife anyway to Turin and it worked out great.</description>
+    </item>
     
     <item>
       <title>FOSS4G UK Review</title>
