@@ -8,7 +8,7 @@ alt = ""
 url = ""
 
 +++
-I took a week off last week and did not plan to work and did not schedule anything. I wanted to take a sabbatical as [Sean Wes](http://seanwes.com/) [proposed](http://sabbatical.blog/). Every 7th week plan a sabbatical. And I did I put it in my calendar and was determined to not work.
+I took a week off last week and did not plan to work and did not schedule anything. I wanted to take a sabbatical as [Sean Wes](http://seanwes.com/) [proposed](http://sabbatical.blog/). Every [7th week plan a sabbatical](https://seanwes.com/podcast/378-seventh-week-sabbatical/). And I did I put it in my calendar and was determined to not work.
 
 I put it in the week where I wanted to take a small vacation with my wife anyway to Turin and it worked out great.
 
