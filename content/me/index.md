@@ -1,11 +1,12 @@
 ---
 title: About Me
+linktitle: About me
 menu:
-  main:
-    weight: 10
   footer:
     weight: 10
-linktitle: "Me"
+  main:
+    weight: 10
+
 ---
 ### Hi, I'm __Mila Frerichs.__
 
