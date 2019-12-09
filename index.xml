@@ -330,15 +330,6 @@ You can find the class here: {% gist 8491837%}</description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://milafrerichs.de/hire-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://milafrerichs.de/hire-me/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>http://milafrerichs.de/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -347,6 +338,15 @@ You can find the class here: {% gist 8491837%}</description>
       <description>Hi, I&amp;rsquo;m Mila Frerichs. I love to help advocacy groups and non-profits make cities and the world a better place. That&amp;rsquo;s why I love what I do and would not exchange it for a regular job.
 I use my software development skills to do good and help others. I am fortunate that I can use my passion to make a living.
 I love what I do and if I would not have founded my own company Civic Vision in 2014, I would volunteer my time to do good.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://milafrerichs.de/hire-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/hire-me/</guid>
+      <description> </description>
     </item>
     
     <item>
