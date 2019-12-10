@@ -23,3 +23,5 @@ I was lucky enough to get funding from the prototypefund to work on a civic tech
 # Infrastructure San Diego
 
 Back in 2016 I worked with the council committee on Infrastructure ... for the City of San Diego to improve transparency and information regarding Capital Improvement Projects and the involvement of local Community Planning Groups. 
+
+# Mapbox for R
