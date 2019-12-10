@@ -8,21 +8,23 @@ menu:
     weight: 30
 
 ---
-_Last updated: 12.07.2019_
+_Last updated: 10.12.2019_
 
-Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with [streetmix](https://streetmix.net) to improve their testing.
+Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with Bertelsmann Stiftung on an ML prototype categorizing German Open Data. 
 
-I’m available for work in September.
+I'm booked for the next couple of months.
 
-## Next conferences I attend/talk
+I’m available for work in February 2020.
 
-* FOSS4G UK, 19-20 September 2019, Edinburgh, UK
-* NACIS 2019, 17.-18.October 2019, Tacoma, USA
+## Next conferences I plan to attend/talk
+
+* GoodTechFest 2020, Chicago
+* FOSS4G 2020, Calgary
+* FOSS4G Oceania, Fiji
 
 ## Next family trips
 
-* None is planned right now
-* Will be more short term weekend trips probably
+* Muenster in late December
 
 ## What I will be working on
 
