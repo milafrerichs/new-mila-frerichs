@@ -10,13 +10,15 @@ url = ""
 +++
 I took a week off last week and did not plan to work and did not schedule anything. I wanted to take a sabbatical as [Sean Wes](http://seanwes.com/) [proposed](http://sabbatical.blog/). Every [7th week plan a sabbatical](https://seanwes.com/podcast/378-seventh-week-sabbatical/). And I did I put it in my calendar and was determined to not work.
 
+The last few months were very stressful with a lot of client work, finding new work and working on the preorder of my upcoming online course [**Geospatial Data Visualization with d3**](https://mappingwithd3.com). As well as a few conferences with talks and workshops. That's why I was looking forward to this week to wind down a little bit.
+
 I put it in the week where I wanted to take a small vacation with my wife anyway to Turin and it worked out great.
 
 I did have to schedule two client calls this week but they were short so it did not bother me too much.
 
-It was really refreshing, we rented a car and made a road trip out of it because we wanted our dog ruby to come with us.
+It was really refreshing, we rented a car and made a road trip out of it because we wanted our dog Ruby to come with us.
 
-Instead of flying we drove for two days from Berlin to Turin (1200km). We made it a two-leg journey just to make it more fun than draining. 
+Instead of flying we drove for two days from Berlin to Turin (1200km). We made it a two-leg journey just to make it more fun than draining.
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/roadtrp-torino/route.png)
 
@@ -48,7 +50,7 @@ It was magical, warmer than anticipated and we got so see snow and needed to cut
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1575903711/milafrerichs.com/articles/roadtrp-torino/IMG_6993.jpg)
 
-It was very refreshing and we had some great meals in Torino. 
+It was very refreshing and we had some great meals in Torino.
 
 After a few days we traveled to Bologna to visit my brother for a few days and take a look at his new dog (Holly) :)
 
