@@ -26,5 +26,6 @@ fields:
     name: description
     label: description
 pages:
-- content/articles/sabbatical.md
 - content/articles/foss4g-uk-review.md
+- content/articles/sabbatical.md
+- content/articles/update-your-packages.md
