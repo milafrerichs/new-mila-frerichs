@@ -6,10 +6,21 @@
     <description>Recent content in Articles on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2019 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Just update your packages!</title>
+      <link>http://milafrerichs.de/articles/update-your-packages/</link>
+      <pubDate>Thu, 19 Dec 2019 23:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/articles/update-your-packages/</guid>
+      <description>Sometimes fixing an error in your application is easily fixable by upgrading the package that has that error (if you can pinpoint the package that is responsible. )
+I ran into an error today working on my course platform and I could not figure out the cause of the error.
+After about half an hour of research, I found someone suggesting to update the package and that finally solved the issue.</description>
+    </item>
     
     <item>
       <title>Sabbatical</title>
