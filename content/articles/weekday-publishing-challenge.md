@@ -1,6 +1,5 @@
 +++
 date = 2020-01-01T04:00:00Z
-draft = true
 title = "Weekday Publishing Challenge"
 [card]
 description = ""
