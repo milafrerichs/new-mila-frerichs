@@ -8,16 +8,18 @@ alt = ""
 url = ""
 
 +++
-I am unfollowing a bunch of people and putting them into lists. 
+I am unfollowing a bunch of people and putting them into lists.
 
 If you're one of them, sorry about that, I still read you but in lists and when I'm ready for it.
 
-I Need to reduce the daily amount of Tweets I see in my timeline and be more proactive about when I read what type of tweets. 
+I need to reduce the daily amount of tweets I see in my timeline and be more proactive about when I read what type of tweets. I spend too much time on twitter scrolling through my timeline and not reading actively. 
 
-Thanks to James fee for the Inspiration. I already had a few lists but his suggestion really made sense :)
+Using lists and following less people already led to me to proactively decide which topic I want to read right now. And using the timeline to find new people via retweets. 
 
-But it is not as straightforward as it could be. 
+Thanks to James Fee for the inspiration. I already had a few lists but his suggestion really made sense :)
 
-I would love a way to see all the people I follow that are not yet in a list. Then I could more easily put them in one. 
+But it is not as straightforward as it could be.
+
+I would love a way to see all the people I follow that are not yet in a list. Then I could more easily put them in one.
 
 How are you consuming twitter these days?
