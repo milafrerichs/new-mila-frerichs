@@ -8,11 +8,11 @@ alt = ""
 url = ""
 
 +++
-I am unfollowing a bunch of people and putting them into lists.
+‪I need to reduce the daily amount of tweets I see in my timeline and be more proactive about when I open twitter.‬ I spend too much time on twitter scrolling through my timeline and not reading actively. 
 
-If you're one of them, sorry about that, I still read you but in lists and when I'm ready for it.
+‪I decided to unfollow a bunch of people and putting them into lists.‬
 
-I need to reduce the daily amount of tweets I see in my timeline and be more proactive about when I read what type of tweets. I spend too much time on twitter scrolling through my timeline and not reading actively. 
+‪If you're one of them, sorry about that, I still read you but in lists and when I'm ready for it‬.
 
 Using lists and following less people already led to me to proactively decide which topic I want to read right now. And using the timeline to find new people via retweets. 
 
