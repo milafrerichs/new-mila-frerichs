@@ -1,6 +1,5 @@
 +++
 date = 2020-01-03T02:00:00Z
-draft = true
 title = " Categories of Podcasts I listen to"
 [card]
 description = ""
