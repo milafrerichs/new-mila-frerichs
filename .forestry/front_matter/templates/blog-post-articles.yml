@@ -27,6 +27,7 @@ fields:
     label: description
 pages:
 - content/articles/books-that-i-read-in-2019.md
+- content/articles/categories-of-podcasts-i-listen-to.md
 - content/articles/foss4g-uk-review.md
 - content/articles/sabbatical.md
 - content/articles/twitter-diet.md
