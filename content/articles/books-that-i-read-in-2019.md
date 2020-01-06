@@ -19,7 +19,7 @@ That resulted in fewer books read.
 
 So in 2020, I want to read every day at least one page in the morning. Let‘s see how that goes :) 
 
-Books I read
+### Books I read
 
 * Hyperfocus
 * Deep work
@@ -32,13 +32,11 @@ You guessed right that I‘m somewhat obsessed with productivity, deep work and 
 
 ### Non-business book
 
-**Scorecasting**
-
-Finished this week but mostly read in 2019
+I finished Scorecasting this week, but mostly read it in 2019
 
 ### Almost finished in 2019:
 
-\- Entrepreneurs guide of getting your sh\\*\\*  together (90%)
+\- Entrepreneurs guide of getting your sh**  together (90%)
 
 \- Profit First (40%)
 
