@@ -1,6 +1,5 @@
 +++
 date = 2020-01-06T07:00:00Z
-draft = true
 title = "Books that I read in 2019."
 [card]
 description = ""
