@@ -21,17 +21,12 @@ So in 2020, I want to read every day at least one page in the morning. Let‘s s
 
 Books I read
 
-\- Hyperfocus
-
-\- Deep work
-
-\- The one thing
-
-\- Atomic Habit
-
-\- Flawless Consulting
-
-\- Indistractable
+* Hyperfocus
+* Deep work
+* The one thing
+* Atomic Habit
+* Flawless Consulting
+* Indistractable
 
 You guessed right that I‘m somewhat obsessed with productivity, deep work and habits last year. And still am, it changed how I approach my day-to-day work. 
 
