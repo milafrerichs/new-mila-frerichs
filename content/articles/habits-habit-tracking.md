@@ -25,20 +25,19 @@ I’m going to pick up Stefanie’s tracking and adding another one that I disco
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/habit-tracking.jpg)
 
-And you should follow Sean he always puts out great content and has great advice (although he’s taking a year off).
+I built this in GoodNotes on my iPad because I want digital and not physical copies. I'm better at drawing on my iPad with support than on real paper and this way I always have a way to track my habits even when I'm on the road.
 
-I started tracking more of my days and successes in notion thanks to Marie Poulin and it is a great way to keep track of things.
+You should follow [Sean](https://seanwes.com) he always puts out great content and has great advice (although he’s taking a year off).
 
-My planning and reviews got much better.
-
-But I can still do a better job, especially with my shutdown and review routine.
+I also started tracking more of my days and successes in notion thanks to Marie Poulin and it is a great way to keep track of things.  
+As a result, my planning and reviews got much better.
 
 So the habits that I want to keep or pick up are:
 
-* daily writing
+* daily writing _(keep)_
 * daily Yoga
 * daily exercise
-* week daily shutdown routine
-* startup routine
+* week daily shutdown routine _(pick up again)_
+* startup routine _(pick up again)_
 
 What Habits are you trying to form and how are you tracking your progress?
