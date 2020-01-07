@@ -1,6 +1,5 @@
 +++
 date = 2020-01-07T07:00:00Z
-draft = true
 title = "Habits & Habit Tracking"
 [card]
 description = ""
@@ -27,7 +26,7 @@ I’m going to pick up Stefanie’s tracking and adding another one that I disco
 
 I built this in GoodNotes on my iPad because I want digital and not physical copies. I'm better at drawing on my iPad with support than on real paper and this way I always have a way to track my habits even when I'm on the road.
 
-You should follow [Sean](https://seanwes.com) he always puts out great content and has great advice (although he’s taking a year off).
+You should follow [Sean](https://seanwes.com) (who created this 5 habit tracker initially) he always puts out great content and has great advice (although he’s taking a year off).
 
 I also started tracking more of my days and successes in notion thanks to Marie Poulin and it is a great way to keep track of things.  
 As a result, my planning and reviews got much better.
