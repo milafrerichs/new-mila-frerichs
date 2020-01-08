@@ -19,6 +19,6 @@ I am guilty myself I just published articles and although a few of them are very
 
 I will take the effort over the next couple of months to show you my most relevant content first and not my latest thoughts.
 
-I will rearrange my „blog“ from a stream of content sorted by publish date to a curated list of content items that I want you to read. You will still able to access my content as a stream and if you subscribe to my email list you will get this stream as well :)
+I will rearrange my „blog“ from a stream of content sorted by publish date to a curated list of content items that I want you to read. You will still able to access my content as a stream and if you subscribe to my email list you will get this stream as well 😀
 
-I think this will benefit all of us. I'm not under pressure to produce the greatest and lengthy content all the time and you get the benefit of my important thoughts :)
+I think this will benefit all of us. I'm not under pressure to produce the greatest and lengthy content all the time and you get the benefit of my important thoughts 😎
