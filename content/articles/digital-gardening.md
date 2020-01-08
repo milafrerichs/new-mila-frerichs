@@ -1,6 +1,5 @@
 +++
 date = 2020-01-08T08:00:00Z
-draft = true
 title = "Digital Gardening"
 [card]
 description = ""
