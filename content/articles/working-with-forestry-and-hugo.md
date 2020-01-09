@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-01-09T08:00:00Z
 draft = true
 title = "Working with forestry and hugo"
 [card]
