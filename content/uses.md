@@ -12,6 +12,8 @@ here are a few I took inspiration from
 
 [https://kentcdodds.com/uses/](https://kentcdodds.com/uses/ "https://kentcdodds.com/uses/")
 
+[https://github.com/wesbos/awesome-uses](https://github.com/wesbos/awesome-uses "https://github.com/wesbos/awesome-uses")
+
 editor + terminal
 
 * vim - my vom confit can be found here:
