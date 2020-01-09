@@ -10,11 +10,14 @@ I see so many people now share what they use for others to get Inspirationen.
 
 here are a few I took inspiration from
 
-editor
+[https://kentcdodds.com/uses/](https://kentcdodds.com/uses/ "https://kentcdodds.com/uses/")
 
-* vim - my vom confit can be found here: 
+editor + terminal
+
+* vim - my vom confit can be found here:
 * solarized light theme
 * atom (occasionally)
+* iterm & tmux 
 
 chrome/Safari extensions
 
@@ -25,6 +28,16 @@ desktop apps
 * alfred (with power...)
 * iterm2
 * dashlane
+* Notion
+* omnifocus
+* A+ text expander
+* 
+
+recording
+
+* QuickTime (for now)
+* makegif file
+* micrphone: (for now)
 * 
 
 desk setup
@@ -32,4 +45,4 @@ desk setup
 * iMac on ... stand
 * desk
 * standingdesk with monitor
-* 
+* Herman Miller chair
