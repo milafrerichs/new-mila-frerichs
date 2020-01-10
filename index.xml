@@ -6,10 +6,21 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2020 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 08:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Working with forestry and hugo</title>
+      <link>http://milafrerichs.de/articles/working-with-forestry-and-hugo/</link>
+      <pubDate>Thu, 09 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/articles/working-with-forestry-and-hugo/</guid>
+      <description>When I decided to start a new blog I thought about which platform I want to use.
+Here is what I wanted from the potential platform
+ Static site generator Gh Pages Ability to have an easy way to create posts Have a Frontend for just the posts Ability to write in markdown Not using html directly but use something smaller/smarter (the main reason I used middleman) like HAML Ability to use data files Clean default themes  Both Jekyll and Hugo offered most of the important things.</description>
+    </item>
     
     <item>
       <title>Digital Gardening</title>
