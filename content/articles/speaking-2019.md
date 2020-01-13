@@ -1,6 +1,5 @@
 +++
 date = 2020-01-13T07:00:00Z
-draft = true
 title = "Speaking 2019"
 [card]
 description = ""
