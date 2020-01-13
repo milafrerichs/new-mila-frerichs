@@ -6,10 +6,21 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2020 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 07:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Speaking 2019</title>
+      <link>http://milafrerichs.de/articles/speaking-2019/</link>
+      <pubDate>Mon, 13 Jan 2020 07:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/articles/speaking-2019/</guid>
+      <description>I&amp;rsquo;m an introvert. But I love conferences. I love sharing what I know.
+I love being on the stage and talking about what I have learned and what I&amp;rsquo;m passionate about. I am nervous, and I always forget a little bit of what I want to say but I still love it.
+I hate being at conferences on my own but it&amp;rsquo;s the best way to make new connections.</description>
+    </item>
     
     <item>
       <title>Working with forestry and hugo</title>
