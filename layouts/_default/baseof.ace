@@ -6,6 +6,7 @@ html lang=en
     meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
     meta name="google-site-verification" content="muu33Ix4WWGE23IzCYzZCiIlPyGbTNBewVjLjRF6ITA"
     link rel="stylesheet" href="{{ $style.Permalink }}"
+    link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"
     meta name="description" content="{{ if or (.IsHome) (not (isset .Params "description")) -}} {{ $.Site.Params.description }} {{- else -}} {{ .Description }} {{- end }}"
     title {{ if .IsHome -}} {{ .Site.Title }} {{- else -}} {{ .Title }} – {{ .Site.Title }} {{- end }}
     {{ partial "rightmessage" }}
