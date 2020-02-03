@@ -1,6 +1,5 @@
 +++
 date = 2020-02-03T08:00:00Z
-draft = true
 title = "CSS Trick: Show a fallback"
 [card]
 description = ""
@@ -14,7 +13,7 @@ When I have an offer for a visitor RM will show something, but when I don't have
 
 So I thought I can just leave it inside the box that RM would fill with content. But even if they don't have an offer they will overwrite the box.
 
-I could have solved that problem with javascript pretty easily but I want to reduce the amount of javascript I use on my site so I researched if it would be possible with CSS as well.
+I could have solved that problem with javascript pretty easily but I want to reduce the amount of javascript I use on my site. So I researched if it would be possible with CSS as well.
 
 ## CSS Trick: Show a fallback
 
