@@ -6,10 +6,21 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2020 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 08:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CSS Trick: Show a fallback</title>
+      <link>http://milafrerichs.de/articles/css-trick-show-a-fallback/</link>
+      <pubDate>Mon, 03 Feb 2020 08:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/articles/css-trick-show-a-fallback/</guid>
+      <description>I was working on the Mapping with d3 site when I thought about an opt-in field with RightMessage (RM).
+When I have an offer for a visitor RM will show something, but when I don&amp;rsquo;t have anything I want to show a fallback that I don&amp;rsquo;t want to create with RM.
+So I thought I can just leave it inside the box that RM would fill with content. But even if they don&amp;rsquo;t have an offer they will overwrite the box.</description>
+    </item>
     
     <item>
       <title>Speaking at conferences</title>
