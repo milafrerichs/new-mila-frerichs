@@ -24,7 +24,7 @@ The three talks that I gave at these conferences were:
 
 * [Rapid and repeatable Geospatial analysis with python and node using notebooks](https://civic.vision/f4gnan/)
 * [Let‘s talk about maps](https://civic.vision/gtf19/)
-* Distraction-free online maps 
+* [Distraction-free online maps](https://www.youtube.com/watch?v=UfvAc-8reZ8)
 
 And I gave two workshops at FOSS4G NA and NACIS on [Geospatial Data Visualization with d3](https://course.mappingwithd3.com)
 
