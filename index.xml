@@ -6,10 +6,22 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Feb 2020 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 07:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Speaking review 2019</title>
+      <link>http://milafrerichs.de/articles/speaking-review-2019/</link>
+      <pubDate>Tue, 04 Feb 2020 07:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/articles/speaking-review-2019/</guid>
+      <description>I love sharing what I know and love to go to conferences. (Read more bout this here). And sharing at a conference or giving a workshop is very satisfying. The feedback you get and the conversation you have afterward are great.
+I wanted to write a quick review of lasts year&amp;rsquo;s conferences.
+I got accepted to speak at the following conferences in 2019
+ FOSS4G NA, San Diego GoodTechFest, Chicago NACIS, Tacoma FOSS4G Oceania, Auckland  The three talks that I gave at these conferences were:</description>
+    </item>
     
     <item>
       <title>CSS Trick: Show a fallback</title>
