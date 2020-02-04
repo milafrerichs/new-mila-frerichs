@@ -15,10 +15,10 @@ I wanted to write a quick review of lasts year's conferences.
 
 I got accepted to speak at the following conferences in 2019
 
-* FOSS4G NA, San Diego
-* GoodTechFest, Chicago
-* NACIS, Tacoma
-* FOSS4G Oceania, Auckland
+* [FOSS4G NA, San Diego](https://2019.foss4g-na.org/)
+* [GoodTechFest, Chicago](https://www.goodtechfest.com/)
+* [NACIS, Tacoma](https://nacis.org/event/2019-nacis-annual-meeting/)
+* [FOSS4G Oceania, Auckland](https://2019.foss4g-oceania.org/)
 
 The three talks that I gave at these conferences were:
 
@@ -33,14 +33,14 @@ I felt bad for needing to cancel both my workshop and my accepted talk.
 
 Other conferences that I attended but did not speak:
 
-* S-H-O-W conference
+* [S-H-O-W conference](https://graphichuntersshow.nl/conference-2019/)
 
 Conferences I want to speak this year, where I will submit to the CfP:
 
-* FOSS4G, Calgary
-* FOSS4G EU
-* FOSS4G Oceania
-* FOSS4G UK
-* NACIS
+* [FOSS4G, Calgary](http://2020.foss4g.org/)
+* [FOSS4G EU](https://2020.europe.foss4g.org/)
+* [FOSS4G Oceania](https://2019.foss4g-oceania.org/)
+* [FOSS4G UK](https://uk.osgeo.org/)
+* [NACIS](https://nacis.org/)
 
 What conferences are you planning to attend or even speak at?
