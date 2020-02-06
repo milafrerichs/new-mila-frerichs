@@ -57,10 +57,5 @@ build:
   mount_path: "/srv"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-  publish_command: hugo -d public --baseURL=http://milafrerichs.de
-  publish_env:
-  - HUGO_ENV=HUGO_ENV
-  - HUGO_VERSION=0.53
-  output_directory: public
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
 version: '0.53'

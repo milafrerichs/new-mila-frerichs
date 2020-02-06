@@ -26,6 +26,7 @@ fields:
     name: description
     label: description
 pages:
+- content/articles/attend-garden-your-tools.md
 - content/articles/books-that-i-read-in-2019.md
 - content/articles/categories-of-podcasts-i-listen-to.md
 - content/articles/css-trick-show-a-fallback.md
