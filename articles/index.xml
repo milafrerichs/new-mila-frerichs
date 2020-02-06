@@ -6,10 +6,23 @@
     <description>Recent content in Articles on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Feb 2020 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2020 09:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://milafrerichs.de/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Attend &amp; garden your tools</title>
+      <link>http://milafrerichs.de/articles/attend-garden-your-tools/</link>
+      <pubDate>Thu, 06 Feb 2020 09:00:00 +0000</pubDate>
+      
+      <guid>http://milafrerichs.de/articles/attend-garden-your-tools/</guid>
+      <description>You should always work on your tool belt.
+Improve the tools you’re using.
+I’m using vim and tux and constantly learn new tricks and new shortcuts.
+I have a post-it note with new stuff I want to learn and still need to look up. Once they become second nature, I create a new post-it, and move on to the next shortcuts.
+I also use Alfred and add new workflows where I see fit.</description>
+    </item>
     
     <item>
       <title>Speaking review 2019</title>
