@@ -19,7 +19,7 @@ editor + terminal
 * vim - my vom confit can be found here:
 * solarized light theme
 * atom (occasionally)
-* iterm & tmux 
+* iterm & tmux
 
 chrome/Safari extensions
 
@@ -48,3 +48,9 @@ desk setup
 * desk
 * standingdesk with monitor
 * Herman Miller chair
+
+Markwting Apps:
+
+* [Rightmessage](https://mf.fyi/rightmessage)
+* ConvertKit
+* [Hypefurry](https://mf.fyi/hypefury)
