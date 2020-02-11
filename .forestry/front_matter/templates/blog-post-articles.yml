@@ -5,6 +5,9 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: canonical
+  label: canonical
 - type: datetime
   name: date
   label: date
