@@ -1,7 +1,9 @@
 +++
 canonical = "https://mappingwithd3.com/tips/bubblemap_radius/"
-date = ""
+date = 2020-02-10T17:00:00Z
+description = "If you create bubble maps in d3.js and you use a circle SVG element be sure to use the right scale for your radius."
 draft = true
+images = ["https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/geospatial-d3/marketing/website/articles/sqrt.png"]
 title = "Bubble Map Radius Tip for d3.js"
 [card]
 description = ""
