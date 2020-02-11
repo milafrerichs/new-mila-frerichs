@@ -27,6 +27,15 @@ fields:
     min: 
     max: 
   label: Images
+- name: keywords
+  type: tag_list
+  default: []
+  label: Keywords
+- name: tweet
+  type: text
+  config:
+    required: false
+  label: tweet
 pages:
 - content/articles/attend-garden-your-tools.md
 - content/articles/books-that-i-read-in-2019.md
