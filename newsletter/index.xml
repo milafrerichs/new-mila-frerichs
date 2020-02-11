@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mila Frerichs, Data Visualization consultant for social good</title>
-    <link>http://milafrerichs.de/newsletter/</link>
+    <link>/newsletter/</link>
     <description>Weekly Newsletter of Mila Frerichs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0200</lastBuildDate>
     
-        <atom:link href="http://milafrerichs.de/newsletter/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/2019-09-01-weekly-notes/</link>
+                <link>/newsletter/2019-09-01-weekly-notes/</link>
                 <pubDate>Sun, 08 Sep 2019 00:00:00 +0200</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/2019-09-01-weekly-notes/</guid>
+                <guid>/newsletter/2019-09-01-weekly-notes/</guid>
                 <description>
 
 &lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
@@ -149,10 +149,10 @@
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/weekly-notes-2019-08-25/</link>
+                <link>/newsletter/weekly-notes-2019-08-25/</link>
                 <pubDate>Sun, 25 Aug 2019 00:00:00 +0200</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/weekly-notes-2019-08-25/</guid>
+                <guid>/newsletter/weekly-notes-2019-08-25/</guid>
                 <description>
 
 &lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
@@ -253,10 +253,10 @@ in Los Angeles&lt;/p&gt;
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/weekly-notes-2019-08-11/</link>
+                <link>/newsletter/weekly-notes-2019-08-11/</link>
                 <pubDate>Sun, 11 Aug 2019 10:00:00 +0200</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/weekly-notes-2019-08-11/</guid>
+                <guid>/newsletter/weekly-notes-2019-08-11/</guid>
                 <description>
 
 &lt;p&gt;I had a very busy two weeks but found some very interesting pieces the last week. I especially like the Heat Vulnerability Map from Vienna. And all over the place you see that Earth Observation (satellite) data is used more and more in analysis and data visualization. I love this trend and I love pocking not satellite data myself.&lt;/p&gt;
@@ -361,10 +361,10 @@ in Los Angeles&lt;/p&gt;
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/weekly-notes-2019-07-28/</link>
+                <link>/newsletter/weekly-notes-2019-07-28/</link>
                 <pubDate>Sun, 28 Jul 2019 08:00:00 +0200</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/weekly-notes-2019-07-28/</guid>
+                <guid>/newsletter/weekly-notes-2019-07-28/</guid>
                 <description>
 
 &lt;p&gt;Welcome to this new edition of “Weekly Notes”, a weekly newsletter about Maps, Data Visualization, Civic Tech, and Open Data.&lt;/p&gt;
@@ -483,10 +483,10 @@ in Los Angeles&lt;/p&gt;
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/2019-07-21-weekly-notes/</link>
+                <link>/newsletter/2019-07-21-weekly-notes/</link>
                 <pubDate>Sun, 21 Jul 2019 09:00:00 +0200</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/2019-07-21-weekly-notes/</guid>
+                <guid>/newsletter/2019-07-21-weekly-notes/</guid>
                 <description>
 
 &lt;p&gt;Welcome to this new edition of &amp;ldquo;Weekly Notes&amp;rdquo;, a weekly newsletter about Maps, Data Visualization, Civic Tech and Open Data.&lt;/p&gt;
@@ -688,10 +688,10 @@ Send them to the &lt;a href=&#34;http://milafrerichs.com/newsletter&#34;&gt;news
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/2019-07-14-weekly-notes/</link>
+                <link>/newsletter/2019-07-14-weekly-notes/</link>
                 <pubDate>Sun, 14 Jul 2019 10:00:00 +0200</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/2019-07-14-weekly-notes/</guid>
+                <guid>/newsletter/2019-07-14-weekly-notes/</guid>
                 <description>
 
 &lt;p&gt;Welcome to this new edition of my newsletter. I hope you all had a great week. I certainly had one.&lt;/p&gt;
@@ -819,10 +819,10 @@ Send them to the &lt;a href=&#34;http://milafrerichs.com/newsletter&#34;&gt;news
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/2019-07-06-weekly-notes/</link>
+                <link>/newsletter/2019-07-06-weekly-notes/</link>
                 <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/2019-07-06-weekly-notes/</guid>
+                <guid>/newsletter/2019-07-06-weekly-notes/</guid>
                 <description>
 
 &lt;p&gt;I love that e-scooters have finally arrived in Berlin. I already used them to get around and shorten my trips. This weekend we had some close friends over, and we used the scooters to show them the city from a different perspective. It&amp;rsquo;s definitely a fun and great way to get around. Although my last work week did not feel that productive, I published two new content items last week. More productive than I thought!&lt;/p&gt;
@@ -907,10 +907,10 @@ Found in the basement of a restaurant in Berlin.&lt;/p&gt;
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/2019-07-01-weekly-notes/</link>
+                <link>/newsletter/2019-07-01-weekly-notes/</link>
                 <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/2019-07-01-weekly-notes/</guid>
+                <guid>/newsletter/2019-07-01-weekly-notes/</guid>
                 <description>
 
 &lt;p&gt;How was your week? Mine was tumultuous. I got my Open Water Diver license, and I look forward to exploring the underwater world. But other than that a lot of stuff was going on.&lt;/p&gt;
@@ -981,10 +981,10 @@ Found in the basement of a restaurant in Berlin.&lt;/p&gt;
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/2019-06-18-weekly-notes/</link>
+                <link>/newsletter/2019-06-18-weekly-notes/</link>
                 <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/2019-06-18-weekly-notes/</guid>
+                <guid>/newsletter/2019-06-18-weekly-notes/</guid>
                 <description>
 
 &lt;p&gt;Last weekend I had another session in the pool on my way of getting the Open Water Diver certificate. This is really fun and I&amp;rsquo;m looking forward exploring the Oceans.&lt;/p&gt;
@@ -1011,10 +1011,10 @@ Need to come up with a good name though :)&lt;/p&gt;
         
             <item>
                 <title>Weekly Notes</title>
-                <link>http://milafrerichs.de/newsletter/2019-06-09-weekly-notes/</link>
+                <link>/newsletter/2019-06-09-weekly-notes/</link>
                 <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
                 
-                <guid>http://milafrerichs.de/newsletter/2019-06-09-weekly-notes/</guid>
+                <guid>/newsletter/2019-06-09-weekly-notes/</guid>
                 <description>
 
 &lt;p&gt;Hope you had a great week. I certainly had an entertaining week. A lot of stuff has happened.&lt;/p&gt;
