@@ -11,23 +11,22 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: field_group
-  name: image
-  label: image
-  fields:
-  - type: file
-    name: url
-    label: url
-  - type: text
-    name: alt
-    label: alt
-- type: field_group
-  name: card
-  label: card
-  fields:
-  - type: text
-    name: description
-    label: description
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: images
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Images
 pages:
 - content/articles/attend-garden-your-tools.md
 - content/articles/books-that-i-read-in-2019.md
