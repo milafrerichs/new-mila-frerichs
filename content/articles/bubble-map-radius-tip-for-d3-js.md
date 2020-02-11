@@ -19,9 +19,9 @@ Since we can only change the radius of a circle we need to use the square root s
 {{< highlight js >}}
 var sqrtScale = d3.scaleSqrt()
 
-  .domain(\[0, 100\])
+  .domain([0, 100])
 
-  .range(\[0, 20\]);
+  .range([0, 20]);
 {{</ highlight >}}
 
 Read more about the specifics on [Robert Kosara’s blog](https://eagereyes.org/blog/2008/linear-vs-quadratic-change)
