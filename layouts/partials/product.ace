@@ -1,0 +1,6 @@
+.pt-4
+  h3.text-lg
+    a href="{{.url}}"
+      {{.title}}
+
+

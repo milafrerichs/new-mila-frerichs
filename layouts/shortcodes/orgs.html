@@ -1,0 +1,5 @@
+<div class="flex flex-row justify-between">
+  {{range first 5 $.Site.Data.orgs }}
+    {{ partial "org.html" . }}
+  {{ end  }}
+</div>
