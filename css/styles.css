@@ -6559,6 +6559,27 @@ a {
   text-decoration: none;
 }
 
+.divider {
+  display: flex;
+  align-items: center;
+}
+
+.divider::after,
+.divider::before {
+  content: "";
+  height: 1px;
+  background-color: #000;
+  flex-grow: 1;
+}
+
+.divider::before {
+  margin-right: 1rem;
+}
+
+.divider::after {
+  margin-left: 1rem;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
