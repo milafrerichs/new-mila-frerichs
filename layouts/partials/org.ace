@@ -1,0 +1,2 @@
+.self-center.mt-4.md:mt-0
+  img src="https://res.cloudinary.com/civicvision/image/upload/e_grayscale,f_auto,q_auto,h_50,dpr_auto,c_limit/{{.img}}"
