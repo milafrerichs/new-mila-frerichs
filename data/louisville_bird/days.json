@@ -1,0 +1,182 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v4.json",
+  "background": "white",
+  "title": {
+    "text": "",
+    "offset": 15,
+    "color": "#383838",
+    "font": "Nunito Sans, Helvetica, sans-serif",
+    "fontSize": 20,
+    "fontWeight": "normal"
+  },
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"bar": "count", "y": 295, "group": 0, "name": "2018-08-09"},
+        {"bar": "count", "y": 456, "group": 1, "name": "2018-08-10"},
+        {"bar": "count", "y": 256, "group": 2, "name": "2018-08-11"},
+        {"bar": "count", "y": 319, "group": 3, "name": "2018-08-12"},
+        {"bar": "count", "y": 167, "group": 4, "name": "2018-08-13"},
+        {"bar": "count", "y": 237, "group": 5, "name": "2018-08-14"},
+        {"bar": "count", "y": 200, "group": 6, "name": "2018-08-15"},
+        {"bar": "count", "y": 79, "group": 7, "name": "2018-08-16"},
+        {"bar": "count", "y": 344, "group": 8, "name": "2018-08-17"},
+        {"bar": "count", "y": 395, "group": 9, "name": "2018-08-18"},
+        {"bar": "count", "y": 316, "group": 10, "name": "2018-08-19"},
+        {"bar": "count", "y": 248, "group": 11, "name": "2018-08-20"},
+        {"bar": "count", "y": 382, "group": 12, "name": "2018-08-21"},
+        {"bar": "count", "y": 362, "group": 13, "name": "2018-08-22"},
+        {"bar": "count", "y": 358, "group": 14, "name": "2018-08-23"},
+        {"bar": "count", "y": 425, "group": 15, "name": "2018-08-24"},
+        {"bar": "count", "y": 385, "group": 16, "name": "2018-08-25"},
+        {"bar": "count", "y": 227, "group": 17, "name": "2018-08-26"},
+        {"bar": "count", "y": 311, "group": 18, "name": "2018-08-27"},
+        {"bar": "count", "y": 273, "group": 19, "name": "2018-08-28"},
+        {"bar": "count", "y": 301, "group": 20, "name": "2018-08-29"},
+        {"bar": "count", "y": 228, "group": 21, "name": "2018-08-30"},
+        {"bar": "count", "y": 270, "group": 22, "name": "2018-08-31"},
+        {"bar": "count", "y": 304, "group": 23, "name": "2018-09-01"},
+        {"bar": "count", "y": 835, "group": 24, "name": "2018-09-02"},
+        {"bar": "count", "y": 677, "group": 25, "name": "2018-09-03"},
+        {"bar": "count", "y": 363, "group": 26, "name": "2018-09-04"},
+        {"bar": "count", "y": 401, "group": 27, "name": "2018-09-05"},
+        {"bar": "count", "y": 462, "group": 28, "name": "2018-09-06"}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "xscale",
+      "type": "band",
+      "domain": {"data": "table", "field": "group"},
+      "range": "width",
+      "padding": 0.15
+    },
+    {
+      "name": "xname",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "group"},
+      "range": [
+        "2018-08-09",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2018-08-20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2018-08-30",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2018-09-06"
+      ]
+    },
+    {
+      "name": "yscale",
+      "type": "linear",
+      "domain": {"data": "table", "field": "y"},
+      "range": "height",
+      "zero": true,
+      "nice": true
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "bar"},
+      "range": ["#769bb0"]
+    }
+  ],
+  "axes": [
+    {
+      "title": "StartTime",
+      "orient": "bottom",
+      "scale": "xscale",
+      "tickSize": 0,
+      "titlePadding": 15,
+      "titleColor": "#686768",
+      "titleFontSize": 15,
+      "titleFontWeight": 100,
+      "titleFont": "Nunito Sans, Helvetica, sans-serif",
+      "labelFont": "Nunito Sans, Helvetica, sans-serif",
+      "labelFontWeight": "normal",
+      "labelPadding": 10,
+      "labelFontSize": 12,
+      "labelColor": "#383838",
+      "encode": {
+        "labels": {
+          "update": {"text": {"signal": "scale('xname', datum.value)"}}
+        }
+      }
+    },
+    {
+      "title": "count",
+      "orient": "left",
+      "scale": "yscale",
+      "tickSize": 3,
+      "labelOverlap": true,
+      "titleFontSize": 14,
+      "titleColor": "#686768",
+      "titleFontWeight": 100,
+      "titleFont": "Nunito Sans, Helvetica, sans-serif",
+      "labelFont": "Nunito Sans, Helvetica, sans-serif",
+      "labelColor": "#383838",
+      "labelFontWeight": "normal",
+      "titlePadding": 20,
+      "labelPadding": 10,
+      "labelFontSize": 11
+    }
+  ],
+  "marks": [
+    {
+      "type": "group",
+      "from": {"facet": {"data": "table", "name": "facet", "groupby": "group"}},
+      "encode": {"enter": {"x": {"scale": "xscale", "field": "group"}}},
+      "signals": [{"name": "width", "update": "bandwidth('xscale')"}],
+      "scales": [
+        {
+          "name": "pos",
+          "type": "band",
+          "range": "width",
+          "domain": {"data": "facet", "field": "bar"}
+        }
+      ],
+      "marks": [
+        {
+          "name": "bars",
+          "from": {"data": "facet"},
+          "type": "rect",
+          "encode": {
+            "enter": {
+              "x": {"scale": "pos", "field": "bar"},
+              "width": {"scale": "pos", "band": 1},
+              "y": {"scale": "yscale", "field": "y"},
+              "y2": {"scale": "yscale", "value": 0},
+              "fill": {"scale": "color", "field": "bar"}
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "width": 2162,
+  "height": 714,
+  "autosize": {"type": "fit", "contains": "padding"}
+}

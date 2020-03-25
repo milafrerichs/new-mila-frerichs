@@ -1,12 +1,13 @@
----
 - Title: Distraction-free (online) maps
   Conference: NACIS
   description: ''
   date: 2019-10-18T00:00:00+02:00
+  video: 'https://www.youtube.com/watch?v=UfvAc-8reZ8'
 - Title: Rapid and repeatable geospatial analysis with python and node using notebooks
   Conference: FOSS4G UK
   description: ''
   date: 2019-09-19T00:00:00+02:00
+  video: 'https://youtu.be/12rzUW4ps74?t=7392'
 - Title: Let's talk about maps
   Conference: Good Tech Fest
   description: ''
@@ -19,6 +20,7 @@
   Conference: FOSS4G Oceania
   description: ''
   date: 2018-11-21
+  video: 'https://www.youtube.com/watch?v=5ggdJlQ9rps'
 - Title: Mapping with d3
   Conference: Good Tech Fest
   description: ''

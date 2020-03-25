@@ -1,0 +1,15 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "description": "",
+  "data": {"url": "https://gist.githubusercontent.com/milafrerichs/19a3f87446b2454d843331e21fb6da47/raw/7c4f7155ec35d9a32742b03a8a0b6c986e70b1ea/september_trip_time.csv"},
+  "mark": {
+    "type": "boxplot"
+  },
+  "encoding": {
+    "x": {
+      "field": "trip_time",
+      "type": "quantitative",
+      "axis": {"title": "trip time in min."}
+    }
+  }
+}

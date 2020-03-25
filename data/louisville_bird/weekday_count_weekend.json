@@ -1,0 +1,52 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "description": "A simple bar chart with embedded data.",
+  "width": 600,
+  "data": {
+    "url": "https://gist.githubusercontent.com/milafrerichs/5cb8610d514ced82aa98c7ddfac585ef/raw/00cf00002e1695b34647f6284ee3649e5180763f/trip_time_weekday.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "weekday",
+      "type": "ordinal",
+      "title": "Weekday",
+      "sort": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    "y": {"field": "count", "type": "quantitative", "title": "# trips"},
+    "color": {
+      "field": "weekday",
+      "type": "nominal",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "range": [
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#e24f4a",
+          "#e24f4a"
+        ],
+        "type": "ordinal"
+      }
+    }
+  }
+}

@@ -1,12 +1,12 @@
 +++
 date = 2020-01-13T07:00:00Z
 title = "Speaking at conferences"
+featured = ["frontpage"]
 [card]
 description = ""
 [image]
 alt = ""
 url = ""
-
 +++
 I'm an introvert. But I love conferences. I love sharing what I know. 
 

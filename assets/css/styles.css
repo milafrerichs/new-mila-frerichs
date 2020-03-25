@@ -5,6 +5,9 @@ a {
 	@apply text-black font-bold;
 }
 
+h1,h2,h3,h4,h5 {
+  font-family: Futura,Trebuchet MS,Arial Black,Arial Bold,Arial,sans-serif;
+}
 
 @tailwind components;
 /* Site Specific */

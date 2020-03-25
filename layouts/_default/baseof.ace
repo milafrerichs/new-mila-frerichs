@@ -12,6 +12,9 @@ html lang=en
     {{ end }}
     meta name="description" content="{{ if or (.IsHome) (not (isset .Params "description")) -}} {{ $.Site.Params.description }} {{- else -}} {{ .Description }} {{- end }}"
     title {{ if .IsHome -}} {{ .Site.Title }} {{- else -}} {{ .Title }} – {{ .Site.Title }} {{- end }}
+    {{ if isset .Params "viz" }}
+      {{ partial "vega" }}
+    {{ end }}
     {{ partial "rightmessage" }}
     {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
