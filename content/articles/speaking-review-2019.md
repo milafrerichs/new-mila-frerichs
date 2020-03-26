@@ -6,6 +6,7 @@ description = ""
 [image]
 alt = ""
 url = ""
+featured = ["frontpage"]
 
 +++
 I love sharing what I know and love to go to conferences. (Read more bout this here). And sharing at a conference or giving a workshop is very satisfying. The feedback you get and the conversation you have afterward are great.
