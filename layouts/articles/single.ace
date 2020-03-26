@@ -7,5 +7,9 @@
         {{.Title}}
     .font-sans.text-lg.text-grey-darkest.spaced-y-6.leading-normal
       {{.Content}}
+    {{ if $.Param "notebook" }}
+      {{ partial "observable" . }}
+    {{ end  }}
+
 = content footer
   {{ partial "footer" . }}

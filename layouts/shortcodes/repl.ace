@@ -1,0 +1,28 @@
+#code-example.w-full.min-h-full
+
+link href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.48.4/codemirror.css" rel="stylesheet"
+script src="https://unpkg.com/d3@5.9.7/dist/d3.min.js" type="text/javascript"
+script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.48.4/codemirror.min.js" type="text/javascript"
+script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.48.4/mode/javascript/javascript.js" type="text/javascript"
+script src="{{$.Site.BaseURL}}js/repl.js" type="text/javascript"
+
+= javascript
+  function loadExample() {
+    const replCode = '{{.Page.Params.codeexample}}';
+    new JavascriptRepl({
+      target: document.querySelector('#code-example'),
+      props: {
+        files: [{name: 'index.js', content: replCode, type: 'js' }],
+        layout: 'minimal'
+      }
+    });
+  }
+  function makeDoubleDelegate(function1, function2) {
+      return function() {
+          if (function1)
+              function1();
+          if (function2)
+              function2();
+      }
+  }
+  window.onload = makeDoubleDelegate(window.onload, loadExample);
