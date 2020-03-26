@@ -1,5 +1,6 @@
+{{ $orgs := (.Get 0) | default "orgs" }}
 <div class="flex flex-col md:flex-row justify-between">
-  {{range first 5 $.Site.Data.orgs }}
+  {{range first 5 (index $.Site.Data $orgs) }}
     {{ partial "org.html" . }}
   {{ end  }}
 </div>

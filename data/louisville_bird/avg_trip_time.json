@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "description": "A simple bar chart with embedded data.",
+  "width": 800,
+  "title": {
+    "text": "Average Trip time",
+    "offset": 15,
+    "color": "#383838",
+    "font": "Nunito Sans, Helvetica, sans-serif",
+    "fontSize": 20,
+    "fontWeight": "normal"
+  },
+  "data": {
+    "values": [
+        {"bar": "Sum of Group Size", "y": 7888, "group": 0, "name": "< 1"},
+        {"bar": "Sum of Group Size", "y": 1790, "group": 1, "name": "< 2"},
+        {"bar": "Sum of Group Size", "y": 170, "group": 2, "name": "< 3"},
+        {"bar": "Sum of Group Size", "y": 23, "group": 3, "name": "< 4"},
+        {"bar": "Sum of Group Size", "y": 5, "group": 4, "name": "< 5"}
+      ]
+  },
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "name",
+          "type": "ordinal",
+          "title": "trip length in hour",
+          "sort": {
+            "field": "group"
+          },
+          "axis": {
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative",
+					"axis": {
+						"title": "# trips",
+						"titleFontSize": 14,
+						"titleColor": "#686768",
+						"titleFontWeight": 100,
+						"titleFont": "Nunito Sans, Helvetica, sans-serif",
+						"labelFont": "Nunito Sans, Helvetica, sans-serif",
+						"labelColor": "#383838",
+						"labelFontWeight": "normal",
+						"titlePadding": 20,
+						"labelPadding": 10,
+						"labelFontSize": 11
+					}
+        },
+				"color": { "value": "#769bb0"}
+      }
+    }
+    ]
+  }

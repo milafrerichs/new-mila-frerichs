@@ -1,0 +1,73 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "description": "A simple bar chart with embedded data.",
+  "width": 800,
+  "title": "Average Trip time",
+  "data": {
+    "values": [
+      {
+        "name": "Thursday, 6am",
+        "time": 185.000000,
+        "avg": 20.21
+      },
+      {
+        "name": "Sunday, 5am",
+        "time": 87.000000,
+        "avg": 20.21
+      },
+      {
+        "name": "Saturday, 5am",
+        "time": 70.250000,
+        "avg": 20.21
+      },
+      {
+        "name": "Friday, 5am",
+        "time": 46.750000,
+        "avg": 20.21
+      },
+      {
+        "name": "Wednesday, 9pm",
+        "time": 41.000000,
+        "avg": 20.21
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "name",
+          "type": "ordinal",
+          "title": "",
+          "sort": {
+            "field": "time"
+          },
+          "axis": {
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "time",
+          "type": "quantitative",
+          "title": "avg. trip time in min"
+        }
+      }
+    },
+    {
+      "mark": "rule",
+      "encoding": {
+        "y": {
+          "field": "avg",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "#db646f"
+        },
+        "size": {
+          "value": 2
+        }
+      }
+    }
+    ]
+  }

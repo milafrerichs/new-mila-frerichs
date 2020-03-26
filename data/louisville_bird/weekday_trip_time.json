@@ -1,0 +1,14 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "description": "A simple bar chart with embedded data.",
+  "width": 600,
+  "data": {
+    "url": "https://gist.githubusercontent.com/milafrerichs/5cb8610d514ced82aa98c7ddfac585ef/raw/00cf00002e1695b34647f6284ee3649e5180763f/trip_time_weekday.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "weekday", "type": "ordinal", "title": "Weekday","sort": {"op": "distinct", "field": "o"}},
+    "y": {"field": "mean", "type": "quantitative", "title": "Avg. Trip Time in m"},
+    "order": {"field": "o", "type": "ordinal"}
+  }
+}

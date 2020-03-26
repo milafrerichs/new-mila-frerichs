@@ -19,7 +19,7 @@ footer.font-sans.md:py-8.px-4
         i.fab.fa-slack
       a.block.flex.items-center.text-white.hover:text-grey.no-underline href="#" 
         i.fab.fa-twitter
-    .text-xs.pt-2.mt-2.text-grey-darker.text-center ©2019 Mila Frerichs. All rights reserved.
+    .text-xs.pt-2.mt-2.text-grey-darker.text-center ©2020 Mila Frerichs. All rights reserved.
     ul.text-grey-dark.list-reset.font-thin.flex.text-left.justify-center
       {{ $currentPage := . }}
       {{ range .Site.Menus.sub_footer }}
