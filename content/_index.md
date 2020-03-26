@@ -18,7 +18,7 @@
 <h2 class="tracking-wide text-xl text-grey-darker font-light uppercase">Companies I worked with</h2>
 {{</ divider >}}
 
-{{< orgs >}}
+{{< orgs "companies" >}}
 
 {{< get-in-touch >}}
 
