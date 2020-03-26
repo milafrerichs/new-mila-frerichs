@@ -1,9 +1,9 @@
-<h3 class="mt-8">{{ (.Get 1) | default "Articles" }}</h3>
+<h3 class="mt-8"><a href="/articles" class="no-underline hover:underline">{{ (.Get 1) | default "Articles" }}</a></h3>
 <ul>
   {{ with ($.Site.GetPage (printf "/featured/%s" (.Get 0)))  }}
     {{range .Pages}}
     <li class="mt-3">
-      <a href="{{.RelPermalink}}">{{.Title}}</a>
+      <a href="{{.RelPermalink}}" class="no-underline hover:underline">{{.Title}}</a>
     </li>
     {{end}}
   {{end}}

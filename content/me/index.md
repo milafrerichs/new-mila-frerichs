@@ -22,7 +22,10 @@ I was born in Berlin but moved to a small town Münster where I studied Geoinfor
 
 I'm [@milafrerichs](https://twitter.com/milafrerichs) on twitter and almost everywhere :) 
 
-I write about Civic Tech, Open Data, mapping and vizualizations over at [Civic Open Data](http://civicopendata.com).
+I write about Civic Tech, Open Data, mapping and vizualizations on my [blog](/articles) and about mapping with d3 at [Mapping with d3](https://mappingwithd3.com)
 
+### I love to travel
 
-<div id="instafeed"></div>
+I love to travel and explore the world. Below is a scratchmap of places I've been to colored in green.
+
+{{< scratchmap-countries >}}
