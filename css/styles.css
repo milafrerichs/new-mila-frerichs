@@ -503,6 +503,14 @@ a {
   font-weight: 700;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Futura, Trebuchet MS, Arial Black, Arial Bold, Arial, sans-serif;
+}
+
 .container {
   width: 100%;
   margin-right: auto;

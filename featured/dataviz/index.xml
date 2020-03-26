@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataviz on Mila Frerichs, Data Visualization consultant for social good</title>
+    <link>/featured/dataviz/</link>
+    <description>Recent content in Dataviz on Mila Frerichs, Data Visualization consultant for social good</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/featured/dataviz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Single family homes in San Diego</title>
+      <link>/articles/sandiego-zoning/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/sandiego-zoning/</guid>
+      <description>Inspired by this article from the New York Times I wanted to create the same map for San Diego. Since the article did not include San Diego, I thought I can do it.
+Residential land zone for detached single-family &amp;nbsp; other housing
+
+As you can see, there are more single-family zones, than other residential areas. I expected that, but there is a lot of space that is not just residential zone.</description>
+    </item>
+    
+    <item>
+      <title>Makeover Monday: How Americans Sleep</title>
+      <link>/articles/makeover-monday-how-americans-sleep/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/makeover-monday-how-americans-sleep/</guid>
+      <description>Practicing your skills is essential in every aspect of your life, primarily when you work for yourself. When I coach my softball team, I always work on the basics. We hit a lot, and we field a lot. The same is true for my work, and since I have the fortune to work for myself and make my own schedule, I always like to practice my skills.
+One goal for me for this year is to share more stuff openly and not just work on my skills in private.</description>
+    </item>
+    
+    <item>
+      <title>Child Care Cost: Bay Area</title>
+      <link>/articles/child-care-cost-bay-area/</link>
+      <pubDate>Fri, 05 Apr 2019 18:12:47 +0200</pubDate>
+      
+      <guid>/articles/child-care-cost-bay-area/</guid>
+      <description>I stumbled across this exciting dataset about Childcare cost in the bay area.
+Here is the graphic that I looked at:
+I thought this visualization could be improved to bring the point across more clearly.
+A slope chart would be a great option.
+ A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time. The related values are connected by slopes.</description>
+    </item>
+    
+    <item>
+      <title>Toronto High Rise Building inspection</title>
+      <link>/articles/toronto-high-rise-building-inspection/</link>
+      <pubDate>Tue, 05 Mar 2019 07:03:27 +0100</pubDate>
+      
+      <guid>/articles/toronto-high-rise-building-inspection/</guid>
+      <description>In Volume 6 of my weekly roundup I highlighted some newly released data from the city of Toronto about Highrisers Building Inspection data. The newspaper that reported about it was not happy about the format that it was available. And I agree it is not very searchable or does not provide too much information.
+But: They use an API to show the data in the table. And it turns out, I can use the API as well.</description>
+    </item>
+    
+    <item>
+      <title>Louisville Bird Data published</title>
+      <link>/articles/lousiville-bird/</link>
+      <pubDate>Thu, 01 Nov 2018 06:08:58 +0000</pubDate>
+      
+      <guid>/articles/lousiville-bird/</guid>
+      <description>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
+We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
+This is just a partial analysis since we only have data for one city and only for a limited time frame.</description>
+    </item>
+    
+  </channel>
+</rss>

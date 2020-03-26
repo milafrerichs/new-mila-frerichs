@@ -180,6 +180,15 @@ As you can see, there are more single-family zones, than other residential areas
     </item>
     
     <item>
+      <title>Data Viz Audience considerations</title>
+      <link>/articles/audiences/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/audiences/</guid>
+      <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
+    </item>
+    
+    <item>
       <title>VizRisk Challenge: Audience</title>
       <link>/articles/vizrisk-challenge-audience/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
@@ -205,6 +214,51 @@ One goal for me for this year is to share more stuff openly and not just work on
       
       <guid>/articles/vizrisk-challenge-entry/</guid>
       <description>I love playing Softball and I‘m playing for more than 10 years now, it is a great team sport and I love the mix of action, team play and personal challenge getting up 1 vs. 1 against the pitcher. I used to coach the women&amp;rsquo;s team of the town that I studied in and was asked again to coach my team here in Berlin. I love coaching a team sport, strategizing how to approach the game and most important see players improve over time.</description>
+    </item>
+    
+    <item>
+      <title>Child Care Cost: Bay Area</title>
+      <link>/articles/child-care-cost-bay-area/</link>
+      <pubDate>Fri, 05 Apr 2019 18:12:47 +0200</pubDate>
+      
+      <guid>/articles/child-care-cost-bay-area/</guid>
+      <description>I stumbled across this exciting dataset about Childcare cost in the bay area.
+Here is the graphic that I looked at:
+I thought this visualization could be improved to bring the point across more clearly.
+A slope chart would be a great option.
+ A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time. The related values are connected by slopes.</description>
+    </item>
+    
+    <item>
+      <title>Toronto High Rise Building inspection</title>
+      <link>/articles/toronto-high-rise-building-inspection/</link>
+      <pubDate>Tue, 05 Mar 2019 07:03:27 +0100</pubDate>
+      
+      <guid>/articles/toronto-high-rise-building-inspection/</guid>
+      <description>In Volume 6 of my weekly roundup I highlighted some newly released data from the city of Toronto about Highrisers Building Inspection data. The newspaper that reported about it was not happy about the format that it was available. And I agree it is not very searchable or does not provide too much information.
+But: They use an API to show the data in the table. And it turns out, I can use the API as well.</description>
+    </item>
+    
+    <item>
+      <title>Louisville Bird Data published</title>
+      <link>/articles/lousiville-bird/</link>
+      <pubDate>Thu, 01 Nov 2018 06:08:58 +0000</pubDate>
+      
+      <guid>/articles/lousiville-bird/</guid>
+      <description>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
+We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
+This is just a partial analysis since we only have data for one city and only for a limited time frame.</description>
+    </item>
+    
+    <item>
+      <title>Licenses and formats on data.gov</title>
+      <link>/articles/govdata/</link>
+      <pubDate>Tue, 30 Oct 2018 16:08:58 +0000</pubDate>
+      
+      <guid>/articles/govdata/</guid>
+      <description>While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
+So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.
+A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany.</description>
     </item>
     
     <item>
