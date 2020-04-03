@@ -3,11 +3,12 @@
 = content main
   .font-sans.text-lg.text-grey-darkest.spaced-y-6
     {{.Content}}
-    .mt-16
-      {{ range .Pages.ByDate.Reverse }}
-        .mb-16
-          a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
-          p.text-grey-darkest.text-base.leading-normal.mt-2
+    ul.list-reset.mt-16.spaced-y-8
+      {{ range .Pages }}
+        li
+          span.block.text-grey-dark.uppercase.font-semibold.text-xs.tracking-wide.mb-2 {{dateFormat "Jan 2, 2006" .Date}}
+          a.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+          p.text-grey-darkest.text-base.leading-normal
             {{.Summary}}
           {{ if .Truncated }}
             a.block.mt-2.font-normal.text-base.text-grey-dark.no-underline.hover:underline href="{{ .RelPermalink }}" Read More

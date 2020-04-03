@@ -1,0 +1,13 @@
+= content nav
+  {{ partial "nav" . }}
+= content main
+  article
+    header
+      span.block.text-grey-dark.uppercase.font-semibold.text-xs.tracking-wide.mb-2 {{dateFormat "Jan 2, 2006" .Date}}
+      h1.font-sans.text-4xl.text-black.font-bold.mb-4
+        {{.Title}}
+    .font-sans.text-lg.text-grey-darkest.spaced-y-6.leading-normal
+      {{.Content}}
+
+= content footer
+  {{ partial "footer" . }}
