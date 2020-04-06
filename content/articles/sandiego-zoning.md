@@ -2,6 +2,7 @@
 date = "2019-07-05T00:00:00.000+00:00"
 description = "How does single family zoning look like in San Diego. Inspired by a New York times article I created similar maps for San Diego looking at single family zoning vs other residential zoning in San Diego."
 images = ["https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/building-zoning-san-diego-high-res.jpg"]
+image = "milafrerichs.com/articles/building-zoning-san-diego-high-res.jpg"
 title = "Single family homes in San Diego"
 featured = ["dataviz"]
 +++

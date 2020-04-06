@@ -1,0 +1,50 @@
+= content nav
+  {{ partial "nav" . }}
+= content main
+  .font-sans.text-lg.text-grey-darkest.spaced-y-6.mt-6
+    h1 {{.Title}}
+    {{.Content}}
+    h3 Articles
+    .mt-6
+      p.mb-6 These are my longer form thoughts about certain topics.  
+      {{ with ($.Site.GetPage "/featured/frontpage" ) }}
+        {{range first 5 .Pages}}
+          .mb-2
+            a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+            p.text-grey-darkest.text-base.leading-normal.mt-2
+        {{ end }}
+      {{ end }}
+      .mt-6
+        a.mt-4.no-underline.hover:underline.text-grey-dark href="/articles" Read all
+    h3.mt-12 Microposts
+    .mt-6
+      p.mb-6 Short thoughts, my own social media of sorts.
+      {{ range first 5 (where .Site.RegularPages.ByTitle "Section" "microposts" ) }}
+        a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+        p.text-grey-darkest.text-base.leading-normal.mt-2
+      {{ end }}
+      .mt-6
+        a.mt-4.no-underline.hover:underline.text-grey-dark href="/microposts" Read all
+    h3.mt-12 Data Visualization
+    .mt-6
+      p.mb-6 Data Visualization and makeovers I created.
+      {{ with ($.Site.GetPage "/featured/dataviz" ) }}
+        .flex.justify-between.items-stretch
+          {{range first 5 .Pages}}
+          {{ partial "dataviz-list-item.html" .}}
+          {{ end }}
+      {{ end }}
+    h3.mt-12 Newsletter
+    .mt-6
+      p.mb-6 My weekly newsletter about all things Open Data, Civic tech and Mapping.  
+        strong class="font-bold" Currently on hiatus
+      {{ range first 5 (where .Site.RegularPages.ByTitle "Section" "newsletter" ) }}
+        {{range .Pages}}
+          a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+          p.text-grey-darkest.text-base.leading-normal.mt-2
+        {{ end }}
+      {{ end }}
+      .mt-6
+        a.mt-4.no-underline.hover:underline.text-grey-dark href="/newsletter" Read all
+= content footer
+  {{ partial "footer" . }}

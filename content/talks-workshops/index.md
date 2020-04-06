@@ -1,7 +1,7 @@
 ---
 title: Talks/Workshops
 type: page
-linktitle: Talks/Workshops
+linktitle: Speaking
 menu:
   footer:
     weight: 20

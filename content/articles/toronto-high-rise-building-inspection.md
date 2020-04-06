@@ -6,7 +6,7 @@ hero = ""
 tags = ["civic tech"]
 title = "Toronto High Rise Building inspection"
 featured = ["dataviz"]
-
+image = "milafrerichs.com/articles/toronto-highrise.png"
 +++
 In Volume 6 of my weekly roundup I highlighted some newly released data from the city of Toronto about Highrisers Building Inspection data. The newspaper that reported about it was not happy about the format that it was available. And I agree it is not very searchable or does not provide too much information.
 

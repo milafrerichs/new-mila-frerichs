@@ -3,7 +3,7 @@ title: Louisville Bird Data published
 date: 2018-11-01 06:08:58 +0000
 viz: true
 featured: ["dataviz"]
-
+image: "milafrerichs.com/articles/bird-louisville.png"
 ---
 The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their [Open Data Portal](https://data.louisvilleky.gov/dataset/bird-scooter). They updated their data three times already, so we should be in for a treat with monthly updates.
 
