@@ -168,6 +168,11 @@
   </url>
   
   <url>
+    <loc>/stamen/</loc>
+    <lastmod>2019-04-03T16:38:02+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/journal/work-journal-march-31/</loc>
     <lastmod>2019-03-31T11:11:32+01:00</lastmod>
   </url>
@@ -265,6 +270,11 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/featured/dataviz/</loc>
     <lastmod>2019-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -305,10 +315,6 @@
   </url>
   
   <url>
-    <loc>/projects/</loc>
-  </url>
-  
-  <url>
     <loc>/legal/privacy/</loc>
   </url>
   
@@ -318,6 +324,14 @@
   
   <url>
     <loc>/themes/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/writing/</loc>
   </url>
   
 </urlset>
