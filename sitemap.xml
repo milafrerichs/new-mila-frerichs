@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/microposts/profit-first-april/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/microposts/publish-more/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/articles/attend-garden-your-tools/</loc>
     <lastmod>2020-02-06T09:00:00+00:00</lastmod>
   </url>
@@ -229,7 +239,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-02-06T09:00:00+00:00</lastmod>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -283,6 +293,11 @@
   <url>
     <loc>/journal/</loc>
     <lastmod>2019-03-31T11:11:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/microposts/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
