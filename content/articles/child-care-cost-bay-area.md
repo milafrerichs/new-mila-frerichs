@@ -6,6 +6,7 @@ hero = ""
 tags = []
 title = "Child Care Cost: Bay Area"
 featured = ["dataviz"]
+image = "milafrerichs.com/articles/child-care-bay-area.png"
 [[notebook]]
 link = "@milafrerichs/child-care-cost-bay-area"
 namespace = 'ccc'

@@ -1,0 +1,8 @@
+.flex.flex-col.mb-8.pr-4.justify-between
+  .mb-4
+    a href="{{.Permalink}}"
+      img src="https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_300,dpr_auto,c_limit/{{.Params.image}}" alt="{{.Title}}"
+  .mb-4
+    h5
+      a href="{{.Permalink}}"
+        {{.Title}}

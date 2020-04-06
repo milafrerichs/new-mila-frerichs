@@ -1,5 +1,5 @@
 ---
-linktitle: "Portfolio"
+linktitle: "Work"
 title: Projects
 type: page
 menu:

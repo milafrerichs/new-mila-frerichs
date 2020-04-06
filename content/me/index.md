@@ -24,6 +24,45 @@ I'm [@milafrerichs](https://twitter.com/milafrerichs) on twitter and almost ever
 
 I write about Civic Tech, Open Data, mapping and vizualizations on my [blog](/articles) and about mapping with d3 at [Mapping with d3](https://mappingwithd3.com)
 
+### Skills
+
+Here is a list of my skillsets and libraries I work with.
+
+#### Core Skills
+
+* Data Visualization &amp; Webmaps
+* Data Pipelines
+* Geospatial Development
+* Open Data/Civic Tech Prototypes
+
+#### Languages
+My core programming languages that I use regularly. In parentheses for how long I worked with these languages.  
+
+* Javascript (15 years)
+* Ruby (7 years)
+* Python (6 years)
+* R (5 years)
+
+#### Libraries/Frameworks
+My core libraries/frameworks that I use almost everyday
+
+* OpenLayers/Leaflet/Mapbox GL JS (8 years)
+* D3.js (7 years)
+* pandas/numpy (4 years)
+* React (3 years)
+* rasterio (3 years)
+* vega (3 years)
+* Svelte (1 year)
+
+#### Past Skills
+other languages/frameworks I used in the past:
+
+* Elixir
+* Objective-C/Swift
+* PHP
+* Angular
+* Kockout
+
 ### I love to travel
 
 I love to travel and explore the world. Below is a scratchmap of places I've been to colored in green.
