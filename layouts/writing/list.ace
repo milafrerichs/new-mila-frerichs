@@ -1,7 +1,7 @@
 = content nav
   {{ partial "nav" . }}
 = content main
-  .font-sans.text-lg.text-grey-darkest.spaced-y-6.mt-6
+  .font-sans.text-lg.text-grey-darkest.leading-normal.spaced-y-6.mt-6
     h1 {{.Title}}
     {{.Content}}
     h3 Articles

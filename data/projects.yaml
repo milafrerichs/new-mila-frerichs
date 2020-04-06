@@ -1,4 +1,17 @@
 ---
+- title: Single Family Zoning
+  type: visualization
+  work: private
+  date: '2019-07-05'
+  description: Inspired by an article from the New York Times I wanted to create the same map about Single Family zoning for San Diego. Since the article did not include San Diego, I thought I can do it. 
+  technologies:
+    - d3.js
+  link: /articles/sandiego-zoning/
+  languages:
+  - JavaScript
+  cloudinary: milafrerichs.com/articles/building-zoning-san-diego-high-res.jpg
+  list:
+    "stamen"
 - title: Precision Farming
   type: application
   client: Yara
@@ -22,6 +35,8 @@
   link: https://at.farm
   cloudinary: milafrerichs.com/projects/at-farm
   image_position: bg-center
+  list:
+    "stamen"
 - title: Election Map
   description: "During the 2014 local election in the town I was living at the time
     I created an live-updating election map. \n"
@@ -36,6 +51,8 @@
   link: https://codeformuenster.org/wahlkarte
   cloudinary: milafrerichs.com/projects/election_map.png
   image_position: bg-center
+  list:
+    "stamen"
 - title: Infrastructure San Diego
   description: "For the __Community Planning Groups of San Diego__, I developed a
     dashboard and supporting tools to increase __transparency in the planning process__.
@@ -49,6 +66,8 @@
   languages:
   - JavaScript
   - Python
+  list:
+    "stamen"
 - title: Energy Production germany
   description: "Inspired by the Washington Posts Energy production map for the United
     States, I found and cleaned the data for Germany and created a similar map for
@@ -98,6 +117,8 @@
   - angular
   languages:
   - JavaScript
+  list:
+    "stamen"
 - title: Budget Visualization Rheinland-Pfalz
   description: 'The finance ministry of the state of Rheinland-Pfalz in Germany wanted
     to increase transparency and publish their budget in a visually appealing way.
@@ -118,6 +139,8 @@
   client: Finance Ministery Rheinland-Pfalz
   languages:
   - JavaScript
+  list:
+    "stamen"
 - title: Travel Safety Map
   description: 'The Travel Safety startup __GeoSure__ wanted to find new revenue models
     for their travel data and reached out to me to help them. I build an __interactive
@@ -153,6 +176,8 @@
   - JavaScript
   cloudinary: milafrerichs.com/projects/geonode-client
   link: http://client.geonode.org
+  list:
+    "stamen"
 - title: Open Data Harvester
   description: "To analyze the metadata of the different Open Data Portals of the
     city of Berlin the Technology Foundation hired me to aggregate and automate the
@@ -180,3 +205,5 @@
   - JavaScript
   technologies:
   - WFS
+  list:
+    "stamen"

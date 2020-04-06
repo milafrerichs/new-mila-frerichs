@@ -1,0 +1,10 @@
+{{ $list := .Get 0}}
+<ul class="list-reset mt-16 spaced-y-8">
+  {{ range sort $.Site.Data.projects "date" "desc" }}
+    {{ if in $list .list }} 
+      <div class="projects mb-4">
+        {{ partial "portfolio-item" . }}
+      </div>
+    {{ end }}
+  {{ end }}
+</ul>

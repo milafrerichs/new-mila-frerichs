@@ -36,7 +36,7 @@ Here is a list of my skillsets and libraries I work with.
 * Open Data/Civic Tech Prototypes
 
 #### Languages
-My core programming languages that I use regularly. In parenthehis for how long I worked with these languages.  
+My core programming languages that I use regularly. In parentheses for how long I worked with these languages.  
 
 * Javascript (15 years)
 * Ruby (7 years)
@@ -52,9 +52,10 @@ My core libraries/frameworks that I use almost everyday
 * React (3 years)
 * rasterio (3 years)
 * vega (3 years)
+* Svelte (1 year)
 
 #### Past Skills
-other languages/frameworks I used but not actively anymore:
+other languages/frameworks I used in the past:
 
 * Elixir
 * Objective-C/Swift
