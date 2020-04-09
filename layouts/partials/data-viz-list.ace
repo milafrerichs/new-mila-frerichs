@@ -1,0 +1,4 @@
+.flex.justify-between.items-stretch.flex-wrap
+  {{ range . }}
+    {{ partial "dataviz-list-item.html" . }}
+  {{end}}

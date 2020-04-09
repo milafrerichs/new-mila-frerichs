@@ -26,4 +26,4 @@
 
 {{< articles "frontpage" >}}
 
-{{< articles "dataviz" "Data Visualizations">}}
+{{< visualizations "data-visualizations" 6>}}

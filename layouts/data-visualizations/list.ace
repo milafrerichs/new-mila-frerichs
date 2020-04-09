@@ -1,0 +1,12 @@
+= content nav
+  {{ partial "nav" . }}
+= content main
+  .font-sans.text-lg.text-grey-darkest.spaced-y-6
+    {{.Content}}
+    mt-16.flex.flex-wrap.-mx-2
+      {{ range sort (where $.Site.Data.projects ".type" "visualization") "date" "desc" }}
+        .w-full.md:w-1/2.px-2.mb-16
+          {{ partial "dataviz-item-large" . }}
+      {{ end }}
+= content footer
+  {{ partial "footer" . }}
