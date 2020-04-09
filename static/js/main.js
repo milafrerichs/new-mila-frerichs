@@ -1,3 +1,9 @@
+var script = document.createElement('script');
+script.src = "https://cdn.metrical.xyz/script.js";
+document.body.append(script);
+window.metrical = {
+  "app": "5ardjg6ou"
+};
 function addLoadEvent(func) {
   var oldonload = window.onload;
   if (typeof window.onload != 'function') {
@@ -8,7 +14,7 @@ function addLoadEvent(func) {
         oldonload();
       }
       func();
-    }
+    };
   }
 }
 
