@@ -1,0 +1,31 @@
+{{ $image := .image }}
+{{ if .cloudinary }}
+  {{ $image = printf "%s%s" "https://res.cloudinary.com/civicvision/image/upload/h_300/" .cloudinary }}
+{{ end }}
+.shadow.bg-white.h-full.flex.flex-col
+  .h-64.overflow-hidden.border-b
+    img src="{{$image}}" alt="{{.title}}"
+  div.flex.flex-col.flex-1
+    .p-4.flex-1
+      h4.text-grey-darker.mb-3 {{.title}} &middot;
+        span.font-light.text-grey-dark &nbsp;{{ dateFormat "Jan 2006" .date}}
+      p.text-grey-dark.leading-tight
+        {{.description | markdownify }}
+    .mt-2.p-4.bg-grey-lighter.text-grey-dark.flex.justify-between.opacity-75
+      .mr-4
+        {{ if .link }}
+          a.no-underline.mr-4.hover:underline.text-grey-darker href="{{.link}}" Project
+        {{end}}
+        {{if .github}}
+          a.no-underline.mr-4.hover:underline.text-grey-darker href="https://github.com/{{.github}}"  GitHub
+        {{end}}
+      .mr-4
+        {{ if .languages }}
+          {{ delimit .languages ", " }}
+        {{ end }}
+      .inline-flex.justify-end
+        {{ if .technologies }}
+          {{ delimit .technologies ", " }}
+        {{ end }}
+
+

@@ -35,16 +35,8 @@ Here is a list of my skillsets and libraries I work with.
 * Geospatial Development
 * Open Data/Civic Tech Prototypes
 
-#### Languages
-My core programming languages that I use regularly. In parentheses for how long I worked with these languages.  
-
-* Javascript (15 years)
-* Ruby (7 years)
-* Python (6 years)
-* R (5 years)
-
 #### Libraries/Frameworks
-My core libraries/frameworks that I use almost everyday
+My core libraries/frameworks that I use almost everyday. In parentheses for how long I worked with these frameworks.  
 
 * OpenLayers/Leaflet/Mapbox GL JS (8 years)
 * D3.js (7 years)
@@ -54,12 +46,19 @@ My core libraries/frameworks that I use almost everyday
 * vega (3 years)
 * Svelte (1 year)
 
+#### Languages
+My core programming languages that I use regularly.
+
+* Javascript (15 years)
+* Ruby (7 years)
+* Python (6 years)
+* R (5 years)
+
 #### Past Skills
-other languages/frameworks I used in the past:
+Other languages/frameworks I used in the past (not a complete list):
 
 * Elixir
 * Objective-C/Swift
-* PHP
 * Angular
 * Kockout
 

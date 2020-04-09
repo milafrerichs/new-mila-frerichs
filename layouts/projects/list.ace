@@ -4,7 +4,7 @@
   .font-sans.text-lg.text-grey-darkest.spaced-y-6
     {{.Content}}
     ul.list-reset.mt-16.spaced-y-8
-      {{ range sort $.Site.Data.projects "date" "desc" }}
+      {{ range sort (where $.Site.Data.projects ".featured" true) "date" "desc" }}
         .projects
           {{ partial "portfolio-item" . }}
       {{ end }}

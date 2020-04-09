@@ -28,12 +28,10 @@
     h3.mt-12 Data Visualization
     .mt-6
       p.mb-6 Data Visualization and makeovers I created.
-      {{ with ($.Site.GetPage "/featured/dataviz" ) }}
-        .flex.justify-between.items-stretch
-          {{range first 5 .Pages}}
-          {{ partial "dataviz-list-item.html" .}}
-          {{ end }}
-      {{ end }}
+      .flex.justify-between.items-stretch.flex-wrap
+        {{ with first 10 (sort (where $.Site.Data.projects ".type" "visualization") "date" "desc") }}
+          {{ partial "data-viz-list.html" . }}
+        {{end}}
     h3.mt-12 Newsletter
     .mt-6
       p.mb-6 My weekly newsletter about all things Open Data, Civic tech and Mapping.  

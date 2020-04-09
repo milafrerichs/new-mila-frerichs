@@ -1,0 +1,10 @@
+{{ $page := $.Site.GetPage (.Get 0)}}
+{{ $num := default 10 (.Get 1) }}
+<h3 class="mt-8">
+  <a href="{{$page.Permalink}}">{{$page.Title}}</a>
+</h3>
+<div class="flex flex-wrap justify-between items-stretch">
+{{ with first $num (sort (where $.Site.Data.projects ".type" "visualization") "date" "desc") }}
+  {{ partial "data-viz-list.html" . }}
+{{end}}
+</div>
