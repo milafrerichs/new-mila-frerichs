@@ -2,7 +2,6 @@
 canonical = ""
 date = 2020-04-13T03:00:00Z
 description = ""
-draft = true
 images = []
 keywords = []
 title = " Working on my environment"
