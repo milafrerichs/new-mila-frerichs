@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/microposts/**/*
+  path: content/microposts
   label: Microposts
   create: all
   match: "**/*"
