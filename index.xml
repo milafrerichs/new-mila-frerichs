@@ -6,10 +6,22 @@
     <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Working on my environment</title>
+      <link>/microposts/working-on-my-environment/</link>
+      <pubDate>Mon, 13 Apr 2020 03:00:00 +0000</pubDate>
+      
+      <guid>/microposts/working-on-my-environment/</guid>
+      <description>It was time to work on my environment again.
+After streamlining the theme for vim across my devices (for some reason I still had solarized dark on my MacBook instead of solarized light), I decided it‘s time to look at other font options.
+After researching a little bit, sitting on it for a few days, trying out a few options, I finally settled on Fira Code
+It has ligatures and I must say, I did not think I would appreciate them as much as I do.</description>
+    </item>
     
     <item>
       <title>Profit first: Status report</title>
