@@ -5,13 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/newsletter
-  label: Newsletter
+  path: content/microposts/**/*
+  label: Microposts
   create: all
   match: "**/*"
 - type: directory
   path: content/articles
   label: Articles
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/newsletter
+  label: Newsletter
   create: all
   match: "**/*"
 - type: directory
