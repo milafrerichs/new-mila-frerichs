@@ -2,7 +2,7 @@
 {{ if .cloudinary }}
   {{ $image = printf "%s%s" "https://res.cloudinary.com/civicvision/image/upload/h_300/" .cloudinary }}
 {{ end }}
-.shadow.bg-white.h-full.flex.flex-col
+.shadow-pop.bg-white.h-full.flex.flex-col
   .h-64.overflow-hidden.border-b
     img src="{{$image}}" alt="{{.title}}"
   div.flex.flex-col.flex-1
