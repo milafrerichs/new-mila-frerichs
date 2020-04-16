@@ -12,13 +12,13 @@ footer.font-sans.md:py-8.px-4
       li.pt-2 ⚾️🏈🏄‍♂️🏊‍♂️🏂🧗‍♀️
       li.pt-2 🍣🍔🌮🌯🍕
       li.pt-2 🗺🏔🏟✈️🚍🚃
-    .flex
-      a.block.flex.items-center.text-white.hover:text-grey.mr-6.no-underline href="#" 
-        i.fab.fa-github-alt
-      a.block.flex.items-center.text-white.hover:text-grey.mr-6.no-underline href="#" 
-        i.fab.fa-slack
-      a.block.flex.items-center.text-white.hover:text-grey.no-underline href="#" 
-        i.fab.fa-twitter
+    .text-grey-dark.font-thin.flex.text-center.justify-center.text-2xl.py-2
+      a.items-center.text-white.hover:text-grey.mr-3.no-underline rel="me" href="https://github.com/milafrerichs"
+        {{ partial "github" "w-5"}}
+      a.items-center.text-white.hover:text-grey.mr-3.no-underline rel="me" href="https://twitter.com/milafrerichs"
+        {{ partial "twitter" "w-5"}}
+      a.items-center.text-white.hover:text-grey.no-underline href="https://www.instagram.com/mila_frerichs/"
+        {{ partial "instagram-logo" "w-5"}}
     .text-xs.pt-2.mt-2.text-grey-darker.text-center ©2020 Mila Frerichs. All rights reserved.
     ul.text-grey-dark.list-reset.font-thin.flex.text-left.justify-center
       {{ $currentPage := . }}
