@@ -3100,6 +3100,10 @@ h5 {
   height: 16rem;
 }
 
+.h-128 {
+  height: 32rem;
+}
+
 .h-auto {
   height: auto;
 }
@@ -6588,6 +6592,29 @@ h5 {
   margin-left: 1rem;
 }
 
+.shadow-pop {
+          box-shadow: 5px 5px 37px rgb(185, 197, 199);
+  -webkit-box-shadow: 5px 5px 37px rgb(185, 197, 199);
+}
+
+.h-512 {
+  height: 512px;
+}
+
+.cover-center {
+  display: block;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center center;
+     object-position: center center;
+  width: 100%;
+  height: 100%;
+}
+
+.projects:hover .hover-show {
+  display: block;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
@@ -9136,6 +9163,10 @@ h5 {
 
   .sm\:h-64 {
     height: 16rem;
+  }
+
+  .sm\:h-128 {
+    height: 32rem;
   }
 
   .sm\:h-auto {
@@ -14682,6 +14713,10 @@ h5 {
     height: 16rem;
   }
 
+  .md\:h-128 {
+    height: 32rem;
+  }
+
   .md\:h-auto {
     height: auto;
   }
@@ -20226,6 +20261,10 @@ h5 {
     height: 16rem;
   }
 
+  .lg\:h-128 {
+    height: 32rem;
+  }
+
   .lg\:h-auto {
     height: auto;
   }
@@ -25768,6 +25807,10 @@ h5 {
 
   .xl\:h-64 {
     height: 16rem;
+  }
+
+  .xl\:h-128 {
+    height: 32rem;
   }
 
   .xl\:h-auto {
