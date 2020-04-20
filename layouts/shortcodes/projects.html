@@ -1,10 +1,10 @@
 {{ $list := .Get 0}}
-<ul class="list-reset mt-16 spaced-y-8">
+<div class="mt-16 flex flex-wrap -mx-2">
   {{ range sort $.Site.Data.projects "date" "desc" }}
-    {{ if in $list .list }} 
-      <div class="projects mb-4">
-        {{ partial "portfolio-item" . }}
+    {{ if in .list $list }}
+      <div class="w-full md:w-1/2 px-2 mb-16">
+        {{ partial "dataviz-item-large" . }}
       </div>
     {{ end }}
   {{ end }}
-</ul>
+</div>
