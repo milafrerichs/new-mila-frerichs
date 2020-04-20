@@ -10,7 +10,7 @@
       {{ with ($.Site.GetPage "/featured/frontpage" ) }}
         {{range first 5 .Pages}}
           .mb-2
-            a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+            a.block.mb-1.text-lg.font-bold href="{{ .Permalink }}" {{ .Title }}
             p.text-grey-darkest.text-base.leading-normal.mt-2
         {{ end }}
       {{ end }}
@@ -20,7 +20,7 @@
     .mt-6
       p.mb-6 Short thoughts, my own social media of sorts.
       {{ range first 5 (where .Site.RegularPages.ByTitle "Section" "microposts" ) }}
-        a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+        a.block.mb-1.text-lg.font-bold href="{{ .Permalink }}" {{ .Title }}
         p.text-grey-darkest.text-base.leading-normal.mt-2
       {{ end }}
       .mt-6
@@ -38,7 +38,7 @@
         strong class="font-bold" Currently on hiatus
       {{ range first 5 (where .Site.RegularPages.ByTitle "Section" "newsletter" ) }}
         {{range .Pages}}
-          a.block.mb-1.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+          a.block.mb-1.text-lg.font-bold href="{{ .Permalink }}" {{ .Title }}
           p.text-grey-darkest.text-base.leading-normal.mt-2
         {{ end }}
       {{ end }}

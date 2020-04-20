@@ -2,7 +2,10 @@
 @tailwind preflight;
 
 a {
-	@apply text-black font-bold;
+	@apply text-cv font-bold no-underline;
+}
+a:hover {
+  @apply underline;
 }
 
 h1,h2,h3,h4,h5 {
