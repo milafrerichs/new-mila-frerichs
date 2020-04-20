@@ -1,8 +1,13 @@
 {{ $page := $.Site.GetPage (.Get 0)}}
 {{ $num := default 10 (.Get 1) }}
-<h3 class="mt-8">
-  <a href="{{$page.Permalink}}">{{$page.Title}}</a>
+<h3 class="mt-8 text-2xl">
+  <a class="no-underline hover:underline" href="{{$page.Permalink}}">{{$page.Title}}</a>
 </h3>
+{{ if .Inner }}
+<div class="dv mt-3 leading-normal">
+  {{.Inner | markdownify}}
+</div>
+{{ end }}
 <div class="flex flex-wrap justify-between items-stretch">
 {{ with first $num (sort (where $.Site.Data.projects ".type" "visualization") "date" "desc") }}
   {{ partial "data-viz-list.html" . }}
