@@ -4,11 +4,10 @@
 {{ end }}
 .shadow-pop.bg-white.h-full.flex.flex-col
   .h-64.overflow-hidden.border-b
-    img src="{{$image}}" alt="{{.title}}"
+    img.cover-center src="{{$image}}" alt="{{.title}}"
   div.flex.flex-col.flex-1
     .p-4.flex-1
-      h4.text-grey-darker.mb-3 {{.title}} &middot;
-        span.font-light.text-grey-dark &nbsp;{{ dateFormat "Jan 2006" .date}}
+      h4.text-grey-darker.mb-3 {{.title}}
       p.text-grey-dark.leading-tight
         {{.description | markdownify }}
     .mt-2.p-4.bg-grey-lighter.text-grey-dark.flex.justify-between.opacity-75

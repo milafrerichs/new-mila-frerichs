@@ -1,4 +1,16 @@
 ---
+- title: Open Data Catalog
+  type: analysis
+  work: Bertelsmann
+  date: "2020-04-06"
+  description: Collecting, cleaning, analyzing and categorizing of Open Data datasets for all municipalities with Open Data portals of NRW in Germany.
+  link: http://musterdatenkatalog.de/
+  cloudinary: "milafrerichs.com/projects/musterdatenkatalog.png"
+  technologies:
+    - R
+    - Makefiles
+  list:
+  - "appalachia"
 - title: How Americans Sleep
   type: visualization
   work: private
@@ -63,7 +75,8 @@
   - JavaScript
   cloudinary: milafrerichs.com/articles/building-zoning-san-diego-high-res.jpg
   list:
-    "stamen"
+  - "stamen"
+  - "appalachia"
 - title: Precision Farming
   type: application
   featured: true
@@ -87,7 +100,7 @@
   cloudinary: milafrerichs.com/projects/at-farm
   image_position: bg-center
   list:
-    "stamen"
+  - "stamen"
 - title: Election Map
   description: "During the 2014 local election in the town I was living at the time
     I created an __live-updating__, interactive election map. \n"
@@ -105,10 +118,11 @@
   cloudinary: milafrerichs.com/projects/election_map.png
   image_position: bg-center
   list:
-    "stamen"
+  - "stamen"
 - title: Infrastructure San Diego
   description: "For the __Community Planning Groups of San Diego__, I developed a
     dashboard and supporting tools to increase __transparency in the planning process__."
+  client: Infrastructure commitee of the City Council, San Diego
   date: '2014-03-01'
   duration: 4
   github: opensandiego/infrastructure
@@ -119,7 +133,7 @@
   - JavaScript
   - Python
   list:
-    "stamen"
+  - "stamen"
 - title: Energy Production germany
   description: "Inspired by the Washington Posts Energy production map for the United
     States, I found and cleaned the data for Germany and created a similar map for
@@ -151,7 +165,8 @@
   languages:
   - JavaScript
   list:
-    "stamen"
+  - "stamen"
+  - "appalachia"
 - title: 'Recovery Dashboard'
   description: "Following the Mw 7.8 earthquake in Nepal, the World Bank Nepal response
     team has been collecting and curating spatial data useful for damage assessments
@@ -171,7 +186,7 @@
   languages:
   - JavaScript
   list:
-    "stamen"
+  - "stamen"
 - title: State Budget Visualization
   description: 'The finance ministry of the state of Rheinland-Pfalz in Germany wanted
     to increase transparency and publish their budget in a visually appealing way.
@@ -193,7 +208,8 @@
   languages:
   - JavaScript
   list:
-    "stamen"
+  - "stamen"
+  - "appalachia"
 - title: Travel Safety Map
   description: 'The Travel Safety startup __GeoSure__ wanted to find new revenue models
     for their travel data and reached out to me to help them. I build an __interactive
@@ -229,7 +245,7 @@
   cloudinary: milafrerichs.com/projects/geonode-client
   link: http://client.geonode.org
   list:
-    "stamen"
+  - "stamen"
 - title: Open Data Harvester
   description: "To analyze the metadata of the different Open Data Portals of the
     city of Berlin the Technology Foundation hired me to __aggregate and automate__ the
@@ -245,6 +261,8 @@
   technologies:
   - AWS
   - CKAN
+  list:
+  - "appalachia"
 - title: WFS Tool
   description: 'The goal was to create a tool to convert WFS features into diferent
     formats without using the command line. The resulting tool would eventually be
@@ -259,8 +277,6 @@
   - JavaScript
   technologies:
   - WFS
-  list:
-    "stamen"
 - title: "Code Enforement Violations San Diego"
   type: visualization
   work: private
@@ -319,6 +335,7 @@
 - title: "Vision Zero Dashboard"
   type: visualization
   work: private
+  description: Data Analysis and visualizations regarding traffic fatalities in the city of San Diego using Open Data.
   technologies:
     - d3.js
     - GoogleMaps
@@ -327,4 +344,6 @@
   date: "2018-08-26"
   languages:
   - JavaScript
+  list:
+  - "appalachia"
 
