@@ -2,7 +2,6 @@
 canonical = ""
 date = 2020-04-21T07:00:00Z
 description = ""
-draft = true
 images = []
 keywords = []
 title = "Back into online gaming"
