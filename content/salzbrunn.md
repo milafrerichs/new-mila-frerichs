@@ -8,13 +8,13 @@ Hello John,
 
 My name is Mila, and I'm a Geospatial Consultant, and I would like to learn more about your project.
 
-From what I can see from the PDF that was shared with me this project seems similar to one I did back in 2018.  
-For a agriculture company I worked on a team of four developers to create a webapplication for farmers to create their fields and create application maps (where they should apply fertilizer).  
+From what I can see from the PDF that was shared with me, this project seems similar to one I did back in 2018.  
+For an agriculture company, I worked on a team of four developers to create a webapplication for farmers to create their fields and create application maps (where they should apply fertilizer).  
 Farmers were able to draw their fields and export the application maps as PDFs.  
 
 Your project seems similar with the addition of the export as PNG and the additional predefined markers.  
 
-I would love to find out more about your specfic requirements.
+I would love to find out more about your specific requirements.
 
 __Quick selection of my skills you might find useful:__
 
@@ -38,6 +38,6 @@ Here is a short list of projects that show my expertise:
 
 ## Next steps
 
-I would love to find out more about you and the requirements and to see if we're a good fit and you can select a time from the calendar below.
+I would love to find out more about you and the requirements and to see if we're a good fit, and you can select a time from the calendar below.
 
 {{< calendly >}}
