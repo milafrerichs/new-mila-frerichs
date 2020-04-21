@@ -101,6 +101,7 @@
   image_position: bg-center
   list:
   - "stamen"
+  - "salzbrunn"
 - title: Election Map
   description: "During the 2014 local election in the town I was living at the time
     I created an __live-updating__, interactive election map. \n"
@@ -134,6 +135,7 @@
   - Python
   list:
   - "stamen"
+  - "salzbrunn"
 - title: Energy Production germany
   description: "Inspired by the Washington Posts Energy production map for the United
     States, I found and cleaned the data for Germany and created a similar map for
@@ -167,6 +169,7 @@
   list:
   - "stamen"
   - "appalachia"
+  - "salzbrunn"
 - title: 'Recovery Dashboard'
   description: "Following the Mw 7.8 earthquake in Nepal, the World Bank Nepal response
     team has been collecting and curating spatial data useful for damage assessments
@@ -187,6 +190,7 @@
   - JavaScript
   list:
   - "stamen"
+  - "salzbrunn"
 - title: State Budget Visualization
   description: 'The finance ministry of the state of Rheinland-Pfalz in Germany wanted
     to increase transparency and publish their budget in a visually appealing way.
@@ -226,6 +230,8 @@
   - angular
   - d3
   cloudinary: milafrerichs.com/projects/geosure
+  list:
+  - "salzbrunn"
 - title: Geonode Viewer
   description: 'For the Open Source project __Geonode__ I developed a new client for
     __displaying and editing maps__. Based on React and OpenLayers I created a new
@@ -246,6 +252,7 @@
   link: http://client.geonode.org
   list:
   - "stamen"
+  - "salzbrunn"
 - title: Open Data Harvester
   description: "To analyze the metadata of the different Open Data Portals of the
     city of Berlin the Technology Foundation hired me to __aggregate and automate__ the
