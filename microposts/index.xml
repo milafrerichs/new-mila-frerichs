@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microposts on Mila Frerichs, Data Visualization consultant for social good</title>
+    <link>/microposts/</link>
+    <description>Recent content in Microposts on Mila Frerichs, Data Visualization consultant for social good</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Apr 2020 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/microposts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back into online gaming</title>
+      <link>/microposts/back-into-online-gaming/</link>
+      <pubDate>Tue, 21 Apr 2020 07:00:00 +0000</pubDate>
+      
+      <guid>/microposts/back-into-online-gaming/</guid>
+      <description>I got back into online gaming. The process was slow but got accelerated by the pandemic.
+First, it was with a friend whom I used to play at his place. We just played party games with his new girlfriend.
+Even before the pandemic, we wanted to play more together (because his girlfriend lives in another city). I set up everything, and then the pandemic hit, and now we played a couple of more times.</description>
+    </item>
+    
+    <item>
+      <title> Working on my environment</title>
+      <link>/microposts/working-on-my-environment/</link>
+      <pubDate>Mon, 13 Apr 2020 03:00:00 +0000</pubDate>
+      
+      <guid>/microposts/working-on-my-environment/</guid>
+      <description>It was time to work on my environment again.
+After streamlining the theme for vim across my devices (for some reason I still had solarized dark on my MacBook instead of solarized light), I decided it‘s time to look at other font options.
+After researching a little bit, sitting on it for a few days, trying out a few options, I finally settled on Fira Code
+It has ligatures and I must say, I did not think I would appreciate them as much as I do.</description>
+    </item>
+    
+    <item>
+      <title>Profit first: Status report</title>
+      <link>/microposts/profit-first-april/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/microposts/profit-first-april/</guid>
+      <description>I started implementing profit first at the beginning of the year, after I listened to the Audio book.
+The book got recommended by a bunch of people and I knew I wanted to get better at handling my business finances so I thought I try it out.
+The book was really great and there is so much truth in the way he explains the mindset most entrepreneurs have.
+If you don&amp;rsquo;t look at your balance sheet to make spending decisions you might want to try out this model.</description>
+    </item>
+    
+    <item>
+      <title>Publish more</title>
+      <link>/microposts/publish-more/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/microposts/publish-more/</guid>
+      <description>I want to publish more, but I don&amp;rsquo;t want to have it go out to the void of twitter.
+I found this neat idea from Justin Miller of Micro.blogs/microposts.
+And I will try this out. Short thoughts or ideas that would normally go to twitter or nowhere will live here.</description>
+    </item>
+    
+  </channel>
+</rss>

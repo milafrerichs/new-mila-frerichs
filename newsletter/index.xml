@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mila Frerichs, Data Visualization consultant for social good</title>
+    <link>/newsletter/</link>
+    <description>Weekly Newsletter of Mila Frerichs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/2019-09-01-weekly-notes/</link>
+                <pubDate>Sun, 08 Sep 2019 00:00:00 +0200</pubDate>
+                
+                <guid>/newsletter/2019-09-01-weekly-notes/</guid>
+                <description>
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;foss4g-uk&#34;&gt;FOSS4G (UK)&lt;/h2&gt;
+
+&lt;p&gt;The global FOSS4G conference ended last Friday and my twitter feed was full of it. Very interesting things, need to watch a few of those videos. I&amp;rsquo;m sad that I missed the global version of the conference this year. But I attended the North American version earlier this year, will attend the UK version later this month and likely head down to New Zealand for the Oceania version.&lt;/p&gt;
+
+&lt;h2 id=&#34;mercator-again-https-twitter-com-john-m-nelson-status-1165967275209478144&#34;&gt;&lt;a href=&#34;https://twitter.com/John_M_Nelson/status/1165967275209478144&#34;&gt;Mercator, again&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mercator-line.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;A fun old Illustration I dug up from a 9 year old blog post about how straight lines look in Mercator. (From John Nelson)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/John_M_Nelson/status/1165967275209478144&#34;&gt;https://twitter.com/John_M_Nelson/status/1165967275209478144&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;wildfires-https-twitter-com-wallacetim-status-1166123435224776704&#34;&gt;&lt;a href=&#34;https://twitter.com/wallacetim/status/1166123435224776704&#34;&gt;Wildfires&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/wildfires-amazonas.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A nice transition from just raw data to heat map and later to insight. (Thanks Josh for the nice summary 😁 )&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/wallacetim/status/1166123435224776704&#34;&gt;https://twitter.com/wallacetim/status/1166123435224776704&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;h2 id=&#34;where-can-you-afford-to-rent-in-california-https-www-latimes-com-projects-california-rental-calculator-map&#34;&gt;&lt;a href=&#34;(https://www.latimes.com/projects/california-rental-calculator-map/)&#34;&gt;Where can you afford to rent in California?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-california-latimes.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nice interactive tool where you can put your salary and see where you could afford to live in California. For my upcoming course &lt;strong&gt;Geospatial data visualization with d3&lt;/strong&gt; I&amp;rsquo;m using housing data for Chicago to map in a similar fashion. But I&amp;rsquo;m using neighborhoods as a measurement (because the data is provided in that format for the most part.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.latimes.com/projects/california-rental-calculator-map/&#34;&gt;https://www.latimes.com/projects/california-rental-calculator-map/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;we-re-at-the-peak-of-the-global-fire-season-https-www-washingtonpost-com-climate-environment-2019-08-30-were-peak-global-fire-season&#34;&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/&#34;&gt;We’re at the peak of the global fire season&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/fire-season-satellites.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Great usage of satellite data and pretty interesting color scale choice. Worth exploring more.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/&#34;&gt;https://www.washingtonpost.com/climate-environment/2019/08/30/were-peak-global-fire-season/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;short-term-rentals-in-toronto-upgo-city-spotlight-https-upgo-lab-mcgill-ca-2019-08-23-short-term-rentals-in-toronto-report&#34;&gt;&lt;a href=&#34;https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/&#34;&gt;Short-term rentals in Toronto: UPGo city spotlight&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/str-toronto.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The great thing about this report is not the small multiples (although I ❤️  small multiples). But rather that they published all their results on Github to be reproduced. Although the data is not available on GitHub just their analysis code.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/&#34;&gt;https://upgo.lab.mcgill.ca/2019/08/23/short-term-rentals-in-toronto-report/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-night-under-the-stars&#34;&gt;[A night under the stars]&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/night-under-stars.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;A look at overnight stays at US National Parks&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;When should you pitch your tent? Or when is it better to opt for lodging? When should you visit to avoid the crowds? Let’s have a look!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Did I mention that I ❤️ small multiples? This is a gorgeous example.&lt;/p&gt;
+
+&lt;p&gt;And the first section is an explanation of how the charts work and how to read it. It&amp;rsquo;s always recommended to include such a section if you have a novel way or choose a not standard way of showing data.&lt;/p&gt;
+
+&lt;h2 id=&#34;as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most-https-www-npr-org-2019-09-03-754044732-as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most-t-1567964800864&#34;&gt;&lt;a href=&#34;https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864&#34;&gt;As Rising Heat Bakes U.S. Cities, The Poor Often Feel It Most&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/npr-heat-income.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another great collection of small multiples. Overall this project is great. I love the usage of satellite data to get the temperatures and tailor it to your audience since you can select your won city. It&amp;rsquo;s a novel approach to look at temperature and income at the same time. And they have their process documented and the code uploaded to GitHub. Thanks a lot!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864&#34;&gt;https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1567964800864&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;here-s-who-owns-the-most-land-in-america-https-www-bloomberg-com-graphics-2019-largest-landowners-in-us&#34;&gt;&lt;a href=&#34;https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/&#34;&gt;Here’s Who Owns the Most Land in America&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/bloomberg-who-owns-land.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I love the annotations and storytelling part. You can click on the dots on the right side and it will showcase different owners and the map will center on the region of these properties. Well done!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/&#34;&gt;https://www.bloomberg.com/graphics/2019-largest-landowners-in-us/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;off-the-charts-heat-to-affect-millions-in-u-s-in-coming-decades-https-www-nationalgeographic-com-environment-2019-07-extreme-heat-to-affect-millions-of-americans-sf215943283-1-sf218432239-1&#34;&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&amp;amp;sf218432239=1&#34;&gt;‘Off-the-charts’ heat to affect millions in U.S. in coming decades&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&amp;amp;sf218432239=1&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/off-the-charts-heat.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a circle to showcase number of dangerous days is an interesting approach. Especially interesting is the way the annotation works. They used Seattle for a lengthier explanation of the number underneath the city name because they had enough space to add it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&amp;amp;sf218432239=1&#34;&gt;https://www.nationalgeographic.com/environment/2019/07/extreme-heat-to-affect-millions-of-americans/?sf215943283=1&amp;amp;sf218432239=1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;color-tool-https-learnui-design-tools-data-color-picker-html-palette&#34;&gt;&lt;a href=&#34;https://learnui.design/tools/data-color-picker.html#palette&#34;&gt;Color Tool&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://learnui.design/tools/data-color-picker.html#palette&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/color-tool.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The great thing is the immediate feedback in a chart and a map. Although I would have used another chart than a pie.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://learnui.design/tools/data-color-picker.html#palette&#34;&gt;https://learnui.design/tools/data-color-picker.html#palette&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;h2 id=&#34;civic-tech-projects-in-canada&#34;&gt;Civic Tech projects in Canada&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The team at &lt;a href=&#34;https://twitter.com/opennorth&#34;&gt;@opennorth&lt;/a&gt; is collecting examples of &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&#34;&gt;#civictech&lt;/a&gt; projects in Canada, and will be submitting them to the &lt;a href=&#34;https://twitter.com/civictechguide&#34;&gt;@civictechguide&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re working on a project (or have worked on one) take a minute and add it to their list.&lt;br /&gt;
+&lt;a href=&#34;https://twitter.com/code4ca/status/1169334327978672128&#34; title=&#34;https://twitter.com/code4ca/status/1169334327978672128&#34;&gt;https://twitter.com/code4ca/status/1169334327978672128&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;explore-the-nyc-capital-commitment-plan&#34;&gt;Explore the NYC Capital Commitment Plan&lt;/h2&gt;
+
+&lt;p&gt;New civic tech project from Chris Whong exploring capital spending in NYC.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://capital-commitments.chriswhong.com/fy19&#34; title=&#34;https://capital-commitments.chriswhong.com/fy19&#34;&gt;https://capital-commitments.chriswhong.com/fy19&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;scooter-startup-says-needy-communities-in-san-francisco-asked-to-be-excluded&#34;&gt;Scooter startup says needy communities in San Francisco asked to be excluded&lt;/h2&gt;
+
+&lt;p&gt;This is an interesting set of articles from the LA Times. The first article was titled &amp;ldquo;Scooter startup says needy communities in San Francisco asked to be excluded&amp;rdquo; and after the article was published Scoot responded that the commented asked to be excluded. We need to be careful how we use the data from scooter companies. My question to the LA Times would be, did not sent the article to Scoot before publishing it?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks&#34; title=&#34;https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks&#34;&gt;https://www.latimes.com/business/technology/story/2019-08-16/scoot-defends-redlining-narrow-sidewalks&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird&#34; title=&#34;https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird&#34;&gt;https://www.latimes.com/business/technology/story/2019-08-14/san-francisco-scoot-tenderloin-bird&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/weekly-notes-2019-08-25/</link>
+                <pubDate>Sun, 25 Aug 2019 00:00:00 +0200</pubDate>
+                
+                <guid>/newsletter/weekly-notes-2019-08-25/</guid>
+                <description>
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;tool&#34;&gt;Tool&lt;/h2&gt;
+
+&lt;p&gt;Have you checked out: &lt;a href=&#34;http://projectionwizard.org&#34; title=&#34;http://projectionwizard.org&#34;&gt;http://projectionwizard.org&lt;/a&gt; yet?&lt;br /&gt;
+It is a nice tool to select a good projection for the area of interest.&lt;br /&gt;
+And take a look at this tweet ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/BojanSavric/status/1162788720686145536&#34; title=&#34;https://twitter.com/BojanSavric/status/1162788720686145536&#34;&gt;https://twitter.com/BojanSavric/status/1162788720686145536&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mercator&#34;&gt;Mercator&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mercator.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another great look into the real size of Mercator. I&amp;rsquo;m still amazed that so many people on the web default to Mercator projections for their projects.&lt;/p&gt;
+
+&lt;p&gt;Here is another interactive version: &lt;a href=&#34;https://engaging-data.com/country-sizes-mercator/&#34; title=&#34;https://engaging-data.com/country-sizes-mercator/&#34;&gt;https://engaging-data.com/country-sizes-mercator/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;precision-and-size-in-geojson&#34;&gt;Precision and Size in GeoJSON&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s wild how many GeoJSON files are in use with a coordinate precision of 10 or higher — I&amp;rsquo;ve seen file sizes cut in &lt;em&gt;half&lt;/em&gt; just by hacking it down to 6 (RFC 7946 recommendation) + removing duplicate coords with zero change in visual correctness&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From Ryan Murphy and I could not agree more. I shared another example a few weeks ago. We should all think about our usage of precision in our GeoJSON files, especially if they grow bigger in size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/rdmurphy/status/1160261547463081985&#34; title=&#34;https://twitter.com/rdmurphy/status/1160261547463081985&#34;&gt;https://twitter.com/rdmurphy/status/1160261547463081985&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;h2 id=&#34;color-guide&#34;&gt;Color Guide&lt;/h2&gt;
+
+&lt;p&gt;Great guide from the great people at Datawrapper. A must read resource and you should save it for future reference.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.datawrapper.de/colorguide/&#34; title=&#34;https://blog.datawrapper.de/colorguide/&#34;&gt;https://blog.datawrapper.de/colorguide/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;job-loss-by-county&#34;&gt;Job Loss by County&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/job-loss-trade-war.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A little older from the week before but so good I need to share this.&lt;br /&gt;
+The use of annotation and highlighting important aspects of the map are just great. And they still left it interactive so you can explore while still having some explanatory aspects included.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://publicintegrity.org/business/trump-country-trade-off-tariffs-could-trigger-u-s-job-losses/&#34; title=&#34;https://publicintegrity.org/business/trump-country-trade-off-tariffs-could-trigger-u-s-job-losses/&#34;&gt;https://publicintegrity.org/business/trump-country-trade-off-tariffs-could-trigger-u-s-job-losses/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mapping-the-strain-on-our-water&#34;&gt;&lt;strong&gt;Mapping the strain on our water&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/mapping-strain.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I love maps that just show the data and only a few supporting items that do not interfere too much with the data. The rivers are a great addition but have a very light blue and are important for the data since we&amp;rsquo;re talking about water stress. I&amp;rsquo;m curious about the use of labels. Only a few states are labeled and I can not figure out why they choose them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on&#34; title=&#34;https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on&#34;&gt;https://www.washingtonpost.com/climate-environment/2019/08/06/mapping-strain-our-water/?noredirect=on&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;see-the-complicated-landscape-of-plastic-bans-in-the-u-s&#34;&gt;See the complicated landscape of plastic bans in the U.S.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/plastic-bag-ban.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nice mixture of a bubble map (local bans) and choropleth with texture for future bans. Also the use of labels is great. Only adding state labels to the states that have bans. Not sure though why Austin and Laredo are labeled. Any idea? :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/&#34; title=&#34;https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/&#34;&gt;https://www.nationalgeographic.com/environment/2019/08/map-shows-the-complicated-landscape-of-plastic-bans/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;h2 id=&#34;growth-of&#34;&gt;Growth of&lt;/h2&gt;
+
+&lt;p&gt;Parking Infrastructure&lt;br /&gt;
+in Los Angeles&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/parking-la.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not very beautiful to look at but crazy to see the amount of parking. They have a gif on their page showing the increase over decades as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.transportationlca.org/losangelesparking/&#34; title=&#34;http://www.transportationlca.org/losangelesparking/&#34;&gt;http://www.transportationlca.org/losangelesparking/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;how-civic-engagement-is-unlocking-california-s-dmv-web-services&#34;&gt;How Civic Engagement Is Unlocking California’s DMV Web Services&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Governor Gavin Newsom created a Strike Team earlier this year to tackle the Department of Motor Vehicle’s long-standing problems with customer service and technology. An obvious first step was to overhaul the DMV website.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great use of civic tech volunteers and a first step to overhaul service delivery by the CA government.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0&#34; title=&#34;https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0&#34;&gt;https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I have some consulting availability in mid September if you want my help creating an interactive map, chart or create a mapping/open data tool. Or just in general have an interesting project, just hit reply.&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5525.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/weekly-notes-2019-08-11/</link>
+                <pubDate>Sun, 11 Aug 2019 10:00:00 +0200</pubDate>
+                
+                <guid>/newsletter/weekly-notes-2019-08-11/</guid>
+                <description>
+
+&lt;p&gt;I had a very busy two weeks but found some very interesting pieces the last week. I especially like the Heat Vulnerability Map from Vienna. And all over the place you see that Earth Observation (satellite) data is used more and more in analysis and data visualization. I love this trend and I love pocking not satellite data myself.&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;stop-using-zip-codes-for-geospatial-analysis-https-carto-com-blog-zip-codes-spatial-analysis&#34;&gt;&lt;a href=&#34;https://carto.com/blog/zip-codes-spatial-analysis/&#34;&gt;Stop Using Zip Codes for Geospatial Analysis&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Great article by Carto explaining where Zip codes originate, why they&amp;rsquo;re not useful for geospatial analysis and what you should use instead.&lt;/p&gt;
+
+&lt;p&gt;The problem with zip codes are:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;They don&amp;rsquo;t represent real boundaries, but rather routes&lt;/p&gt;
+
+&lt;p&gt;They don&amp;rsquo;t represent how humans behave&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Read the &lt;a href=&#34;https://carto.com/blog/zip-codes-spatial-analysis/&#34;&gt;full article&lt;/a&gt;, it&amp;rsquo;s well worth it.&lt;/p&gt;
+
+&lt;h2 id=&#34;urban-heat-vulnerability-map-of-vienna&#34;&gt;Urban Heat Vulnerability Map of Vienna&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/urban-heat-vulnerability-map-vienna.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Literal heat map of the city of Vienna.&lt;/p&gt;
+
+&lt;p&gt;There is also a methodology &lt;a href=&#34;https://www.wien.gv.at/stadtentwicklung/energie/pdf/hitzekarte-methode.pdf&#34;&gt;PDF&lt;/a&gt; which explains the methodology very detailed. They used satellite data to calculate the average yearly temperature. Very interesting, I thought about something similar as well. I might actual do one of those for San Diego and Berlin sometime soon.&lt;/p&gt;
+
+&lt;h2 id=&#34;bubble-maker-https-observablehq-com-datadesk-plug-and-play-bubble-map&#34;&gt;&lt;a href=&#34;https://observablehq.com/@datadesk/plug-and-play-bubble-map&#34;&gt;Bubble Maker&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Do you need a Bubble map? Do you have a geojson? Look no further than this great notebook from the LA Times data desk on Observable.&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;h2 id=&#34;where-the-last-pristine-skies-in-america-are-https-www-washingtonpost-com-business-2019-08-06-where-last-pristine-skies-america-are&#34;&gt;&lt;a href=&#34;https://www.washingtonpost.com/business/2019/08/06/where-last-pristine-skies-america-are/&#34;&gt;Where the last pristine skies in America are&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/pristine-skies-usa.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Light pollution is something everyone kind of knows but we&amp;rsquo;re not really aware of it. We&amp;rsquo;re used to how the sky looks like in the city. But man are we missing out. Look at the gorgeous photos in this article and find the place were you can see the real sky.&lt;/p&gt;
+
+&lt;h2 id=&#34;risk-of-sunburn-across-the-u-s-https-earthobservatory-nasa-gov-images-145413-new-map-shows-risk-of-sunburn-across-the-us&#34;&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145413/new-map-shows-risk-of-sunburn-across-the-us&#34;&gt;Risk of Sunburn Across the U.S.&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/uv-dose-usa.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We all know it and I&amp;rsquo;m guilty as well of not using sun blocker all the time. The Earth Observatory from NASA published a great gif of maps showing the risk of sunburn across the U.S.&lt;/p&gt;
+
+&lt;p&gt;And in my favorite American City, San Diego the risk is there throughout the year :) Great and not so great for someone like me who does not use sun blocker that often.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-much-warmer-is-your-city-https-www-bbc-co-uk-news-resources-idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee&#34;&gt;&lt;a href=&#34;https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee&#34;&gt;How much warmer is your city?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/how-much-warmer.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Impressive but sad story. You can personalize it to the city you live in. Great globe visualization and animations about sea level rises.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee&#34;&gt;https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;almost-half-of-europe-s-soil-is-dryer-than-normal-https-vis4-net-drought-in-europe&#34;&gt;&lt;a href=&#34;https://vis4.net/drought-in-europe/&#34;&gt;Almost half of Europe&amp;rsquo;s soil is dryer than normal&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/dry-europe.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another sad visualization but very interesting to look at and the animation makes it even more depressing. Worth checking out.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vis4.net/drought-in-europe/&#34;&gt;https://vis4.net/drought-in-europe/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;h2 id=&#34;civic-tech-fellows-offer-their-ideas-for-attracting-youth-to-public-service-https-www-nextgov-com-cio-briefing-2019-08-civic-tech-fellows-offer-their-ideas-attracting-youth-public-service-159076&#34;&gt;&lt;a href=&#34;https://www.nextgov.com/cio-briefing/2019/08/civic-tech-fellows-offer-their-ideas-attracting-youth-public-service/159076/&#34;&gt;Civic Tech Fellows Offer Their Ideas for Attracting Youth to Public Service&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;After just 10 weeks in government, the Coding It Forward fellows were able to succinctly identify the promise and challenges in getting young people to join the government.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;announcing-the-state-software-budgeting-handbook-https-18f-gsa-gov-2019-08-05-budgeting-handbook&#34;&gt;&lt;a href=&#34;https://18f.gsa.gov/2019/08/05/budgeting-handbook/&#34;&gt;Announcing the State Software Budgeting Handbook&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The handbook will provide state officials with tools to make custom technology projects more successful. Over a dozen best practices are documented, including budgeting for software as an operational expertise, limiting contract size, measuring success iteratively, and hiring in-house tech talent.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;where-chicago-issues-parking-tickets-and-who-pays-for-them-https-projects-propublica-org-chicago-tickets&#34;&gt;&lt;a href=&#34;https://projects.propublica.org/chicago-tickets/&#34;&gt;Where Chicago Issues Parking Tickets and Who Pays For Them&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This interactive database contains more than 54 million parking, standing and vehicle compliance tickets issued since 1996, obtained by ProPublica Illinois in partnership with WBEZ and made public for the first time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great database, story and dashboard from ProPublica and WBEZ Chicago. Worth checking out and diving into the data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://projects.propublica.org/chicago-tickets/&#34;&gt;https://projects.propublica.org/chicago-tickets/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I used the weekend to work on my monthly and weekly planning. &lt;a href=&#34;https://www.notion.so/?r=ae698dfc15534740ba1f3db7a89dff7b&#34;&gt;Notion&lt;/a&gt; is a great tool for organizing your business. I use it for all my documents and ideas that I have. For my weekly planning. Just not yet for my daily tasks. It&amp;rsquo;s just not there yet, their apps are not at the level I want for a task manager. But for organizing all my other business stuff I use &lt;a href=&#34;https://www.notion.so/?r=ae698dfc15534740ba1f3db7a89dff7b&#34;&gt;Notion&lt;/a&gt;. Be sure to check it &lt;a href=&#34;https://www.notion.so/?r=ae698dfc15534740ba1f3db7a89dff7b&#34;&gt;out&lt;/a&gt;. (Affiliate Link, you get 10$ credit for a plan).&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5461.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We were at a coworking space this week and I plan to integrate a coworking day once a week. Should be fun.&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/weekly-notes-2019-07-28/</link>
+                <pubDate>Sun, 28 Jul 2019 08:00:00 +0200</pubDate>
+                
+                <guid>/newsletter/weekly-notes-2019-07-28/</guid>
+                <description>
+
+&lt;p&gt;Welcome to this new edition of “Weekly Notes”, a weekly newsletter about Maps, Data Visualization, Civic Tech, and Open Data.&lt;/p&gt;
+
+&lt;p&gt;You can find previous issues &lt;a href=&#34;http://milafrerichs.com/newsletter&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;building-footprint-comparison-https-demos-azavea-com-building-footprint-comparison-3-96-35-41-105-84&#34;&gt;&lt;a href=&#34;https://demos.azavea.com/building-footprint-comparison/#3.96/35.41/-105.84&#34;&gt;Building Footprint Comparison&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://demos.azavea.com/building-footprint-comparison/#3.96/35.41/-105.84&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/building-footprints.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fascinating comparison of building footprints from Microsoft and OpenStreetMap.&lt;/p&gt;
+
+&lt;p&gt;I recently used the Microsoft building footprint for my Zoning analysis in San Diego. When I looked for building data I found that the Microsoft dataset was more complete than the Open Street Map data. And if you look at the map it confirms it and shows even more. Exciting, thanks for doing this.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://demos.azavea.com/building-footprint-comparison/#3.96/35.41/-105.84&#34;&gt;https://demos.azavea.com/building-footprint-comparison/#3.&lt;sup&gt;96&lt;/sup&gt;&amp;frasl;&lt;sub&gt;35&lt;/sub&gt;.41/-105.84&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;h2 id=&#34;second-heatwave-across-europe-https-earthobservatory-nasa-gov-images-145377-a-second-scorching-heatwave-in-europe&#34;&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145377/a-second-scorching-heatwave-in-europe&#34;&gt;Second heatwave across europe&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145377/a-second-scorching-heatwave-in-europe&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/europe_geos5_2019206_lrg.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I love satellite data, and due to the current heatwave that we experience here in Europe, I thought I share this picture with you. We&amp;rsquo;re hitting up to 41°C (107°F) in Germany. Not in Berlin, but still crazy.&lt;/p&gt;
+
+&lt;h2 id=&#34;planet-https-nbremer-github-io-planet-globe&#34;&gt;&lt;a href=&#34;https://nbremer.github.io/planet-globe/&#34;&gt;Planet&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://nbremer.github.io/planet-globe/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/planet-satellites.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another gorgeous visualization related to satellites and their data. You can see how the satellite images are being constructed; very nice.&lt;/p&gt;
+
+&lt;h2 id=&#34;measuring-movement-from-the-ridgecrest-quake-https-earthobservatory-nasa-gov-images-145318-measuring-movement-from-the-ridgecrest-quake&#34;&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake&#34;&gt;Measuring Movement from the Ridgecrest Quake&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145318/measuring-movement-from-the-ridgecrest-quake&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ridgecrest_alos2_2019189_lrg.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The ground beneath Southern California moved furiously in early July 2019 due to two large earthquakes, one of which was the strongest in the region in at least two decades. Remote sensing scientists are getting better at measuring such events and showing how they disrupt and move the land surface.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And yet another sat images related story. Regarding the earthquake in CA. I am fascinated by these natural disasters. And I might do another visualization in that space soon. :)&lt;/p&gt;
+
+&lt;h2 id=&#34;lion-king-no-more-https-www-nationalgeographic-com-animals-2019-07-lion-numbers-halved-since-original-lion-king&#34;&gt;&lt;a href=&#34;https://www.nationalgeographic.com/animals/2019/07/lion-numbers-halved-since-original-lion-king/&#34;&gt;Lion King no more&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/animals/2019/07/lion-numbers-halved-since-original-lion-king/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/lion-afrika.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;that lion numbers have dropped by half since &lt;em&gt;The Lion King&lt;/em&gt; premiered in theaters in 1994.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sad visualization about the decline in lion population. I hope someday I will still be able to see one of these magnificent creatures. (Not in a zoo of course :) )&lt;/p&gt;
+
+&lt;h2 id=&#34;greenest-cities-in-german-state-https-bnn-de-lokales-karlsruhe-gruenste-staedte-baden-wuerttemberg-ranking-parks-gruenflaechen&#34;&gt;&lt;a href=&#34;https://bnn.de/lokales/karlsruhe/gruenste-staedte-baden-wuerttemberg-ranking-parks-gruenflaechen&#34;&gt;Greenest cities in German state&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/08_gruene_staedte_mannheim.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Reusing data from an older visualization done by the Berliner Morgenpost a local newspaper showed the greenest cities in their state. (in german only :) )&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;h2 id=&#34;welcome-eugene-code-for-america-adds-new-brigade-in-eugene-or&#34;&gt;Welcome Eugene: Code for America adds new Brigade in Eugene, OR&lt;/h2&gt;
+
+&lt;p&gt;A &lt;a href=&#34;https://twitter.com/open_eugene&#34;&gt;new Brigade&lt;/a&gt; is welcomed in the Code for America family! Looking forward to what you are producing :)&lt;/p&gt;
+
+&lt;h2 id=&#34;hacking-for-housing-how-open-data-and-civic-hacking-creates-wins-for-housing-advocates-https-sunlightfoundation-com-2019-07-22-hacking-for-housing-how-open-data-and-civic-hacking-creates-wins-for-housing-advocates&#34;&gt;&lt;a href=&#34;https://sunlightfoundation.com/2019/07/22/hacking-for-housing-how-open-data-and-civic-hacking-creates-wins-for-housing-advocates/&#34;&gt;Hacking for Housing: How open data and civic hacking creates wins for housing advocates&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Throughout this summer, I’m going to build a tool for civic hackers to create databases of housing data for their own cities. My goal is to build on the work that civic hackers have initiated in New York, DC, and elsewhere, thereby reducing the startup effort required to develop apps to support housing advocacy efforts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great initiative from the Sunlight Foundation. Will definitely be in touch with them.&lt;/p&gt;
+
+&lt;h2 id=&#34;belgium-government-source-code-is-public-information-https-joinup-ec-europa-eu-collection-open-source-observatory-osor-news-open-data-directive&#34;&gt;&lt;a href=&#34;https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-data-directive&#34;&gt;Belgium: government source code is public information&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The government of Belgium considers the source code of software solutions created for or by its public services to be public information that must be made available on request.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If this initiative succeeds it could be a model for other countries. We need to keep pushing that eventually, all government source code is Open Source! We already paid for it anyway!&lt;/p&gt;
+
+&lt;h2 id=&#34;pittsburgh-released-parking-transaction-data-http-www-wprdc-org-news-published-data-pittsburgh-parking-transactions&#34;&gt;&lt;a href=&#34;http://www.wprdc.org/news/published-data-pittsburgh-parking-transactions/&#34;&gt;Pittsburgh released parking transaction data&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Developing a better understanding of how people park can help support efforts by the City and Authority to set rates based on demand. Having access to data can also help the Authority share information on revenue generation with City leadership, and develop a better understanding of mobility in Pittsburgh.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;open-environment-data-collection-for-germany-https-hackmd-okfn-de-ojqiplriqd61vos-svv4jq-view&#34;&gt;&lt;a href=&#34;https://hackmd.okfn.de/OJQIPlRiQD61VOS-sVV4JQ?view#&#34;&gt;Open Environment Data collection for Germany&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Open Knowledge Foundation Germany is collecting environment and sustainability data for Germany and the world. Take a look, already some great datasets in there.&lt;/p&gt;
+
+&lt;h2 id=&#34;san-francisco-planning-looks-to-hire-data-and-analytics-manager-https-twitter-com-datasf-status-1151153459069980672&#34;&gt;&lt;a href=&#34;https://twitter.com/DataSF/status/1151153459069980672&#34;&gt;San Francisco Planning looks to hire data and analytics manager&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As a housing crisis continues to affect major California cities, the San Francisco Planning Department is looking to hire a new data and analytics manager, &lt;a href=&#34;https://twitter.com/DataSF/status/1151153459069980672&#34;&gt;noting on Twitter&lt;/a&gt; that the position is one well-suited for an individual who cares about data-driven housing policy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;pennsylvania-looks-to-add-chief-data-officer-position-https-www-govtech-com-people-pennsylvania-looks-to-add-chief-data-officer-position-html&#34;&gt;&lt;a href=&#34;https://www.govtech.com/people/Pennsylvania-Looks-to-Add-Chief-Data-Officer-Position.html&#34;&gt;Pennsylvania Looks to Add Chief Data Officer Position&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.govtech.com/people/Pennsylvania-Looks-to-Add-Chief-Data-Officer-Position.html&#34;&gt;https://www.govtech.com/people/Pennsylvania-Looks-to-Add-Chief-Data-Officer-Position.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;new-accelerator-civstart-to-focus-on-gov-tech-partnerships-https-www-govtech-com-biz-new-accelerator-civstart-to-focus-on-gov-tech-partnerships-html&#34;&gt;&lt;a href=&#34;https://www.govtech.com/biz/New-Accelerator-CivStart-to-Focus-on-Gov-Tech-Partnerships.html&#34;&gt;New Accelerator, CivStart, to Focus on Gov Tech Partnerships&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;A new startup accelerator has chosen 10 companies for a two-year mentorship program to bring civic technology solutions to market, with a specific focus on enduring problems that face state and local government.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is great news. CivicTech and GovTech need more of these accelerators!&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5410.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/2019-07-21-weekly-notes/</link>
+                <pubDate>Sun, 21 Jul 2019 09:00:00 +0200</pubDate>
+                
+                <guid>/newsletter/2019-07-21-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;Welcome to this new edition of &amp;ldquo;Weekly Notes&amp;rdquo;, a weekly newsletter about Maps, Data Visualization, Civic Tech and Open Data.&lt;/p&gt;
+
+&lt;p&gt;You can find &lt;a href=&#34;https://milafrerichs.com/newsletter&#34;&gt;previsous issues here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a lot of great maps and projects in this newsletter. Enjoy!&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;green-space-is-good-for-mental-health-https-earthobservatory-nasa-gov-images-145305-green-space-is-good-for-mental-health&#34;&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health&#34;&gt;Green Space is Good for Mental Health&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/green-space-denmark.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thirty years of &lt;a href=&#34;https://twitter.com/NASA_Landsat&#34;&gt;@NASA_Landsat&lt;/a&gt; data helped scientists complete the largest epidemiological study of its kind&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;In a sweeping nationwide study, researchers from Denmark’s University of Aarhus found that childhood exposure to green space—parks, forests, rural lands, etc.—reduces the risk for developing an array of psychiatric disorders during adolescence and adulthood.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great study and a great use of satellite data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health&#34;&gt;https://earthobservatory.nasa.gov/images/145305/green-space-is-good-for-mental-health&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;galileo-went-down-https-www-gislounge-com-european-global-position-system-failure-points-to-the-importance-of-location-technology&#34;&gt;&lt;a href=&#34;https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/&#34;&gt;Galileo went down&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;What is being called a “major outage” by the European Global Navigation Satellite System (GNSS) Agency, or GSA, highlights the critical importance played by the satellite systems that provide accurate positioning&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/&#34;&gt;https://www.gislounge.com/european-global-position-system-failure-points-to-the-importance-of-location-technology/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;feature-comparison-mapping-libraries-http-mappingwithd3-com-feature-comparison-lsc-mf&#34;&gt;&lt;a href=&#34;http://mappingwithd3.com/feature-comparison/?lsc=mf&#34;&gt;Feature Comparison Mapping Libraries&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I updated my feature comparison of popular mapping libraries post to include more info about the specific features. I looked at 13 features and compared them between 5 libraries that I consider the leading players: mapbox.js, OpenLayers, Leaflet, Google Maps, D3.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mappingwithd3.com/feature-comparison/?lsc=mf&#34;&gt;You can check it out here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;foss4g-uk-2019-tickets-now-available&#34;&gt;FOSS4G UK 2019 tickets now available&lt;/h2&gt;
+
+&lt;p&gt;The local &lt;strong&gt;F&lt;/strong&gt;ree and &lt;strong&gt;O&lt;/strong&gt;pen &lt;strong&gt;S&lt;/strong&gt;ource &lt;strong&gt;S&lt;/strong&gt;oftware for &lt;strong&gt;G&lt;/strong&gt;eospatial Conference in the UK will be held in Edinburgh in September.
+I will be there, giving a talk and my workshop &lt;a href=&#34;https://mappingwithd3.com?lsc=mf&#34;&gt;Geospatial Data Visualization with d3&lt;/a&gt;.
+Join me and buy your ticket!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uk.osgeo.org/foss4guk2019/tickets.html&#34; title=&#34;https://uk.osgeo.org/foss4guk2019/tickets.html&#34;&gt;https://uk.osgeo.org/foss4guk2019/tickets.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;p&gt;A lot of great content over the last week. I had a hard time to decide what not to include :)&lt;/p&gt;
+
+&lt;h2 id=&#34;to-prepare-for-rising-temperatures-scientists-map-urban-hot-spots-https-www-nationalgeographic-com-magazine-2019-08-map-shows-urban-heat-islands-washington-dc&#34;&gt;&lt;a href=&#34;https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/&#34;&gt;To prepare for rising temperatures, scientists map urban ‘hot spots’&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/heat-island.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a great looking map and very important for future urban developments and thinking about how we can improve the livability of cities.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Volunteers drove three one-hour sessions throughout the day, recording air temperature on prescribed routes. Together, they collected over 75,000 temperature measurements from across each city.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I might take a look at Berlin, but instead of using volunteers I take a look at the Sentinel Land Surface Temperature (LST) Data. It is not as detailed as volunteer based data but should be a good estimate.&lt;/p&gt;
+
+&lt;p&gt;More explanation on their method here: &lt;a href=&#34;https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and&#34;&gt;https://www.noaa.gov/education/stories/science-and-education-partners-reveal-hottest-places-in-washington-dc-and&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc/&#34;&gt;https://www.nationalgeographic.com/magazine/2019/08/map-shows-urban-heat-islands-washington-dc&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;which-lakes-are-accessible-for-the-public-https-www-addendum-org-seezugang-welche-seen-zugaenglich-sind&#34;&gt;&lt;a href=&#34;https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/&#34;&gt;Which lakes are accessible for the public?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/lake-access-swiss.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Great use of images, small multiples and encoding the amount of access at the bottom of the images. Overall great project, and they did it all by hand. Worth checking out.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/&#34;&gt;https://www.addendum.org/seezugang/welche-seen-zugaenglich-sind/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;along-which-public-transit-light-rail-line-is-the-rent-the-highest-https-interaktiv-tagesanzeiger-ch-2019-miet-map-zuerich&#34;&gt;&lt;a href=&#34;https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/&#34;&gt;Along which public transit light rail line is the rent the highest?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/rent-prices-switherland-transit.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Small little project from local newspaper in Switzerland. Looking at rent prices near light rail line.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unfortunetely behind a paywall.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/&#34;&gt;https://interaktiv.tagesanzeiger.ch/2019/miet-map-zuerich/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;seoul-guangzhou-and-new-york-city-top-list-of-cities-with-largest-carbon-footprints-how-does-your-city-rank-https-thecityfix-com-blog-seoul-guangzhou-new-york-city-top-list-cities-largest-carbon-footprints-city-rank-emily-cassidy-daniel-moran&#34;&gt;&lt;a href=&#34;https://thecityfix.com/blog/seoul-guangzhou-new-york-city-top-list-cities-largest-carbon-footprints-city-rank-emily-cassidy-daniel-moran/&#34;&gt;&lt;strong&gt;Seoul, Guangzhou and New York City Top List of Cities With Largest Carbon Footprints. How Does Your City Rank?&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/carbon-footprint-world.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Interesting dataset and presentation. You see a huge spike in China which should not be a surprise anymore.&lt;br /&gt;
+Unfortunately they used the Mercator projection which disturbs the represented area. But still interesting to explore.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Just 100 cities are responsible for 18% of CO2 emissions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;if-we-all-left-to-go-back-where-we-came-from-https-flowingdata-com-2018-05-16-go-back-where-you-came-from&#34;&gt;&lt;a href=&#34;https://flowingdata.com/2018/05/16/go-back-where-you-came-from/&#34;&gt;If We All Left to “Go Back Where We Came From”&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://flowingdata.com/2018/05/16/go-back-where-you-came-from/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/leave-us.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The map is a great response to the Trumpian claim that the four congresswomen should &amp;ldquo;go back where they came from&amp;rdquo;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;That leaves about 2.1 million Native American or Alaska Natives and 0.5 million Native Hawaiian or Other Pacific Islander. After that, it’s an empty shell of a country.&lt;/p&gt;
+
+&lt;p&gt;A simplified view, but you get the point. Everyone comes from somewhere.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://flowingdata.com/2018/05/16/go-back-where-you-came-from/&#34;&gt;https://flowingdata.com/2018/05/16/go-back-where-you-came-from/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;abortion-access-is-more-difficult-for-women-in-poverty-https-www-washingtonpost-com-national-2019-07-10-abortion-access-is-more-difficult-women-poverty&#34;&gt;&lt;a href=&#34;https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/&#34;&gt;Abortion access is more difficult for women in poverty&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/abortion-usa.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Disturbing map about abortion access for women in poverty. But an important addition to the national discussion on the topic.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/&#34;&gt;https://www.washingtonpost.com/national/2019/07/10/abortion-access-is-more-difficult-women-poverty/?utm_term=.9985339a093f&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;britain-s-most-complex-motorway-junctions-https-www-ordnancesurvey-co-uk-blog-2019-07-britains-most-complex-motorway-junctions&#34;&gt;&lt;a href=&#34;https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/&#34;&gt;Britain’s most complex motorway junctions &lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/highway-junctions-uk.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Great project by the Ordnance Survey. They looked at the most complex motorway junctions in Britain. They even have a poster version you can print out!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Every road in each junction was assigned a different colour. Making more primary roads either red or green, and secondary roads either blue or yellow. Where one road changes over to another road, a gradient from one colour to the next was used to create the final product.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/&#34;&gt;https://www.ordnancesurvey.co.uk/blog/2019/07/britains-most-complex-motorway-junctions/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-limited-edition-run-of-50-prints-to-celebrate-the-50th-anniversary-of-apollo-11-https-www-madefromdata-com-product-apollo-50-utm-campaign-spatial-20awareness-utm-medium-email-utm-source-revue-20newsletter&#34;&gt;&lt;a href=&#34;https://www.madefromdata.com/product/apollo-50?utm_campaign=Spatial%20Awareness&amp;amp;utm_medium=email&amp;amp;utm_source=Revue%20newsletter&#34;&gt;A LIMITED EDITION RUN OF 50 PRINTS TO CELEBRATE THE 50TH ANNIVERSARY OF APOLLO 11.&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Great looking poster!&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;h2 id=&#34;new-jersey-bus-watcher-http-www-njbuswatcher-com&#34;&gt;&lt;a href=&#34;http://www.njbuswatcher.com&#34;&gt;New Jersey Bus Watcher&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.njbuswatcher.com&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/ny-buswatcher.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A great civic tech project looking at bus services in New Jersey. Espacially looking at the quality of the service.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;When buses are arriving, how frequently they arrive, and whether adequate spacing is being maintained to ensure good service. These can be viewed by the day, week, month, or year.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.njbuswatcher.com&#34;&gt;http://www.njbuswatcher.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;volunteer-assisted-capital-area-food-bank-https-www-giscorps-org-cafb-245&#34;&gt;&lt;a href=&#34;https://www.giscorps.org/cafb-245/&#34;&gt;Volunteer Assisted Capital Area Food Bank&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;GISCorps volunteer Sarah Welt (@iMapOpenData)  put her geospatial skills to work updating and enhancing the Hunger Heat Map for Capital Area Food Bank in Washington, DC&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.giscorps.org/cafb-245/&#34;&gt;https://www.giscorps.org/cafb-245/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;machine-learning-crime-map-from-local-newspaper-https-www-stuttgarter-zeitung-de-crimemap&#34;&gt;&lt;a href=&#34;https://www.stuttgarter-zeitung.de/crimemap&#34;&gt;Machine Learning Crime Map from local newspaper&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A German local newspaper uses machine learning to classify police reports into 9 categories and visualize them on a map.&lt;br /&gt;
+They should explain more of the risks just using police reports, because they can have biasses and it will leak into the machine learning model. But interesting start, I will follow along what they do with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.stuttgarter-zeitung.de/crimemap&#34;&gt;https://www.stuttgarter-zeitung.de/crimemap&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;protecting-new-zealand-s-biosecurity-via-machine-learning-https-www-opengovasia-com-protecting-new-zealands-biosecurity-via-machine-learning&#34;&gt;&lt;a href=&#34;https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/&#34;&gt;Protecting New Zealand’s biosecurity via machine learning&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Researchers are working on a program to help everyday Kiwis identify pest species with the use of their smartphone.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/&#34;&gt;https://www.opengovasia.com/protecting-new-zealands-biosecurity-via-machine-learning/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I&amp;rsquo;m currently part of a group with other consultants and they shared some resources with me. I think you might find some of these interesting. I definitely did :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wlcm.growthtools.net/VOiIwvltXzaxatZ&#34;&gt;5 Ways To Use Digital Doping To Gain a (Legal) Athletic Edge&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://websitelegalpages.lawyer2warrior.com/website-legal-pages-package-optin&#34;&gt;Free Digital Compliance Kit: Privacy Policy &amp;amp; More For Your Webpages &amp;amp; Email Communications&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://elevaros.com/5-essential-skills/&#34;&gt;5 Essential Skills Every Technologist Must Have&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://welcomely.growthtools.com/p/mealprepessentials&#34;&gt;5 Best Meal Prep Essentials for Busy Moms&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://wlcm.growthtools.net/ArcODeIKKIbQwer&#34;&gt;60-Seconds to Your Revenue Goal calculator&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://welcomely.growthtools.com/p/smesolutions.nl&#34;&gt;5 Resources for Starting a Business in the Netherlands&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://wlcm.growthtools.net/yyJjSRYvCrvdlUK&#34;&gt;5 Best Resources to improve your EDI environment&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.assetdynamics.com/free-ebook&#34;&gt;Happy Retirement: A Simple Guide to Your Next Big Adventure&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.shegoessolotravel.com/work-up-to-your-first-solo-trip&#34;&gt;Work Up to Your First Solo Trip in 5 Steps&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://welcomely.growthtools.com/p/xwqLVIngDYfwPdb?preview=true&#34;&gt;How To Help Your Player Turn Frustration Into Focus&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://primalcareer.com/5-best-resources-to-find-a-perfect-job/&#34;&gt;The 5 Best Resources for Finding your Perfect Job!&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://wlcm.growthtools.net/QPgaEwsGCjYNNxc&#34;&gt;5 Resources to Develop Your Leadership &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://jeroenroosenboom.com/resources/&#34;&gt;5 Must-Use Productivity Tools to Grow Your Business&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://welcomely.growthtools.com/p/tMFUmKJyiRiQlQK?preview=true&#34;&gt;5 Best Copywriting Resources for Speakers: Help your written word become as powerful as your spoken word.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you find this newsletter useful I would love to hear from you.&lt;br /&gt;
+A few others have reached out to me, so don&amp;rsquo;t be shy. I read each and every email and respond as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;And feel free to share it with someone who might be interested in this newsletter.&lt;br /&gt;
+Send them to the &lt;a href=&#34;http://milafrerichs.com/newsletter&#34;&gt;newsletter overview.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/2019-07-14-weekly-notes/</link>
+                <pubDate>Sun, 14 Jul 2019 10:00:00 +0200</pubDate>
+                
+                <guid>/newsletter/2019-07-14-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;Welcome to this new edition of my newsletter. I hope you all had a great week. I certainly had one.&lt;/p&gt;
+
+&lt;h2 id=&#34;tools-frameworks-for-mapping-data-https-mappingwithd3-com-mapping-resources&#34;&gt;&lt;a href=&#34;https://mappingwithd3.com/mapping-resources/&#34;&gt;Tools &amp;amp; Frameworks for Mapping Data&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;After a discussion on twitter and a question I saw in a facebook group about what Tools are out there to create maps, I thought I create a list of all the tools and Frameworks I could find.&lt;/p&gt;
+
+&lt;p&gt;I created a new airtable and integrated it here. I also included the Tool/Framework is free to use or only paid.&lt;/p&gt;
+
+&lt;p&gt;If you find a tool or framework that I missed, please let me know, and I will add it to the list.&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-data-visualization&#34;&gt;(Geospatial) Data Visualization&lt;/h1&gt;
+
+&lt;p&gt;Another great week of geospatial data visualizations.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-micro-mapping-a-city-s-density-reveals-https-www-citylab-com-perspective-2019-07-urban-density-map-city-population-data-geography-591760&#34;&gt;&lt;a href=&#34;https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/&#34;&gt;What Micro-Mapping a City&amp;rsquo;s Density Reveals&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/density-chicago.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An interesting new look at density using satellite imagery and a different measure of density. By looking at a regular pattern of equally sized cells of one square kilometer you get a different perspective of cities.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This perspective lets us drill down to the micro-geography of density in American cities, with oftentimes surprising results, as in the densest grid cell of greater Salt Lake City (below), which isn’t high-rises but mobile home parks.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a fascinating observation. I would have not guessed that a mobile home park would be more dense than a high-rise area.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Just as average wealth and income statistics can’t take us very far in explaining how to fairly structure the distribution of economic gain in our society, the average population density of a vast metropolitan area does little to capture the many different ways that we might want to structure our cities and neighborhoods.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The whole article is well worth a read and the visualization is nice to play with.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/&#34;&gt;https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;subway-commute-nyc-https-www-nytimes-com-interactive-2019-07-08-upshot-nyc-subway-variability-calculator-html&#34;&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/07/08/upshot/nyc-subway-variability-calculator.html&#34;&gt;Subway Commute NYC&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/07/08/upshot/nyc-subway-variability-calculator.html&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/subway-commute-nyc.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nice visualization from the New York Times about your subway commute in New York. I always love transportation visualizations. You can do so much with these datasets.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://web.mta.info/developers/data/archives.html&#34;&gt;data&lt;/a&gt; is Open Data from the M.T.A.&lt;/p&gt;
+
+&lt;h2 id=&#34;atlas-of-the-moon-https-www-nationalgeographic-com-science-2019-07-the-atlas-of-moons&#34;&gt;&lt;a href=&#34;https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/&#34;&gt;Atlas of the Moon&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/atlas-of-moon.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stunning visuals from the moons of the galaxy. I especially like the feature where you overlay known countries or regions to get a sense of the scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/&#34;&gt;https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;new-tool-theydrawit-an-authoring-tool-for-belief-driven-visualization-https-medium-com-multiple-views-visualization-research-explained-theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&#34;&gt;&lt;a href=&#34;https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&#34;&gt;&lt;strong&gt;New Tool:&lt;/strong&gt; TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/draw-it.gif&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Geat research by the &lt;em&gt;Midwest Uncertainty (MU) Collective from&lt;/em&gt; Jessica Hullman (Northwestern) &amp;amp; Matthew Kay (UMichigan). The tool looks very promising. Still in the early phases and only works with linecharts and only GoogleSheets, but still good progress. Would love to see more research into data viz recall.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We found that when users had the ability to draw their expectations and see them against the observed data, they &lt;strong&gt;recalled the data 20–25% more accurately&lt;/strong&gt; a short time later.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&#34;&gt;https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;homeless-and-urban-planning-san-diego-https-www-sandiegodata-org-2019-07-data-for-social-good-workshop-homelessness-and-urban-planning&#34;&gt;&lt;a href=&#34;https://www.sandiegodata.org/2019/07/data-for-social-good-workshop-homelessness-and-urban-planning/&#34;&gt;Homeless and Urban Planning San Diego&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The San Diego Data Library from Eric Busbom with Data Science for Non-Profits is starting a series of meetings exploring homelessness and urban planning. With Open Data datasets and data visualization they&amp;rsquo;re going to look at the homeless population in San Diego.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-visualization-for-audiences-in-low-middle-income-countries-https-medium-com-data-visualization-society-data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313&#34;&gt;&lt;a href=&#34;https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313&#34;&gt;Data Visualization for Audiences in Low &amp;amp; Middle-Income Countries&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Data Visualization Society is a great place to hang out and get a better sense of what‘s happening worldwide in the data visualization sector. The Medium posts summarize discussions that happen inside the Slack room. This one is very important for anyone doing data viz in Low &amp;amp; Middle-Income countries.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;With limited time to digest data, it becomes extremely important to use data visualization as an effective, memorable communication tool.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313&#34;&gt;https://medium.com/data-visualization-society/data-visualization-for-audiences-in-low-middle-income-countries-ed722d161313&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-are-data-visualization-style-guidelines-https-medium-com-data-visualization-society-style-guidelines-92ebe166addc&#34;&gt;&lt;a href=&#34;https://medium.com/data-visualization-society/style-guidelines-92ebe166addc&#34;&gt;What Are Data Visualization Style Guidelines?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Another great article from the Society.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/data-visualization-society/style-guidelines-92ebe166addc&#34;&gt;https://medium.com/data-visualization-society/style-guidelines-92ebe166addc&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech-open-data&#34;&gt;Civic Tech/Open Data&lt;/h1&gt;
+
+&lt;h2 id=&#34;open-source-procurement-law-in-german-state&#34;&gt;Open Source procurement law in German state&lt;/h2&gt;
+
+&lt;p&gt;The parliament in a German state has a new procurement law where Open Source solutions shall be given preference if it&amp;rsquo;s technically possible and economically feasable. Whatever that means :)
+&lt;a href=&#34;http://www.parldok.thueringen.de/ParlDok/dokument/71600/gesetz_zur_aenderung_des_thueringer_vergabegesetzes_und_anderer_haushaltsrechtlicher_vorschriften.pdf&#34;&gt;Law (if you can read Germany)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-scooters-are-coming-let-s-require-data-this-time-https-www-azavea-com-blog-2019-07-10-the-scooters-are-coming&#34;&gt;&lt;a href=&#34;https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/&#34;&gt;The Scooters Are Coming: let’s require data this time&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I agree with Andrew that these scooters are very convenient and I wrote about the scooters in Berlin last week. He makes great points, that cities should and probably must require data as part of the regulatory environment and should release them as Open Data.&lt;/p&gt;
+
+&lt;p&gt;Go check out that article:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/&#34;&gt;https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-limits-of-civic-tech-learning-from-kleineanfragen-https-toridykes-com-blog-2019-6-24-kleine-anfragen&#34;&gt;&lt;a href=&#34;https://toridykes.com/blog/2019/6/24/kleine-anfragen&#34;&gt;The limits of civic tech: Learning from kleineAnfragen&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Great article from Tori about the civic tech project kleineAnfragen and lack of government technology and funding in general in Germany.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;the status quo whereby the civic tech scene is responsible for a huge portion of the work being done for a more transparent and open digital future while only being supported by short-term grants of money (if funded at all) is not sustainable. Governments need to do more, and they need to do better.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://toridykes.com/blog/2019/6/24/kleine-anfragen&#34;&gt;https://toridykes.com/blog/2019/6/24/kleine-anfragen&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I‘m currently in video production mode for my upcoming course &lt;a href=&#34;https://mappingwithd3.com/&#34;&gt;„Geospatial Data Visualization with d3“&lt;/a&gt;. Currently producing more entry-level material that will be released for free soon. If you want to get more info head over to &lt;a href=&#34;https://mappingwithd3.com/&#34;&gt;mappingwithd3.com&lt;/a&gt; and sign up.&lt;/p&gt;
+
+&lt;h1 id=&#34;tip-of-the-week&#34;&gt;Tip of the week&lt;/h1&gt;
+
+&lt;p&gt;Get out, enjoy the sun. Go to a café work in a different environment. It will improve your productivity.&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/45BFBC35-12B4-4AD6-80D2-9252EE2F0FB5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/2019-07-06-weekly-notes/</link>
+                <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+                
+                <guid>/newsletter/2019-07-06-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;I love that e-scooters have finally arrived in Berlin. I already used them to get around and shorten my trips. This weekend we had some close friends over, and we used the scooters to show them the city from a different perspective. It&amp;rsquo;s definitely a fun and great way to get around. Although my last work week did not feel that productive, I published two new content items last week. More productive than I thought!&lt;/p&gt;
+
+&lt;h2 id=&#34;single-family-zoning-san-diego-http-milafrerichs-de-articles-sandiego-zoning&#34;&gt;&lt;a href=&#34;http://milafrerichs.de/articles/sandiego-zoning/&#34;&gt;Single Family Zoning San Diego&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Last week I shared an article from The NY Times about zoning in American cities. And I was thinking about doing the same analysis for San Diego. And I did. You can read more about it &lt;a href=&#34;http://milafrerichs.de/articles/sandiego-zoning/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/building-zoning-san-diego-high-res.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;comparison-of-d3-js-and-mapbox-gl-js-https-mappingwithd3-com-mapbox-d3&#34;&gt;&lt;a href=&#34;https://mappingwithd3.com/mapbox-d3/&#34;&gt;Comparison of d3.js and Mapbox GL JS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I also &lt;a href=&#34;https://mappingwithd3.com/mapbox-d3/&#34;&gt;published&lt;/a&gt; a comparison of d3.js and Mapbox GL JS looking at the code and how they&amp;rsquo;re different.&lt;br /&gt;
+Take a look and tell me what you think. :)&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-data-visualization&#34;&gt;(Geospatial) Data Visualization&lt;/h1&gt;
+
+&lt;p&gt;A lot of interesting maps were floating around the last week. Here are a couple of my favorites:&lt;/p&gt;
+
+&lt;h2 id=&#34;power-plants-in-europe&#34;&gt;Power Plants in Europe&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://public.flourish.studio/visualisation/448632/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/2FB2E3F2-F8C9-4981-AEBF-9D351D2D697F.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a great take on power plants in Europe. I did a similar one just for Germany. This reminded me to update the data on my visualization and share it.&lt;/p&gt;
+
+&lt;h2 id=&#34;mapping-diversity-https-www-axios-com-where-americas-diversity-is-increasing-the-fastest-ae06eea7-e031-46a2-bb64-c74de85eca77-html&#34;&gt;&lt;a href=&#34;https://www.axios.com/where-americas-diversity-is-increasing-the-fastest-ae06eea7-e031-46a2-bb64-c74de85eca77.html&#34;&gt;Mapping diversity&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thefunctionalart.com/2019/07/mapping-diversity-and-taking.html&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1562487796/milafrerichs.com/newsletter/data-viz/diversity-index-change.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alberto Cairo had an interesting take on that visualization. You can read it here: &lt;a href=&#34;http://www.thefunctionalart.com/2019/07/mapping-diversity-and-taking.html&#34;&gt;Mapping diversity and taking probability and base rates into account&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;visualizing-unreported-murders-in-mexico-https-zonas-de-silencio-eluniversal-com-mx&#34;&gt;&lt;a href=&#34;https://zonas-de-silencio.eluniversal.com.mx&#34;&gt;Visualizing unreported murders in Mexico&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://zonas-de-silencio.eluniversal.com.mx&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/homicides-mexico.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;El Universal, in collaboration with Google News Lab, has just launched a project that analyzes unreported murders in Mexico, those cases that don&amp;rsquo;t get covered in the news&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I‘m not a huge fan of 3D maps. But I like that people try to experiment with different map types.&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech-open-data&#34;&gt;Civic Tech/Open Data&lt;/h1&gt;
+
+&lt;h2 id=&#34;iop-publishing-begins-open-data-trial-https-www-miragenews-com-iop-publishing-begins-open-data-trial&#34;&gt;&lt;a href=&#34;https://www.miragenews.com/iop-publishing-begins-open-data-trial/&#34;&gt;IOP Publishing begins open data trial&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This is a great initiative, and everyone should adopt such a policy:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The policy requires authors to include a data availability statement with their article, indicating whether data is accessible and, if so, where it can be found and under what licensing terms. The policy also strongly encourages authors to share their data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;fda-supports-open-data-to-improve-patient-safety-https-www-beckershospitalreview-com-quality-fda-supports-open-data-to-improve-patient-safety-html&#34;&gt;&lt;a href=&#34;https://www.beckershospitalreview.com/quality/fda-supports-open-data-to-improve-patient-safety.html&#34;&gt;FDA supports open data to improve patient safety&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The U.S. Food and Drug Administration signed a letter of support May 30 for openly sharing data through efforts such as the Patient Safety Movement Foundation&amp;rsquo;s Open Data Pledge, according to an announcement made June 27.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;cities-lead-the-way-on-open-source-tools-for-mobility-https-www-smartcitiesworld-net-news-news-cities-lead-the-way-on-open-source-tools-for-mobility-4314&#34;&gt;&lt;a href=&#34;https://www.smartcitiesworld.net/news/news/cities-lead-the-way-on-open-source-tools-for-mobility-4314&#34;&gt;Cities lead the way on open source tools for mobility&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A coalition of cities committed to using open-source technology have launched the Open Mobility Foundation (OMF) to help develop and deploy digital mobility tools and put in the place governance to manage them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;I will be giving two more workshops at geospatial conferences. It will be the same as my previous and will largely be influenced by the online workshop I’m currently creating.&lt;/p&gt;
+
+&lt;h1 id=&#34;tip-of-the-week&#34;&gt;Tip of the week&lt;/h1&gt;
+
+&lt;p&gt;If you want to include images in your Readme on github but don&amp;rsquo;t want to upload that image into your repo:&lt;br /&gt;
+Create an issue, add that image there, now GitHub uploads it for you and provides you with a convenient markdown snippet to add to your Readme :)&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5333.jpg&#34; alt=&#34;Bonsai Tree in Basement&#34; /&gt;
+Found in the basement of a restaurant in Berlin.&lt;/p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/2019-07-01-weekly-notes/</link>
+                <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+                
+                <guid>/newsletter/2019-07-01-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;How was your week? Mine was tumultuous. I got my Open Water Diver license, and I look forward to exploring the underwater world. But other than that a lot of stuff was going on.&lt;/p&gt;
+
+&lt;p&gt;What fun have you done the last week? Hit reply and share it with me.&lt;/p&gt;
+
+&lt;h1 id=&#34;geospatial-development&#34;&gt;Geospatial Development&lt;/h1&gt;
+
+&lt;h2 id=&#34;geospatial-data-visualization-with-d3&#34;&gt;Geospatial Data Visualization with d3&lt;/h2&gt;
+
+&lt;p&gt;Over the last couple of months, I&amp;rsquo;m preparing an online video course on creating maps with d3. I now have a more detailed landingpage and finally a domain. I&amp;rsquo;ve been working on a free lesson which I will be releasing soon (get on the waiting list to be the first to know). And for that free lesson, I was working on a tool/platform to make it easy and interactive. You can read more about it if you scroll to the end of this email.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mappingwithd3.com?lsc=mf&#34;&gt;Video Course Geospatial Data Visualization with d3&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;feature-comparison-mapping-libraries&#34;&gt;Feature Comparison Mapping Libraries&lt;/h2&gt;
+
+&lt;p&gt;I published a short feature comparison of popular mapping libraries. I looked at 13 features and compared them between 5 libraries that I consider the leading players: mapbox.js, OpenLayers, Leaflet, Google Maps, D3.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mappingwithd3.com/feature-comparison/?lsc=mf&#34;&gt;You can check it out here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I will update this comparison over the next few days with more detailed descriptions.&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;h2 id=&#34;how-the-uk-transformed-electricity-supply&#34;&gt;How the UK transformed electricity supply&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://interactive.carbonbrief.org/how-uk-transformed-electricity-supply-decade/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/uk-transform-energy.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you seen the interactive of CarbonBrief?&lt;/p&gt;
+
+&lt;p&gt;It is really well done, and the colors are great. I especially liked that they included their methodology at the end of the interactive. Everyone should do it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://interactive.carbonbrief.org/how-uk-transformed-electricity-supply-decade/&#34;&gt;https://interactive.carbonbrief.org/how-uk-transformed-electricity-supply-decade/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;cities-start-to-question-an-american-ideal-a-house-with-a-yard-on-every-lot&#34;&gt;Cities Start to Question an American Ideal: A House With a Yard on Every Lot&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/data-viz/zoning-us-cities.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Really lovely visuals about Zoning in the US, especially Single Family home zoning and how it differs between cities.&lt;/p&gt;
+
+&lt;p&gt;I want to do something similar for San Diego. Are you missing a city that you would like to see analyzed in that manner? Hit Reply. And I try to take a look if it‘s possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html&#34;&gt;https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h1&gt;
+
+&lt;p&gt;The CityLab Berlin launched a couple of weeks ago. It is modeled a little bit after the Civic Hall in New York (&lt;a href=&#34;https://civichall.org&#34;&gt;https://civichall.org&lt;/a&gt;). Looking forward to the events and direction they will take.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.citylab-berlin.org&#34;&gt;https://www.citylab-berlin.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;business-consulting&#34;&gt;Business/Consulting&lt;/h1&gt;
+
+&lt;p&gt;As I mentioned above, I&amp;rsquo;m currently working on the launch of my video course on d3. For that, I built a small tool that makes it easier to show tutorial content (Markdown, HTML), a code editor, and the result of that code. It is similar to CodeSandbox and other online code editors, but it adds the ability to show explanations and solutions for your tutorial/exercise.&lt;/p&gt;
+
+&lt;p&gt;You can check it out here: &lt;a href=&#34;https://github.com/milafrerichs/browser-repl-js&#34;&gt;https://github.com/milafrerichs/browser-repl-js&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5193.jpg&#34; alt=&#34;Beautiful Amsterdam&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;tip-of-the-week&#34;&gt;Tip of the week&lt;/h1&gt;
+
+&lt;p&gt;Always be shipping. It felt really good shipping small things the past few weeks. You feel better, even if it is not 100%. I fall into the trap as well, so many times. But I try to improve and always be shipping.&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/2019-06-18-weekly-notes/</link>
+                <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+                
+                <guid>/newsletter/2019-06-18-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;Last weekend I had another session in the pool on my way of getting the Open Water Diver certificate. This is really fun and I&amp;rsquo;m looking forward exploring the Oceans.&lt;/p&gt;
+
+&lt;p&gt;On the weekend I wanted to create something small. I wanted to create something that I might want to use for my workshops. After trying out if it would work as I would expected and it did, I started looking into javascript frameworks. I wanted to learn a new one anyway and I wanted to find one where I could get something done quickly. After a bit of research and watching a few talks on youtube about these frameworks I settled on Svelte. It was quite easy to get started and I like the concept of it. Will try to write a more detailed post later.
+You can follow my progress here: &lt;a href=&#34;https://github.com/milafrerichs/browser-repl-js&#34;&gt;https://github.com/milafrerichs/browser-repl-js&lt;/a&gt;
+Need to come up with a good name though :)&lt;/p&gt;
+
+&lt;h1 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h1&gt;
+
+&lt;p&gt;I &lt;a href=&#34;http://milafrerichs.de/articles/vizrisk-challenge-audience?lsc=mf&#34;&gt;published&lt;/a&gt; a new post on my blog about the VizRisk challenge I&amp;rsquo;m participating in. It&amp;rsquo;s about what audience I choose and what questions you come along when you&amp;rsquo;re trying to choose an audience.&lt;/p&gt;
+
+&lt;h1 id=&#34;tip-of-the-week&#34;&gt;Tip of the week&lt;/h1&gt;
+
+&lt;p&gt;This happened to me last week: I tried to find a way to get a library to work as I thought it should. Spent almost the whole day on. In the end I looked at another library and it did what I wanted and was smaller and better maintained. So my tip for this week: Choose another library quicker if the one you’re using does not get you were you want.&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_70,w_1024/milafrerichs.com/newsletter/photo_of_the_week/IMG_5133.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Weekly Notes</title>
+                <link>/newsletter/2019-06-09-weekly-notes/</link>
+                <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+                
+                <guid>/newsletter/2019-06-09-weekly-notes/</guid>
+                <description>
+
+&lt;p&gt;Hope you had a great week. I certainly had an entertaining week. A lot of stuff has happened.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s new with me&lt;/p&gt;
+
+&lt;p&gt;I started my diving lessons to get my Open Water Diver certificate, so I can dive with my wife on our next family vacation. That should be fun.
+What fun vacation are you planning next? Just reply and let me know. I&amp;rsquo;m curious, especially if you plan a diving trip. I want to know about it :)&lt;/p&gt;
+
+&lt;p&gt;I also started my journey on submitting an entry to the VizRisk challenge from GFDRR, mapbox, and the Data Visualization society. I will write about my progress on my &lt;a href=&#34;http://milafrerichs.de/articles&#34;&gt;blog&lt;/a&gt;. The first entry was &lt;a href=&#34;http://milafrerichs.de/articles/vizrisk-challenge-entry/&#34;&gt;published&lt;/a&gt; last week.&lt;/p&gt;
+
+&lt;p&gt;I will try to participate in the MakeoverMonday challenge. This weeks challenge was about a chart from the U.S. Bureau of Labor Statistics about Sleep Patterns of Americans. I added an entry and wrote a short &lt;a href=&#34;http://milafrerichs.de/articles/makeover-monday-how-americans-sleep/&#34;&gt;post&lt;/a&gt; about it as well. Here is the makeover as a gif, to see the difference:
+&lt;a href=&#34;http://milafrerichs.de/articles/makeover-monday-how-americans-sleep/&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit//milafrerichs.com/newsletter/sleep-time-makeover.gif&#34; alt=&#34;Makeover Chart&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;civic-tech-news&#34;&gt;Civic Tech News&lt;/h1&gt;
+
+&lt;p&gt;Have you seen the article on StateScoop about the NYPD using a combination of machine learning models, called Patternizr, to spot patterns in crime and solve cases? Though these tools have the potential to improve the safety of our communities, they need to be used with caution. Algorithms can have biases and need to be adequately trained to produce accurate findings. This is a good start to machine-learning based crime analysis, but there is still work to be done to increase the effectiveness of these tools.
+What do you think about it?&lt;/p&gt;
+
+&lt;p&gt;Have you seen or used the Civic Tech Field Guide? It is a valuable resource for staying in the loop and learning more about active civictech projects and tools used around the world.&lt;/p&gt;
+
+&lt;h1 id=&#34;photo-of-the-week&#34;&gt;Photo of the week&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/newsletter/photo_of_the_week/IMG_5020.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;rm-area-end-of-content&#34;&gt;&lt;/div&gt;
+</description>
+            </item>
+        
+  </channel>
+</rss>

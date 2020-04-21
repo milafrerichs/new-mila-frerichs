@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Mila Frerichs, Data Visualization consultant for social good</title>
+    <link>/articles/</link>
+    <description>Recent content in Articles on Mila Frerichs, Data Visualization consultant for social good</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2020 09:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attend &amp; garden your tools</title>
+      <link>/articles/attend-garden-your-tools/</link>
+      <pubDate>Thu, 06 Feb 2020 09:00:00 +0000</pubDate>
+      
+      <guid>/articles/attend-garden-your-tools/</guid>
+      <description>You should always work on your tool belt.
+Improve the tools you’re using.
+I’m using vim and tux and constantly learn new tricks and new shortcuts.
+I have a post-it note with new stuff I want to learn and still need to look up. Once they become second nature, I create a new post-it, and move on to the next shortcuts.
+I also use Alfred and add new workflows where I see fit.</description>
+    </item>
+    
+    <item>
+      <title>Speaking review 2019</title>
+      <link>/articles/speaking-review-2019/</link>
+      <pubDate>Tue, 04 Feb 2020 07:00:00 +0000</pubDate>
+      
+      <guid>/articles/speaking-review-2019/</guid>
+      <description>I love sharing what I know and love to go to conferences. (Read more bout this here). And sharing at a conference or giving a workshop is very satisfying. The feedback you get and the conversation you have afterward are great.
+I wanted to write a quick review of lasts year&amp;rsquo;s conferences.
+I got accepted to speak at the following conferences in 2019
+ FOSS4G NA, San Diego GoodTechFest, Chicago NACIS, Tacoma FOSS4G Oceania, Auckland  The three talks that I gave at these conferences were:</description>
+    </item>
+    
+    <item>
+      <title>CSS Trick: Show a fallback</title>
+      <link>/articles/css-trick-show-a-fallback/</link>
+      <pubDate>Mon, 03 Feb 2020 08:00:00 +0000</pubDate>
+      
+      <guid>/articles/css-trick-show-a-fallback/</guid>
+      <description>I was working on the Mapping with d3 site when I thought about an opt-in field with RightMessage (RM).
+When I have an offer for a visitor RM will show something, but when I don&amp;rsquo;t have anything I want to show a fallback that I don&amp;rsquo;t want to create with RM.
+So I thought I can just leave it inside the box that RM would fill with content. But even if they don&amp;rsquo;t have an offer they will overwrite the box.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at conferences</title>
+      <link>/articles/speaking-at-conferences/</link>
+      <pubDate>Mon, 13 Jan 2020 07:00:00 +0000</pubDate>
+      
+      <guid>/articles/speaking-at-conferences/</guid>
+      <description>I&amp;rsquo;m an introvert. But I love conferences. I love sharing what I know.
+I love being on the stage and talking about what I have learned and what I&amp;rsquo;m passionate about. I am nervous, and I always forget a little bit of what I want to say but I still love it.
+I hate being at conferences on my own but it&amp;rsquo;s the best way to make new connections.</description>
+    </item>
+    
+    <item>
+      <title>Working with forestry and hugo</title>
+      <link>/articles/working-with-forestry-and-hugo/</link>
+      <pubDate>Thu, 09 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>/articles/working-with-forestry-and-hugo/</guid>
+      <description>When I decided to start a new blog I thought about which platform I want to use.
+Here is what I wanted from the potential platform
+ Static site generator Gh Pages Ability to have an easy way to create posts Have a Frontend for just the posts Ability to write in markdown Not using html directly but use something smaller/smarter (the main reason I used middleman) like HAML Ability to use data files Clean default themes  Both Jekyll and Hugo offered most of the important things.</description>
+    </item>
+    
+    <item>
+      <title>Digital Gardening</title>
+      <link>/articles/digital-gardening/</link>
+      <pubDate>Wed, 08 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>/articles/digital-gardening/</guid>
+      <description>Instead of creating a stream of blog posts, I will transform my personal site and the Mapping with d3 site to a garden that I take care of, maintain, and grow.
+Recently I read a lot of articles on the topic of blogging and how the blogs killed the old internet of curating content. We went from curating our experience on the Web to just push out content. Without caring that much how they all fit together.</description>
+    </item>
+    
+    <item>
+      <title>Habits &amp; Habit Tracking</title>
+      <link>/articles/habits-habit-tracking/</link>
+      <pubDate>Tue, 07 Jan 2020 07:00:00 +0000</pubDate>
+      
+      <guid>/articles/habits-habit-tracking/</guid>
+      <description>After I read Atomic Habits last year I wanted to get better with my habits.
+I made it a 12-week year goal (blog post about that coming as well). And sorta got better at it … But I fell off.
+I attended a workshop of Stefanie Posavec and in her book Observe, Collect, Draw! : A Visual Journal there is a cool way of visualizing your habits.
+I started but eventually fell off the track as well.</description>
+    </item>
+    
+    <item>
+      <title>Books that I read in 2019.</title>
+      <link>/articles/books-that-i-read-in-2019/</link>
+      <pubDate>Mon, 06 Jan 2020 07:00:00 +0000</pubDate>
+      
+      <guid>/articles/books-that-i-read-in-2019/</guid>
+      <description>I wanted to read 15 books last year, and I did not even come close :(
+Although I read more than the year before.
+One of the reasons why I did not read as many books were that I decided not to listen to audiobooks while in the forest with ruby. I wanted to enjoy the silence and solitude of the forest and be in the moment and not distract myself.</description>
+    </item>
+    
+    <item>
+      <title> Categories of Podcasts I listen to</title>
+      <link>/articles/categories-of-podcasts-i-listen-to/</link>
+      <pubDate>Fri, 03 Jan 2020 02:00:00 +0000</pubDate>
+      
+      <guid>/articles/categories-of-podcasts-i-listen-to/</guid>
+      <description>I listen to a lot of podcasts these days and have a huge backlog of episodes I want to listen to.
+I usually do this on car trips. The last time from my drive back from Italy to Berlin. A 12h trip that resulted in a lot of listend listened to episodes :)
+And earlier during my retreat in Washington State driving to and from Mt. Rainier.
+On a daily basis, I listen to podcasts while walking my dog, while driving to the forest and when cleaning :)</description>
+    </item>
+    
+    <item>
+      <title>Twitter diet</title>
+      <link>/articles/twitter-diet/</link>
+      <pubDate>Thu, 02 Jan 2020 07:00:00 +0000</pubDate>
+      
+      <guid>/articles/twitter-diet/</guid>
+      <description>‪I need to reduce the daily amount of tweets I see in my timeline and be more proactive about when I open twitter.‬ I spend too much time on twitter scrolling through my timeline and not reading actively.
+‪I decided to unfollow a bunch of people and putting them into lists.‬
+‪If you&amp;rsquo;re one of them, sorry about that, I still read you but in lists and when I&amp;rsquo;m ready for it‬.</description>
+    </item>
+    
+    <item>
+      <title>Weekday Publishing Challenge</title>
+      <link>/articles/weekday-publishing-challenge/</link>
+      <pubDate>Wed, 01 Jan 2020 04:00:00 +0000</pubDate>
+      
+      <guid>/articles/weekday-publishing-challenge/</guid>
+      <description>I thought a lot about my writing and how I can provide more value to the people who follow me or are interested in my work or even working with me.
+I recently read these couple of articles about blog posts and content on the internet.
+ My blog is a digital garden, not a blog How the Blog Broke the Web MORE STUFF OR BETTER STUFF?  I changed my thinking about how I want to arrange my blog content.</description>
+    </item>
+    
+    <item>
+      <title>Just update your packages!</title>
+      <link>/articles/update-your-packages/</link>
+      <pubDate>Thu, 19 Dec 2019 23:00:00 +0000</pubDate>
+      
+      <guid>/articles/update-your-packages/</guid>
+      <description>Sometimes fixing an error in your application is easily fixable by upgrading the package that has that error (if you can pinpoint the package that is responsible. )
+I ran into an error today working on my course platform and I could not figure out the cause of the error.
+After about half an hour of research, I found someone suggesting to update the package and that finally solved the issue.</description>
+    </item>
+    
+    <item>
+      <title>Sabbatical</title>
+      <link>/articles/sabbatical/</link>
+      <pubDate>Sun, 08 Dec 2019 23:00:00 +0000</pubDate>
+      
+      <guid>/articles/sabbatical/</guid>
+      <description>I took a week off last week and did not plan to work and did not schedule anything. I wanted to take a sabbatical as Sean Wes proposed. Every 7th week plan a sabbatical. And I did I put it in my calendar and was determined to not work.
+The last few months were very stressful with a lot of client work, finding new work and working on the preorder of my upcoming online course Geospatial Data Visualization with d3.</description>
+    </item>
+    
+    <item>
+      <title>FOSS4G UK Review</title>
+      <link>/articles/foss4g-uk-review/</link>
+      <pubDate>Tue, 24 Sep 2019 04:00:00 +0200</pubDate>
+      
+      <guid>/articles/foss4g-uk-review/</guid>
+      <description>I had a great time at FOSS4G UK last week. I was not feeling well the week before so it was a good change of pace for me. Get out and enjoy a different city. It always is sad to leave my small family (wife and dog) but I love traveling around the world.
+I was looking forward to Edinburgh, I heard so many goods things about the city and Scotland in general.</description>
+    </item>
+    
+    <item>
+      <title>Single family homes in San Diego</title>
+      <link>/articles/sandiego-zoning/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/sandiego-zoning/</guid>
+      <description>Inspired by this article from the New York Times I wanted to create the same map for San Diego. Since the article did not include San Diego, I thought I can do it.
+Residential land zone for detached single-family &amp;nbsp; other housing
+
+As you can see, there are more single-family zones, than other residential areas. I expected that, but there is a lot of space that is not just residential zone.</description>
+    </item>
+    
+    <item>
+      <title>Data Viz Audience considerations</title>
+      <link>/articles/audiences/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/audiences/</guid>
+      <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
+    </item>
+    
+    <item>
+      <title>VizRisk Challenge: Audience</title>
+      <link>/articles/vizrisk-challenge-audience/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/vizrisk-challenge-audience/</guid>
+      <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
+    </item>
+    
+    <item>
+      <title>Makeover Monday: How Americans Sleep</title>
+      <link>/articles/makeover-monday-how-americans-sleep/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/makeover-monday-how-americans-sleep/</guid>
+      <description>Practicing your skills is essential in every aspect of your life, primarily when you work for yourself. When I coach my softball team, I always work on the basics. We hit a lot, and we field a lot. The same is true for my work, and since I have the fortune to work for myself and make my own schedule, I always like to practice my skills.
+One goal for me for this year is to share more stuff openly and not just work on my skills in private.</description>
+    </item>
+    
+    <item>
+      <title>VizRisk Challenge Entry</title>
+      <link>/articles/vizrisk-challenge-entry/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/vizrisk-challenge-entry/</guid>
+      <description>I love playing Softball and I‘m playing for more than 10 years now, it is a great team sport and I love the mix of action, team play and personal challenge getting up 1 vs. 1 against the pitcher. I used to coach the women&amp;rsquo;s team of the town that I studied in and was asked again to coach my team here in Berlin. I love coaching a team sport, strategizing how to approach the game and most important see players improve over time.</description>
+    </item>
+    
+    <item>
+      <title>Child Care Cost: Bay Area</title>
+      <link>/articles/child-care-cost-bay-area/</link>
+      <pubDate>Fri, 05 Apr 2019 18:12:47 +0200</pubDate>
+      
+      <guid>/articles/child-care-cost-bay-area/</guid>
+      <description>I stumbled across this exciting dataset about Childcare cost in the bay area.
+Here is the graphic that I looked at:
+I thought this visualization could be improved to bring the point across more clearly.
+A slope chart would be a great option.
+ A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time. The related values are connected by slopes.</description>
+    </item>
+    
+    <item>
+      <title>Toronto High Rise Building inspection</title>
+      <link>/articles/toronto-high-rise-building-inspection/</link>
+      <pubDate>Tue, 05 Mar 2019 07:03:27 +0100</pubDate>
+      
+      <guid>/articles/toronto-high-rise-building-inspection/</guid>
+      <description>In Volume 6 of my weekly roundup I highlighted some newly released data from the city of Toronto about Highrisers Building Inspection data. The newspaper that reported about it was not happy about the format that it was available. And I agree it is not very searchable or does not provide too much information.
+But: They use an API to show the data in the table. And it turns out, I can use the API as well.</description>
+    </item>
+    
+    <item>
+      <title>Louisville Bird Data published</title>
+      <link>/articles/lousiville-bird/</link>
+      <pubDate>Thu, 01 Nov 2018 06:08:58 +0000</pubDate>
+      
+      <guid>/articles/lousiville-bird/</guid>
+      <description>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
+We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
+This is just a partial analysis since we only have data for one city and only for a limited time frame.</description>
+    </item>
+    
+    <item>
+      <title>Licenses and formats on data.gov</title>
+      <link>/articles/govdata/</link>
+      <pubDate>Tue, 30 Oct 2018 16:08:58 +0000</pubDate>
+      
+      <guid>/articles/govdata/</guid>
+      <description>While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
+So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.
+A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany.</description>
+    </item>
+    
+    <item>
+      <title>Five podcasts that changed how I run my business</title>
+      <link>/articles/2016-08-02-five-podcastss/</link>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-08-02-five-podcastss/</guid>
+      <description>I listen to podcasts for a while now. I started with technical podcasts like Giant Robots Smashing Into Other Giant Robots, Ruby Rogues, Core Intuition and more. I think I have an easier time listening to something than to read a blog post. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.
+Since starting my own business in 2014, I listen to more and more business and freelance related podcasts.</description>
+    </item>
+    
+    <item>
+      <title>Two-year anniversary</title>
+      <link>/articles/2016-08-01-two-years/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-08-01-two-years/</guid>
+      <description>Wow, I can’t believe it! It’s been two years already. I did it! :)
+Today I’m in business for two years with my company Civic Vision. I founded the company on Aug. 2014 and am happy to report that we’re still operating and growing every year.
+Our revenue grew every year and our profit as well.
+I had the opportunity to work with awesome companies and organizations such as Code for America, Open Knowledge Foundation Germany, Worldbank, 18f, Terranodo.</description>
+    </item>
+    
+    <item>
+      <title>Podcasts I listen to regularly</title>
+      <link>/articles/2016-07-28-podcasts/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-07-28-podcasts/</guid>
+      <description>I listen to podcast for a while now. I started with technical podcast like giant robots smashing into other giant robots, ruby rogues, nsbrief, etc. I love listen to podcasts even about technical stuff. I think I have an easier time listening to something than to read a blogpost. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.</description>
+    </item>
+    
+    <item>
+      <title>Inbox Zero</title>
+      <link>/articles/2016-07-27-inbox-zero/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-07-27-inbox-zero/</guid>
+      <description>I&amp;rsquo;m happy to be able to say: I&amp;rsquo;m back at Inbox Zero
+After my last trip staying at a friends place for a week, my emails started to pile up, and my filters were not any good anymore.
+So I used the last two days to clean up my inbox and add more and better filters to my inboxes.
+I started with my personal account because it&amp;rsquo;s easier to clean up.</description>
+    </item>
+    
+    <item>
+      <title>Help families in need: MapSwipe</title>
+      <link>/articles/2016-07-26-mapswipe/</link>
+      <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-07-26-mapswipe/</guid>
+      <description>A new app launched a little more than a week ago called MapSwipe. And it is great; I try to use it every day.
+You help families with mapping certain areas of the world. But it is mapping you can do without a geospatial background.
+What’s the purpose  With every swipe and tap, you help put families on the map
+ That’s how they describe their app. And it is that simple.</description>
+    </item>
+    
+    <item>
+      <title>Progress Update: Civic Tech Project</title>
+      <link>/articles/2016-07-25-drinking-water/</link>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-07-25-drinking-water/</guid>
+      <description>Last week I decided I should do something with the newly released Open Data Portal of the City of San Diego. And I thought about Data Sets where I could reuse/redeploy apps from other cities. There are 44 datasets in the current portal, and I wanted to use something that could be done relatively quickly but still would be an improvement.
+Finding the right dataset After looking through several datasets and trying to find apps that I could easily reuse and redeploy I found the „Monitoring of select chemical parameters in drinking water“ dataset and I remembered an app from Code for Heilbronn, Germany about drinking water quality.</description>
+    </item>
+    
+    <item>
+      <title>How I keep myself healthy and inspired while working for myself</title>
+      <link>/articles/2016-07-21-activities/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-07-21-activities/</guid>
+      <description>Working for yourself can get lonely and monotone. Here are a few things I do to stay active and inspired.
+Activities I love doing sports. I’m a very active and sport-hungry person. And I love team-sports. I play Softball for almost ten years now, and I love going to tournaments, compete and have fun with friends. I met my wife through Softball, and I’m very grateful for that. But even walking my dog is an activity I enjoy most of the time.</description>
+    </item>
+    
+    <item>
+      <title>See you at these conferences!</title>
+      <link>/articles/2016-07-20-conferences/</link>
+      <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-07-20-conferences/</guid>
+      <description>I went to just a few conferences this year just yet but plan on going to a few more. Conferences are a good way to connect with people, learn more about your craft or other people&amp;rsquo;s business and get in the mindset of learning and speaking/socializing.
+Brennan Dunn recently tweeted something which struck a nerve with me, and I regretted not going to DYFC in Sweden this year. But I will go to more conferences next year and a few more business conferences as well, and DYFC 2017 is already on my calendar.</description>
+    </item>
+    
+    <item>
+      <title>Three new habits to get better at writing</title>
+      <link>/articles/2016-07-19-habits/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2016-07-19-habits/</guid>
+      <description>I want to start a few habits and it’s tough to find the right ones to start and to maintain.
+Getting into habits is all about consistency and trying to find the balance of too little or too much. But I think publicly committing to something is a good first step to getting really into habits.
+I tried for the last months to get into reading and writing habit. And I must admit both are not doing great.</description>
+    </item>
+    
+    <item>
+      <title>Nokogiri Search Helper</title>
+      <link>/articles/2014-01-31-nokogiri-helper/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/2014-01-31-nokogiri-helper/</guid>
+      <description>I recently used Scraperwiki to scrape some data off a couple of sites.
+During the development process (which I will describe in a coming post) I encountered some repetitive code/task. I then refactored the code and wrote a small class which I then would use for every site.
+Most often you want the first text of the matching selector and the attr of the first element matching.
+You can find the class here: {% gist 8491837%}</description>
+    </item>
+    
+  </channel>
+</rss>

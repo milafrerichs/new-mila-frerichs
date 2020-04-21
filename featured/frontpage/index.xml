@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontpage on Mila Frerichs, Data Visualization consultant for social good</title>
+    <link>/featured/frontpage/</link>
+    <description>Recent content in Frontpage on Mila Frerichs, Data Visualization consultant for social good</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2020 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/featured/frontpage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking at conferences</title>
+      <link>/articles/speaking-at-conferences/</link>
+      <pubDate>Mon, 13 Jan 2020 07:00:00 +0000</pubDate>
+      
+      <guid>/articles/speaking-at-conferences/</guid>
+      <description>I&amp;rsquo;m an introvert. But I love conferences. I love sharing what I know.
+I love being on the stage and talking about what I have learned and what I&amp;rsquo;m passionate about. I am nervous, and I always forget a little bit of what I want to say but I still love it.
+I hate being at conferences on my own but it&amp;rsquo;s the best way to make new connections.</description>
+    </item>
+    
+    <item>
+      <title>Data Viz Audience considerations</title>
+      <link>/articles/audiences/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/audiences/</guid>
+      <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
+    </item>
+    
+    <item>
+      <title>Licenses and formats on data.gov</title>
+      <link>/articles/govdata/</link>
+      <pubDate>Tue, 30 Oct 2018 16:08:58 +0000</pubDate>
+      
+      <guid>/articles/govdata/</guid>
+      <description>While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
+So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.
+A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany.</description>
+    </item>
+    
+  </channel>
+</rss>

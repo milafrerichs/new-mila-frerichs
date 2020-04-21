@@ -1,0 +1,238 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><meta name="google-site-verification" content="muu33Ix4WWGE23IzCYzZCiIlPyGbTNBewVjLjRF6ITA"><link rel="stylesheet" href="/css/styles.css"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><meta name="description" content="Mila Frerichs is a Data Visualization Consultant who helps civic advocacy groups improve the life of citizens with the help of Open Data. He uses the power of public open data and open source to build tools and (geospatial) data visualizations to increase transparency and accountability. He uses his software development skills for social good. "><title>Louisville Bird Data published – Mila Frerichs, Data Visualization consultant for social good</title><script src="https://cdn.jsdelivr.net/npm/d3@5.7.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@4.3.0/build/vega-core.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@2.6.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@3.20.0"></script>
+
+ <script type="text/javascript"> 
+   (function(p, a, n, d, o, b) {
+       o = n.createElement('script'); o.type = 'text/javascript'; o.async = true; o.src = 'https://tag.rightmessage.com/'+p+'.js';
+       b = n.getElementsByTagName('script')[0]; b.parentNode.insertBefore(o, b);
+       d = function(h, u, i) { var o = n.createElement('style'); o.id = 'rmcloak'+i; o.type = 'text/css';
+               o.appendChild(n.createTextNode('.rmcloak'+h+'{visibility:hidden}.rmcloak'+u+'{display:none}'));
+               b.parentNode.insertBefore(o, b); return o; }; o = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');
+       setTimeout(function() { o.parentNode && o.parentNode.removeChild(o); }, a);
+   })('598252326', 2500, document);
+ </script>
+<meta property="og:title" content="Louisville Bird Data published" />
+<meta property="og:description" content="The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
+We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
+This is just a partial analysis since we only have data for one city and only for a limited time frame." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/articles/lousiville-bird/" /><meta property="article:published_time" content="2018-11-01T06:08:58&#43;00:00"/>
+<meta property="article:modified_time" content="2018-11-01T06:08:58&#43;00:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Louisville Bird Data published"/>
+<meta name="twitter:description" content="The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
+We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
+This is just a partial analysis since we only have data for one city and only for a limited time frame."/>
+</head><body><main class="container py-8 lg:py-16 px-6 md:px-16 lg:px-24" role="main"><nav class="font-sans flex flex-wrap justify-start items-center my-4 overflow-hidden"><a class="mr-4" href="/">mf</a><div class="block md:hidden"><button id="menu" class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white"><svg class="fill-current h-3 w-3" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path></svg></button></div><div id="menu-items" class="w-full flex-grow md:flex md:items-center md:w-auto hidden md:block"><div class="text-sm md:flex-grow"><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/me/">About me</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/talks-workshops/">Speaking</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/writing/">Writing</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/now/">Now</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/themes/">Themes</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/data-visualizations/">Data Visualization</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/projects/">Work</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/hire-me/">Hire me!</a></div></div></nav><article><header><h1 class="font-sans text-4xl text-black font-bold mb-4">Louisville Bird Data published</h1></header><div class="font-sans text-lg text-grey-darkest spaced-y-6 leading-normal">
+
+<p>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their <a href="https://data.louisvilleky.gov/dataset/bird-scooter">Open Data Portal</a>. They updated their data three times already, so we should be in for a treat with monthly updates.</p>
+
+<p>We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.</p>
+
+<p>This is just a partial analysis since we only have data for one city and only for a limited time frame. I used the first month of the released data because it appears to be very clean.</p>
+
+<p>First let&rsquo;s look at the time frame the analysis:</p>
+
+<div id="days"></div>
+<script type="text/javascript">
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {"$schema":"https://vega.github.io/schema/vega/v4.json","autosize":{"contains":"padding","type":"fit"},"axes":[{"encode":{"labels":{"update":{"text":{"signal":"scale('xname', datum.value)"}}}},"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":12,"labelFontWeight":"normal","labelPadding":10,"orient":"bottom","scale":"xscale","tickSize":0,"title":"StartTime","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":15,"titleFontWeight":100,"titlePadding":15},{"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":11,"labelFontWeight":"normal","labelOverlap":true,"labelPadding":10,"orient":"left","scale":"yscale","tickSize":3,"title":"count","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":14,"titleFontWeight":100,"titlePadding":20}],"background":"white","data":[{"name":"table","values":[{"bar":"count","group":0,"name":"2018-08-09","y":295},{"bar":"count","group":1,"name":"2018-08-10","y":456},{"bar":"count","group":2,"name":"2018-08-11","y":256},{"bar":"count","group":3,"name":"2018-08-12","y":319},{"bar":"count","group":4,"name":"2018-08-13","y":167},{"bar":"count","group":5,"name":"2018-08-14","y":237},{"bar":"count","group":6,"name":"2018-08-15","y":200},{"bar":"count","group":7,"name":"2018-08-16","y":79},{"bar":"count","group":8,"name":"2018-08-17","y":344},{"bar":"count","group":9,"name":"2018-08-18","y":395},{"bar":"count","group":10,"name":"2018-08-19","y":316},{"bar":"count","group":11,"name":"2018-08-20","y":248},{"bar":"count","group":12,"name":"2018-08-21","y":382},{"bar":"count","group":13,"name":"2018-08-22","y":362},{"bar":"count","group":14,"name":"2018-08-23","y":358},{"bar":"count","group":15,"name":"2018-08-24","y":425},{"bar":"count","group":16,"name":"2018-08-25","y":385},{"bar":"count","group":17,"name":"2018-08-26","y":227},{"bar":"count","group":18,"name":"2018-08-27","y":311},{"bar":"count","group":19,"name":"2018-08-28","y":273},{"bar":"count","group":20,"name":"2018-08-29","y":301},{"bar":"count","group":21,"name":"2018-08-30","y":228},{"bar":"count","group":22,"name":"2018-08-31","y":270},{"bar":"count","group":23,"name":"2018-09-01","y":304},{"bar":"count","group":24,"name":"2018-09-02","y":835},{"bar":"count","group":25,"name":"2018-09-03","y":677},{"bar":"count","group":26,"name":"2018-09-04","y":363},{"bar":"count","group":27,"name":"2018-09-05","y":401},{"bar":"count","group":28,"name":"2018-09-06","y":462}]}],"height":714,"marks":[{"encode":{"enter":{"x":{"field":"group","scale":"xscale"}}},"from":{"facet":{"data":"table","groupby":"group","name":"facet"}},"marks":[{"encode":{"enter":{"fill":{"field":"bar","scale":"color"},"width":{"band":1,"scale":"pos"},"x":{"field":"bar","scale":"pos"},"y":{"field":"y","scale":"yscale"},"y2":{"scale":"yscale","value":0}}},"from":{"data":"facet"},"name":"bars","type":"rect"}],"scales":[{"domain":{"data":"facet","field":"bar"},"name":"pos","range":"width","type":"band"}],"signals":[{"name":"width","update":"bandwidth('xscale')"}],"type":"group"}],"scales":[{"domain":{"data":"table","field":"group"},"name":"xscale","padding":0.15,"range":"width","type":"band"},{"domain":{"data":"table","field":"group"},"name":"xname","range":["2018-08-09","","","","","","","","","","","2018-08-20","","","","","","","","","","2018-08-30","","","","","","","2018-09-06"],"type":"ordinal"},{"domain":{"data":"table","field":"y"},"name":"yscale","nice":true,"range":"height","type":"linear","zero":true},{"domain":{"data":"table","field":"bar"},"name":"color","range":["#769bb0"],"type":"ordinal"}],"title":{"color":"#383838","font":"Nunito Sans, Helvetica, sans-serif","fontSize":20,"fontWeight":"normal","offset":15,"text":""},"width":2162};
+		opt = { mode: "vega-lite", actions: false };
+		var width, clientWidth;
+		
+			width = parseInt("700");
+		
+		clientWidth = document.getElementById('days').clientWidth;
+		if(clientWidth < width) {
+			width = clientWidth;
+		}
+		vizSpec['width'] = width;
+		vizSpec["autosize"] = {
+			"type": "fit",
+			"contains": "padding"
+		};
+		vegaEmbed('#days', vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener('load', viz);
+	}else{
+		window.attachEvent('onload', viz);
+	}
+</script>
+
+
+<p>Some results were expected, or at least I expected them. And there are others that were surprising.</p>
+
+<h3 id="let-s-begin-with-the-surprising-people-drive-far-with-their-scooters">Let’s begin with the surprising: People drive far with their scooters.</h3>
+
+<div id="trip_time"></div>
+<script type="text/javascript">
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {"$schema":"https://vega.github.io/schema/vega-lite/v3.json","data":{"values":[{"bar":"Sum of Group Size","group":0,"name":"\u003c 1","y":7888},{"bar":"Sum of Group Size","group":1,"name":"\u003c 2","y":1790},{"bar":"Sum of Group Size","group":2,"name":"\u003c 3","y":170},{"bar":"Sum of Group Size","group":3,"name":"\u003c 4","y":23},{"bar":"Sum of Group Size","group":4,"name":"\u003c 5","y":5}]},"description":"A simple bar chart with embedded data.","layer":[{"encoding":{"color":{"value":"#769bb0"},"x":{"axis":{"labelAngle":0},"field":"name","sort":{"field":"group"},"title":"trip length in hour","type":"ordinal"},"y":{"axis":{"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":11,"labelFontWeight":"normal","labelPadding":10,"title":"# trips","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":14,"titleFontWeight":100,"titlePadding":20},"field":"y","type":"quantitative"}},"mark":"bar"}],"title":{"color":"#383838","font":"Nunito Sans, Helvetica, sans-serif","fontSize":20,"fontWeight":"normal","offset":15,"text":"Average Trip time"},"width":800};
+		opt = { mode: "vega-lite", actions: false };
+		var width, clientWidth;
+		
+			width = parseInt("700");
+		
+		clientWidth = document.getElementById('trip_time').clientWidth;
+		if(clientWidth < width) {
+			width = clientWidth;
+		}
+		vizSpec['width'] = width;
+		vizSpec["autosize"] = {
+			"type": "fit",
+			"contains": "padding"
+		};
+		vegaEmbed('#trip_time', vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener('load', viz);
+	}else{
+		window.attachEvent('onload', viz);
+	}
+</script>
+
+
+<p>I would not have imagined that people drive a scooter for longer than 3 hours, but they do. I assume that people don&rsquo;t ride for three hours continuously but take breaks now and then and don&rsquo;t lock the scooter. It would be interesting to see if that were all either first rides (which are typically free) or maintenance rides that got falsely flagged as regular rides. But the data does not provide any meaningful insights here.</p>
+
+<div id="distance"></div>
+<script type="text/javascript">
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {"$schema":"https://vega.github.io/schema/vega/v4.json","autosize":{"contains":"padding","type":"fit"},"axes":[{"encode":{"labels":{"update":{"text":{"signal":"scale('xname', datum.value)"}}}},"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":12,"labelFontWeight":"normal","labelPadding":10,"orient":"bottom","scale":"xscale","tickSize":0,"title":"trip distance (rounded)","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":15,"titleFontWeight":100,"titlePadding":15},{"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":11,"labelFontWeight":"normal","labelOverlap":true,"labelPadding":10,"orient":"left","scale":"yscale","tickSize":3,"title":"# trips","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":14,"titleFontWeight":100,"titlePadding":20}],"background":"white","data":[{"name":"table","values":[{"bar":"Group Size","group":0,"name":"1.0","y":4282},{"bar":"Group Size","group":1,"name":"2.0","y":2383},{"bar":"Group Size","group":2,"name":"3.0","y":1203},{"bar":"Group Size","group":3,"name":"4.0","y":700},{"bar":"Group Size","group":4,"name":"5.0","y":483},{"bar":"Group Size","group":5,"name":"6.0","y":259},{"bar":"Group Size","group":6,"name":"7.0","y":197},{"bar":"Group Size","group":7,"name":"8.0","y":102},{"bar":"Group Size","group":8,"name":"9.0","y":84},{"bar":"Group Size","group":9,"name":"10.0","y":51},{"bar":"Group Size","group":10,"name":"11.0","y":33},{"bar":"Group Size","group":11,"name":"12.0","y":12},{"bar":"Group Size","group":12,"name":"13.0","y":14},{"bar":"Group Size","group":13,"name":"14.0","y":6},{"bar":"Group Size","group":14,"name":"15.0","y":9},{"bar":"Group Size","group":15,"name":"16.0","y":2}]}],"height":714,"marks":[{"encode":{"enter":{"x":{"field":"group","scale":"xscale"}}},"from":{"facet":{"data":"table","groupby":"group","name":"facet"}},"marks":[{"encode":{"enter":{"fill":{"field":"bar","scale":"color"},"width":{"band":1,"scale":"pos"},"x":{"field":"bar","scale":"pos"},"y":{"field":"y","scale":"yscale"},"y2":{"scale":"yscale","value":0}}},"from":{"data":"facet"},"name":"bars","type":"rect"}],"scales":[{"domain":{"data":"facet","field":"bar"},"name":"pos","range":"width","type":"band"}],"signals":[{"name":"width","update":"bandwidth('xscale')"}],"type":"group"}],"scales":[{"domain":{"data":"table","field":"group"},"name":"xscale","padding":0.15,"range":"width","type":"band"},{"domain":{"data":"table","field":"group"},"name":"xname","range":["1.0","2.0","3.0","4.0","5.0","6.0","7.0","8.0","9.0","10.0","11.0","12.0","13.0","14.0","15.0","16.0"],"type":"ordinal"},{"domain":{"data":"table","field":"y"},"name":"yscale","nice":true,"range":"height","type":"linear","zero":true},{"domain":{"data":"table","field":"bar"},"name":"color","range":["#769bb0"],"type":"ordinal"}],"title":{"color":"#383838","font":"Nunito Sans, Helvetica, sans-serif","fontSize":20,"fontWeight":"normal","offset":15,"text":"Distance per Trip"},"width":2162};
+		opt = { mode: "vega-lite", actions: false };
+		var width, clientWidth;
+		
+			width = parseInt("700");
+		
+		clientWidth = document.getElementById('distance').clientWidth;
+		if(clientWidth < width) {
+			width = clientWidth;
+		}
+		vizSpec['width'] = width;
+		vizSpec["autosize"] = {
+			"type": "fit",
+			"contains": "padding"
+		};
+		vegaEmbed('#distance', vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener('load', viz);
+	}else{
+		window.attachEvent('onload', viz);
+	}
+</script>
+
+
+<h3 id="another-surprising-maybe-not-so-surprising-thing-is-most-rides-begin-after-lunch-time">Another surprising (maybe not so surprising) thing is most rides begin after lunch-time.</h3>
+
+<p>I suspect that people work in downtowns but don’t live there, and most of the scooters get distributed downtown areas. Therefore they use them to drive to lunch and after work to drive home or to the next transit stop. But they cannot drive from home to work. Or at least that seems to be the case.</p>
+
+<p>But again this dataset is very narrow, only three months of data and only one city.</p>
+
+<div id="time"></div>
+<script type="text/javascript">
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {"$schema":"https://vega.github.io/schema/vega/v4.json","autosize":{"contains":"padding","type":"fit"},"axes":[{"encode":{"labels":{"update":{"text":{"signal":"scale('xname', datum.value)"}}}},"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":12,"labelFontWeight":"normal","labelPadding":10,"orient":"bottom","scale":"xscale","tickSize":0,"title":"start time","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":15,"titleFontWeight":100,"titlePadding":15},{"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":11,"labelFontWeight":"normal","labelOverlap":true,"labelPadding":10,"orient":"left","scale":"yscale","tickSize":3,"title":"Number of trips","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":14,"titleFontWeight":100,"titlePadding":20}],"background":"white","data":[{"name":"table","values":[{"bar":"count","group":0,"name":"04:00","y":2},{"bar":"count","group":1,"name":"05:00","y":11},{"bar":"count","group":2,"name":"06:00","y":34},{"bar":"count","group":3,"name":"07:00","y":99},{"bar":"count","group":4,"name":"08:00","y":204},{"bar":"count","group":5,"name":"09:00","y":289},{"bar":"count","group":6,"name":"10:00","y":393},{"bar":"count","group":7,"name":"11:00","y":773},{"bar":"count","group":8,"name":"12:00","y":925},{"bar":"count","group":9,"name":"13:00","y":996},{"bar":"count","group":10,"name":"14:00","y":929},{"bar":"count","group":11,"name":"15:00","y":943},{"bar":"count","group":12,"name":"16:00","y":986},{"bar":"count","group":13,"name":"17:00","y":942},{"bar":"count","group":14,"name":"18:00","y":912},{"bar":"count","group":15,"name":"19:00","y":796},{"bar":"count","group":16,"name":"20:00","y":638},{"bar":"count","group":17,"name":"21:00","y":4}]}],"height":714,"marks":[{"encode":{"enter":{"x":{"field":"group","scale":"xscale"}}},"from":{"facet":{"data":"table","groupby":"group","name":"facet"}},"marks":[{"encode":{"enter":{"fill":{"field":"group","scale":"color"},"width":{"band":1,"scale":"pos"},"x":{"field":"bar","scale":"pos"},"y":{"field":"y","scale":"yscale"},"y2":{"scale":"yscale","value":0}}},"from":{"data":"facet"},"name":"bars","type":"rect"}],"scales":[{"domain":{"data":"facet","field":"bar"},"name":"pos","range":"width","type":"band"}],"signals":[{"name":"width","update":"bandwidth('xscale')"}],"type":"group"}],"scales":[{"domain":{"data":"table","field":"group"},"name":"xscale","padding":0.15,"range":"width","type":"band"},{"domain":{"data":"table","field":"group"},"name":"xname","range":["04:00","05:00","06:00","07:00","08:00","09:00","10:00","11:00","12:00","13:00","14:00","15:00","16:00","17:00","18:00","19:00","20:00","21:00"],"type":"ordinal"},{"domain":{"data":"table","field":"y"},"name":"yscale","nice":true,"range":"height","type":"linear","zero":true},{"domain":{"data":"table","field":"group"},"name":"color","range":["#769bb0","#769bb0","#769bb0","#769bb0","#769bb0","#769bb0","#769bb0","#769bb0","#e24f4a","#e24f4a","#e24f4a","#e24f4a","#e24f4a","#e24f4a","#e24f4a","#e24f4a","#e24f4a","#e24f4a"],"type":"ordinal"}],"title":{"color":"#383838","font":"Nunito Sans, Helvetica, sans-serif","fontSize":20,"fontWeight":"normal","offset":15,"text":"Bird trips by hour of day"},"width":2162};
+		opt = { mode: "vega-lite", actions: false };
+		var width, clientWidth;
+		
+			width = parseInt("700");
+		
+		clientWidth = document.getElementById('time').clientWidth;
+		if(clientWidth < width) {
+			width = clientWidth;
+		}
+		vizSpec['width'] = width;
+		vizSpec["autosize"] = {
+			"type": "fit",
+			"contains": "padding"
+		};
+		vegaEmbed('#time', vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener('load', viz);
+	}else{
+		window.attachEvent('onload', viz);
+	}
+</script>
+
+
+<h3 id="the-not-so-surprising-result-is-that-most-rides-occur-on-saturdays-weekends">The not so surprising result is that most rides occur on Saturdays (Weekends).</h3>
+
+<p>Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.</p>
+
+<div id="weekday"></div>
+<script type="text/javascript">
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {"$schema":"https://vega.github.io/schema/vega-lite/v3.json","data":{"url":"https://gist.githubusercontent.com/milafrerichs/5cb8610d514ced82aa98c7ddfac585ef/raw/00cf00002e1695b34647f6284ee3649e5180763f/trip_time_weekday.csv"},"description":"A simple bar chart with embedded data.","encoding":{"color":{"field":"weekday","legend":null,"scale":{"domain":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"range":["#769bb0","#769bb0","#769bb0","#769bb0","#769bb0","#e24f4a","#e24f4a"],"type":"ordinal"},"type":"nominal"},"x":{"field":"weekday","sort":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"title":"Weekday","type":"ordinal"},"y":{"field":"count","title":"# trips","type":"quantitative"}},"mark":"bar","width":600};
+		opt = { mode: "vega-lite", actions: false };
+		var width, clientWidth;
+		
+			width = parseInt("700");
+		
+		clientWidth = document.getElementById('weekday').clientWidth;
+		if(clientWidth < width) {
+			width = clientWidth;
+		}
+		vizSpec['width'] = width;
+		vizSpec["autosize"] = {
+			"type": "fit",
+			"contains": "padding"
+		};
+		vegaEmbed('#weekday', vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener('load', viz);
+	}else{
+		window.attachEvent('onload', viz);
+	}
+</script>
+
+
+<p>This was a first exciting dive into the dataset, and I look forward to the release of more data and maybe even more cities releasing their data. Also interesting would be if Lime and other Scooter providers would release their data.</p>
+</div></article></main><footer class="font-sans md:py-8 px-4"><div class="mx-auto container overflow-hidden flex flex-col justify-between text-center"><div class="w-full flex-grow md:flex md:items-center md:w-auto"><div class="text-sm md:flex-grow"><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/me/">About me</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/hire-me/">Hire me!</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/talks-workshops/">Speaking</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/writing/">Writing</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/now/">Now</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/themes/">Themes</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/data-visualizations/">Data Visualization</a><a class="block mt-4 md:inline-block md:mt-0 text-grey-darker hover:text-grey-dark mr-4 no-underline" href="/projects/">Work</a></div></div><ul class="text-grey-dark list-reset font-thin flex text-center justify-center text-2xl py-2 flex-col"><li class="pt-2">☕️🐕❄️☀️</li><li class="pt-2">🥃</li><li class="pt-2">⚾️🏈🏄‍♂️🏊‍♂️🏂🧗‍♀️</li><li class="pt-2">🍣🍔🌮🌯🍕</li><li class="pt-2">🗺🏔🏟✈️🚍🚃</li></ul><div class="text-grey-dark font-thin flex text-center justify-center text-2xl py-2"><a class="items-center text-white hover:text-grey mr-3 no-underline" rel="me" href="https://github.com/milafrerichs"><svg class="w-5" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+</a><a class="items-center text-white hover:text-grey mr-3 no-underline" rel="me" href="https://twitter.com/milafrerichs"><svg class="w-5" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Twitter icon</title><path d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z"/></svg>
+</a><a class="items-center text-white hover:text-grey no-underline" href="https://www.instagram.com/mila_frerichs/"><svg class="w-5" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram icon</title><path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/></svg>
+</a></div><div class="text-xs pt-2 mt-2 text-grey-darker text-center">©2020 Mila Frerichs. All rights reserved.</div><ul class="text-grey-dark list-reset font-thin flex text-left justify-center"><li><a class="inline-block text-xs py-2 px-3 text-grey hover:text-grey-light no-underline" href="/legal/">Impressum</a></li><li><a class="inline-block text-xs py-2 px-3 text-grey hover:text-grey-light no-underline" href="/legal/privacy/">Privacy</a></li></ul></div></footer><script type="text/javascript" src="/js/main.js"></script></body></html>
