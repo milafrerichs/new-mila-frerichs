@@ -6,10 +6,19 @@
     <description>Recent content in Microposts on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2020 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 08:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/microposts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>chilling in the sun</title>
+      <link>/microposts/chilling-april-stay-home/</link>
+      <pubDate>Wed, 22 Apr 2020 08:00:00 +0000</pubDate>
+      
+      <guid>/microposts/chilling-april-stay-home/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Back into online gaming</title>
