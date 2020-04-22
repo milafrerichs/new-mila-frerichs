@@ -8,6 +8,10 @@
         li
           span.block.text-grey-dark.uppercase.font-semibold.text-xs.tracking-wide.mb-2 {{dateFormat "Jan 2, 2006" .Date}}
           a.text-lg.text-black.font-bold.no-underline.hover:underline href="{{ .Permalink }}" {{ .Title }}
+          {{ if .Params.image }}
+            .mt-2
+              img src="https://res.cloudinary.com/civicvision/image/upload/h_200/{{.Params.image}}"
+          {{end}}
           p.text-grey-darkest.text-base.leading-normal
             {{.Summary}}
           {{ if .Truncated }}
