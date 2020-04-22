@@ -17,6 +17,8 @@ footer.font-sans.md:py-8.px-4
         {{ partial "github" "w-5"}}
       a.items-center.text-white.hover:text-grey.mr-3.no-underline rel="me" href="https://twitter.com/milafrerichs"
         {{ partial "twitter" "w-5"}}
+      a.items-center.text-white.hover:text-grey.mr-3.no-underline href="https://micro.blog/milafrerichs/"
+        {{ partial "microblog" "w-5"}}
       a.items-center.text-white.hover:text-grey.no-underline href="https://www.instagram.com/mila_frerichs/"
         {{ partial "instagram-logo" "w-5"}}
     .text-xs.pt-2.mt-2.text-grey-darker.text-center ©2020 Mila Frerichs. All rights reserved.
