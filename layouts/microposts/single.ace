@@ -9,5 +9,13 @@
     .font-sans.text-lg.text-grey-darkest.spaced-y-6.leading-normal
       {{.Content}}
 
+    .mt-16.flex.justify-between
+      {{ with .PrevInSection }}
+        a class="" href="{{.Permalink}}" &laquo; {{.Title}}
+      {{ end }}
+      {{ with .NextInSection }}
+        a class="" href="{{.Permalink}}" &raquo; {{.Title}}
+      {{ end }}
+
 = content footer
   {{ partial "footer" . }}
