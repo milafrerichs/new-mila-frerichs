@@ -28,3 +28,5 @@ fields:
   hidden: true
   label: template
   default: image-micropost
+pages:
+- content/microposts/chilling-april-stay-home.md
