@@ -40,3 +40,4 @@ fields:
   default: image-micropost
 pages:
 - content/microposts/chilling-april-stay-home.md
+- content/microposts/standing-desk-setup.md
