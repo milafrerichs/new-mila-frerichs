@@ -7,11 +7,11 @@ fields:
   config:
     maxSize: 250
   label: image
-- name: caption
+- name: title
   type: text
   config:
     required: false
-  label: caption
+  label: title
 - name: description
   type: textarea
   default: ''
@@ -36,8 +36,8 @@ fields:
   config:
     required: false
   hidden: true
-  label: template
-  default: image-micropost
+  label: layout
+  default: image
 pages:
 - content/microposts/chilling-april-stay-home.md
 - content/microposts/standing-desk-setup.md
