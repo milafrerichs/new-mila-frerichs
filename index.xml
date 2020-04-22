@@ -1,700 +1,1790 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mila Frerichs, Data Visualization consultant for social good</title>
+    <title>Mila Frerichs - milafrerichs.com</title>
     <link>/</link>
-    <description>Recent content on Mila Frerichs, Data Visualization consultant for social good</description>
+    <description>Articles and microposts from milafrerichs.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Apr 2020 08:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+		
+		<item>
+			<title>chilling in the sun</title>
+			<link>/microposts/chilling-april-stay-home/</link>
+			<pubDate>Wed, 22 Apr 2020 08:00:00 +0000</pubDate>
+			
+			<guid>/microposts/chilling-april-stay-home/</guid>
+			<description></description>
+			
+		</item>
     
-    <item>
-      <title>chilling in the sun</title>
-      <link>/microposts/chilling-april-stay-home/</link>
-      <pubDate>Wed, 22 Apr 2020 08:00:00 +0000</pubDate>
-      
-      <guid>/microposts/chilling-april-stay-home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Back into online gaming</title>
-      <link>/microposts/back-into-online-gaming/</link>
-      <pubDate>Tue, 21 Apr 2020 07:00:00 +0000</pubDate>
-      
-      <guid>/microposts/back-into-online-gaming/</guid>
-      <description>I got back into online gaming. The process was slow but got accelerated by the pandemic.
-First, it was with a friend whom I used to play at his place. We just played party games with his new girlfriend.
-Even before the pandemic, we wanted to play more together (because his girlfriend lives in another city). I set up everything, and then the pandemic hit, and now we played a couple of more times.</description>
-    </item>
-    
-    <item>
-      <title> Working on my environment</title>
-      <link>/microposts/working-on-my-environment/</link>
-      <pubDate>Mon, 13 Apr 2020 03:00:00 +0000</pubDate>
-      
-      <guid>/microposts/working-on-my-environment/</guid>
-      <description>It was time to work on my environment again.
-After streamlining the theme for vim across my devices (for some reason I still had solarized dark on my MacBook instead of solarized light), I decided it‘s time to look at other font options.
-After researching a little bit, sitting on it for a few days, trying out a few options, I finally settled on Fira Code
-It has ligatures and I must say, I did not think I would appreciate them as much as I do.</description>
-    </item>
-    
-    <item>
-      <title>Profit first: Status report</title>
-      <link>/microposts/profit-first-april/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/microposts/profit-first-april/</guid>
-      <description>I started implementing profit first at the beginning of the year, after I listened to the Audio book.
-The book got recommended by a bunch of people and I knew I wanted to get better at handling my business finances so I thought I try it out.
-The book was really great and there is so much truth in the way he explains the mindset most entrepreneurs have.
-If you don&amp;rsquo;t look at your balance sheet to make spending decisions you might want to try out this model.</description>
-    </item>
-    
-    <item>
-      <title>Publish more</title>
-      <link>/microposts/publish-more/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/microposts/publish-more/</guid>
-      <description>I want to publish more, but I don&amp;rsquo;t want to have it go out to the void of twitter.
-I found this neat idea from Justin Miller of Micro.blogs/microposts.
-And I will try this out. Short thoughts or ideas that would normally go to twitter or nowhere will live here.</description>
-    </item>
-    
-    <item>
-      <title>Attend &amp; garden your tools</title>
-      <link>/articles/attend-garden-your-tools/</link>
-      <pubDate>Thu, 06 Feb 2020 09:00:00 +0000</pubDate>
-      
-      <guid>/articles/attend-garden-your-tools/</guid>
-      <description>You should always work on your tool belt.
-Improve the tools you’re using.
-I’m using vim and tux and constantly learn new tricks and new shortcuts.
-I have a post-it note with new stuff I want to learn and still need to look up. Once they become second nature, I create a new post-it, and move on to the next shortcuts.
-I also use Alfred and add new workflows where I see fit.</description>
-    </item>
-    
-    <item>
-      <title>Speaking review 2019</title>
-      <link>/articles/speaking-review-2019/</link>
-      <pubDate>Tue, 04 Feb 2020 07:00:00 +0000</pubDate>
-      
-      <guid>/articles/speaking-review-2019/</guid>
-      <description>I love sharing what I know and love to go to conferences. (Read more bout this here). And sharing at a conference or giving a workshop is very satisfying. The feedback you get and the conversation you have afterward are great.
-I wanted to write a quick review of lasts year&amp;rsquo;s conferences.
-I got accepted to speak at the following conferences in 2019
- FOSS4G NA, San Diego GoodTechFest, Chicago NACIS, Tacoma FOSS4G Oceania, Auckland  The three talks that I gave at these conferences were:</description>
-    </item>
-    
-    <item>
-      <title>CSS Trick: Show a fallback</title>
-      <link>/articles/css-trick-show-a-fallback/</link>
-      <pubDate>Mon, 03 Feb 2020 08:00:00 +0000</pubDate>
-      
-      <guid>/articles/css-trick-show-a-fallback/</guid>
-      <description>I was working on the Mapping with d3 site when I thought about an opt-in field with RightMessage (RM).
-When I have an offer for a visitor RM will show something, but when I don&amp;rsquo;t have anything I want to show a fallback that I don&amp;rsquo;t want to create with RM.
-So I thought I can just leave it inside the box that RM would fill with content. But even if they don&amp;rsquo;t have an offer they will overwrite the box.</description>
-    </item>
-    
-    <item>
-      <title>Speaking at conferences</title>
-      <link>/articles/speaking-at-conferences/</link>
-      <pubDate>Mon, 13 Jan 2020 07:00:00 +0000</pubDate>
-      
-      <guid>/articles/speaking-at-conferences/</guid>
-      <description>I&amp;rsquo;m an introvert. But I love conferences. I love sharing what I know.
-I love being on the stage and talking about what I have learned and what I&amp;rsquo;m passionate about. I am nervous, and I always forget a little bit of what I want to say but I still love it.
-I hate being at conferences on my own but it&amp;rsquo;s the best way to make new connections.</description>
-    </item>
-    
-    <item>
-      <title>Working with forestry and hugo</title>
-      <link>/articles/working-with-forestry-and-hugo/</link>
-      <pubDate>Thu, 09 Jan 2020 08:00:00 +0000</pubDate>
-      
-      <guid>/articles/working-with-forestry-and-hugo/</guid>
-      <description>When I decided to start a new blog I thought about which platform I want to use.
-Here is what I wanted from the potential platform
- Static site generator Gh Pages Ability to have an easy way to create posts Have a Frontend for just the posts Ability to write in markdown Not using html directly but use something smaller/smarter (the main reason I used middleman) like HAML Ability to use data files Clean default themes  Both Jekyll and Hugo offered most of the important things.</description>
-    </item>
-    
-    <item>
-      <title>Digital Gardening</title>
-      <link>/articles/digital-gardening/</link>
-      <pubDate>Wed, 08 Jan 2020 08:00:00 +0000</pubDate>
-      
-      <guid>/articles/digital-gardening/</guid>
-      <description>Instead of creating a stream of blog posts, I will transform my personal site and the Mapping with d3 site to a garden that I take care of, maintain, and grow.
-Recently I read a lot of articles on the topic of blogging and how the blogs killed the old internet of curating content. We went from curating our experience on the Web to just push out content. Without caring that much how they all fit together.</description>
-    </item>
-    
-    <item>
-      <title>Habits &amp; Habit Tracking</title>
-      <link>/articles/habits-habit-tracking/</link>
-      <pubDate>Tue, 07 Jan 2020 07:00:00 +0000</pubDate>
-      
-      <guid>/articles/habits-habit-tracking/</guid>
-      <description>After I read Atomic Habits last year I wanted to get better with my habits.
-I made it a 12-week year goal (blog post about that coming as well). And sorta got better at it … But I fell off.
-I attended a workshop of Stefanie Posavec and in her book Observe, Collect, Draw! : A Visual Journal there is a cool way of visualizing your habits.
-I started but eventually fell off the track as well.</description>
-    </item>
-    
-    <item>
-      <title>Books that I read in 2019.</title>
-      <link>/articles/books-that-i-read-in-2019/</link>
-      <pubDate>Mon, 06 Jan 2020 07:00:00 +0000</pubDate>
-      
-      <guid>/articles/books-that-i-read-in-2019/</guid>
-      <description>I wanted to read 15 books last year, and I did not even come close :(
-Although I read more than the year before.
-One of the reasons why I did not read as many books were that I decided not to listen to audiobooks while in the forest with ruby. I wanted to enjoy the silence and solitude of the forest and be in the moment and not distract myself.</description>
-    </item>
-    
-    <item>
-      <title> Categories of Podcasts I listen to</title>
-      <link>/articles/categories-of-podcasts-i-listen-to/</link>
-      <pubDate>Fri, 03 Jan 2020 02:00:00 +0000</pubDate>
-      
-      <guid>/articles/categories-of-podcasts-i-listen-to/</guid>
-      <description>I listen to a lot of podcasts these days and have a huge backlog of episodes I want to listen to.
-I usually do this on car trips. The last time from my drive back from Italy to Berlin. A 12h trip that resulted in a lot of listend listened to episodes :)
-And earlier during my retreat in Washington State driving to and from Mt. Rainier.
-On a daily basis, I listen to podcasts while walking my dog, while driving to the forest and when cleaning :)</description>
-    </item>
-    
-    <item>
-      <title>Twitter diet</title>
-      <link>/articles/twitter-diet/</link>
-      <pubDate>Thu, 02 Jan 2020 07:00:00 +0000</pubDate>
-      
-      <guid>/articles/twitter-diet/</guid>
-      <description>‪I need to reduce the daily amount of tweets I see in my timeline and be more proactive about when I open twitter.‬ I spend too much time on twitter scrolling through my timeline and not reading actively.
-‪I decided to unfollow a bunch of people and putting them into lists.‬
-‪If you&amp;rsquo;re one of them, sorry about that, I still read you but in lists and when I&amp;rsquo;m ready for it‬.</description>
-    </item>
-    
-    <item>
-      <title>Weekday Publishing Challenge</title>
-      <link>/articles/weekday-publishing-challenge/</link>
-      <pubDate>Wed, 01 Jan 2020 04:00:00 +0000</pubDate>
-      
-      <guid>/articles/weekday-publishing-challenge/</guid>
-      <description>I thought a lot about my writing and how I can provide more value to the people who follow me or are interested in my work or even working with me.
-I recently read these couple of articles about blog posts and content on the internet.
- My blog is a digital garden, not a blog How the Blog Broke the Web MORE STUFF OR BETTER STUFF?  I changed my thinking about how I want to arrange my blog content.</description>
-    </item>
-    
-    <item>
-      <title>Just update your packages!</title>
-      <link>/articles/update-your-packages/</link>
-      <pubDate>Thu, 19 Dec 2019 23:00:00 +0000</pubDate>
-      
-      <guid>/articles/update-your-packages/</guid>
-      <description>Sometimes fixing an error in your application is easily fixable by upgrading the package that has that error (if you can pinpoint the package that is responsible. )
-I ran into an error today working on my course platform and I could not figure out the cause of the error.
-After about half an hour of research, I found someone suggesting to update the package and that finally solved the issue.</description>
-    </item>
-    
-    <item>
-      <title>Sabbatical</title>
-      <link>/articles/sabbatical/</link>
-      <pubDate>Sun, 08 Dec 2019 23:00:00 +0000</pubDate>
-      
-      <guid>/articles/sabbatical/</guid>
-      <description>I took a week off last week and did not plan to work and did not schedule anything. I wanted to take a sabbatical as Sean Wes proposed. Every 7th week plan a sabbatical. And I did I put it in my calendar and was determined to not work.
-The last few months were very stressful with a lot of client work, finding new work and working on the preorder of my upcoming online course Geospatial Data Visualization with d3.</description>
-    </item>
-    
-    <item>
-      <title>FOSS4G UK Review</title>
-      <link>/articles/foss4g-uk-review/</link>
-      <pubDate>Tue, 24 Sep 2019 04:00:00 +0200</pubDate>
-      
-      <guid>/articles/foss4g-uk-review/</guid>
-      <description>I had a great time at FOSS4G UK last week. I was not feeling well the week before so it was a good change of pace for me. Get out and enjoy a different city. It always is sad to leave my small family (wife and dog) but I love traveling around the world.
-I was looking forward to Edinburgh, I heard so many goods things about the city and Scotland in general.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/2019-09-01-weekly-notes/</link>
-      <pubDate>Sun, 08 Sep 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/newsletter/2019-09-01-weekly-notes/</guid>
-      <description>Geospatial Development FOSS4G (UK) The global FOSS4G conference ended last Friday and my twitter feed was full of it. Very interesting things, need to watch a few of those videos. I&amp;rsquo;m sad that I missed the global version of the conference this year. But I attended the North American version earlier this year, will attend the UK version later this month and likely head down to New Zealand for the Oceania version.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/weekly-notes-2019-08-25/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/newsletter/weekly-notes-2019-08-25/</guid>
-      <description>Geospatial Development Tool Have you checked out: http://projectionwizard.org yet?
-It is a nice tool to select a good projection for the area of interest.
-And take a look at this tweet ;)
-https://twitter.com/BojanSavric/status/1162788720686145536
-Mercator Another great look into the real size of Mercator. I&amp;rsquo;m still amazed that so many people on the web default to Mercator projections for their projects.
-Here is another interactive version: https://engaging-data.com/country-sizes-mercator/
-Precision and Size in GeoJSON  It&amp;rsquo;s wild how many GeoJSON files are in use with a coordinate precision of 10 or higher — I&amp;rsquo;ve seen file sizes cut in half just by hacking it down to 6 (RFC 7946 recommendation) + removing duplicate coords with zero change in visual correctness</description>
-    </item>
-    
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/weekly-notes-2019-08-11/</link>
-      <pubDate>Sun, 11 Aug 2019 10:00:00 +0200</pubDate>
-      
-      <guid>/newsletter/weekly-notes-2019-08-11/</guid>
-      <description>I had a very busy two weeks but found some very interesting pieces the last week. I especially like the Heat Vulnerability Map from Vienna. And all over the place you see that Earth Observation (satellite) data is used more and more in analysis and data visualization. I love this trend and I love pocking not satellite data myself.
-Geospatial Development Stop Using Zip Codes for Geospatial Analysis Great article by Carto explaining where Zip codes originate, why they&amp;rsquo;re not useful for geospatial analysis and what you should use instead.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/weekly-notes-2019-07-28/</link>
-      <pubDate>Sun, 28 Jul 2019 08:00:00 +0200</pubDate>
-      
-      <guid>/newsletter/weekly-notes-2019-07-28/</guid>
-      <description>Welcome to this new edition of “Weekly Notes”, a weekly newsletter about Maps, Data Visualization, Civic Tech, and Open Data.
-You can find previous issues here.
-Geospatial Development Building Footprint Comparison 
-Fascinating comparison of building footprints from Microsoft and OpenStreetMap.
-I recently used the Microsoft building footprint for my Zoning analysis in San Diego. When I looked for building data I found that the Microsoft dataset was more complete than the Open Street Map data.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/2019-07-21-weekly-notes/</link>
-      <pubDate>Sun, 21 Jul 2019 09:00:00 +0200</pubDate>
-      
-      <guid>/newsletter/2019-07-21-weekly-notes/</guid>
-      <description>Welcome to this new edition of &amp;ldquo;Weekly Notes&amp;rdquo;, a weekly newsletter about Maps, Data Visualization, Civic Tech and Open Data.
-You can find previsous issues here
-There are a lot of great maps and projects in this newsletter. Enjoy!
-Geospatial Development Green Space is Good for Mental Health 
-Thirty years of @NASA_Landsat data helped scientists complete the largest epidemiological study of its kind
- In a sweeping nationwide study, researchers from Denmark’s University of Aarhus found that childhood exposure to green space—parks, forests, rural lands, etc.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/2019-07-14-weekly-notes/</link>
-      <pubDate>Sun, 14 Jul 2019 10:00:00 +0200</pubDate>
-      
-      <guid>/newsletter/2019-07-14-weekly-notes/</guid>
-      <description>Welcome to this new edition of my newsletter. I hope you all had a great week. I certainly had one.
-Tools &amp;amp; Frameworks for Mapping Data After a discussion on twitter and a question I saw in a facebook group about what Tools are out there to create maps, I thought I create a list of all the tools and Frameworks I could find.
-I created a new airtable and integrated it here.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/2019-07-06-weekly-notes/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/newsletter/2019-07-06-weekly-notes/</guid>
-      <description>I love that e-scooters have finally arrived in Berlin. I already used them to get around and shorten my trips. This weekend we had some close friends over, and we used the scooters to show them the city from a different perspective. It&amp;rsquo;s definitely a fun and great way to get around. Although my last work week did not feel that productive, I published two new content items last week.</description>
-    </item>
-    
-    <item>
-      <title>Single family homes in San Diego</title>
-      <link>/articles/sandiego-zoning/</link>
-      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/sandiego-zoning/</guid>
-      <description>Inspired by this article from the New York Times I wanted to create the same map for San Diego. Since the article did not include San Diego, I thought I can do it.
-Residential land zone for detached single-family &amp;nbsp; other housing
+		<item>
+			<title>Back into online gaming</title>
+			<link>/microposts/back-into-online-gaming/</link>
+			<pubDate>Tue, 21 Apr 2020 07:00:00 +0000</pubDate>
+			
+			<guid>/microposts/back-into-online-gaming/</guid>
+			<description>&lt;p&gt;I got back into online gaming. The process was slow but got accelerated by the pandemic.&lt;/p&gt;
 
-As you can see, there are more single-family zones, than other residential areas. I expected that, but there is a lot of space that is not just residential zone.</description>
-    </item>
+&lt;p&gt;First, it was with a friend whom I used to play at his place. We just played party games with his new girlfriend.&lt;br /&gt;
+Even before the pandemic, we wanted to play more together (because his girlfriend lives in another city). I set up everything, and then the pandemic hit, and now we played a couple of more times.&lt;/p&gt;
+
+&lt;p&gt;And now, I even played a strategic game online (&lt;a href=&#34;https://store.steampowered.com/app/466560/Northgard/&#34;&gt;Northgard&lt;/a&gt;) with my cousin.&lt;/p&gt;
+
+&lt;p&gt;And it was a lot of fun. I even missed my usual bedtime because I had so much fun. I went to bed at 12:30 which is way later than usual :)&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/2019-07-01-weekly-notes/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/newsletter/2019-07-01-weekly-notes/</guid>
-      <description>How was your week? Mine was tumultuous. I got my Open Water Diver license, and I look forward to exploring the underwater world. But other than that a lot of stuff was going on.
-What fun have you done the last week? Hit reply and share it with me.
-Geospatial Development Geospatial Data Visualization with d3 Over the last couple of months, I&amp;rsquo;m preparing an online video course on creating maps with d3.</description>
-    </item>
+		<item>
+			<title> Working on my environment</title>
+			<link>/microposts/working-on-my-environment/</link>
+			<pubDate>Mon, 13 Apr 2020 03:00:00 +0000</pubDate>
+			
+			<guid>/microposts/working-on-my-environment/</guid>
+			<description>&lt;p&gt;It was time to work on my environment again.&lt;/p&gt;
+
+&lt;p&gt;After streamlining the theme for vim across my devices (for some reason I still had solarized dark on my MacBook instead of solarized light), I decided it‘s time to look at other font options.&lt;/p&gt;
+
+&lt;p&gt;After researching a little bit, sitting on it for a few days, trying out a few options, I finally settled on &lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;Fira Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It has ligatures and I must say, I did not think I would appreciate them as much as I do.&lt;/p&gt;
+
+&lt;p&gt;You should try it out.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/2019-06-18-weekly-notes/</link>
-      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/newsletter/2019-06-18-weekly-notes/</guid>
-      <description>Last weekend I had another session in the pool on my way of getting the Open Water Diver certificate. This is really fun and I&amp;rsquo;m looking forward exploring the Oceans.
-On the weekend I wanted to create something small. I wanted to create something that I might want to use for my workshops. After trying out if it would work as I would expected and it did, I started looking into javascript frameworks.</description>
-    </item>
+		<item>
+			<title>Profit first: Status report</title>
+			<link>/microposts/profit-first-april/</link>
+			<pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+			
+			<guid>/microposts/profit-first-april/</guid>
+			<description>
+
+&lt;p&gt;I started implementing profit first at the beginning of the year, after I listened to the Audio book.&lt;br /&gt;
+The book got recommended by a bunch of people and I knew I wanted to get better at handling my business finances so I thought I try it out.&lt;/p&gt;
+
+&lt;p&gt;The book was really great and there is so much truth in the way he explains the mindset most entrepreneurs have.&lt;br /&gt;
+If you don&amp;rsquo;t look at your balance sheet to make spending decisions you might want to try out this model.&lt;/p&gt;
+
+&lt;h3 id=&#34;status-report-profit&#34;&gt;Status report: Profit!!&lt;/h3&gt;
+
+&lt;p&gt;I did make profit before in my business but not real profit or how Mike (the author of Profit first) would define it.&lt;br /&gt;
+I used the profit the next year to invest in my business and to use it as runway in tough times.&lt;/p&gt;
+
+&lt;p&gt;But this last quarter I made a real profit: 215€&lt;/p&gt;
+
+&lt;p&gt;I just realized, this is the first time I shared any numbers publicly for my business.&lt;br /&gt;
+50% of this profit is going back into the business but as a rainy day account and 50% is for me to celebrate :)&lt;/p&gt;
+
+&lt;p&gt;I like the new setup of having different accounts and have a separation from Profit, Owners Compensation, Tax and Operating Expenses.&lt;br /&gt;
+I have a much better idea of the financial health of my business and can make spending decisions based on the amount I have in my OpEx account.&lt;/p&gt;
+
+&lt;p&gt;You should try it out yourself!&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Data Viz Audience considerations</title>
-      <link>/articles/audiences/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/audiences/</guid>
-      <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
-    </item>
+		<item>
+			<title>Publish more</title>
+			<link>/microposts/publish-more/</link>
+			<pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+			
+			<guid>/microposts/publish-more/</guid>
+			<description>&lt;p&gt;I want to publish more, but I don&amp;rsquo;t want to have it go out to the void of twitter.&lt;br /&gt;
+I found this neat idea from Justin Miller of Micro.blogs/microposts.&lt;br /&gt;
+And I will try this out. Short thoughts or ideas that would normally go to twitter or nowhere will live here.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>VizRisk Challenge: Audience</title>
-      <link>/articles/vizrisk-challenge-audience/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/vizrisk-challenge-audience/</guid>
-      <description>When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.</description>
-    </item>
+		<item>
+			<title>Attend &amp; garden your tools</title>
+			<link>/articles/attend-garden-your-tools/</link>
+			<pubDate>Thu, 06 Feb 2020 09:00:00 +0000</pubDate>
+			
+			<guid>/articles/attend-garden-your-tools/</guid>
+			<description>&lt;p&gt;You should always work on your tool belt.&lt;/p&gt;
+
+&lt;p&gt;Improve the tools you’re using.&lt;/p&gt;
+
+&lt;p&gt;I’m using vim and tux and constantly learn new tricks and new shortcuts.&lt;/p&gt;
+
+&lt;p&gt;I have a post-it note with new stuff I want to learn and still need to look up. Once they become second nature, I create a new post-it, and move on to the next shortcuts.&lt;/p&gt;
+
+&lt;p&gt;I also use Alfred and add new workflows where I see fit. The last one that I did is a simple calculation for my profit first distribution. I input the money that I received from a client and Alfred shows the distribution into the several accounts.&lt;/p&gt;
+
+&lt;p&gt;Another one is a shortcut for creating shorturls for my &lt;a href=&#34;https://mf.fyi&#34;&gt;https://mf.fyi&lt;/a&gt; domain. When I don‘t add a second parameter it randomly generates a new url and adds it to the clipboard.&lt;/p&gt;
+
+&lt;p&gt;Since I use my iPad more and more, I use the Shortcuts app to create shortcuts on mobile as well.&lt;/p&gt;
+
+&lt;p&gt;For example I have an Alfred and shortcuts workflow to transform a link to Cloudinary to a responsive link.&lt;/p&gt;
+
+&lt;p&gt;I should add them to my dotfiles and definitely update them again.&lt;/p&gt;
+
+&lt;p&gt;What are workflows or shortcuts that you create?&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Weekly Notes</title>
-      <link>/newsletter/2019-06-09-weekly-notes/</link>
-      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/newsletter/2019-06-09-weekly-notes/</guid>
-      <description>Hope you had a great week. I certainly had an entertaining week. A lot of stuff has happened.
-What&amp;rsquo;s new with me
-I started my diving lessons to get my Open Water Diver certificate, so I can dive with my wife on our next family vacation. That should be fun. What fun vacation are you planning next? Just reply and let me know. I&amp;rsquo;m curious, especially if you plan a diving trip.</description>
-    </item>
+		<item>
+			<title>Speaking review 2019</title>
+			<link>/articles/speaking-review-2019/</link>
+			<pubDate>Tue, 04 Feb 2020 07:00:00 +0000</pubDate>
+			
+			<guid>/articles/speaking-review-2019/</guid>
+			<description>&lt;p&gt;I love sharing what I know and love to go to conferences. (Read more bout this here). And sharing at a conference or giving a workshop is very satisfying. The feedback you get and the conversation you have afterward are great.&lt;/p&gt;
+
+&lt;p&gt;I wanted to write a quick review of lasts year&amp;rsquo;s conferences.&lt;/p&gt;
+
+&lt;p&gt;I got accepted to speak at the following conferences in 2019&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://2019.foss4g-na.org/&#34;&gt;FOSS4G NA, San Diego&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.goodtechfest.com/&#34;&gt;GoodTechFest, Chicago&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nacis.org/event/2019-nacis-annual-meeting/&#34;&gt;NACIS, Tacoma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://2019.foss4g-oceania.org/&#34;&gt;FOSS4G Oceania, Auckland&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The three talks that I gave at these conferences were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://civic.vision/f4gnan/&#34;&gt;Rapid and repeatable Geospatial analysis with python and node using notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://civic.vision/gtf19/&#34;&gt;Let‘s talk about maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UfvAc-8reZ8&#34;&gt;Distraction-free online maps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And I gave two workshops at FOSS4G NA and NACIS on &lt;a href=&#34;https://course.mappingwithd3.com&#34;&gt;Geospatial Data Visualization with d3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately I needed to cancel my appearance for FOSS4G Oceania. I had some personal issues to take care of and could not afford to be away for a week and not travel around the world to Auckland.
+I felt bad for needing to cancel both my workshop and my accepted talk.&lt;/p&gt;
+
+&lt;p&gt;Other conferences that I attended but did not speak:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://graphichuntersshow.nl/conference-2019/&#34;&gt;S-H-O-W conference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conferences I want to speak this year, where I will submit to the CfP:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://2020.foss4g.org/&#34;&gt;FOSS4G, Calgary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://2020.europe.foss4g.org/&#34;&gt;FOSS4G EU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://2019.foss4g-oceania.org/&#34;&gt;FOSS4G Oceania&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uk.osgeo.org/&#34;&gt;FOSS4G UK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nacis.org/&#34;&gt;NACIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What conferences are you planning to attend or even speak at?&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Makeover Monday: How Americans Sleep</title>
-      <link>/articles/makeover-monday-how-americans-sleep/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/makeover-monday-how-americans-sleep/</guid>
-      <description>Practicing your skills is essential in every aspect of your life, primarily when you work for yourself. When I coach my softball team, I always work on the basics. We hit a lot, and we field a lot. The same is true for my work, and since I have the fortune to work for myself and make my own schedule, I always like to practice my skills.
-One goal for me for this year is to share more stuff openly and not just work on my skills in private.</description>
-    </item>
+		<item>
+			<title>CSS Trick: Show a fallback</title>
+			<link>/articles/css-trick-show-a-fallback/</link>
+			<pubDate>Mon, 03 Feb 2020 08:00:00 +0000</pubDate>
+			
+			<guid>/articles/css-trick-show-a-fallback/</guid>
+			<description>
+
+&lt;p&gt;I was working on the &lt;a href=&#34;https://mappingwithd3.com&#34;&gt;Mapping with d3&lt;/a&gt; site when I thought about an opt-in field with &lt;a href=&#34;https://rightmessage.com?fp_ref=mil80&#34;&gt;RightMessage&lt;/a&gt; (RM).&lt;br /&gt;
+When I have an offer for a visitor RM will show something, but when I don&amp;rsquo;t have anything I want to show a fallback that I don&amp;rsquo;t want to create with RM.&lt;/p&gt;
+
+&lt;p&gt;So I thought I can just leave it inside the box that RM would fill with content. But even if they don&amp;rsquo;t have an offer they will overwrite the box.&lt;/p&gt;
+
+&lt;p&gt;I could have solved that problem with javascript pretty easily but I want to reduce the amount of javascript I use on my site. So I researched if it would be possible with CSS as well.&lt;/p&gt;
+
+&lt;h2 id=&#34;css-trick-show-a-fallback&#34;&gt;CSS Trick: Show a fallback&lt;/h2&gt;
+
+&lt;p&gt;After some research, I found a combination of the sibling selector and the &lt;code&gt;:empty&lt;/code&gt; pseudo-selector.&lt;/p&gt;
+
+&lt;p&gt;This is what I came up with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.if-this-is-empty:empty ~ .show-fallback {
+  display: block;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If my first element is empty (RM did not add anything) show the fallback which is a sibling of that &lt;code&gt;.if-this-is-empty&lt;/code&gt; element.&lt;/p&gt;
+
+&lt;p&gt;Got the code inspiration from here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://css-tricks.com/solved-with-css-logical-styling-based-on-the-number-of-given-elements/&#34; title=&#34;Solved with CSS! Logical Styling Based on the Number of Given Elements&#34;&gt;Solved with CSS! Logical Styling Based on the Number of Given Elements&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And check out &lt;a href=&#34;https://rightmessage.com?fp_ref=mil80&#34;&gt;RightMessage&lt;/a&gt; it&amp;rsquo;s pretty great!&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>VizRisk Challenge Entry</title>
-      <link>/articles/vizrisk-challenge-entry/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/vizrisk-challenge-entry/</guid>
-      <description>I love playing Softball and I‘m playing for more than 10 years now, it is a great team sport and I love the mix of action, team play and personal challenge getting up 1 vs. 1 against the pitcher. I used to coach the women&amp;rsquo;s team of the town that I studied in and was asked again to coach my team here in Berlin. I love coaching a team sport, strategizing how to approach the game and most important see players improve over time.</description>
-    </item>
+		<item>
+			<title>Speaking at conferences</title>
+			<link>/articles/speaking-at-conferences/</link>
+			<pubDate>Mon, 13 Jan 2020 07:00:00 +0000</pubDate>
+			
+			<guid>/articles/speaking-at-conferences/</guid>
+			<description>
+
+&lt;p&gt;I&amp;rsquo;m an introvert. But I love conferences. I love sharing what I know.&lt;/p&gt;
+
+&lt;p&gt;I love being on the stage and talking about what I have learned and what I&amp;rsquo;m passionate about. I am nervous, and I always forget a little bit of what I want to say but I still love it.&lt;/p&gt;
+
+&lt;p&gt;I hate being at conferences on my own but it&amp;rsquo;s the best way to make new connections.&lt;/p&gt;
+
+&lt;p&gt;I am uncomfortable in the scheduled breaks and have a hard time going up to a group and jumping in on the conversation. I need to get better at it and I will put myself more into those situations.&lt;/p&gt;
+
+&lt;p&gt;I love going to conferences where I know a bunch of people. FOSS4G conference for example. It does not matter where in the world the conference is I always find people that I know and meet new people through the conference.&lt;/p&gt;
+
+&lt;p&gt;**Tip for conference organizers:&lt;br /&gt;
+**&lt;em&gt;Schedule the workshops before the conference talks so new people can meet in a safer environment. Most people tend to talk more at smaller settings and you typically don&amp;rsquo;t have too many people that know each other at the workshops preventing what feels like closed groups.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I love sharing what I know. And sharing at a conference and especially giving a workshop is very satisfying. The feedback you get and the conversation you have afterward are great.&lt;/p&gt;
+
+&lt;p&gt;I cannot encourage everyone enough to try it out.&lt;br /&gt;
+Don&amp;rsquo;t get discouraged by rejections, &lt;strong&gt;everyone gets rejected&lt;/strong&gt;. I know a very good and frequent speaker and his proposals to a big conference get rejected all the time.&lt;/p&gt;
+
+&lt;p&gt;Do you know the Global Diversity CFP day?&lt;br /&gt;
+If not check them out, they offer workshops on how to apply to speak at conferences around the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.globaldiversitycfpday.com&#34;&gt;Check them out&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Last year my proposals got accepted at three conferences and I had to bail out from speaking at FOSS4G Oceania this year. I had too much work to do and too little budget to make the trip this year. But I will apply again next year.&lt;/p&gt;
+
+&lt;h2 id=&#34;speaking-gigs-2019&#34;&gt;Speaking gigs 2019&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;FOSS4G NA, San Diego, April 2019&lt;/li&gt;
+&lt;li&gt;GoodTechFest, Chicago May 2019&lt;/li&gt;
+&lt;li&gt;NACIS, Tacoma, Nov 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I had a great time at all of these conferences and especially at NACIS. It was my first time at NACIS and I should really publish my review :)&lt;/p&gt;
+
+&lt;h2 id=&#34;planned-conferences-2020&#34;&gt;Planned Conferences 2020&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;FOSS4G, Calgary, August 2020&lt;/li&gt;
+&lt;li&gt;FOSS4G Oceania, November 2020&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Child Care Cost: Bay Area</title>
-      <link>/articles/child-care-cost-bay-area/</link>
-      <pubDate>Fri, 05 Apr 2019 18:12:47 +0200</pubDate>
-      
-      <guid>/articles/child-care-cost-bay-area/</guid>
-      <description>I stumbled across this exciting dataset about Childcare cost in the bay area.
-Here is the graphic that I looked at:
-I thought this visualization could be improved to bring the point across more clearly.
-A slope chart would be a great option.
- A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time. The related values are connected by slopes.</description>
-    </item>
+		<item>
+			<title>Working with forestry and hugo</title>
+			<link>/articles/working-with-forestry-and-hugo/</link>
+			<pubDate>Thu, 09 Jan 2020 08:00:00 +0000</pubDate>
+			
+			<guid>/articles/working-with-forestry-and-hugo/</guid>
+			<description>&lt;p&gt;When I decided to start a new blog I thought about which platform I want to use.&lt;/p&gt;
+
+&lt;p&gt;Here is what I wanted from the potential platform&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Static site generator&lt;/li&gt;
+&lt;li&gt;Gh Pages&lt;/li&gt;
+&lt;li&gt;Ability to have an easy way to create posts&lt;/li&gt;
+&lt;li&gt;Have a Frontend for just the posts&lt;/li&gt;
+&lt;li&gt;Ability to write in markdown&lt;/li&gt;
+&lt;li&gt;Not using html directly but use something smaller/smarter (the main reason I used middleman) like HAML&lt;/li&gt;
+&lt;li&gt;Ability to use data files&lt;/li&gt;
+&lt;li&gt;Clean default themes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both Jekyll and Hugo offered most of the important things.&lt;/p&gt;
+
+&lt;p&gt;But I decided to go with Hugo. Why? For one because it is built with go and amazingly fast and I wanted an excuse to dive into go a little bit.&lt;/p&gt;
+
+&lt;p&gt;The second more important reason was it offered a different way of templating. Using Ace which is inspired by slim and is very close to haml what I’ve been using.&lt;/p&gt;
+
+&lt;p&gt;It took some time to set up, but now that it works it’s pretty great. I don’t want to miss it :)&lt;/p&gt;
+
+&lt;p&gt;For the frontend, i decided to go with forestry. And they don’t disappoint. There is an easy way for me to create posts, I can write in markdown via their editor and I can even add data files and more via their interface.&lt;/p&gt;
+
+&lt;p&gt;They built the Hugo site every time I commit to the master branch on github and deploy it to gh-pages. Although not anymore (I switched to netlify, which is another blog post on its own).&lt;/p&gt;
+
+&lt;p&gt;I switched all my sites to now use Hugo and when I create a new site I use Hugo by default.
+The only bummer is that they will discontinue the support for Ace (Slim like templates). And I now need to figure out how I want to approach this.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Blueprint Map App</title>
-      <link>/salzbrunn/</link>
-      <pubDate>Wed, 03 Apr 2019 16:38:02 +0200</pubDate>
-      
-      <guid>/salzbrunn/</guid>
-      <description>Hello John,
-My name is Mila, and I&amp;rsquo;m a Geospatial Consultant, and I would like to learn more about your project.
-From what I can see from the PDF that was shared with me, this project seems similar to one I did back in 2018.
-For an agriculture company, I worked on a team of four developers to create a webapplication for farmers to create their fields and create application maps (where they should apply fertilizer).</description>
-    </item>
+		<item>
+			<title>Digital Gardening</title>
+			<link>/articles/digital-gardening/</link>
+			<pubDate>Wed, 08 Jan 2020 08:00:00 +0000</pubDate>
+			
+			<guid>/articles/digital-gardening/</guid>
+			<description>
+
+&lt;p&gt;Instead of creating a stream of blog posts, I will transform my personal site and the &lt;a href=&#34;https://mappingwithd3.com&#34;&gt;Mapping with d3&lt;/a&gt; site to a garden that I take care of, maintain, and grow.&lt;/p&gt;
+
+&lt;p&gt;Recently I read a lot of articles on the topic of blogging and how the &lt;a href=&#34;https://stackingthebricks.com/how-blogs-broke-the-web/&#34;&gt;blogs killed the old internet &lt;/a&gt;of curating content. We went from curating our experience on the Web to just push out content. Without caring that much how they all fit together.&lt;/p&gt;
+
+&lt;p&gt;I am guilty myself I just published articles and although a few of them are very old, they still are essential and people might be interested in them.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-does-a-garden-look-like&#34;&gt;What does a garden look like?&lt;/h2&gt;
+
+&lt;p&gt;I will take the effort over the next couple of months to show you my most relevant content first and not my latest thoughts.&lt;/p&gt;
+
+&lt;p&gt;I will rearrange my „blog“ from a stream of content sorted by publish date to a curated list of content items that I want you to read. You will be still able to access my content as a stream, and if you subscribe to my email list you will get this stream as well 😀&lt;/p&gt;
+
+&lt;p&gt;I think this will benefit all of us. I&amp;rsquo;m not under pressure to produce the greatest and lengthy content all the time ,and you get the benefit of my important thoughts 😎&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Data Analysis and Visualization Freelancer</title>
-      <link>/appalachia/</link>
-      <pubDate>Wed, 03 Apr 2019 16:38:02 +0200</pubDate>
-      
-      <guid>/appalachia/</guid>
-      <description>Hello 100 days in Appalachia - Team,
-My name is Mila, and I&amp;rsquo;m a Data Visualization and Open Data Consultant, and I would like to help you with my skills.
-I work to do good, that&amp;rsquo;s why I work mostly with nonprofits and foundations like the Open Knowledge Foundation in Germany and Code for America.
-I studied Geoinformatics at the University of Muenster, Germany, which I did not finish with a degree but instead founded my own company.</description>
-    </item>
+		<item>
+			<title>Habits &amp; Habit Tracking</title>
+			<link>/articles/habits-habit-tracking/</link>
+			<pubDate>Tue, 07 Jan 2020 07:00:00 +0000</pubDate>
+			
+			<guid>/articles/habits-habit-tracking/</guid>
+			<description>&lt;p&gt;After I read Atomic Habits last year I wanted to get better with my habits.&lt;/p&gt;
+
+&lt;p&gt;I made it a 12-week year goal (blog post about that coming as well). And sorta got better at it … But I fell off.&lt;/p&gt;
+
+&lt;p&gt;I attended a workshop of Stefanie Posavec and in her book Observe, Collect, Draw! : A Visual Journal there is a cool way of visualizing your habits.&lt;/p&gt;
+
+&lt;p&gt;I started but eventually fell off the track as well.&lt;/p&gt;
+
+&lt;p&gt;So this year I want to get better with my habits (using habit stacking (read Atomic habits). And tracking and visualizing my habits.&lt;/p&gt;
+
+&lt;p&gt;I’m going to pick up Stefanie’s tracking and adding another one that I discovered in this &lt;a href=&#34;https://twitter.com/BrendanHufford/status/1214205273826611200&#34;&gt;thread&lt;/a&gt; that started it again this morning and I funneled my inner Picasso ;)&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I wasn’t going to share this publicly, but I’m fairly certain this will be helpful: &lt;a href=&#34;https://t.co/fMf5dl2w6v&#34;&gt;pic.twitter.com/fMf5dl2w6v&lt;/a&gt;&lt;/p&gt;&amp;mdash; B R E N D A N (@BrendanHufford) &lt;a href=&#34;https://twitter.com/BrendanHufford/status/1214205273826611200?ref_src=twsrc%5Etfw&#34;&gt;January 6, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/habit-tracking.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I built this in GoodNotes on my iPad because I want digital and not physical copies. I&amp;rsquo;m better at drawing on my iPad with support than on real paper and this way I always have a way to track my habits even when I&amp;rsquo;m on the road.&lt;/p&gt;
+
+&lt;p&gt;You should follow &lt;a href=&#34;https://seanwes.com&#34;&gt;Sean&lt;/a&gt; (who created this 5 habit tracker initially) he always puts out great content and has great advice (although he’s taking a year off).&lt;/p&gt;
+
+&lt;p&gt;I also started tracking more of my days and successes in notion thanks to Marie Poulin and it is a great way to keep track of things.&lt;br /&gt;
+As a result, my planning and reviews got much better.&lt;/p&gt;
+
+&lt;p&gt;So the habits that I want to keep or pick up are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;daily writing &lt;em&gt;(keep)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;daily Yoga&lt;/li&gt;
+&lt;li&gt;daily exercise&lt;/li&gt;
+&lt;li&gt;week daily shutdown routine &lt;em&gt;(pick up again)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;startup routine &lt;em&gt;(pick up again)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What Habits are you trying to form and how are you tracking your progress?&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>HOT Data Communications and Visualization Specialist -Tanzania Application</title>
-      <link>/hot-ramani-huria/</link>
-      <pubDate>Wed, 03 Apr 2019 16:38:02 +0200</pubDate>
-      
-      <guid>/hot-ramani-huria/</guid>
-      <description>Habari HOT Team,
-my Name is Mila and I help civic advocacy groups and nonprofits improve the life of citizens with the help of Open Data. I use the power of public open data and open source to build tools and visualization for civic advocacy groups and non-profits to increase transparency and accountability.
-I&amp;rsquo;m applying for the Data Communications and Visualization Specialist contract.
-Motivation I would love to help by using my skills to communicate the success of the Ramani Huria project to the worldbank and the world.</description>
-    </item>
+		<item>
+			<title>Books that I read in 2019.</title>
+			<link>/articles/books-that-i-read-in-2019/</link>
+			<pubDate>Mon, 06 Jan 2020 07:00:00 +0000</pubDate>
+			
+			<guid>/articles/books-that-i-read-in-2019/</guid>
+			<description>
+
+&lt;p&gt;I wanted to read 15 books last year, and I did not even come close :(&lt;/p&gt;
+
+&lt;p&gt;Although I read more than the year before.&lt;/p&gt;
+
+&lt;p&gt;One of the reasons why I did not read as many books were that I decided not to listen to audiobooks while in the forest with ruby. I wanted to enjoy the silence and solitude of the forest and be in the moment and not distract myself.&lt;/p&gt;
+
+&lt;p&gt;That resulted in fewer books read.&lt;/p&gt;
+
+&lt;p&gt;So in 2020, I want to read every day at least one page in the morning. Let‘s see how that goes :)&lt;/p&gt;
+
+&lt;h3 id=&#34;books-i-read&#34;&gt;Books I read&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hyperfocus&lt;/li&gt;
+&lt;li&gt;Deep work&lt;/li&gt;
+&lt;li&gt;The one thing&lt;/li&gt;
+&lt;li&gt;Atomic Habit&lt;/li&gt;
+&lt;li&gt;Flawless Consulting&lt;/li&gt;
+&lt;li&gt;Indistractable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You guessed right that I‘m somewhat obsessed with productivity, deep work and habits last year. And still am, it changed how I approach my day-to-day work.&lt;/p&gt;
+
+&lt;h3 id=&#34;non-business-book&#34;&gt;Non-business book&lt;/h3&gt;
+
+&lt;p&gt;I finished Scorecasting this week, but mostly read it in 2019&lt;/p&gt;
+
+&lt;h3 id=&#34;almost-finished-in-2019&#34;&gt;Almost finished in 2019:&lt;/h3&gt;
+
+&lt;p&gt;- Entrepreneurs guide of getting your sh**  together (90%)&lt;/p&gt;
+
+&lt;p&gt;- Profit First (40%)&lt;/p&gt;
+
+&lt;p&gt;What books did you read in 2019?&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Stamen Cartographer</title>
-      <link>/stamen/</link>
-      <pubDate>Wed, 03 Apr 2019 16:38:02 +0200</pubDate>
-      
-      <guid>/stamen/</guid>
-      <description>Hello Stamen Team,
-My name is Mila, and I&amp;rsquo;m a Data Visualization and Open Data Consultant.
- I studied Geoinformatics at the University of Muenster, Germany, which I did not finish with a degree but instead founded my own company.
-I worked professionally with nonprofits like the Open Knowledge Foundation in Germany and Code for America.
-I also worked on a lot of geospatial projects. I worked with Boundless(Geo) on MapLoom, with Terranodo and Novel-T on a new react-based webclient for GeoNode.</description>
-    </item>
+		<item>
+			<title> Categories of Podcasts I listen to</title>
+			<link>/articles/categories-of-podcasts-i-listen-to/</link>
+			<pubDate>Fri, 03 Jan 2020 02:00:00 +0000</pubDate>
+			
+			<guid>/articles/categories-of-podcasts-i-listen-to/</guid>
+			<description>&lt;p&gt;I listen to a lot of podcasts these days and have a huge backlog of episodes I want to listen to.&lt;/p&gt;
+
+&lt;p&gt;I usually do this on car trips. The last time from my drive back from Italy to Berlin. A 12h trip that resulted in a lot of listend listened to episodes :)&lt;/p&gt;
+
+&lt;p&gt;And earlier during my retreat in Washington State driving to and from Mt. Rainier.&lt;/p&gt;
+
+&lt;p&gt;On a daily basis, I listen to podcasts while walking my dog, while driving to the forest and when cleaning :)&lt;/p&gt;
+
+&lt;p&gt;I have a few categories of podcasts I listen to and I will write a more detailed post later going into these categories.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Founder Podcasts&lt;/li&gt;
+&lt;li&gt;Technical Podcasts&lt;/li&gt;
+&lt;li&gt;Marketing/Consulting Podcasts&lt;/li&gt;
+&lt;li&gt;Political Podcasts&lt;/li&gt;
+&lt;li&gt;San Diego Podcasts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What categories of podcasts do you listen to?&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Work Journal: March 31st</title>
-      <link>/journal/work-journal-march-31/</link>
-      <pubDate>Sun, 31 Mar 2019 11:11:32 +0100</pubDate>
-      
-      <guid>/journal/work-journal-march-31/</guid>
-      <description>I want to share more what I do every day, so I&amp;rsquo;m starting this (weekly) journal after inspiration from Adam Wathan. Love what the guy is doing so I will do something similar.
-Waiting list for my upcoming online-course This week started off very well with the public launch of the waiting list for my upcoming Online Workshop about &amp;ldquo;Geospatial Data Visualization with d3&amp;rdquo;. I&amp;rsquo;m excited about the launch of the waiting list for my first product.</description>
-    </item>
+		<item>
+			<title>Twitter diet</title>
+			<link>/articles/twitter-diet/</link>
+			<pubDate>Thu, 02 Jan 2020 07:00:00 +0000</pubDate>
+			
+			<guid>/articles/twitter-diet/</guid>
+			<description>&lt;p&gt;‪I need to reduce the daily amount of tweets I see in my timeline and be more proactive about when I open twitter.‬ I spend too much time on twitter scrolling through my timeline and not reading actively.&lt;/p&gt;
+
+&lt;p&gt;‪I decided to unfollow a bunch of people and putting them into lists.‬&lt;/p&gt;
+
+&lt;p&gt;‪If you&amp;rsquo;re one of them, sorry about that, I still read you but in lists and when I&amp;rsquo;m ready for it‬.&lt;/p&gt;
+
+&lt;p&gt;Using lists and following less people already led to me to proactively decide which topic I want to read right now. And using the timeline to find new people via retweets.&lt;/p&gt;
+
+&lt;p&gt;Thanks to James Fee for the inspiration. I already had a few lists but his suggestion really made sense :)&lt;/p&gt;
+
+&lt;p&gt;But it is not as straightforward as it could be.&lt;/p&gt;
+
+&lt;p&gt;I would love a way to see all the people I follow that are not yet in a list. Then I could more easily put them in one.&lt;/p&gt;
+
+&lt;p&gt;How are you consuming twitter these days?&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Toronto High Rise Building inspection</title>
-      <link>/articles/toronto-high-rise-building-inspection/</link>
-      <pubDate>Tue, 05 Mar 2019 07:03:27 +0100</pubDate>
-      
-      <guid>/articles/toronto-high-rise-building-inspection/</guid>
-      <description>In Volume 6 of my weekly roundup I highlighted some newly released data from the city of Toronto about Highrisers Building Inspection data. The newspaper that reported about it was not happy about the format that it was available. And I agree it is not very searchable or does not provide too much information.
-But: They use an API to show the data in the table. And it turns out, I can use the API as well.</description>
-    </item>
+		<item>
+			<title>Weekday Publishing Challenge</title>
+			<link>/articles/weekday-publishing-challenge/</link>
+			<pubDate>Wed, 01 Jan 2020 04:00:00 +0000</pubDate>
+			
+			<guid>/articles/weekday-publishing-challenge/</guid>
+			<description>&lt;p&gt;I thought a lot about my writing and how I can provide more value to the people who follow me or are interested in my work or even working with me.&lt;/p&gt;
+
+&lt;p&gt;I recently read these couple of articles about blog posts and content on the internet.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://joelhooks.com/digital-garden&#34;&gt;My blog is a digital garden, not a blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackingthebricks.com/how-blogs-broke-the-web/&#34;&gt;How the Blog Broke the Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justinjackson.ca/more-stuff-or-better-stuff&#34;&gt;MORE STUFF OR BETTER STUFF?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I changed my thinking about how I want to arrange my blog content.&lt;/p&gt;
+
+&lt;p&gt;I will show my best work first and am writing another post about it. (Will update this post with a link soon).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And I want to challenge myself to not only write daily but publish 5 days a week.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, you read that right, 5 days a week. And not only writing every day, which I’ve done the last couple of weeks/months. But &lt;strong&gt;publishing&lt;/strong&gt; every weekday.&lt;/p&gt;
+
+&lt;p&gt;I agree with &lt;a href=&#34;https://twitter.com/Philip_Morgan/status/1207008157144272896&#34;&gt;Philip Morgan&lt;/a&gt; that when you challenge yourself to write and publish more you will get the obvious content out first and then get into the more detailed interesting stuff.&lt;/p&gt;
+
+&lt;p&gt;I think I have a lot to say about d3, (web)mapping, data visualization, javascript testing, Single Page Applications, and politics.&lt;/p&gt;
+
+&lt;p&gt;And I will share it here on my personal page and on twitter.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t want to make it too hard for me so I want to clarify (after talking to my friends &lt;a href=&#34;https://trey.io&#34;&gt;Trey&lt;/a&gt; and &lt;a href=&#34;https://longslowramp.com&#34;&gt;Josh&lt;/a&gt;). I want to publish every weekday. But I don&amp;rsquo;t plan to publish a blog post every day. For me, even an insightful tweet or a picture on Instagram documenting my progress on building my &lt;a href=&#34;https://mappingwithd3.com&#34;&gt;course&lt;/a&gt; will count as daily publishing. I want to create explainer videos on youtube, write interesting content for developers wanting to learn mapping with d3, create examples of (d3) maps and get my knowledge out of my head into your hands.&lt;/p&gt;
+
+&lt;p&gt;I just want to put out as many interesting things to the world as I can.&lt;/p&gt;
+
+&lt;p&gt;Today is Day 1 and this is post one! Great start for me :)&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Louisville Bird Data published</title>
-      <link>/articles/lousiville-bird/</link>
-      <pubDate>Thu, 01 Nov 2018 06:08:58 +0000</pubDate>
-      
-      <guid>/articles/lousiville-bird/</guid>
-      <description>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
-We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
-This is just a partial analysis since we only have data for one city and only for a limited time frame.</description>
-    </item>
+		<item>
+			<title>Just update your packages!</title>
+			<link>/articles/update-your-packages/</link>
+			<pubDate>Thu, 19 Dec 2019 23:00:00 +0000</pubDate>
+			
+			<guid>/articles/update-your-packages/</guid>
+			<description>&lt;p&gt;Sometimes fixing an error in your application is easily fixable by upgrading the package that has that error (if you can pinpoint the package that is responsible. )&lt;/p&gt;
+
+&lt;p&gt;I ran into an error today working on my course platform and I could not figure out the cause of the error.&lt;/p&gt;
+
+&lt;p&gt;After about half an hour of research, I found someone suggesting to update the package and that finally solved the issue. All other solutions did not work for me.&lt;/p&gt;
+
+&lt;p&gt;So remember to always update your packages.&lt;/p&gt;
+
+&lt;p&gt;Granted it was only from 3.4 to 3.6 but still.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Licenses and formats on data.gov</title>
-      <link>/articles/govdata/</link>
-      <pubDate>Tue, 30 Oct 2018 16:08:58 +0000</pubDate>
-      
-      <guid>/articles/govdata/</guid>
-      <description>While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
-So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.
-A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany.</description>
-    </item>
+		<item>
+			<title>Sabbatical</title>
+			<link>/articles/sabbatical/</link>
+			<pubDate>Sun, 08 Dec 2019 23:00:00 +0000</pubDate>
+			
+			<guid>/articles/sabbatical/</guid>
+			<description>&lt;p&gt;I took a week off last week and did not plan to work and did not schedule anything. I wanted to take a sabbatical as &lt;a href=&#34;http://seanwes.com/&#34;&gt;Sean Wes&lt;/a&gt; &lt;a href=&#34;http://sabbatical.blog/&#34;&gt;proposed&lt;/a&gt;. Every &lt;a href=&#34;https://seanwes.com/podcast/378-seventh-week-sabbatical/&#34;&gt;7th week plan a sabbatical&lt;/a&gt;. And I did I put it in my calendar and was determined to not work.&lt;/p&gt;
+
+&lt;p&gt;The last few months were very stressful with a lot of client work, finding new work and working on the preorder of my upcoming online course &lt;a href=&#34;https://mappingwithd3.com&#34;&gt;&lt;strong&gt;Geospatial Data Visualization with d3&lt;/strong&gt;&lt;/a&gt;. As well as a few conferences with talks and workshops. That&amp;rsquo;s why I was looking forward to this week to wind down a little bit.&lt;/p&gt;
+
+&lt;p&gt;I put it in the week where I wanted to take a small vacation with my wife anyway to Turin and it worked out great.&lt;/p&gt;
+
+&lt;p&gt;I did have to schedule two client calls this week but they were short so it did not bother me too much.&lt;/p&gt;
+
+&lt;p&gt;It was really refreshing, we rented a car and made a road trip out of it because we wanted our dog Ruby to come with us.&lt;/p&gt;
+
+&lt;p&gt;Instead of flying we drove for two days from Berlin to Turin (1200km). We made it a two-leg journey just to make it more fun than draining.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/roadtrp-torino/route.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We stopped halfway between our first hotel night and Berlin to take Ruby outside and hiked in the hills of the Saale.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/roadtrp-torino/IMG_6793.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/roadtrp-torino/IMG_6803.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our next stop was in Austria where we stayed for the night in a very small town near the Freeway. The next day we drove to Switzerland and made a stop in the Fürstentum Lichtenstein. This was the first time for us both to visit the small country between Austria and Switzerland. We stopped at the castle in the „capital“ and took a small walk and some breakfast.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/roadtrp-torino/IMG_6824.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After driving through the mountains of Switzerland we stopped in Lugano where there was supposed to be a great view of the mountains and lakes.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the Funicolare (Gondola) was closed so we needed to hike up the mountain (which was actually beneficial to us and Ruby of course). But due to bad weather, we were not able to see anything.&lt;/p&gt;
+
+&lt;p&gt;This picture sums up the day quite nicely :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/roadtrp-torino/IMG_6883.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We arrived in Turin earlier than we had planned so we could relax in our hotel after the two-day drive.&lt;/p&gt;
+
+&lt;p&gt;The next few days we went on daily hikes to the mountains just outside Turin.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/roadtrp-torino/IMG_6939.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was magical, warmer than anticipated and we got so see snow and needed to cut a hike short because we would have needed snowshoes to continue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1575903711/milafrerichs.com/articles/roadtrp-torino/IMG_6993.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was very refreshing and we had some great meals in Torino.&lt;/p&gt;
+
+&lt;p&gt;After a few days we traveled to Bologna to visit my brother for a few days and take a look at his new dog (Holly) :)&lt;/p&gt;
+
+&lt;p&gt;Ruby and Holly became best friends quite fast and we went on a few more great hikes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1575903716/milafrerichs.com/articles/roadtrp-torino/IMG_7059.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After a few days with my brother, we took the two-day trip back to Berlin, where we stopped to visit my aunt near Munich and stayed for the night.&lt;/p&gt;
+
+&lt;p&gt;Overall it was a great trip and I’m very refreshed and motivated to close out the year and work on my course and more client work.&lt;/p&gt;
+
+&lt;p&gt;I have scheduled my next Sabbatical week in 7 weeks :)&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Five podcasts that changed how I run my business</title>
-      <link>/articles/2016-08-02-five-podcastss/</link>
-      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-08-02-five-podcastss/</guid>
-      <description>I listen to podcasts for a while now. I started with technical podcasts like Giant Robots Smashing Into Other Giant Robots, Ruby Rogues, Core Intuition and more. I think I have an easier time listening to something than to read a blog post. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.
-Since starting my own business in 2014, I listen to more and more business and freelance related podcasts.</description>
-    </item>
+		<item>
+			<title>FOSS4G UK Review</title>
+			<link>/articles/foss4g-uk-review/</link>
+			<pubDate>Tue, 24 Sep 2019 04:00:00 +0200</pubDate>
+			
+			<guid>/articles/foss4g-uk-review/</guid>
+			<description>
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/AF6327DF-1615-487D-B969-AD5D3F925BBF.jpg&#34; alt=&#34;me giving a talk&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a great time at &lt;a href=&#34;https://uk.osgeo.org/foss4guk2019/&#34;&gt;FOSS4G UK&lt;/a&gt; last week. I was not feeling well the week before so it was a good change of pace for me.
+Get out and enjoy a different city. It always is sad to leave my small family (wife and dog) but I love traveling around the world.&lt;/p&gt;
+
+&lt;p&gt;I was looking forward to Edinburgh, I heard so many goods things about the city and Scotland in general. I knew it would be a short trip because I was needed at home, so I tried to get to know the city a little bit for the next trip we‘re making there.&lt;/p&gt;
+
+&lt;p&gt;The city is beautiful. It‘s always nice to see old buildings that survived a long time and the feeling of an old European city is unmatched.
+Due to me not feeling too well, I did not attend the ice breaker nor the party. But I went to a pub myself to enjoy some whiskey and some Scottish food.&lt;/p&gt;
+
+&lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/32EA6E83-A02D-4B63-B492-77128D14E2B5.jpg&#34; alt=&#34;&#34; /&gt;
+The venue was great. Interesting setup of the rooms and a nice change of pace to get out to enjoy the sun and the beautiful view of the hill in front of the venue.
+The food was good, a nice mixture of warm and cold food but sometimes it felt it could have been more.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://mappingwithd3.com&#34;&gt;workshop&lt;/a&gt; went great, although it was only an hour. I used my new platform that I created for my online course and these workshops. And I think it worked quite well. I had a full room of about 15 people I would say.&lt;/p&gt;
+
+&lt;p&gt;My talk got a good reception. I changed it a lot compared to the version that I presented at FOSS4G NA. So, even if you saw it in San Diego, it might be worth checking out.&lt;/p&gt;
+
+&lt;h2 id=&#34;interesting-talks&#34;&gt;Interesting talks:&lt;/h2&gt;
+
+&lt;p&gt;GeoSeer is a nice project helping you to find OGC Webservices like WMS and WFS.
+&lt;a href=&#34;https://www.geoseer.net&#34;&gt;https://www.geoseer.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A Lightning talk showed a nice project from the University of Twente (Netherlands). It uses vegalite to create maps from &amp;hellip;
+It is a great tool to explore different ways to map the same data and learn about what works and what does not.
+I would love to see some more explanation involved why this way of mapping the data might not work well. But it‘s a great start and uses vegalite to make it easy.
+&lt;a href=&#34;https://kartoweb.itc.nl/TMT/&#34;&gt;https://kartoweb.itc.nl/TMT/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There was a lot of talk about R (Shiny) in and between the sessions.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the conference very much and will definitely try to be back for the next iteration.&lt;/p&gt;
+
+&lt;p&gt;It was only a short trip because I was needed home. So I did not stay for additional days. I will definitely be back and explore the city more and the surrounding area. Need to go to Islay :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/69AA7A8E-ADD6-475E-94E6-D2FAC2BFEB49.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/F93C1BC1-3BD1-4B00-B1A6-12B1E9228DB1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/9A2F3949-D60A-4E38-AE12-7B2358536056.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/69C8CF08-D9DF-468C-8DE5-7854B0C02755.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Two-year anniversary</title>
-      <link>/articles/2016-08-01-two-years/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-08-01-two-years/</guid>
-      <description>Wow, I can’t believe it! It’s been two years already. I did it! :)
-Today I’m in business for two years with my company Civic Vision. I founded the company on Aug. 2014 and am happy to report that we’re still operating and growing every year.
-Our revenue grew every year and our profit as well.
-I had the opportunity to work with awesome companies and organizations such as Code for America, Open Knowledge Foundation Germany, Worldbank, 18f, Terranodo.</description>
-    </item>
+		<item>
+			<title>Single family homes in San Diego</title>
+			<link>/articles/sandiego-zoning/</link>
+			<pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/sandiego-zoning/</guid>
+			<description>
+
+&lt;p&gt;Inspired by &lt;a href=&#34;https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html&#34;&gt;this article&lt;/a&gt; from the New York Times I wanted to create the same map for San Diego. Since the article did not include San Diego, I thought I can do it.&lt;/p&gt;
+
+&lt;p&gt;Residential land zone for &lt;svg width=&#34;25&#34; height=&#34;20&#34;&gt;&lt;rect y=&#34;2&#34; width=&#34;18&#34; height=&#34;18&#34; fill=&#34;#EA60B9&#34; /&gt;&lt;/svg&gt;detached single-family &amp;nbsp; &lt;svg width=&#34;25&#34; height=&#34;20&#34;&gt;&lt;rect y=&#34;2&#34; width=&#34;18&#34; height=&#34;18&#34; fill=&#34;#4CAFC5&#34; /&gt;&lt;/svg&gt;other housing&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://res.cloudinary.com/civicvision/image/upload/v1562310637/milafrerichs.com/articles/building-zoning-san-diego-high-res.jpg&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/building-zoning-san-diego-high-res.png&#34; alt=&#34;Zoning San Diego&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, there are more single-family zones, than other residential areas. I expected that, but there is a lot of space that is not just residential zone. It&amp;rsquo;s mostly either Agriculture-Residential (AR) or Industrial&amp;ndash;Light (IL). I don‘t know too much about the reasons for these zones in San Diego but it‘s fascinating.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s take a look at a few other residential zones.&lt;/p&gt;
+
+&lt;h2 id=&#34;downtown-north-park&#34;&gt;Downtown &amp;amp; North Park&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://res.cloudinary.com/civicvision/image/upload/v1562313554/milafrerichs.com/articles/downtown_sd.png&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/downtown_sd.png&#34; alt=&#34;Zoning San Diego - Downtown and North Park&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As I would have expected, Downtown, Little Italy, East Village and central North Park all are not zones for single family homes. Which you can see in the way these neighborhoods are built.&lt;/p&gt;
+
+&lt;h2 id=&#34;ocean-beach&#34;&gt;Ocean Beach&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://res.cloudinary.com/civicvision/image/upload/v1562313554/milafrerichs.com/articles/ocena_beach.png&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/ocena_beach.png&#34; alt=&#34;Zoning San Diego - Ocean Beach&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ocean Beach kinda surprised me, I knew that central OB is multi-family zone but the rest I was not aware off.&lt;/p&gt;
+
+&lt;h2 id=&#34;pacific-beach&#34;&gt;Pacific Beach&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://res.cloudinary.com/civicvision/image/upload/v1562313554/milafrerichs.com/articles/pacific_beach.png&#34;&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_auto,dpr_auto,c_limit/milafrerichs.com/articles/pacific_beach.png&#34; alt=&#34;Zoning San Diego - Pacific Beach&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Not as surprising as OB but still the amount is a little surprising to me.&lt;/p&gt;
+
+&lt;p&gt;I made an &lt;a href=&#34;https://civic.vision/sandiego-zoning-viz&#34;&gt;interactive version&lt;/a&gt; of this as well. You can check it out here, but be aware it is relatively slow due to the amount of buildings. Might update it if there is interest in it.&lt;/p&gt;
+
+&lt;h1 id=&#34;methodology&#34;&gt;Methodology&lt;/h1&gt;
+
+&lt;p&gt;I used &lt;a href=&#34;https://data.sandiego.gov/datasets/zoning/&#34;&gt;open zoning data&lt;/a&gt; from the City of San Diego, used the zoning information from the &lt;a href=&#34;https://www.sandiego.gov/city-clerk/officialdocs/municipal-code/chapter-13&#34;&gt;Municipal Code&lt;/a&gt; and building data from &lt;a href=&#34;https://github.com/Microsoft/USBuildingFootprints/&#34;&gt;Microsoft&lt;/a&gt;.&lt;br /&gt;
+I matched those buildings up with the zone they’re in and colored according to the code.
+Everything that starts with RS is &lt;svg width=&#34;15&#34; height=&#34;15&#34;&gt;&lt;rect width=&#34;15&#34; height=&#34;15&#34; fill=&#34;#EA60B9&#34;&gt;&lt;/svg&gt; and is labeled in the municipal code as &lt;strong&gt;Residential&amp;ndash;Single Unit&lt;/strong&gt;.&lt;br /&gt;
+And every other Rx is &lt;svg width=&#34;15&#34; height=&#34;15&#34;&gt;&lt;rect width=&#34;15&#34; height=&#34;15&#34; fill=&#34;#4CAFC5&#34;&gt;&lt;/svg&gt; for all other residential zones.&lt;/p&gt;
+
+&lt;p&gt;I will publish another article about the technical implementation soon.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Podcasts I listen to regularly</title>
-      <link>/articles/2016-07-28-podcasts/</link>
-      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-07-28-podcasts/</guid>
-      <description>I listen to podcast for a while now. I started with technical podcast like giant robots smashing into other giant robots, ruby rogues, nsbrief, etc. I love listen to podcasts even about technical stuff. I think I have an easier time listening to something than to read a blogpost. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.</description>
-    </item>
+		<item>
+			<title>Data Viz Audience considerations</title>
+			<link>/articles/audiences/</link>
+			<pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/audiences/</guid>
+			<description>
+
+&lt;p&gt;When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.&lt;/p&gt;
+
+&lt;p&gt;The same is true if you create a visualization. You need to think about who the audience of your visualization is. The first Step, when I’m tasks to create a visualization is to think about or ask the customer who the target audience for that visualization is.&lt;/p&gt;
+
+&lt;h2 id=&#34;choosing-an-audience-will-help-you-keep-on-track&#34;&gt;Choosing an audience will help you keep on track&lt;/h2&gt;
+
+&lt;p&gt;Choosing an audience will inform the questions you ask your data and the questions you try to answer in your exploratory analysis. It will help you keep on track and evaluate your findings.&lt;/p&gt;
+
+&lt;p&gt;When you get stuck, knowing who your audience is and maybe even evaluate or change your question to ask the data helps you.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Much of visualization design is about figuring out the audience (Nathan Yau)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You will most definitely refine your audience once you&amp;rsquo;re in the exploratory analysis stage.&lt;/p&gt;
+
+&lt;p&gt;The more you know about your audience, the easier it is to design visualizations for it.&lt;/p&gt;
+
+&lt;h2 id=&#34;you-want-to-relate-back-to-your-audience-when-you-analyze-the-data-for-the-first-time&#34;&gt;You want to relate back to your audience when you analyze the data for the first time.&lt;/h2&gt;
+
+&lt;p&gt;While doing the exploratory analysis, you want to relate back to your audience and think about the questions they might have for the data. I formulated a few already, so here is my first initial list of questions I want to ask the data.&lt;/p&gt;
+
+&lt;h2 id=&#34;next-steps-is-to-find-more-data&#34;&gt;Next Steps is to find more data&lt;/h2&gt;
+
+&lt;p&gt;The next step after I have my audience and already a few starting questions are to evaluate if I have enough data already or if I need to look for additional datasets I can use to answer these questions.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Inbox Zero</title>
-      <link>/articles/2016-07-27-inbox-zero/</link>
-      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-07-27-inbox-zero/</guid>
-      <description>I&amp;rsquo;m happy to be able to say: I&amp;rsquo;m back at Inbox Zero
-After my last trip staying at a friends place for a week, my emails started to pile up, and my filters were not any good anymore.
-So I used the last two days to clean up my inbox and add more and better filters to my inboxes.
-I started with my personal account because it&amp;rsquo;s easier to clean up.</description>
-    </item>
+		<item>
+			<title>VizRisk Challenge: Audience</title>
+			<link>/articles/vizrisk-challenge-audience/</link>
+			<pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/vizrisk-challenge-audience/</guid>
+			<description>
+
+&lt;p&gt;When I prepare a conference talk or a workshop, I am tailoring my talk or workshop to the expected audience. For example, I will add details about the country or city the conference is in. Adding pictures of the town, or in case of my workshops use data from that city to use as examples or exercises for the participants. Thinking about who is in the audience helps them to relate more to my talk/workshop and hopefully pay closer attention.&lt;/p&gt;
+
+&lt;p&gt;The same is true if you create a visualization. You need to think about who the audience of your visualization is. The first Step, when I’m tasks to create a visualization is to think about or ask the customer who the target audience for that visualization is.&lt;/p&gt;
+
+&lt;h2 id=&#34;choosing-an-audience-will-help-you-keep-on-track&#34;&gt;Choosing an audience will help you keep on track&lt;/h2&gt;
+
+&lt;p&gt;Choosing an audience will inform the questions you ask your data and the questions you try to answer in your exploratory analysis. It will help you keep on track and evaluate your findings.&lt;/p&gt;
+
+&lt;p&gt;When you get stuck, knowing who your audience is and maybe even evaluate or change your question to ask the data helps you.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Much of visualization design is about figuring out the audience (Nathan Yau)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You will most definitely refine your audience once you&amp;rsquo;re in the exploratory analysis stage.&lt;/p&gt;
+
+&lt;p&gt;The more you know about your audience, the easier it is to design visualizations for it.&lt;/p&gt;
+
+&lt;h2 id=&#34;monrovia-city-corporation-mcc-is-my-target-audience-for-vizrisk&#34;&gt;Monrovia City Corporation (MCC) is my target audience for VizRisk&lt;/h2&gt;
+
+&lt;p&gt;For the VizRisk challenge, I choose Monrovia City Corporation (MCC) officials that want to improve the flood risk if their governing body. During my research, I found that Monrovia does not have an organized district administration; it is harder to find responsible governance bodies.&lt;/p&gt;
+
+&lt;p&gt;The research for the government structure of Monrovia and Liberia turned out to be a lot more complicated than I have imagined.&lt;br /&gt;
+Monrovia is a district of the Montserrado County and only the county has a defined government as seen below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1560339536/milafrerichs.com/articles/monteserrando-county-structure.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are a few links about Monrovia and the structure that I could find:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.emansion.gov.lr/doc/MontserradoCDA.pdf&#34; title=&#34;https://www.emansion.gov.lr/doc/MontserradoCDA.pdf&#34;&gt;https://www.emansion.gov.lr/doc/MontserradoCDA.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Monrovia#cite_note-Development-20&#34; title=&#34;https://en.wikipedia.org/wiki/Monrovia#cite_note-Development-20&#34;&gt;https://en.wikipedia.org/wiki/Monrovia#cite_note-Development-20&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.eeas.europa.eu/archives/delegations/liberia/documents/projects/10edf_en.pdf&#34; title=&#34;http://www.eeas.europa.eu/archives/delegations/liberia/documents/projects/10edf_en.pdf&#34;&gt;http://www.eeas.europa.eu/archives/delegations/liberia/documents/projects/10edf_en.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I need to validate my assumptions here with the GFDRR team.&lt;/p&gt;
+
+&lt;p&gt;They probably want to know what areas are at the highest risk, where do they need to focus on in the short-term and in the long-term. What (government) facilities are at risk.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Greater Monrovia is divided into 16 &amp;ldquo;zones&amp;rdquo;. Like clans, these zones are subdivided into 161 &amp;ldquo;communities&amp;rdquo;. Greater Monrovia does not have an organized district administration like other districts, with all lower-level local authorities being directly supervised by the Montserrado County Superintendent.&lt;/p&gt;
+
+&lt;p&gt;Municipally, Greater Monrovia District is subdivided into two city corporations and ten other local authorities (nine townships and one borough). Established by law in 1973 and operational since 1976, the Monrovia City Corporation (MCC) is responsible for the city&amp;rsquo;s administration. The MCC also provides services to the townships and borough through a revenue-sharing arrangement, but has no zoning or enforcement jurisdiction in them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I like to ask and answer a few questions about the audience, and the answers to these questions will inform my design and research along the way.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-much-time-does-a-local-government-official-have&#34;&gt;How Much Time Does a local government official have?&lt;/h3&gt;
+
+&lt;p&gt;Like most government officials, they&amp;rsquo;re short on time, and the result needs to communicate clearly. Showing big numbers, explaining graphs, highlighting essential areas, do not show too much detail, minimize the interactivity. These should all help reduce the time spent and still get the most insights.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-monrovia-s-government-official-data-visualization-familiarity-level&#34;&gt;What’s Monrovia&amp;rsquo;s government official Data Visualization Familiarity Level?&lt;/h3&gt;
+
+&lt;p&gt;I don&amp;rsquo;t know yet, but probably not that high. That&amp;rsquo;s why we need to show simple graphs/maps, don&amp;rsquo;t get too fancy, use fewer animations, highlight critical components.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-the-familiarity-level-with-flood-maps&#34;&gt;What’s the familiarity level with flood maps?&lt;/h3&gt;
+
+&lt;p&gt;I don&amp;rsquo;t know yet. I don&amp;rsquo;t know the audience well enough. I need to either research more, ask the VizRisk challenge team (going to do it :) ) or talk to the audience.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-will-the-charts-add-value-for-a-government-official&#34;&gt;How will the charts add value for a government official?&lt;/h3&gt;
+
+&lt;p&gt;Charts can help government officials make more informed decisions about where to focus their effort on flood prevention and risk assessment. If I can design these charts to be easy to read and understand, I can help them make better decisions.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-response-do-i-want-to-invoke-through-the-visualization&#34;&gt;What response do I want to invoke through the visualization?&lt;/h3&gt;
+
+&lt;p&gt;I want to help them identify specific areas to focus their attention in the short term, but give them guidance for the long-term as well. This is still fuzzy and will be refined once I start digging deeper into the data.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-challenges-do-government-officials-in-monrovia-face-when-it-comes-to-floods-and-what-roadblocks-prevent-them-from-overcoming-those-challenges&#34;&gt;What challenges do government officials in Monrovia face when it comes to floods and what roadblocks prevent them from overcoming those challenges?&lt;/h3&gt;
+
+&lt;p&gt;The answer to these questions is essential but still unknown to me. I will do more research and update the answer.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-do-i-choose-this-audience&#34;&gt;Why do I choose this audience?&lt;/h2&gt;
+
+&lt;p&gt;I think that the highest impact can be achieved targeting government officials to help them understand which areas and therefore which population is at the highest risk and where they can make the most impact with decisions they make.&lt;/p&gt;
+
+&lt;p&gt;I want to help them identify specific areas to focus their attention in the short term, but give them guidance for the long-term as well.&lt;/p&gt;
+
+&lt;h2 id=&#34;you-want-to-relate-back-to-your-audience-when-you-analyze-the-data-for-the-first-time&#34;&gt;You want to relate back to your audience when you analyze the data for the first time.&lt;/h2&gt;
+
+&lt;p&gt;While doing the exploratory analysis, you want to relate back to your audience and think about the questions they might have for the data. I formulated a few already, so here is my first initial list of questions I want to ask the data.&lt;/p&gt;
+
+&lt;h2 id=&#34;next-steps-is-to-find-more-data&#34;&gt;Next Steps is to find more data&lt;/h2&gt;
+
+&lt;p&gt;The next step after I have my audience and already a few starting questions are to evaluate if I have enough data already or if I need to look for additional datasets I can use to answer these questions.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Help families in need: MapSwipe</title>
-      <link>/articles/2016-07-26-mapswipe/</link>
-      <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-07-26-mapswipe/</guid>
-      <description>A new app launched a little more than a week ago called MapSwipe. And it is great; I try to use it every day.
-You help families with mapping certain areas of the world. But it is mapping you can do without a geospatial background.
-What’s the purpose  With every swipe and tap, you help put families on the map
- That’s how they describe their app. And it is that simple.</description>
-    </item>
+		<item>
+			<title>Makeover Monday: How Americans Sleep</title>
+			<link>/articles/makeover-monday-how-americans-sleep/</link>
+			<pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/makeover-monday-how-americans-sleep/</guid>
+			<description>&lt;p&gt;Practicing your skills is essential in every aspect of your life, primarily when you work for yourself. When I coach my softball team, I always work on the basics. We hit a lot, and we field a lot. The same is true for my work, and since I have the fortune to work for myself and make my own schedule, I always like to practice my skills.&lt;/p&gt;
+
+&lt;p&gt;One goal for me for this year is to share more stuff openly and not just work on my skills in private. That’s why I will participate more in challenges and share my results on my blog and twitter.&lt;/p&gt;
+
+&lt;p&gt;I already &lt;a href=&#34;/articles/vizrisk-challenge-entry/&#34;&gt;posted&lt;/a&gt; about my motivation to participate in the VizRisk Challenge from GFDRR and mapbox. Another skill practicing task that I want to do, if time permits, is to start participating in MakeoverMonday. You can read more about it &lt;a href=&#34;http://makeovermonday.co.uk/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This weeks visualization is from the &lt;a href=&#34;https://www.bls.gov/tus/charts/sleep.htm&#34;&gt;Bureau of Labor Statistics&lt;/a&gt;, and the questions ask by MakeoverMonday were:&lt;/p&gt;
+
+&lt;p&gt;What works and what doesn&amp;rsquo;t work with this chart? How can you make it better?.&lt;/p&gt;
+
+&lt;p&gt;I looked at the chart and the dataset and wanted to make a minimal improvement to the chart. A lot of folks create complete new dashboards and visualizations, but I like small improvements when possible. Improving the chart in small increments shows you that you don’t need a complete redo To confirm that you can enhance a chart with just a few things.&lt;/p&gt;
+
+&lt;p&gt;I use Vega as my tool of choice this time, just to practice my Vega skills.&lt;/p&gt;
+
+&lt;p&gt;First thing I changed is the title. The description of the chart already had something that could be used as the title. It’s the result of the chart: “Individuals ages 15 to 19 spent more time sleeping than any other age group.”&lt;/p&gt;
+
+&lt;p&gt;The next thing was to remove the gradients, flip the chart so that the age ranges are more readable.&lt;/p&gt;
+
+&lt;p&gt;Start the baseline at 0. Otherwise, you skew the results. You can read more about it &lt;a href=&#34;https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And the thing that is the most crucial aspect is to highlight the bars that I want people to focus on.&lt;/p&gt;
+
+&lt;p&gt;The result is much easier to read and understand and probably more memorable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1559901980/milafrerichs.com/articles/sleep-times-america.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find the code &lt;a href=&#34;https://observablehq.com/@milafrerichs/makeover-monday&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Progress Update: Civic Tech Project</title>
-      <link>/articles/2016-07-25-drinking-water/</link>
-      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-07-25-drinking-water/</guid>
-      <description>Last week I decided I should do something with the newly released Open Data Portal of the City of San Diego. And I thought about Data Sets where I could reuse/redeploy apps from other cities. There are 44 datasets in the current portal, and I wanted to use something that could be done relatively quickly but still would be an improvement.
-Finding the right dataset After looking through several datasets and trying to find apps that I could easily reuse and redeploy I found the „Monitoring of select chemical parameters in drinking water“ dataset and I remembered an app from Code for Heilbronn, Germany about drinking water quality.</description>
-    </item>
+		<item>
+			<title>VizRisk Challenge Entry</title>
+			<link>/articles/vizrisk-challenge-entry/</link>
+			<pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/vizrisk-challenge-entry/</guid>
+			<description>
+
+&lt;p&gt;I love playing Softball and I‘m playing for more than 10 years now, it is a great team sport and I love the mix of action, team play and personal challenge getting up 1 vs. 1 against the pitcher. I used to coach the women&amp;rsquo;s team of the town that I studied in and was asked again to coach my team here in Berlin. I love coaching a team sport, strategizing how to approach the game and most important see players improve over time.
+Practice makes perfect and I love to practice and challenging myself to get better at something and to challenge the other players to get better and teach them what I learned over the years.&lt;/p&gt;
+
+&lt;p&gt;This is one of the reasons why I want to challenge myself and will enter the &lt;em&gt;Viz Risk&lt;/em&gt; challenge from the Understanding Risk (UR) Community and GFDRR in partnership with Mapbox and the Data Visualization Society.&lt;/p&gt;
+
+&lt;p&gt;Details can be found &lt;a href=&#34;https://understandrisk.org/vizrisk/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-practice-makes-perfect&#34;&gt;Why? Practice makes perfect. :)&lt;/h2&gt;
+
+&lt;p&gt;I always wanted to enter a visualization challenge and this seems to be a perfect time and the right mix of Partners and datasets.&lt;/p&gt;
+
+&lt;p&gt;Practicing my skills is an important part of working for yourself. I do it regularly, but I do not often share my results and my process in the public. I should be doing more of it and this is one of many efforts that I will be doing in the next couple of months.&lt;/p&gt;
+
+&lt;p&gt;I recently had an interview with HOT (Humanitarian OpenStreetMap) and it made me think more about doing work for the humanitarian sector. Which is another reason why I will enter this challenge specifically.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, I had worked previously on a humanitarian project with GFDRR after the earthquake in Nepal to create a dashboard for all incoming data. And it was a great opportunity and I learned a lot during that time.&lt;/p&gt;
+
+&lt;h2 id=&#34;this-will-be-definitely-more-challenging&#34;&gt;This will be definitely more challenging.&lt;/h2&gt;
+
+&lt;p&gt;I will probably enter the flooding challenge for Monrovia, Liberia.
+Coming up with a visualization for the burning question about flood prevention and potentially helping people with it is a huge burden and a huge motivator as well.&lt;/p&gt;
+
+&lt;p&gt;I‘m looking forward to challenging myself and come up with different ways to visualize these important datasets.&lt;/p&gt;
+
+&lt;h2 id=&#34;asking-the-right-question&#34;&gt;Asking the right question&lt;/h2&gt;
+
+&lt;p&gt;The challenge already provided a few questions I will use as a guiding factor throughout my process. But as always during a coz project and data analysis, the real questions will come up during the process.
+So while I will start with these questions they might not be the ones I will choose in the end.
+Here are the questions to start with:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How can local government officials better understand, predict, prevent, and recover from flooding? &lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;What infrastructure is most vulnerable?&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Where might flood impacts be the most severe, or the most preventable?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sharing-progress-and-my-process&#34;&gt;Sharing progress and my process&lt;/h2&gt;
+
+&lt;p&gt;During the time of the challenge (it‘s due on July 15th), I will not only share my progress working on it, but I will also share my process tackling this issue.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to working on this and sharing my progress here on the blog and on social media.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>How I keep myself healthy and inspired while working for myself</title>
-      <link>/articles/2016-07-21-activities/</link>
-      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-07-21-activities/</guid>
-      <description>Working for yourself can get lonely and monotone. Here are a few things I do to stay active and inspired.
-Activities I love doing sports. I’m a very active and sport-hungry person. And I love team-sports. I play Softball for almost ten years now, and I love going to tournaments, compete and have fun with friends. I met my wife through Softball, and I’m very grateful for that. But even walking my dog is an activity I enjoy most of the time.</description>
-    </item>
+		<item>
+			<title>Child Care Cost: Bay Area</title>
+			<link>/articles/child-care-cost-bay-area/</link>
+			<pubDate>Fri, 05 Apr 2019 18:12:47 +0200</pubDate>
+			
+			<guid>/articles/child-care-cost-bay-area/</guid>
+			<description>&lt;p&gt;I stumbled across this exciting dataset about Childcare cost in the bay area.&lt;/p&gt;
+
+&lt;p&gt;Here is the graphic that I looked at:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1549897780/Volume%204/child-care-bay-area.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I thought this visualization could be improved to bring the point across more clearly.&lt;/p&gt;
+
+&lt;p&gt;A slope chart would be a great option.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time. The related values are connected by slopes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://seeingdata.org/taketime/inside-the-chart-slope-graph/&#34; title=&#34;http://seeingdata.org/taketime/inside-the-chart-slope-graph/&#34;&gt;&lt;em&gt;http://seeingdata.org/taketime/inside-the-chart-slope-graph/&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;I do not do this to offend anybody, just as an exercise for myself.&lt;/strong&gt;&lt;br /&gt;
+Here is the resulting chart:&lt;/p&gt;
+
+&lt;div id=&#34;child-care-chart&#34;&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I think it communicates more directly which Counties were hit the hardest with increase child care cost and makes it easier to read and understand without reading the numbers.&lt;/p&gt;
+
+&lt;p&gt;The original article with the visualization can be found &lt;a href=&#34;https://www.mercurynews.com/2019/02/03/you-think-bay-area-housing-is-expensive-childcare-costs-are-rising-too/&#34;&gt;here&lt;/a&gt;
+The original source is the &lt;a href=&#34;https://insightcced.org&#34;&gt;Insight Center for Community Economic Development&lt;/a&gt;.
+I published the data on &lt;a href=&#34;https://data.world/milafrerichs/child-care-cost-bay-area/workspace/file?filename=child_care_bay_area_tidy.csv&#34;&gt;data.world&lt;/a&gt;&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>See you at these conferences!</title>
-      <link>/articles/2016-07-20-conferences/</link>
-      <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-07-20-conferences/</guid>
-      <description>I went to just a few conferences this year just yet but plan on going to a few more. Conferences are a good way to connect with people, learn more about your craft or other people&amp;rsquo;s business and get in the mindset of learning and speaking/socializing.
-Brennan Dunn recently tweeted something which struck a nerve with me, and I regretted not going to DYFC in Sweden this year. But I will go to more conferences next year and a few more business conferences as well, and DYFC 2017 is already on my calendar.</description>
-    </item>
+		<item>
+			<title>Toronto High Rise Building inspection</title>
+			<link>/articles/toronto-high-rise-building-inspection/</link>
+			<pubDate>Tue, 05 Mar 2019 07:03:27 +0100</pubDate>
+			
+			<guid>/articles/toronto-high-rise-building-inspection/</guid>
+			<description>
+
+&lt;p&gt;In Volume 6 of my weekly roundup I highlighted some newly released data from the city of Toronto about Highrisers Building Inspection data. The newspaper that reported about it was not happy about the format that it was available. And I agree it is not very searchable or does not provide too much information.&lt;/p&gt;
+
+&lt;p&gt;But: They use an API to show the data in the table. And it turns out, I can use the API as well. It took some time to find out what type of API and database was involved to query the data. After a few hours of searching and trying out I succeeded.&lt;/p&gt;
+
+&lt;p&gt;The next step was to do some exploratory data analysis.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-question&#34;&gt;The question&lt;/h2&gt;
+
+&lt;p&gt;The question that I asked the dataset was:&lt;br /&gt;
+&lt;strong&gt;Which buildings have the highest amount of violations the public should know about.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;if-you-life-in-2-regal-rd-you-might-want-to-contact-your-landlord&#34;&gt;If you life in 2 Regal Rd you might want to contact your landlord&lt;/h2&gt;
+
+&lt;p&gt;As of this writing the most violations occurred on 2 Regal Rd. After looking at the &lt;a href=&#34;https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/fire-prevention-inspection-results-for-high-rise-residential-buildings/#details/f42076c3-6075-485e-b766-dd6c8e2b8434&#34;&gt;table&lt;/a&gt; these 30 violations occurred on 2 inspections. They all got resolved but this might be a sign to inspect more often.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://maps.googleapis.com/maps/api/streetview?size=400x400&amp;amp;location=40.720032,-73.988354&amp;amp;fov=100&amp;amp;heading=210&amp;amp;pitch=40&amp;amp;key=AIzaSyAqlRInIcBkVjRRCl3usLYlbnmuRLSQ-i0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.google.de/maps/place/2+Regal+Rd,+Toronto,+ON+M6H+2J4,+Kanada/@43.6756197,-79.4333534,17z/data=&#34; title=&#34;https://www.google.de/maps/place/2+Regal+Rd,+Toronto,+ON+M6H+2J4,+Kanada/@43.6756197,-79.4333534,17z/data=&#34;&gt;https://www.google.de/maps/place/2+Regal+Rd,+Toronto,+ON+M6H+2J4,+Kanada/@43.6756197,-79.4333534,17z/data=&lt;/a&gt;&lt;a href=&#34;https://www.google.de/maps/place/2+Regal+Rd,+Toronto,+ON+M6H+2J4,+Kanada/@43.6756197,-79.4333534,17z/data=!4m2!3m1!1s0x882b347baec4f25f:0x5e576b821b01c4ea&#34;&gt;!4m2!3m1!1s0x882b347baec4f25f:0x5e576b821b01c4ea&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are the top 5 buildings with the most violations:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1551765572/Toronto%20Highrise/building-violations.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-overall-picture&#34;&gt;The overall picture&lt;/h2&gt;
+
+&lt;p&gt;The data is from Janaury 2017 until today. In total there were ~12000 violations in that time period. That is about 500 per month and x per inspection. Nice job to inspect the right houses.&lt;/p&gt;
+
+&lt;p&gt;The most reported violation type is: 2.2.3.2 Maintenance of closures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1551765572/Toronto%20Highrise/code-violations.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;2.2.3.2. (1) Closures in fire separations shall be maintained to ensure that they are operable at all times by (a) keeping fusible links and heat or smoke-actuated devices undamaged and free of paint and dirt, (b) keeping guides, bearings and stay rolls clean and lubricated, &amp;copy; making necessary adjustments and repairs to door hardware and accessories to ensure proper closing and latching, and (d) repairing or replacing inoperative parts of hold-open devices and automatic releasing devices.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href=&#34;https://www.ontario.ca/laws/regulation/070213&#34; title=&#34;https://www.ontario.ca/laws/regulation/070213&#34;&gt;https://www.ontario.ca/laws/regulation/070213&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;which-ward-has-the-most-violations&#34;&gt;Which Ward has the most violations?&lt;/h2&gt;
+
+&lt;p&gt;This was the next question I asked the data. I love maps and a nice overview of where the most violations occur. One thing that is missing from the data that would have made the map even more useful would be the amount of HighRise Buildings per ward. But we don‘t have that information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1551973255/Toronto%20Highrise/violations-per-inspection-map-annotated.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I created an Observable Notebook for everyone to try it out. I reached out to the initial source of this information. When they get back to me I will update this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Do you have a similar problem. You find some data but are not able to really dive into the data because it is in a strange format or from a strange source. Reach out to me. I can help you.&lt;/em&gt;&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Three new habits to get better at writing</title>
-      <link>/articles/2016-07-19-habits/</link>
-      <pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2016-07-19-habits/</guid>
-      <description>I want to start a few habits and it’s tough to find the right ones to start and to maintain.
-Getting into habits is all about consistency and trying to find the balance of too little or too much. But I think publicly committing to something is a good first step to getting really into habits.
-I tried for the last months to get into reading and writing habit. And I must admit both are not doing great.</description>
-    </item>
+		<item>
+			<title>Louisville Bird Data published</title>
+			<link>/articles/lousiville-bird/</link>
+			<pubDate>Thu, 01 Nov 2018 06:08:58 +0000</pubDate>
+			
+			<guid>/articles/lousiville-bird/</guid>
+			<description>
+
+&lt;p&gt;The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their &lt;a href=&#34;https://data.louisvilleky.gov/dataset/bird-scooter&#34;&gt;Open Data Portal&lt;/a&gt;. They updated their data three times already, so we should be in for a treat with monthly updates.&lt;/p&gt;
+
+&lt;p&gt;We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.&lt;/p&gt;
+
+&lt;p&gt;This is just a partial analysis since we only have data for one city and only for a limited time frame. I used the first month of the released data because it appears to be very clean.&lt;/p&gt;
+
+&lt;p&gt;First let&amp;rsquo;s look at the time frame the analysis:&lt;/p&gt;
+
+&lt;div id=&#34;days&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;StartTime&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;count&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:14,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:20}],&#34;background&#34;:&#34;white&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;table&#34;,&#34;values&#34;:[{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:0,&#34;name&#34;:&#34;2018-08-09&#34;,&#34;y&#34;:295},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:1,&#34;name&#34;:&#34;2018-08-10&#34;,&#34;y&#34;:456},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:2,&#34;name&#34;:&#34;2018-08-11&#34;,&#34;y&#34;:256},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:3,&#34;name&#34;:&#34;2018-08-12&#34;,&#34;y&#34;:319},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:4,&#34;name&#34;:&#34;2018-08-13&#34;,&#34;y&#34;:167},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:5,&#34;name&#34;:&#34;2018-08-14&#34;,&#34;y&#34;:237},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:6,&#34;name&#34;:&#34;2018-08-15&#34;,&#34;y&#34;:200},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:7,&#34;name&#34;:&#34;2018-08-16&#34;,&#34;y&#34;:79},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:8,&#34;name&#34;:&#34;2018-08-17&#34;,&#34;y&#34;:344},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:9,&#34;name&#34;:&#34;2018-08-18&#34;,&#34;y&#34;:395},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:10,&#34;name&#34;:&#34;2018-08-19&#34;,&#34;y&#34;:316},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:11,&#34;name&#34;:&#34;2018-08-20&#34;,&#34;y&#34;:248},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:12,&#34;name&#34;:&#34;2018-08-21&#34;,&#34;y&#34;:382},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:13,&#34;name&#34;:&#34;2018-08-22&#34;,&#34;y&#34;:362},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:14,&#34;name&#34;:&#34;2018-08-23&#34;,&#34;y&#34;:358},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:15,&#34;name&#34;:&#34;2018-08-24&#34;,&#34;y&#34;:425},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:16,&#34;name&#34;:&#34;2018-08-25&#34;,&#34;y&#34;:385},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:17,&#34;name&#34;:&#34;2018-08-26&#34;,&#34;y&#34;:227},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:18,&#34;name&#34;:&#34;2018-08-27&#34;,&#34;y&#34;:311},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:19,&#34;name&#34;:&#34;2018-08-28&#34;,&#34;y&#34;:273},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:20,&#34;name&#34;:&#34;2018-08-29&#34;,&#34;y&#34;:301},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:21,&#34;name&#34;:&#34;2018-08-30&#34;,&#34;y&#34;:228},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:22,&#34;name&#34;:&#34;2018-08-31&#34;,&#34;y&#34;:270},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:23,&#34;name&#34;:&#34;2018-09-01&#34;,&#34;y&#34;:304},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:24,&#34;name&#34;:&#34;2018-09-02&#34;,&#34;y&#34;:835},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:25,&#34;name&#34;:&#34;2018-09-03&#34;,&#34;y&#34;:677},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:26,&#34;name&#34;:&#34;2018-09-04&#34;,&#34;y&#34;:363},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:27,&#34;name&#34;:&#34;2018-09-05&#34;,&#34;y&#34;:401},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:28,&#34;name&#34;:&#34;2018-09-06&#34;,&#34;y&#34;:462}]}],&#34;height&#34;:714,&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;group&#34;,&#34;scale&#34;:&#34;xscale&#34;}}},&#34;from&#34;:{&#34;facet&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;groupby&#34;:&#34;group&#34;,&#34;name&#34;:&#34;facet&#34;}},&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;fill&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;color&#34;},&#34;width&#34;:{&#34;band&#34;:1,&#34;scale&#34;:&#34;pos&#34;},&#34;x&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;pos&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;y&#34;,&#34;scale&#34;:&#34;yscale&#34;},&#34;y2&#34;:{&#34;scale&#34;:&#34;yscale&#34;,&#34;value&#34;:0}}},&#34;from&#34;:{&#34;data&#34;:&#34;facet&#34;},&#34;name&#34;:&#34;bars&#34;,&#34;type&#34;:&#34;rect&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;facet&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;pos&#34;,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;}],&#34;signals&#34;:[{&#34;name&#34;:&#34;width&#34;,&#34;update&#34;:&#34;bandwidth(&#39;xscale&#39;)&#34;}],&#34;type&#34;:&#34;group&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xscale&#34;,&#34;padding&#34;:0.15,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xname&#34;,&#34;range&#34;:[&#34;2018-08-09&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;2018-08-20&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;2018-08-30&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;2018-09-06&#34;],&#34;type&#34;:&#34;ordinal&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;y&#34;},&#34;name&#34;:&#34;yscale&#34;,&#34;nice&#34;:true,&#34;range&#34;:&#34;height&#34;,&#34;type&#34;:&#34;linear&#34;,&#34;zero&#34;:true},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;color&#34;,&#34;range&#34;:[&#34;#769bb0&#34;],&#34;type&#34;:&#34;ordinal&#34;}],&#34;title&#34;:{&#34;color&#34;:&#34;#383838&#34;,&#34;font&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;fontSize&#34;:20,&#34;fontWeight&#34;:&#34;normal&#34;,&#34;offset&#34;:15,&#34;text&#34;:&#34;&#34;},&#34;width&#34;:2162};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;days&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#days&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+
+&lt;p&gt;Some results were expected, or at least I expected them. And there are others that were surprising.&lt;/p&gt;
+
+&lt;h3 id=&#34;let-s-begin-with-the-surprising-people-drive-far-with-their-scooters&#34;&gt;Let’s begin with the surprising: People drive far with their scooters.&lt;/h3&gt;
+
+&lt;div id=&#34;trip_time&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega-lite/v3.json&#34;,&#34;data&#34;:{&#34;values&#34;:[{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:0,&#34;name&#34;:&#34;\u003c 1&#34;,&#34;y&#34;:7888},{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:1,&#34;name&#34;:&#34;\u003c 2&#34;,&#34;y&#34;:1790},{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:2,&#34;name&#34;:&#34;\u003c 3&#34;,&#34;y&#34;:170},{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:3,&#34;name&#34;:&#34;\u003c 4&#34;,&#34;y&#34;:23},{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:4,&#34;name&#34;:&#34;\u003c 5&#34;,&#34;y&#34;:5}]},&#34;description&#34;:&#34;A simple bar chart with embedded data.&#34;,&#34;layer&#34;:[{&#34;encoding&#34;:{&#34;color&#34;:{&#34;value&#34;:&#34;#769bb0&#34;},&#34;x&#34;:{&#34;axis&#34;:{&#34;labelAngle&#34;:0},&#34;field&#34;:&#34;name&#34;,&#34;sort&#34;:{&#34;field&#34;:&#34;group&#34;},&#34;title&#34;:&#34;trip length in hour&#34;,&#34;type&#34;:&#34;ordinal&#34;},&#34;y&#34;:{&#34;axis&#34;:{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;title&#34;:&#34;# trips&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:14,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:20},&#34;field&#34;:&#34;y&#34;,&#34;type&#34;:&#34;quantitative&#34;}},&#34;mark&#34;:&#34;bar&#34;}],&#34;title&#34;:{&#34;color&#34;:&#34;#383838&#34;,&#34;font&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;fontSize&#34;:20,&#34;fontWeight&#34;:&#34;normal&#34;,&#34;offset&#34;:15,&#34;text&#34;:&#34;Average Trip time&#34;},&#34;width&#34;:800};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;trip_time&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#trip_time&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+
+&lt;p&gt;I would not have imagined that people drive a scooter for longer than 3 hours, but they do. I assume that people don&amp;rsquo;t ride for three hours continuously but take breaks now and then and don&amp;rsquo;t lock the scooter. It would be interesting to see if that were all either first rides (which are typically free) or maintenance rides that got falsely flagged as regular rides. But the data does not provide any meaningful insights here.&lt;/p&gt;
+
+&lt;div id=&#34;distance&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;trip distance (rounded)&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;# trips&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:14,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:20}],&#34;background&#34;:&#34;white&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;table&#34;,&#34;values&#34;:[{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:0,&#34;name&#34;:&#34;1.0&#34;,&#34;y&#34;:4282},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:1,&#34;name&#34;:&#34;2.0&#34;,&#34;y&#34;:2383},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:2,&#34;name&#34;:&#34;3.0&#34;,&#34;y&#34;:1203},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:3,&#34;name&#34;:&#34;4.0&#34;,&#34;y&#34;:700},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:4,&#34;name&#34;:&#34;5.0&#34;,&#34;y&#34;:483},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:5,&#34;name&#34;:&#34;6.0&#34;,&#34;y&#34;:259},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:6,&#34;name&#34;:&#34;7.0&#34;,&#34;y&#34;:197},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:7,&#34;name&#34;:&#34;8.0&#34;,&#34;y&#34;:102},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:8,&#34;name&#34;:&#34;9.0&#34;,&#34;y&#34;:84},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:9,&#34;name&#34;:&#34;10.0&#34;,&#34;y&#34;:51},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:10,&#34;name&#34;:&#34;11.0&#34;,&#34;y&#34;:33},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:11,&#34;name&#34;:&#34;12.0&#34;,&#34;y&#34;:12},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:12,&#34;name&#34;:&#34;13.0&#34;,&#34;y&#34;:14},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:13,&#34;name&#34;:&#34;14.0&#34;,&#34;y&#34;:6},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:14,&#34;name&#34;:&#34;15.0&#34;,&#34;y&#34;:9},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:15,&#34;name&#34;:&#34;16.0&#34;,&#34;y&#34;:2}]}],&#34;height&#34;:714,&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;group&#34;,&#34;scale&#34;:&#34;xscale&#34;}}},&#34;from&#34;:{&#34;facet&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;groupby&#34;:&#34;group&#34;,&#34;name&#34;:&#34;facet&#34;}},&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;fill&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;color&#34;},&#34;width&#34;:{&#34;band&#34;:1,&#34;scale&#34;:&#34;pos&#34;},&#34;x&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;pos&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;y&#34;,&#34;scale&#34;:&#34;yscale&#34;},&#34;y2&#34;:{&#34;scale&#34;:&#34;yscale&#34;,&#34;value&#34;:0}}},&#34;from&#34;:{&#34;data&#34;:&#34;facet&#34;},&#34;name&#34;:&#34;bars&#34;,&#34;type&#34;:&#34;rect&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;facet&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;pos&#34;,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;}],&#34;signals&#34;:[{&#34;name&#34;:&#34;width&#34;,&#34;update&#34;:&#34;bandwidth(&#39;xscale&#39;)&#34;}],&#34;type&#34;:&#34;group&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xscale&#34;,&#34;padding&#34;:0.15,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xname&#34;,&#34;range&#34;:[&#34;1.0&#34;,&#34;2.0&#34;,&#34;3.0&#34;,&#34;4.0&#34;,&#34;5.0&#34;,&#34;6.0&#34;,&#34;7.0&#34;,&#34;8.0&#34;,&#34;9.0&#34;,&#34;10.0&#34;,&#34;11.0&#34;,&#34;12.0&#34;,&#34;13.0&#34;,&#34;14.0&#34;,&#34;15.0&#34;,&#34;16.0&#34;],&#34;type&#34;:&#34;ordinal&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;y&#34;},&#34;name&#34;:&#34;yscale&#34;,&#34;nice&#34;:true,&#34;range&#34;:&#34;height&#34;,&#34;type&#34;:&#34;linear&#34;,&#34;zero&#34;:true},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;color&#34;,&#34;range&#34;:[&#34;#769bb0&#34;],&#34;type&#34;:&#34;ordinal&#34;}],&#34;title&#34;:{&#34;color&#34;:&#34;#383838&#34;,&#34;font&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;fontSize&#34;:20,&#34;fontWeight&#34;:&#34;normal&#34;,&#34;offset&#34;:15,&#34;text&#34;:&#34;Distance per Trip&#34;},&#34;width&#34;:2162};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;distance&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#distance&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+
+&lt;h3 id=&#34;another-surprising-maybe-not-so-surprising-thing-is-most-rides-begin-after-lunch-time&#34;&gt;Another surprising (maybe not so surprising) thing is most rides begin after lunch-time.&lt;/h3&gt;
+
+&lt;p&gt;I suspect that people work in downtowns but don’t live there, and most of the scooters get distributed downtown areas. Therefore they use them to drive to lunch and after work to drive home or to the next transit stop. But they cannot drive from home to work. Or at least that seems to be the case.&lt;/p&gt;
+
+&lt;p&gt;But again this dataset is very narrow, only three months of data and only one city.&lt;/p&gt;
+
+&lt;div id=&#34;time&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;start time&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;Number of trips&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:14,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:20}],&#34;background&#34;:&#34;white&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;table&#34;,&#34;values&#34;:[{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:0,&#34;name&#34;:&#34;04:00&#34;,&#34;y&#34;:2},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:1,&#34;name&#34;:&#34;05:00&#34;,&#34;y&#34;:11},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:2,&#34;name&#34;:&#34;06:00&#34;,&#34;y&#34;:34},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:3,&#34;name&#34;:&#34;07:00&#34;,&#34;y&#34;:99},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:4,&#34;name&#34;:&#34;08:00&#34;,&#34;y&#34;:204},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:5,&#34;name&#34;:&#34;09:00&#34;,&#34;y&#34;:289},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:6,&#34;name&#34;:&#34;10:00&#34;,&#34;y&#34;:393},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:7,&#34;name&#34;:&#34;11:00&#34;,&#34;y&#34;:773},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:8,&#34;name&#34;:&#34;12:00&#34;,&#34;y&#34;:925},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:9,&#34;name&#34;:&#34;13:00&#34;,&#34;y&#34;:996},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:10,&#34;name&#34;:&#34;14:00&#34;,&#34;y&#34;:929},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:11,&#34;name&#34;:&#34;15:00&#34;,&#34;y&#34;:943},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:12,&#34;name&#34;:&#34;16:00&#34;,&#34;y&#34;:986},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:13,&#34;name&#34;:&#34;17:00&#34;,&#34;y&#34;:942},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:14,&#34;name&#34;:&#34;18:00&#34;,&#34;y&#34;:912},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:15,&#34;name&#34;:&#34;19:00&#34;,&#34;y&#34;:796},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:16,&#34;name&#34;:&#34;20:00&#34;,&#34;y&#34;:638},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:17,&#34;name&#34;:&#34;21:00&#34;,&#34;y&#34;:4}]}],&#34;height&#34;:714,&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;group&#34;,&#34;scale&#34;:&#34;xscale&#34;}}},&#34;from&#34;:{&#34;facet&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;groupby&#34;:&#34;group&#34;,&#34;name&#34;:&#34;facet&#34;}},&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;fill&#34;:{&#34;field&#34;:&#34;group&#34;,&#34;scale&#34;:&#34;color&#34;},&#34;width&#34;:{&#34;band&#34;:1,&#34;scale&#34;:&#34;pos&#34;},&#34;x&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;pos&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;y&#34;,&#34;scale&#34;:&#34;yscale&#34;},&#34;y2&#34;:{&#34;scale&#34;:&#34;yscale&#34;,&#34;value&#34;:0}}},&#34;from&#34;:{&#34;data&#34;:&#34;facet&#34;},&#34;name&#34;:&#34;bars&#34;,&#34;type&#34;:&#34;rect&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;facet&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;pos&#34;,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;}],&#34;signals&#34;:[{&#34;name&#34;:&#34;width&#34;,&#34;update&#34;:&#34;bandwidth(&#39;xscale&#39;)&#34;}],&#34;type&#34;:&#34;group&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xscale&#34;,&#34;padding&#34;:0.15,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xname&#34;,&#34;range&#34;:[&#34;04:00&#34;,&#34;05:00&#34;,&#34;06:00&#34;,&#34;07:00&#34;,&#34;08:00&#34;,&#34;09:00&#34;,&#34;10:00&#34;,&#34;11:00&#34;,&#34;12:00&#34;,&#34;13:00&#34;,&#34;14:00&#34;,&#34;15:00&#34;,&#34;16:00&#34;,&#34;17:00&#34;,&#34;18:00&#34;,&#34;19:00&#34;,&#34;20:00&#34;,&#34;21:00&#34;],&#34;type&#34;:&#34;ordinal&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;y&#34;},&#34;name&#34;:&#34;yscale&#34;,&#34;nice&#34;:true,&#34;range&#34;:&#34;height&#34;,&#34;type&#34;:&#34;linear&#34;,&#34;zero&#34;:true},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;color&#34;,&#34;range&#34;:[&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;],&#34;type&#34;:&#34;ordinal&#34;}],&#34;title&#34;:{&#34;color&#34;:&#34;#383838&#34;,&#34;font&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;fontSize&#34;:20,&#34;fontWeight&#34;:&#34;normal&#34;,&#34;offset&#34;:15,&#34;text&#34;:&#34;Bird trips by hour of day&#34;},&#34;width&#34;:2162};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;time&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#time&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+
+&lt;h3 id=&#34;the-not-so-surprising-result-is-that-most-rides-occur-on-saturdays-weekends&#34;&gt;The not so surprising result is that most rides occur on Saturdays (Weekends).&lt;/h3&gt;
+
+&lt;p&gt;Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.&lt;/p&gt;
+
+&lt;div id=&#34;weekday&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega-lite/v3.json&#34;,&#34;data&#34;:{&#34;url&#34;:&#34;https://gist.githubusercontent.com/milafrerichs/5cb8610d514ced82aa98c7ddfac585ef/raw/00cf00002e1695b34647f6284ee3649e5180763f/trip_time_weekday.csv&#34;},&#34;description&#34;:&#34;A simple bar chart with embedded data.&#34;,&#34;encoding&#34;:{&#34;color&#34;:{&#34;field&#34;:&#34;weekday&#34;,&#34;legend&#34;:null,&#34;scale&#34;:{&#34;domain&#34;:[&#34;Monday&#34;,&#34;Tuesday&#34;,&#34;Wednesday&#34;,&#34;Thursday&#34;,&#34;Friday&#34;,&#34;Saturday&#34;,&#34;Sunday&#34;],&#34;range&#34;:[&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;],&#34;type&#34;:&#34;ordinal&#34;},&#34;type&#34;:&#34;nominal&#34;},&#34;x&#34;:{&#34;field&#34;:&#34;weekday&#34;,&#34;sort&#34;:[&#34;Monday&#34;,&#34;Tuesday&#34;,&#34;Wednesday&#34;,&#34;Thursday&#34;,&#34;Friday&#34;,&#34;Saturday&#34;,&#34;Sunday&#34;],&#34;title&#34;:&#34;Weekday&#34;,&#34;type&#34;:&#34;ordinal&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;title&#34;:&#34;# trips&#34;,&#34;type&#34;:&#34;quantitative&#34;}},&#34;mark&#34;:&#34;bar&#34;,&#34;width&#34;:600};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;weekday&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#weekday&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+
+&lt;p&gt;This was a first exciting dive into the dataset, and I look forward to the release of more data and maybe even more cities releasing their data. Also interesting would be if Lime and other Scooter providers would release their data.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Crime in San Diego</title>
-      <link>/projects/crime-san-diego/</link>
-      <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/crime-san-diego/</guid>
-      <description></description>
-    </item>
+		<item>
+			<title>Licenses and formats on data.gov</title>
+			<link>/articles/govdata/</link>
+			<pubDate>Tue, 30 Oct 2018 16:08:58 +0000</pubDate>
+			
+			<guid>/articles/govdata/</guid>
+			<description>&lt;p&gt;While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.&lt;/p&gt;
+
+&lt;p&gt;So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.&lt;/p&gt;
+
+&lt;p&gt;A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany.&lt;/p&gt;
+
+&lt;p&gt;And then I thought I could take a closer look into the US portal run by the federal government (data.gov) which is a CKAN based portal. And they aggregate data from states, counties and cities in the US.&lt;/p&gt;
+
+&lt;p&gt;It is fast and updates automatically because it is using the API rather than a static file.&lt;/p&gt;
+
+&lt;p&gt;The most used format is a blank format, which means the metadata is not correct. Which is unfortunate. The second most used data format is HTML. Which is weird as well. But I see this often with data portals, they just link to a page and not to a dataset and then CKAN assumes it is just HTML and not the actual data format.&lt;/p&gt;
+
+&lt;div id=&#34;govdata-formats&#34;&gt;&lt;/div&gt;
+
+&lt;div id=&#34;#govdata-formats&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega-lite/v2.json&#34;,&#34;data&#34;:{&#34;format&#34;:{&#34;property&#34;:&#34;result.search_facets.res_format.items&#34;,&#34;type&#34;:&#34;json&#34;},&#34;url&#34;:&#34;https://catalog.data.gov/api/3/action/package_search?facet.field=[%22res_format%22]&#34;},&#34;encoding&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;type&#34;:&#34;quantitative&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;name&#34;,&#34;sort&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;op&#34;:&#34;sum&#34;,&#34;order&#34;:&#34;descending&#34;},&#34;type&#34;:&#34;ordinal&#34;}},&#34;mark&#34;:&#34;bar&#34;};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;#govdata-formats&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;##govdata-formats&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+
+&lt;p&gt;Or let&amp;rsquo;s take a look at the licences used by gov.data. The most used license is the us-pd which is the &lt;a href=&#34;https://www.usa.gov/government-works&#34;&gt;U.S. Government Works license&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;usually prepared by officers or employees of the United States government as part of their official duties&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Which is a great sign that most of the licenses in the US is an open license. That is not the case in Germany.&lt;/p&gt;
+
+&lt;div id=&#34;govdata-licenses&#34;&gt;&lt;/div&gt;
+
+&lt;div id=&#34;#govdata-licenses&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega-lite/v2.json&#34;,&#34;data&#34;:{&#34;format&#34;:{&#34;property&#34;:&#34;result.search_facets.license_id.items&#34;,&#34;type&#34;:&#34;json&#34;},&#34;url&#34;:&#34;https://catalog.data.gov/api/3/action/package_search?facet.field=[%22license_id%22]&#34;},&#34;encoding&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;type&#34;:&#34;quantitative&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;name&#34;,&#34;sort&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;op&#34;:&#34;sum&#34;,&#34;order&#34;:&#34;descending&#34;},&#34;type&#34;:&#34;ordinal&#34;}},&#34;mark&#34;:&#34;bar&#34;};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;#govdata-licenses&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;##govdata-licenses&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+</description>
+			
+		</item>
     
-    <item>
-      <title>Nokogiri Search Helper</title>
-      <link>/articles/2014-01-31-nokogiri-helper/</link>
-      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/2014-01-31-nokogiri-helper/</guid>
-      <description>I recently used Scraperwiki to scrape some data off a couple of sites.
-During the development process (which I will describe in a coming post) I encountered some repetitive code/task. I then refactored the code and wrote a small class which I then would use for every site.
-Most often you want the first text of the matching selector and the attr of the first element matching.
-You can find the class here: {% gist 8491837%}</description>
-    </item>
+		<item>
+			<title>Five podcasts that changed how I run my business</title>
+			<link>/articles/2016-08-02-five-podcastss/</link>
+			<pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-08-02-five-podcastss/</guid>
+			<description>
+
+&lt;p&gt;I listen to podcasts for a while now. I started with technical podcasts like &lt;a href=&#34;http://giantrobots.fm/&#34;&gt;Giant Robots Smashing Into Other Giant Robots&lt;/a&gt;, &lt;a href=&#34;https://devchat.tv/ruby-rogues&#34;&gt;Ruby Rogues&lt;/a&gt;, &lt;a href=&#34;http://www.coreint.org&#34;&gt;Core Intuition&lt;/a&gt; and more.
+I think I have an easier time listening to something than to read a blog post. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.&lt;/p&gt;
+
+&lt;p&gt;Since starting my own business in 2014, I listen to more and more business and freelance related podcasts. I want to tell you about five that changed how I ran my business.
+I ordered them in the order of magnitude they changed me.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bootstrappedweb.com&#34;&gt;Bootstrapped web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://makemoneyonline.exposed&#34;&gt;Make money online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doubleyourfreelancing.com/podcast/&#34;&gt;Double your freelancing podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devchat.tv/freelancers&#34;&gt;Freelancer show&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.psychotactics.com/podcast/&#34;&gt;Three Month Vacation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;breakdown&#34;&gt;Breakdown&lt;/h2&gt;
+
+&lt;p&gt;I want to break down why I listen to them and how they changed me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bootstrappedweb.com&#34;&gt;Bootstrapped Web&lt;/a&gt; is by &lt;a href=&#34;http://casjam.com&#34;&gt;Brian Casel&lt;/a&gt; and &lt;a href=&#34;http://jordangal.com/&#34;&gt;Jordan Gal&lt;/a&gt;. They talk about their business and their successes and failures. Their format changed over the last couple of months. And I like the new format. They have update episodes, and they have thematic episodes. In the update episode, they each share one thing that happened last week and then rotate. They start with personal updates and then move into business updates.
+Both of them are valuable, and I always get something out of it. Either a new tool to use or an idea how to run my business better.
+They both run product companies and are quite different from my service orientated business, but I get inspired listening to both of them. After listening, I always strive to get better at my business and reach the level they’re at. It helps me to focus on streamlining my business.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://makemoneyonline.exposed&#34;&gt;Make Money Online&lt;/a&gt; is a new podcast from &lt;a href=&#34;http://kaidavis.com/&#34;&gt;Kai Davis&lt;/a&gt; and &lt;a href=&#34;http://nickd.org/&#34;&gt;Nick Disabato&lt;/a&gt;.
+The way they talk genuine and be outspoken is refreshing, to say the least. They talk about their processes and what services they use. They also talk shit and are sarcastic, and it’s fun listening to them.
+They have thematic episodes and just random blast episodes. Well worth it. I get a good laugh out of it and get motivated to work harder and be more precise.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://brennandunn.com/&#34;&gt;Brennan Dunn&lt;/a&gt; and his &lt;a href=&#34;https://doubleyourfreelancing.com/podcast/&#34;&gt;Double Your Freelancing&lt;/a&gt; land is awesome. You should check out everything he puts out. His email list is worth it, and he brings out content all the time.
+In his podcasts he interviews people, and most of them are a kind of case study. How they came as far as they are right now. What were the key factors and such. The interviews always have some insights into how to better run your business or be more successful.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://devchat.tv/freelancers&#34;&gt;Freelancer Show&lt;/a&gt; is in line with all the other great podcasts &lt;a href=&#34;https://devchat.tv&#34;&gt;Chuck&lt;/a&gt; is producing. &lt;a href=&#34;https://devchat.tv/ruby-rogues&#34;&gt;Ruby Rogues&lt;/a&gt;, &lt;a href=&#34;https://devchat.tv/js-jabber&#34;&gt;JavaScript Jabber&lt;/a&gt; to name just a few. Chucks podcasts always have a panel of about four people discussing certain topics. The panel is loaded with awesome and talented people. &lt;a href=&#34;https://philipmorganconsulting.com/&#34;&gt;Philip Morgan&lt;/a&gt;, &lt;a href=&#34;https://jonathanstark.com/&#34;&gt;Jonathan Stark&lt;/a&gt; and &lt;a href=&#34;http://lerner.co.il/&#34;&gt;Reuven Learner&lt;/a&gt;.
+They all have different perspectives and focus and listening to them always gets me new ideas I want to try out.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.psychotactics.com/podcast/&#34;&gt;Three Month Vacation&lt;/a&gt; from &lt;a href=&#34;http://www.psychotactics.com&#34;&gt;Sean D’Souza&lt;/a&gt; is one of the great content he is publishing on a regular basis. You should check out his books and courses as well. All worth the money.
+His podcast is in line with his books, and he asks rhetorical questions and answers them and tries to get you thinking. He always sums up his points at the end. It always gets me thinking again how I run my business and how I do certain things.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-business-podcasts-i-listen-to&#34;&gt;Other business Podcasts I listen to:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://artofvalue.com/show/&#34;&gt;The Art of Value&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://productizepodcast.com&#34;&gt;The Productized Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://entreprogrammers.com/&#34;&gt;Entreprogrammer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://entreprogrammers.com/&#34;&gt;Entreprogrammers&lt;/a&gt; podcast is worth the listen if you think you&amp;rsquo;re the only one struggling with your business. Everyone is. And listening to them how they get together and find solutions for the struggles is worth the almost two-hour long conversation. It always gets me thinking about the struggles I have and what I do to resolve them. It&amp;rsquo;s a recorded mastermind, and my master mind helps me talk about it as well.&lt;/p&gt;
+
+&lt;h2 id=&#34;podcast-app&#34;&gt;Podcast App&lt;/h2&gt;
+
+&lt;p&gt;I use &lt;a href=&#34;https://overcast.fm/&#34;&gt;Overcast&lt;/a&gt; to listen to these podcasts, and it is great. Won’t switch anytime soon. You can add lists for your podcasts and effects such as „Smart Speed“ and „Voice Boost.“ I always listen to at least 1.4x speed, and Smart Speed picks the right speed so that everyone has a similar tempo. And Voice Boost streamlines the volume of the voices. Just awesome.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title></title>
-      <link>/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/</guid>
-      <description>Curriculum Vitae Professionel Civic Vision UGsince August 2014Owner, Developer
- Zweitag GmbHFeb 2013 - July 2014Software Developer (student trainee), Ruby on Rails, Javascript
- Avency GmbHFeb 2009 - Jan 2013Frontend Developer (student trainee), Javascript
- Institute for GeoinformaticsMarch 2008 - Feb 2009student trainee
- Education Westfälische Wilhems-Universität Münster2005 - 2015program: Geoinformatics
- Nonprofit commitment Code for Münster / Code for GermanyFeb 2014 - Nov 2015Lab Lead
- Münster Cardianls e.</description>
-    </item>
+		<item>
+			<title>Two-year anniversary</title>
+			<link>/articles/2016-08-01-two-years/</link>
+			<pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-08-01-two-years/</guid>
+			<description>&lt;p&gt;Wow, I can’t believe it! It’s been two years already. I did it! :)&lt;br /&gt;
+Today I’m in business for two years with my company &lt;a href=&#34;https://civicvision.de&#34;&gt;Civic Vision&lt;/a&gt;. I founded the company on Aug. 2014 and am happy to report that we’re still operating and growing every year.&lt;/p&gt;
+
+&lt;p&gt;Our revenue grew every year and our profit as well.&lt;/p&gt;
+
+&lt;p&gt;I had the opportunity to work with awesome companies and organizations such as Code for America, Open Knowledge Foundation Germany, Worldbank, 18f, Terranodo.&lt;/p&gt;
+
+&lt;p&gt;I had fun working on civic tech and social problems. I’m glad I made my passion for civic tech and Open Data to my profession and started Civic Vision in 2014.&lt;/p&gt;
+
+&lt;p&gt;I strive to make Civic Vision a success and grow it further. I plan to hire at least one employee this year or maybe next year to support me. It will help me grow even further and focus more on the business side.&lt;/p&gt;
+
+&lt;p&gt;Running a business is tough and keeping the cash flowing in. And paying all the bills and your salary is exhausting at times.  But it is fun and energizing. I love working for myself and my clients and make the projects a success for them.&lt;/p&gt;
+
+&lt;p&gt;I will continue working on my business and trying out new things. I want to support my family and the community with the work I do.&lt;/p&gt;
+
+&lt;p&gt;Thanks for letting me do what I love.&lt;/p&gt;
+
+&lt;p&gt;If you want to work with me, get in touch: &lt;a href=&#34;https://civicvision.de&#34;&gt;Civic Vision&lt;/a&gt;&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title></title>
-      <link>/projects/election-map/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/election-map/</guid>
-      <description></description>
-    </item>
+		<item>
+			<title>Podcasts I listen to regularly</title>
+			<link>/articles/2016-07-28-podcasts/</link>
+			<pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-07-28-podcasts/</guid>
+			<description>&lt;p&gt;I listen to podcast for a while now. I started with technical podcast like giant robots smashing into other giant robots, ruby rogues, nsbrief, etc.
+I love listen to podcasts even about technical stuff. I think I have an easier time listening to something than to read a blogpost. I can listen to them while walking my dog, riding my bike to college back in the days or taking the train.&lt;/p&gt;
+
+&lt;p&gt;Since starting my own business in 2014 I listen to more and more business and freelance related podcasts.&lt;/p&gt;
+
+&lt;p&gt;Here is the list of podcasts I listen to regularly. You should check them out yourself.&lt;/p&gt;
+
+&lt;p&gt;Business Related:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bootstrappedweb.com&#34;&gt; Bootstrapped Web &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://makemoneyonline.exposed&#34;&gt; Make Money Online &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devchat.tv/freelancers&#34;&gt; The Freelancer Show &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doubleyourfreelancing.com/podcast/&#34;&gt; Double your freelancing podcast &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://giantrobots.fm&#34;&gt; Gigant Robots Smashing into other Giant robots &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://entreprogrammers.com/&#34;&gt; Entreprogrammer &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Productize Podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://artofvalue.com/show/&#34;&gt; The Art of Value &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Three Month Vacation Podcast&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Data Related:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://fivethirtyeight.com/tag/whats-the-point/&#34;&gt; What’s the Point &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GovEx Data Points&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;San Diego related:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Voice of San Diego Podcast&lt;/li&gt;
+&lt;li&gt;San Diego Stories&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are the ones I listen regularly too.
+I tried the following as well but stopped at some point. Although it might be interesting to investigate why that was the case.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not so Standard Deviations&lt;/li&gt;
+&lt;li&gt;San Diego Decides&lt;/li&gt;
+&lt;li&gt;The Changelog&lt;/li&gt;
+&lt;li&gt;Ruby Rogues&lt;/li&gt;
+&lt;li&gt;Javascript Jabber&lt;/li&gt;
+&lt;li&gt;Data Stories&lt;/li&gt;
+&lt;li&gt;A verySpatial Podcast&lt;/li&gt;
+&lt;li&gt;The Bike Shed&lt;/li&gt;
+&lt;li&gt;Ui Breakfast Podcast&lt;/li&gt;
+&lt;li&gt;Elixir Foubtain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I know that are a lot of podcasts. But I love listening to them. I don&amp;rsquo;t listen to every new episode every week. But I can listen to two to three a day once in a while :)&lt;/p&gt;
+
+&lt;p&gt;What podcasts do you listen to? Let me know.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>About Me</title>
-      <link>/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/me/</guid>
-      <description>2013 changed my future. Early in the year 2013, I switched part-time jobs while I was studying Geoinformatics. I went from an advertising agency where I created web pages for clients to a software consultancy with a whole new level of and appreciation of the software development craft.
-This consultancy helped me so much in my development as a developer as well as my view of technology and how a company should be run.</description>
-    </item>
+		<item>
+			<title>Inbox Zero</title>
+			<link>/articles/2016-07-27-inbox-zero/</link>
+			<pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-07-27-inbox-zero/</guid>
+			<description>&lt;p&gt;I&amp;rsquo;m happy to be able to say: I&amp;rsquo;m back at &lt;strong&gt;Inbox Zero&lt;/strong&gt;&lt;br /&gt;
+After my last trip staying at a friends place for a week, my emails started to pile up, and my filters were not any good anymore.&lt;br /&gt;
+So I used the last two days to clean up my inbox and add more and better filters to my inboxes.&lt;/p&gt;
+
+&lt;p&gt;I started with my personal account because it&amp;rsquo;s easier to clean up. There is still work left to do, but I deleted a bunch of emails and added a lot of new newsletters to my filters. Although I probably should have taken it even a step further and unsubscribe from a lot more. There are a bunch of them I don&amp;rsquo;t read daily. And my newsletter folder is getting a ridiculous amount of emails every day.&lt;br /&gt;
+And I probably should move some of the newsletters and automatic emails to my business account where they belong.&lt;/p&gt;
+
+&lt;p&gt;Next up was my business account. It took me way longer to clean this up. And this has frustrated me the most. But I’m glad I did it and feeling much better now. The filters are not as ready as I would like, but they’re working, and I can keep my inbox clean. Not having a red circle on my mail app is a relief and helps me keep my focus.&lt;br /&gt;
+I’m not at Inbox Zero just yet, just at Inbox Unread Zero. But I’m getting there.&lt;br /&gt;
+Hopefully, I can maintain Inbox Zero throughout the week and the next month at least.&lt;/p&gt;
+
+&lt;p&gt;I try not to check my email that often and try to keep my app closed while I’m focussed on programming.&lt;br /&gt;
+And I need to do a better job at it, but Inbox Zero is helping a lot. Because I know even when I open my mail app there are only a handful of emails I have to take care off.&lt;/p&gt;
+
+&lt;p&gt;What do you do to keep your Inbox fresh and maybe even at Zero? Would love to hear your methods and thoughts on that.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title></title>
-      <link>/hire-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hire-me/</guid>
-      <description> </description>
-    </item>
+		<item>
+			<title>Help families in need: MapSwipe</title>
+			<link>/articles/2016-07-26-mapswipe/</link>
+			<pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-07-26-mapswipe/</guid>
+			<description>
+
+&lt;p&gt;A new app launched a little more than a week ago called MapSwipe. And it is great; I try to use it every day.&lt;br /&gt;
+You help families with mapping certain areas of the world. But it is mapping you can do without a geospatial background.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-the-purpose&#34;&gt;What’s the purpose&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With every swipe and tap, you help put families on the map&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That’s how they describe their app. And it is that simple. You will help map families so that in a humanitarian crisis they can get help from Humanitarian organizations.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;And, although it may be hard to believe, millions people around the world are not represented on any accessible map.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As sad as it is it is the truth, and you can help change that. There are several organizations and ways you can help map the world and make a difference. For example &lt;a href=&#34;https://hotosm.org&#34;&gt;HOTOSM&lt;/a&gt; (The Humanitarian OpenStreetMap Team) has a TaskManager where they ask you to map certain areas of the world. But you need to know OpenStreetMap and how to edit maps and should be comfortable editing maps. It is an awesome effort and thousands already helped them.&lt;/p&gt;
+
+&lt;h2 id=&#34;making-it-easy&#34;&gt;Making it easy&lt;/h2&gt;
+
+&lt;p&gt;Mapswipe makes it easy to help and contribute. Your task is to look at satellite images and find certain things in these images. The current maps ask you to find houses and roads. And with every tap you map something and with a swipe you get a set of new images.&lt;/p&gt;
+
+&lt;p&gt;Let’s have a look at how this works.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Download the app :) Here is the link: &lt;a href=&#34;https://itunes.apple.com/us/app/mapswipe/id1133855392?ls=1&amp;amp;mt=8&#34;&gt;App Store&lt;/a&gt; &lt;a href=&#34;https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&#34;&gt;Google Play Store&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Select an area of the world&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Start mapping. :)
+You can either single tap if you’re sure and it get’s green, or double tap if you’re unsure or even tap thrice if the image is bad and you can’t see anything.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;{{ site.url }}/assets/images/mapswipe.png&#34; alt=&#34;MapSwipe&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then you swipe left to get the new images.&lt;br /&gt;
+You can even work offline and download the map and map on your commute when your internet connection is not very good. (very handy).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Missing Maps project is a collaborative project in which a large and committed community of NGOs, academic institutes, companies and most of all individual mappers map vulnerable areas in OpenStreetMap. By using MapSwipe to identify where communities are located, you also give these mappers the ability to use their talents to map the towns and villages in these areas without having to search through miles of jungle and bush to find them, saving time and helping to put valuable data into the hands of field teams even faster.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Start by downloading the app and read this &lt;a href=&#34;http://www.missingmaps.org/blog/2016/07/18/mapswipetutorial/&#34;&gt;tutorial&lt;/a&gt; and the introduction &lt;a href=&#34;http://www.missingmaps.org/blog/2016/07/14/mapswipe/&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Now</title>
-      <link>/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/now/</guid>
-      <description> Last updated: 16.03.2020
-Right now I’m in Berlin with my wife and our dog Ruby. I’m currently working with Bertelsmann Stiftung on an ML prototype categorizing German Open Data.
-I&amp;rsquo;m booked for the next couple of months.
-I’m available for work in May 2020.
-Next conferences I plan to attend/talk Due to the Corvid-19 pandemic I won&amp;rsquo;t be travelling until later this year.
- GoodTechFest 2020, Chicago FOSS4G 2020, Calgary FOSS4G Oceania, Fiji  Next family trips  Stuttgart  What I will be working on  Improve your organizations outreach by creating data visualizations to increase engagement Help your organization to tell stories with data Help organizations find Open Data for their projects and reports Improve or create data pipelines for organizations Help grow your civic tech prototype to a more mature application  What I will not be working on  Projects without an social impact Random Javascript/react/angular projects  </description>
-    </item>
+		<item>
+			<title>Progress Update: Civic Tech Project</title>
+			<link>/articles/2016-07-25-drinking-water/</link>
+			<pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-07-25-drinking-water/</guid>
+			<description>
+
+&lt;p&gt;Last week I decided I should do something with the newly released &lt;a href=&#34;http://data.sandiego.gov&#34;&gt;Open Data Portal&lt;/a&gt; of the City of &lt;a href=&#34;http://sandiego.gov&#34;&gt;San Diego&lt;/a&gt;.
+And I thought about Data Sets where I could reuse/redeploy apps from other cities. There are 44 datasets in the current portal, and I wanted to use something that could be done relatively quickly but still would be an improvement.&lt;/p&gt;
+
+&lt;h2 id=&#34;finding-the-right-dataset&#34;&gt;Finding the right dataset&lt;/h2&gt;
+
+&lt;p&gt;After looking through several datasets and trying to find apps that I could easily reuse and redeploy I found the &lt;a href=&#34;http://data.sandiego.gov/dataset/monitoring-select-chemical-parameters-drinking-water/&#34;&gt;„Monitoring of select chemical parameters in drinking water“&lt;/a&gt; dataset and I remembered an &lt;a href=&#34;http://opendatalab.de/projects/trinkwasser/&#34;&gt;app&lt;/a&gt; from &lt;a href=&#34;http://codefor.de/heilbronn/&#34;&gt;Code for Heilbronn&lt;/a&gt;, Germany about drinking water quality.
+Several cities in Germany already redeployed the app, so I thought this should be relatively straightforward.&lt;/p&gt;
+
+&lt;h2 id=&#34;transforming-the-data&#34;&gt;Transforming the data&lt;/h2&gt;
+
+&lt;p&gt;After looking at the app and the dataset, I realized that I have first to reorganize the data to be useful for this project. Since I have done this already several times, I went on to create Makefile with whom I could clean and reformat the data.
+The app needed JSON data so I used an awesome tool: &lt;a href=&#34;https://stedolan.github.io/jq/manual/&#34;&gt;jq&lt;/a&gt;
+It helps in transforming JSON data and cleaning it while doing it. You can check out the Makefile &lt;a href=&#34;https://github.com/CivicVision/trinkwasser/tree/master/etl&#34;&gt;here&lt;/a&gt;, and I will have another blog post about jq soon.&lt;/p&gt;
+
+&lt;p&gt;Once I got the data, I added them to the app and realized that I have to make more changes than I anticipated.&lt;/p&gt;
+
+&lt;h2 id=&#34;making-it-easier-to-redeploy&#34;&gt;Making it easier to redeploy&lt;/h2&gt;
+
+&lt;p&gt;But I took the chance to revamp the app and make it even easier for others to adopt it for their city. I started with creating a configuration file where you would add the city name, the data URL and the active measure. Add the locations for each water plant and the measures you want to show.
+Then I transformed the app to use the configuration in the build process to generate a static site out of it. There is no need just now to have it done dynamically at runtime.
+It was already using Grunt, so I added the template library Handlebars to pre-generate the template.&lt;/p&gt;
+
+&lt;p&gt;This got me somewhere I the app was already quite usable. But there was one big problem.
+The site was in German.&lt;/p&gt;
+
+&lt;h2 id=&#34;translating&#34;&gt;Translating&lt;/h2&gt;
+
+&lt;p&gt;So I needed to translate it.
+But just translating it would be a waste so I decided to use gettext and po files to generate the translations. And since it is a static site it is again already done in the build process. It took me some time to get it to work, but now the app is almost fully translated and could be used with any language.&lt;/p&gt;
+
+&lt;p&gt;There are still a few things I would like to do with the app, but I’m quite satisfied how far I’ve come in just two days.&lt;/p&gt;
+
+&lt;p&gt;If you want to follow the progress keep an eye on my &lt;a href=&#34;http://milafrerichs.de/blog&#34;&gt;blog&lt;/a&gt; and &lt;a href=&#34;https://github.com/CivicVision/trinkwasser&#34;&gt;GitHub&lt;/a&gt; :)&lt;/p&gt;
+
+&lt;p&gt;And if you want to help bring it to your city or translate it into another language just ping me.&lt;/p&gt;
+
+&lt;h2 id=&#34;things-i-plan-for-the-app&#34;&gt;Things I plan for the app:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add tests (there are none right now)&lt;/li&gt;
+&lt;li&gt;More documentation (almost none)&lt;/li&gt;
+&lt;li&gt;I need to research the country/city limits on the measurements&lt;/li&gt;
+&lt;li&gt;Update the data automatically in some way (just showing April measurements right now)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And here is the link to the app: &lt;a href=&#34;http://civicvision.de/trinkwasser/&#34;&gt;http://civicvision.de/trinkwasser/&lt;/a&gt;&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title></title>
-      <link>/legal/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/legal/privacy/</guid>
-      <description>Datenschutzerklärung: Datenschutz
-Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</description>
-    </item>
+		<item>
+			<title>How I keep myself healthy and inspired while working for myself</title>
+			<link>/articles/2016-07-21-activities/</link>
+			<pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-07-21-activities/</guid>
+			<description>
+
+&lt;p&gt;Working for yourself can get lonely and monotone. Here are a few things I do to stay active and inspired.&lt;/p&gt;
+
+&lt;h2 id=&#34;activities&#34;&gt;Activities&lt;/h2&gt;
+
+&lt;p&gt;I love doing sports. I’m a very active and sport-hungry person. And I love team-sports. I play Softball for almost ten years now, and I love going to tournaments, compete and have fun with friends. I met my wife through Softball, and I’m very grateful for that.
+But even walking my dog is an activity I enjoy most of the time.&lt;/p&gt;
+
+&lt;p&gt;Here is a list of my activities during the summer and winter.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Softball&lt;/li&gt;
+&lt;li&gt;Wakeboarding&lt;/li&gt;
+&lt;li&gt;Snowboarding&lt;/li&gt;
+&lt;li&gt;Mountain climbing&lt;/li&gt;
+&lt;li&gt;Indoor jumping&lt;/li&gt;
+&lt;li&gt;Inline skating&lt;/li&gt;
+&lt;li&gt;Walking my dog&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;inspirations&#34;&gt;Inspirations&lt;/h2&gt;
+
+&lt;p&gt;Before getting my dog, I went to several meetups. It is more difficult now that I own a dog, and she cannot be alone for that long just yet. I always thought about bringing her to one of these meetups. But I&amp;rsquo;m not sure. I brought her to ElixirConf, and that was good. Let&amp;rsquo;s see.&lt;/p&gt;
+
+&lt;p&gt;But since having my dog I go outside more often. I start to enjoy nature a bit more, the silence, the smells (positive and negative), the fresh air.&lt;/p&gt;
+
+&lt;p&gt;Although even in the city you can get inspired. Berlin has so much good street art, so many events, I love being back.
+Riding the subway alone brings me joy and relaxes me.&lt;/p&gt;
+
+&lt;p&gt;I love to travel. And try to get to as much places as possible I never been before. I&amp;rsquo;ll share my bucket list in a different post soon.
+While traveling, I always try to get to know locals or go to places locals go. I usually stay at an Airbnb and try to get as many insights from the host as possible. I avoid the tourist hot spots if possible.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Talks/Workshops</title>
-      <link>/talks-workshops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/talks-workshops/</guid>
-      <description> Talks I like giving talks and go to conferences.
-My upcoming talks My previous talks Distraction-free (online) maps NACIS, 2019  Rapid and repeatable geospatial analysis with python and node using notebooks FOSS4G UK, 2019  Let&amp;#39;s talk about maps Good Tech Fest, 2019  Rapid and repeatable geospatial analysis with python and node using notebooks FOSS4G NA, 2019  Fast and cost effective geospatial data analysis pipeline with AWS (Lambda) FOSS4G Oceania, 2018  Mapping with d3 Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Fail fast and iterate quickly Good Tech Fest, 2018  Workshops My upcoming workshops My previous workshops Geospatial data visualizations with d3 NACIS, 2019  Geospatial data visualizations with d3 FOSS4G UK, 2019  Geospatial data visualizations with d3 FOSS4G NA, 2019  Geospatial data visualizations with d3 FOSS4G Oceania, 2018  Mapping with d3 FOSS4G, 2017  Mapping in d3 FOSSGIS, 2014  </description>
-    </item>
+		<item>
+			<title>See you at these conferences!</title>
+			<link>/articles/2016-07-20-conferences/</link>
+			<pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-07-20-conferences/</guid>
+			<description>
+
+&lt;p&gt;I went to just a few conferences this year just yet but plan on going to a few more. Conferences are a good way to connect with people, learn more about your craft or other people&amp;rsquo;s business and get in the mindset of learning and speaking/socializing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doubleyourfreelancing.com/&#34;&gt;Brennan Dunn&lt;/a&gt; recently tweeted something which struck a nerve with me, and I regretted not going to &lt;a href=&#34;https://doubleyourfreelancing.com/euconf/&#34;&gt;DYFC&lt;/a&gt; in Sweden this year.
+But I will go to more conferences next year and a few more business conferences as well, and DYFC 2017 is already on my calendar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Investment mindset: sacrificing short term gain (billable work) and revenue for creating and cultivating relationships w/ peers.&amp;rdquo;
+&lt;cite&gt;Brennan Dunn&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;previous-and-future-conferences&#34;&gt;Previous and future conferences&lt;/h3&gt;
+
+&lt;p&gt;I will post reviews of each of the past and future conferences I attend but am not there yet.&lt;/p&gt;
+
+&lt;p&gt;The previous conferences are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nten.org/ntc/&#34;&gt;NTEN 2016&lt;/a&gt; in San Jose, CA, USA (March)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.elixirconf.eu/&#34;&gt;Elixir Conf EU&lt;/a&gt;, Berlin, Germany (May)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://transparencycamp.eu/&#34;&gt;TransprencyCamp EU&lt;/a&gt;, Amsterdam, Netherlands (June)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There were a few conferences I wanted to attend but could not. I wanted to go to &lt;a href=&#34;http://www.dogooddata.com/&#34;&gt;Do Good Data&lt;/a&gt;, but I got my puppy Ruby mid-April, and I could not leave her alone at that time.
+The same is true for &lt;a href=&#34;https://www.mysociety.org/research/tictec-2016/&#34;&gt;TICTeC&lt;/a&gt; in Barcelona; I wanted to go but when I decided to go and was sure that my puppy would get cared for there were no tickets available anymore.
+&lt;a href=&#34;http://csvconf.com/&#34;&gt;CSVConf&lt;/a&gt; happened in May, but I had to do a lot of work in May since I took April off to take care of my puppy.
+But these conferences are all on my list for next year to attend.&lt;/p&gt;
+
+&lt;p&gt;The conferences I want to attend soon are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eventbrite.co.uk/e/barcampnfp-london-august-2016-tickets-26440774067&#34;&gt;Barcamp Non-profit&lt;/a&gt;, London, UK&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2016.foss4g.org/home.html&#34;&gt;FOSS4G&lt;/a&gt;, Bonn, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microconfeurope.com/&#34;&gt;MicroConf Europe&lt;/a&gt;, Barcelona, Spain (not sure yet)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opendatacon.org/&#34;&gt;International Open Data Conference&lt;/a&gt;, Madrid Spain&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://theodi.org/panel-discussions/odi-summit-and-awards-2016&#34;&gt;Open Data Insitute Summit&lt;/a&gt;, London, UK (depends on my vacation schedule)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codeforamerica.org/summit&#34;&gt;Code for America Summit&lt;/a&gt;, Oakland, CA, USA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you plan to go to one of these or already booked your ticket: Let&amp;rsquo;s get in touch and connect at the conference.&lt;/p&gt;
+</description>
+			
+		</item>
     
-    <item>
-      <title>Themes</title>
-      <link>/themes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/themes/</guid>
-      <description>Instead of goals I adapted an approach by Brian Casel using themes.
-I think this is more aligned with my thinking and lifestyle.Here are my themes as of February 2019.
-Travel to at least two new cities/regions I want to explore more of the world.
-Last year I managed to visit 4 continents. Only one is left: Antartica
-This can be challenging but I want to make it someday.</description>
-    </item>
+		<item>
+			<title>Three new habits to get better at writing</title>
+			<link>/articles/2016-07-19-habits/</link>
+			<pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2016-07-19-habits/</guid>
+			<description>&lt;p&gt;I want to start a few habits and it’s tough to find the right ones to start and to maintain.&lt;/p&gt;
+
+&lt;p&gt;Getting into habits is all about consistency and trying to find the balance of too little or too much. But I think publicly committing to something is a good first step to getting really into habits.&lt;/p&gt;
+
+&lt;p&gt;I tried for the last months to get into reading and writing habit. And I must admit both are not doing great. But with this blog and my new public commitment, I think I can accomplish both.&lt;/p&gt;
+
+&lt;p&gt;So as a result of this I commit to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read at least &lt;strong&gt;three pages&lt;/strong&gt; of a book &lt;strong&gt;every day&lt;/strong&gt;. It does not have to be a technical book, but I have to read at least three pages&lt;/li&gt;
+&lt;li&gt;Write at least &lt;strong&gt;200 words every day&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Publish a blog post &lt;strong&gt;every weekday&lt;/strong&gt; for the next two month.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It does feel good to commit to something publicly, and I hope to get into a habit out of these commitments.&lt;/p&gt;
+
+&lt;p&gt;If you have a good app to track, your commitments let me know. I did not found one I was satisfied with just yet.&lt;/p&gt;
+
+&lt;p&gt;These are the books I currently read:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Just Fucking Ship&lt;/li&gt;
+&lt;li&gt;Dependable&lt;/li&gt;
+&lt;li&gt;The UI Audit&lt;/li&gt;
+&lt;li&gt;The Positioning Manual&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			
+		</item>
+    
+		<item>
+			<title>Nokogiri Search Helper</title>
+			<link>/articles/2014-01-31-nokogiri-helper/</link>
+			<pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+			
+			<guid>/articles/2014-01-31-nokogiri-helper/</guid>
+			<description>&lt;p&gt;I recently used &lt;a href=&#34;www.scraperwiki.com&#34;&gt;Scraperwiki&lt;/a&gt; to scrape some data off a couple of sites.&lt;br /&gt;
+During the development process (which I will describe in a coming post) I encountered some repetitive code/task. I then refactored the code and wrote a small class which I then would use for every site.&lt;/p&gt;
+
+&lt;p&gt;Most often you want the first text of the matching selector and the attr of the first element matching.&lt;/p&gt;
+
+&lt;p&gt;You can find the class here:
+{% gist 8491837%}&lt;/p&gt;
+</description>
+			
+		</item>
     
   </channel>
 </rss>
