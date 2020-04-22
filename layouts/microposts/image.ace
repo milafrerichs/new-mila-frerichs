@@ -1,0 +1,23 @@
+= content nav
+  {{ partial "nav" . }}
+= content main
+  article
+    header
+      span.block.text-grey-dark.uppercase.font-semibold.text-xs.tracking-wide.mb-2 {{dateFormat "Jan 2, 2006" .Date}}
+      h1.font-sans.text-4xl.text-black.font-bold.mb-4
+        {{.Title}}
+      .mt-8
+        img src="https://res.cloudinary.com/civicvision/image/upload/{{ .Params.image}}"
+
+
+    .mt-16.flex.justify-between
+      {{ with .PrevInSection }}
+        a class="" href="{{.Permalink}}" &laquo; {{.Title}}
+      {{ end }}
+      {{ with .NextInSection }}
+        a class="" href="{{.Permalink}}" &raquo; {{.Title}}
+      {{ end }}
+
+= content footer
+  {{ partial "footer" . }}
+
