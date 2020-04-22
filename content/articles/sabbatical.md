@@ -1,6 +1,7 @@
 +++
 date = 2019-12-08T23:00:00Z
 title = "Sabbatical"
+featured = ["frontpage"]
 [card]
 description = ""
 [image]

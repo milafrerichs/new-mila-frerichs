@@ -11,5 +11,9 @@
       {{ partial "observable" . }}
     {{ end  }}
 
+    .mt-16
+      h4 My Favorite articles
+      {{ partial "articles" (dict "context" . "type" "frontpage" "limit" 5)}}
+
 = content footer
   {{ partial "footer" . }}
