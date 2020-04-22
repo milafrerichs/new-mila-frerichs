@@ -21,3 +21,10 @@ fields:
     schema:
       format: markdown
   label: description
+- name: template
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: template
+  default: image-micropost
