@@ -1,0 +1,11 @@
+{{ $type := .type }}
+{{ $limit := .limit | default 3 }}
+{{ $currentPage := .context }}
+ul
+  {{ with ($.context.Site.GetPage (printf "/featured/%s" $type))  }}
+    {{range first $limit .Pages}}
+      {{ if ne $currentPage .}}
+        {{ partial (printf "%s-list-item.html" $type) . }}
+      {{end}}
+    {{end}}
+  {{end}}

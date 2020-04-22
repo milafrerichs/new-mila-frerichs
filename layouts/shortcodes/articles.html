@@ -7,14 +7,9 @@
   {{.Inner | markdownify}}
 </div>
 {{ end }}
-<ul>
-  {{ $type := .Get 0}}
-  {{ with ($.Site.GetPage (printf "/featured/%s" $type))  }}
-    {{range .Pages}}
-      {{ partial (printf "%s-list-item.html" $type) . }}
-    {{end}}
-  {{end}}
-</ul>
+{{ $type := .Get 0}}
+{{ $limit := .Get 1 | default 5 }}
+{{ partial "articles" (dict "context" . "type" $type "limit" $limit)}}
 {{ if eq $type "frontpage"}}
   <a class="mt-4" href="/articles">&raquo; Read all</a>
 {{end}}

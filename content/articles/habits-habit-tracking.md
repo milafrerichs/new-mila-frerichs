@@ -1,6 +1,7 @@
 +++
 date = 2020-01-07T07:00:00Z
 title = "Habits & Habit Tracking"
+featured = ["frontpage"]
 [card]
 description = ""
 [image]
