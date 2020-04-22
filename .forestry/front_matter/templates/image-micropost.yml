@@ -1,4 +1,23 @@
 ---
 label: Image Micropost
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
+- name: caption
+  type: text
+  config:
+    required: false
+  label: caption
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
