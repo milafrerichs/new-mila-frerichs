@@ -1,8 +1,7 @@
 +++
 canonical = ""
-date = ""
+date = 2020-04-23T15:00:00Z
 description = ""
-draft = true
 images = []
 keywords = []
 title = "Taking breaks"
