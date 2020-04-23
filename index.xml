@@ -6,11 +6,30 @@
     <description>Articles and microposts from milafrerichs.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2020 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 15:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
 		
+		<item>
+			<title>Taking breaks</title>
+			<link>/microposts/taking-breaks/</link>
+			<pubDate>Thu, 23 Apr 2020 15:00:00 +0000</pubDate>
+			
+			<guid>/microposts/taking-breaks/</guid>
+			<description>&lt;p&gt;I (try to) use the &lt;a href=&#34;https://francescocirillo.com/pages/pomodoro-technique&#34;&gt;Pomodoro technique&lt;/a&gt; as often as possible.&lt;/p&gt;
+
+&lt;p&gt;I have an app for my watch to start a 25-minute focus session.&lt;/p&gt;
+
+&lt;p&gt;And the goal is to focus for 25 minutes on a task and then take a short 5-minute break.&lt;/p&gt;
+
+&lt;p&gt;I always get more done when I use that technique. The break is the reward for the focus work. As far as I am concerned :) I don&amp;rsquo;t fall into the trap of distracting myself too much when I use the Pomodoro technique.&lt;/p&gt;
+
+&lt;p&gt;But I sometimes just forget to use it. Especially when I’m not sure what to work on. But this should be the time to use it and it&amp;rsquo;s a reminder for myself to better plan my day.&lt;/p&gt;
+</description>
+			
+		</item>
+    
 		<item>
 			<title>chilling in the sun</title>
 			<link>/microposts/chilling-april-stay-home/</link>

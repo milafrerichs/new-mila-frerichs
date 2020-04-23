@@ -6,10 +6,22 @@
     <description>Recent content in Microposts on Mila Frerichs, Data Visualization consultant for social good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2020 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 15:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/microposts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taking breaks</title>
+      <link>/microposts/taking-breaks/</link>
+      <pubDate>Thu, 23 Apr 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/microposts/taking-breaks/</guid>
+      <description>I (try to) use the Pomodoro technique as often as possible.
+I have an app for my watch to start a 25-minute focus session.
+And the goal is to focus for 25 minutes on a task and then take a short 5-minute break.
+I always get more done when I use that technique. The break is the reward for the focus work. As far as I am concerned :) I don&amp;rsquo;t fall into the trap of distracting myself too much when I use the Pomodoro technique.</description>
+    </item>
     
     <item>
       <title>chilling in the sun</title>
