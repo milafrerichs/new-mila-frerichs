@@ -6,11 +6,21 @@
     <description>Articles and microposts from milafrerichs.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 09:27:25 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
 		
+		<item>
+			<title>Dog life</title>
+			<link>/microposts/dog-life/</link>
+			<pubDate>Fri, 24 Apr 2020 09:27:25 +0000</pubDate>
+			
+			<guid>/microposts/dog-life/</guid>
+			<description></description>
+			
+		</item>
+    
 		<item>
 			<title>Taking breaks</title>
 			<link>/microposts/taking-breaks/</link>
