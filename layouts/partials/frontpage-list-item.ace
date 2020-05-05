@@ -1,3 +1,1 @@
-li.mt-3
-  a href="{{.RelPermalink}}" class="no-underline hover:underline"
-    {{.Title}}
+{{ partial "link-list-item" .}}

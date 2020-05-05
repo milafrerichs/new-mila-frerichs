@@ -3,6 +3,7 @@ title: Licenses and formats on data.gov
 date: 2018-10-30 16:08:58 +0000
 viz: true
 featured: ["frontpage"]
+tags: ["open-data", "metadata"]
 ---
 While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
 

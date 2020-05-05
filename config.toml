@@ -7,6 +7,7 @@ keywords = ["Data Visualization", "Consultant", "Data Storytelling", "Geospatial
 [taxonomies]
 featured = "featured"
 category = "categories"
+tag = "tags"
 
 [params]
   description = "Mila Frerichs is a Data Visualization Consultant who helps civic advocacy groups improve the life of citizens with the help of Open Data. He uses the power of public open data and open source to build tools and (geospatial) data visualizations to increase transparency and accountability. He uses his software development skills for social good. "

@@ -1,0 +1,8 @@
+{{ $currentPage := .Page }}
+{{ $type := .Get 0 | default $currentPage.Params.garden_type }}
+ul.list-reset
+  {{ with (.Site.GetPage (printf "/tags/%s" $type))  }}
+    {{range .Pages}}
+      {{ partial "link-list-item" . }}
+    {{ end }}
+  {{ end}}
