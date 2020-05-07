@@ -12,7 +12,11 @@
     "y": {
       "field": "name",
       "sort": {"field": "count", "op": "sum", "order": "descending"},
-      "type": "ordinal"
+      "type": "ordinal",
+      "axis": {
+          "labelLimit": 400
+      },
+      "title": ""
     }
   },
   "mark": "bar"
