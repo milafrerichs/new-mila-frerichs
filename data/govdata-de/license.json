@@ -1,0 +1,19 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "data": {
+    "format": {
+      "property": "result.search_facets.license_title.items",
+      "type": "json"
+    },
+    "url": "https://gist.githubusercontent.com/milafrerichs/85843884fb663d5435d93d81cb09ab50/raw/68f387a2f640ed08cd988f32865dba9fa25f4aad/license.json"
+  },
+  "encoding": {
+    "x": {"field": "count", "type": "quantitative"},
+    "y": {
+      "field": "name",
+      "sort": {"field": "count", "op": "sum", "order": "descending"},
+      "type": "ordinal"
+    }
+  },
+  "mark": "bar"
+}
