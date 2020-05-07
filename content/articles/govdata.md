@@ -16,9 +16,7 @@ It is fast and updates automatically because it is using the API rather than a s
 
 The most used format is a blank format, which means the metadata is not correct. Which is unfortunate. The second most used data format is HTML. Which is weird as well. But I see this often with data portals, they just link to a page and not to a dataset and then CKAN assumes it is just HTML and not the actual data format.
 
-<div id="govdata-formats"></div>
-
-{{% viz data="govdata/formats" id="#govdata-formats" width="700" %}}
+{{< viz data="govdata/formats" id="govdata-formats" width="700" >}}
 
 Or let's take a look at the licences used by gov.data. The most used license is the us-pd which is the [U.S. Government Works license](https://www.usa.gov/government-works).
 
@@ -26,6 +24,4 @@ Or let's take a look at the licences used by gov.data. The most used license is 
 
 Which is a great sign that most of the licenses in the US is an open license. That is not the case in Germany.
 
-<div id="govdata-licenses"></div>
-
-{{% viz data="govdata/licenses" id="#govdata-licenses" width="700" %}}
+{{< viz data="govdata/licenses" id="govdata-licenses" width="700" >}}
