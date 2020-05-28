@@ -11,6 +11,7 @@
     - Makefiles
   list:
   - "appalachia"
+  - "mlab"
 - title: How Americans Sleep
   type: visualization
   work: private
@@ -77,6 +78,7 @@
   list:
   - "stamen"
   - "appalachia"
+  - "mlab"
 - title: Precision Farming
   type: application
   featured: true
@@ -88,11 +90,11 @@
     Creating an __interactive map__ with the ability to create fields and
     application maps. 
   technologies:
+  - react
   - mapbox-draw
   - rasterio
   - Jupyter Notebooks
   - mapbox
-  - react
   languages:
   - JavaScript
   - Python
@@ -102,6 +104,7 @@
   list:
   - "stamen"
   - "salzbrunn"
+  - "mlab"
 - title: Election Map
   description: "During the 2014 local election in the town I was living at the time
     I created an __live-updating__, interactive election map. \n"
@@ -170,6 +173,7 @@
   - "stamen"
   - "appalachia"
   - "salzbrunn"
+  - "mlab"
 - title: 'Recovery Dashboard'
   description: "Following the Mw 7.8 earthquake in Nepal, the World Bank Nepal response
     team has been collecting and curating spatial data useful for damage assessments
@@ -214,6 +218,7 @@
   list:
   - "stamen"
   - "appalachia"
+  - "mlab"
 - title: Travel Safety Map
   description: 'The Travel Safety startup __GeoSure__ wanted to find new revenue models
     for their travel data and reached out to me to help them. I build an __interactive
@@ -270,6 +275,7 @@
   - CKAN
   list:
   - "appalachia"
+  - "mlab"
 - title: WFS Tool
   description: 'The goal was to create a tool to convert WFS features into diferent
     formats without using the command line. The resulting tool would eventually be
@@ -353,4 +359,5 @@
   - JavaScript
   list:
   - "appalachia"
+  - "mlab"
 
