@@ -9,4 +9,6 @@ client: OKF, Finanzministerium Rheinland-Pfalz
 link: "https://opendatazensus.de/"
 languages:
 - Javascript
+description: |
+  Im Auftrag der OKF entwickelte ich eine Haushaltsvisualisierung für das FInanzministerium Rheinland-Pfalz
 ---

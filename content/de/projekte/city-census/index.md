@@ -1,5 +1,5 @@
 ---
-title: Automatisierter Open Data City zensus
+title: "Auto&shy;mati&shy;sierter Open Data City zensus"
 date: "2018-10-18"
 technologies:
   - CKAN
@@ -8,4 +8,6 @@ client: Gefördert vom Bundesministerium für Bildung
 link: "https://opendatazensus.de/"
 languages:
 - Python
+description: |
+  Im Rahmen des Prototypefund entwickelte ich ein automatisiertes Ranking deutscher Kommunaler Open Data Portale.
 ---

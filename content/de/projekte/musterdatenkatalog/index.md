@@ -1,5 +1,5 @@
 ---
-title: Musterdatenkatalog - NRW
+title: "Muster&shy;daten&shy;katalog - NRW"
 date: "2020-04-18"
 technologies:
   - caret
@@ -8,4 +8,6 @@ client: Bertelsmann Stiftung
 link: "https://musterdatenkatalog.de/"
 languages:
 - Python
+description: |
+  Für die Bertelsmann Stiftung erweiterte ich den Prototypen des Musterdatenkatalogs auf ganz NRW.  
 ---
