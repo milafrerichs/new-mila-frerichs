@@ -1,0 +1,19 @@
+<div class="px-8 mt-24 ">
+<div id="featured">
+  <div class="-mx-8 flex w-full flex-wrap">
+  {{ range sort (where $.Site.RegularPages "Section" (.Get 0)) ".Params.date" "desc" }}
+    {{ with .Params}}
+      {{ partial "portfolio-item-medium" . }}
+    {{ end }}
+  {{ end }}
+  </div>
+</div>
+<div id="opendata" class="hidden">
+  <div class="-mx-8 flex w-full flex-wrap">
+  {{ $opendata := (slice "opendata")}}
+  {{ range sort (where $.Site.Data.projects ".list" "intersect" $opendata) "date" "desc" }}
+    {{ partial "portfolio-item-medium" . }}
+  {{ end }}
+  </div>
+</div>
+</div>

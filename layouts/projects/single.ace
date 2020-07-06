@@ -5,11 +5,7 @@
     img.mb-16.shadow-pop src="https://res.cloudinary.com/civicvision/image/upload/{{.Params.cloudinary}}"
     h1.font-sans.text-4xl.text-black.font-bold.mb-4
       {{.Title}}
-    .mb-4
-    .inline-flex.justify-end
-      {{ if .Params.technologies }}
-      .text-xs Technologies: {{ delimit .Params.technologies ", " }}
-      {{ end }}
+    h3.mb-4 {{.Params.work}}
     .font-sans.text-lg.text-grey-darkest.spaced-y-6.leading-normal
       {{.Content}}
 

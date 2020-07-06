@@ -1,10 +1,10 @@
 ---
-title: "Muster&shy;daten&shy;katalog - NRW"
-date: "2020-04-18"
+title: "Open Data Harvester - Berlin"
+date: "2018-06-18"
 technologies:
   - caret
 cloudinary: "milafrerichs.com/projects/musterdatenkatalog.png"
-client: Bertelsmann Stiftung
+client: Technologiestiftung Berlin
 link: "https://musterdatenkatalog.de/"
 categories:
 - opendata

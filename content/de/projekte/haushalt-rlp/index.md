@@ -7,8 +7,12 @@ technologies:
 cloudinary: "milafrerichs.com/projects/open-spending-rp.png"
 client: OKF, Finanzministerium Rheinland-Pfalz
 link: "https://opendatazensus.de/"
+categories:
+- opendata
+- prototyp
+- visualization
 languages:
 - Javascript
 description: |
-  Im Auftrag der OKF entwickelte ich eine Haushaltsvisualisierung für das FInanzministerium Rheinland-Pfalz
+  Im Auftrag der OKF entwickelte ich eine Haushaltsvisualisierung für das Finanzministerium Rheinland-Pfalz
 ---

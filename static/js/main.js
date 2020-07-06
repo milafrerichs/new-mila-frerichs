@@ -28,3 +28,10 @@ addLoadEvent(function () {
     });
   }
 });
+window.addEventListener('scroll', function() {
+  if(window.pageYOffset > 100) {
+    document.querySelector('body').classList.add("scroll")
+  } else {
+    document.querySelector('body').classList.remove("scroll")
+  }
+});

@@ -1,16 +1,16 @@
 ---
-title: "Muster&shy;daten&shy;katalog - NRW"
-date: "2020-04-18"
+title: "WFS Konverter - Berlin"
+date: "2018-04-18"
 technologies:
-  - caret
+- WFS
 cloudinary: "milafrerichs.com/projects/musterdatenkatalog.png"
-client: Bertelsmann Stiftung
+client: Technologiestiftung Berlin
 link: "https://musterdatenkatalog.de/"
 categories:
 - opendata
 - prototyp
 languages:
-- Python
+- Node.js
 description: |
   Für die Bertelsmann Stiftung erweiterte ich den Prototypen des Musterdatenkatalogs auf ganz NRW.  
 ---

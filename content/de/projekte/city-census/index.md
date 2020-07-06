@@ -4,8 +4,11 @@ date: "2018-10-18"
 technologies:
   - CKAN
 cloudinary: "milafrerichs.com/projects/citycensus.png"
-client: Gefördert vom Bundesministerium für Bildung
+client: Gefördert vom Bundesministerium für Bildung und Forschung
 link: "https://opendatazensus.de/"
+categories:
+- opendata
+- prototyp
 languages:
 - Python
 description: |
