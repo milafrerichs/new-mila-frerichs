@@ -12,5 +12,5 @@ categories:
 languages:
 - Javascript
 description: |
-  Für die Bertelsmann Stiftung erweiterte ich den Prototypen des Musterdatenkatalogs auf ganz NRW.  
+  Für das BICC überarbeitete ich im Auftrag der OKF die Waffenexport Karte für bessere Usability und Erweiterbarkeit.
 ---

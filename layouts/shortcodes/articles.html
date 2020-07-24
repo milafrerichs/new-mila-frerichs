@@ -16,5 +16,5 @@
 {{ $limit := .Get 1 | default 5 }}
 {{ partial "articles" (dict "context" . "type" $type "limit" $limit)}}
 {{ if eq $type "frontpage"}}
-<a class="mt-4" href="{{ $page.Permalink }}">&raquo; Read all</a>
+<a class="mt-4" href="{{ $page.Permalink }}">&raquo; {{ i18n "read-all" . }}</a>
 {{end}}

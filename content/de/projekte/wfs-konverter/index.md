@@ -1,9 +1,9 @@
 ---
-title: "WFS Konverter - Berlin"
+title: "Kartentool - Berlin"
 date: "2018-04-18"
 technologies:
 - WFS
-cloudinary: "milafrerichs.com/projects/musterdatenkatalog.png"
+cloudinary: "milafrerichs.com/projects/wfs-tool.png"
 client: Technologiestiftung Berlin
 link: "https://musterdatenkatalog.de/"
 categories:
@@ -12,5 +12,5 @@ categories:
 languages:
 - Node.js
 description: |
-  Für die Bertelsmann Stiftung erweiterte ich den Prototypen des Musterdatenkatalogs auf ganz NRW.  
+  Für die Technologiestiftung Berlin erstellte ich ein Tool um die Kartendaten des FIS-Broker einfach in andere Formate zu verwandeln.
 ---

@@ -3,7 +3,7 @@ title: "Open Data Harvester - Berlin"
 date: "2018-06-18"
 technologies:
   - caret
-cloudinary: "milafrerichs.com/projects/musterdatenkatalog.png"
+cloudinary: "milafrerichs.com/projects/opendata-harvester.png"
 client: Technologiestiftung Berlin
 link: "https://musterdatenkatalog.de/"
 categories:
@@ -12,5 +12,5 @@ categories:
 languages:
 - Python
 description: |
-  Für die Bertelsmann Stiftung erweiterte ich den Prototypen des Musterdatenkatalogs auf ganz NRW.  
+  Für die Technologiestiftung entwickelte ich ein Tool um die Daten des Open Data Portals Berlin zu analysieren.
 ---
