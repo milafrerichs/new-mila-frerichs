@@ -1,5 +1,3 @@
-{{ $lpage := $.Site.GetPage (.Get 1 | default "articles")}}
-{{$lpage.Title}}
 {{ $page := $.Site.Sites.First.GetPage (.Get 1 | default "articles")}}
 {{ range where $page.AllTranslations ".Language.Lang" $.Site.Language.Lang}}
 {{ $page = . }}
