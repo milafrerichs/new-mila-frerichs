@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 title = "Mila Frerichs, Data Visualization consultant for social good"
 enableEmoji = true
 keywords = ["Data Visualization", "Consultant", "Data Storytelling", "Geospatial", "Maps", "visualization for social good", "non-profit", "civic advocacy"]

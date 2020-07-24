@@ -13,6 +13,6 @@
 {{ $type := .Get 0}}
 {{ $limit := .Get 1 | default 5 }}
 {{ partial "articles" (dict "context" . "type" $type "limit" $limit)}}
-{{ if eq $type "frontpage"}}
+{{ if ( and (eq $type "frontpage") (gt (len ($.Site.GetPage "articles").Pages ) $limit))}}
 <a class="mt-4" href="{{ $page.Permalink }}">&raquo; {{ i18n "read-all" . }}</a>
 {{end}}
