@@ -8,7 +8,7 @@ client: Technologiestiftung Berlin
 link: "https://musterdatenkatalog.de/"
 categories:
 - opendata
-- prototyp
+- tool
 languages:
 - Node.js
 description: |

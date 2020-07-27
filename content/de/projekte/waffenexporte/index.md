@@ -8,7 +8,7 @@ client: OKF DE, BICC
 link: "https://armsexportmap.info/"
 categories:
 - opendata
-- prototyp
+- visualization
 languages:
 - Javascript
 description: |

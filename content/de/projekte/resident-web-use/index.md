@@ -8,7 +8,7 @@ client: Code for America
 link: "https://musterdatenkatalog.de/"
 categories:
 - opendata
-- prototyp
+- visualization
 languages:
 - Javascript
 description: |

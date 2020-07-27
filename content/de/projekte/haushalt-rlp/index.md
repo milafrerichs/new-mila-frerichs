@@ -9,7 +9,6 @@ client: OKF, Finanzministerium Rheinland-Pfalz
 link: "https://opendatazensus.de/"
 categories:
 - opendata
-- prototyp
 - visualization
 languages:
 - Javascript

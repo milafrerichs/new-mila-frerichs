@@ -20,3 +20,5 @@ Als die Gründung von Code for Germany im Raum stand, war ich sofort dabei und b
 Im Jahr 2015 ergab sich dann die Möglichkeit aus meiner Freizeitbeschäftigung eine Vollzeitbeschäftigung zu machen und so entschied ich mich ein Unternehmen zu gründen, um im Bereich Civic Tech und Open Data zu arbeiten.  
 
 Seitdem helfe ich hauptsächlich Stiftungen, NGOs und Anstalten des öffentlichen Rechts Open Data und dessen Potentiale aufzuzeigen und zu nutzen.
+
+{{< email class="mt-8" >}}
