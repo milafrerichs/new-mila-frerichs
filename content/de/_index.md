@@ -12,9 +12,9 @@
 
 {{< orgs >}}
 
-{{< get-in-touch >}}
-
 {{< help-with >}}
+
+{{< email class="mt-8" title="get-in-touch">}}
 
 {{< articles "frontpage" >}}
 {{</ articles >}}
