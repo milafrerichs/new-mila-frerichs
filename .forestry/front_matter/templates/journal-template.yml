@@ -15,10 +15,3 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-pages:
-- content/articles/makeover-monday-how-americans-sleep.md
-- content/articles/makeover-monday-how-americans-sleep.md
-- content/articles/vizrisk-challenge-audience.md
-- content/articles/vizrisk-challenge-audience.md
-- content/hot-ramani-huria.md
-- content/photos/photos.md

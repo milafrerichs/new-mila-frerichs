@@ -37,27 +37,4 @@ fields:
     required: false
   label: tweet
 pages:
-- content/articles/attend-garden-your-tools.md
-- content/articles/books-that-i-read-in-2019.md
-- content/articles/bubble-map-radius-tip-for-d3-js.md
-- content/articles/categories-of-podcasts-i-listen-to.md
-- content/articles/css-trick-show-a-fallback.md
-- content/articles/digital-gardening.md
-- content/articles/foss4g-uk-review.md
-- content/articles/habits-habit-tracking.md
 - content/articles/sabbatical.md
-- content/articles/shorthand-functions.md
-- content/articles/speaking-at-conferences.md
-- content/articles/speaking-review-2019.md
-- content/articles/struggling-to-use-the-new-promise-way-of-d3v5.md
-- content/articles/twitter-diet.md
-- content/articles/update-your-packages.md
-- content/articles/update-your-packages.md
-- content/articles/weekday-publishing-challenge.md
-- content/articles/working-with-forestry-and-hugo.md
-- content/microposts/back-into-online-gaming.md
-- content/microposts/email-processing.md
-- content/microposts/limit-playing-games-distraction.md
-- content/microposts/newsletter-relaunch.md
-- content/microposts/taking-breaks.md
-- content/microposts/working-on-my-environment.md
