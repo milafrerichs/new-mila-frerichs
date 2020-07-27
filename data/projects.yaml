@@ -6,12 +6,14 @@
   description: Collecting, cleaning, analyzing and categorizing of Open Data datasets for all municipalities with Open Data portals of NRW in Germany.
   link: http://musterdatenkatalog.de/
   cloudinary: "milafrerichs.com/projects/musterdatenkatalog.png"
+  featured: true
   technologies:
     - R
     - Makefiles
   list:
   - "appalachia"
   - "mlab"
+  - "opendata"
 - title: How Americans Sleep
   type: visualization
   work: private

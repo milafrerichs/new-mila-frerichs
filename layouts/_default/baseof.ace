@@ -20,7 +20,8 @@ html lang=en
     {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
   body
-    main.container.py-8.lg:py-16.px-6.md:px-16 class="lg:px-24" role="main"
+    main.container.py-8.relative role="main"
+      = yield language
       = yield nav
       = yield header
       = yield main

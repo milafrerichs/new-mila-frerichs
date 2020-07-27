@@ -5,7 +5,7 @@
 .shadow-pop.bg-white.flex.h-64.xl:h-128.mb-8.md:mb-16
   .hidden.md:w-2/5.lg:w-1/3.md:flex.flex-col.flex-1.bg-grey-lightest
     .p-10
-      h2.text-3xl.mb-3.xl:mb-6.leading-normal {{.title}}
+      h2.text-3xl.mb-3.xl:mb-6.leading-normal.break-all {{.title | safeHTML }}
       h4.text-grey-darker.font-light.mb-6 {{ default "Private Project" .client }}
       p.text-grey-dark.text-xl.leading-normal.hidden.xl:block
         {{.description | markdownify }}

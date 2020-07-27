@@ -78,6 +78,8 @@ I'm [@milafrerichs](https://twitter.com/milafrerichs) on twitter and almost ever
 
 I write about Civic Tech, Open Data, mapping and vizualizations on my [blog](/articles) and about mapping with d3 at [Mapping with d3](https://mappingwithd3.com)
 
+{{< email class="mt-8" >}}
+
 ### Skills
 
 Here is a list of my skillsets and libraries I work with.

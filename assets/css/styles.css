@@ -94,3 +94,11 @@ h1,h2,h3,h4,h5 {
 .projects:hover .hover-show {
   display: block;
 }
+
+#bg-image {
+  transition: filter .2s,opacity 2s;
+}
+body.scroll #bg-image{
+  opacity: 0.10;
+  filter: blur(3px);
+}

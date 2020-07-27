@@ -1,5 +1,5 @@
 nav.font-sans.flex.flex-wrap.justify-start.items-center.my-4.overflow-hidden
-  a.mr-4 href="/" mf
+  a.mr-4 href="{{ "/" | relLangURL  }}" mf
   .block.md:hidden
     button#menu.flex.items-center.px-3.py-2.border.rounded.text-teal-200.border-teal-400.hover:text-white.hover:border-white
       svg.fill-current.h-3.w-3 viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"

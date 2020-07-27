@@ -1,8 +1,21 @@
 baseURL = ""
 languageCode = "en-us"
+DefaultContentLanguage = "de"
 title = "Mila Frerichs, Data Visualization consultant for social good"
 enableEmoji = true
 keywords = ["Data Visualization", "Consultant", "Data Storytelling", "Geospatial", "Maps", "visualization for social good", "non-profit", "civic advocacy"]
+
+[languages]
+  [languages.de]
+  title = "Mila Frerichs, Offene Daten und Daten Visualisierung"
+  weight = 2
+  contentDir = "content/de"
+  languageName = "Deutsch"
+  [languages.en]
+  contentDir = "content/en"
+  languageName = "English"
+  title = "Mila Frerichs, Data Visualization consultant for social good"
+  weight = 1
 
 [taxonomies]
 featured = "featured"

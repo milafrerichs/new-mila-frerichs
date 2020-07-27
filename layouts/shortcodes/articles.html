@@ -1,4 +1,7 @@
-{{ $page := $.Site.GetPage (.Get 1 | default "articles")}}
+{{ $page := $.Site.Sites.First.GetPage (.Get 1 | default "articles")}}
+{{ range where $page.AllTranslations ".Language.Lang" $.Site.Language.Lang}}
+{{ $page = . }}
+{{end}}
 <h3 class="mt-10 text-2xl">
   <a class="no-underline hover:underline" href="{{$page.Permalink}}">{{$page.Title}}</a>
 </h3>
@@ -10,6 +13,6 @@
 {{ $type := .Get 0}}
 {{ $limit := .Get 1 | default 5 }}
 {{ partial "articles" (dict "context" . "type" $type "limit" $limit)}}
-{{ if eq $type "frontpage"}}
-  <a class="mt-4" href="/articles">&raquo; Read all</a>
+{{ if ( and (eq $type "frontpage") (gt (len ($.Site.GetPage "articles").Pages ) $limit))}}
+<a class="mt-4" href="{{ $page.Permalink }}">&raquo; {{ i18n "read-all" . }}</a>
 {{end}}
