@@ -1,23 +1,19 @@
 +++
-date = 2019-04-03T14:38:02Z
+date = 2021-07-16T14:38:02Z
 description = ""
 draft = true
 title = "ProPublica-Freelancer"
 
 +++
-Hello Stamen Team,
+Hello ProPublica Team,
 
-My name is Mila, and I'm a Data Visualization and Open Data Consultant.  
+My name is Mila, and I'm a Data Visualization and Open Data Consultant.
 
 <iframe src="https://player.vimeo.com/video/405070216" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
 I studied Geoinformatics at the University of Muenster, Germany, which I did not finish with a degree but instead founded my own company.
 
-I worked professionally with nonprofits like the Open Knowledge Foundation in Germany and Code for America. 
-
-I also worked on a lot of geospatial projects. I worked with Boundless(Geo) on MapLoom, with Terranodo and Novel-T on a new react-based webclient for GeoNode. Moreover, I have worked indirectly on a visualization dashboard for the Nepal Earthquakes for the GFDRR Team of the Worldbank.   
-My last geospatial project end of last year and earlier this year was with a Munich-based startup improving and extending their prototype using Aermod dispersion models to model air quality data with the help of satellite data.  
+I worked professionally with nonprofits like the Open Knowledge Foundation in Germany and Code for America.
 
 I love diving into data and creating reports and analysis from datasets. I volunteered with Code for America and Code for Germany because I’m especially interested in Civic Tech.
 
@@ -35,10 +31,10 @@ Quick selection of my skills you might need:
 * Satellite Analysis with rasterio in python
 * Webapplication Development with React, Svelte
 
-Would love to work with such a well-known company as stamen!
+Would love to work with such a well-known
 
 [Curriculum Vitae](/cv)
 
 Here is a short list of projects that show my expertise:
 
-{{< projects "stamen" >}}
+{{< projects "propublica" >}}
