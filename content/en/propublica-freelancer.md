@@ -17,6 +17,14 @@ I worked professionally with nonprofits like the Open Knowledge Foundation in Ge
 
 I love diving into data and creating reports and analysis from datasets. I volunteered with Code for America and Code for Germany because I’m especially interested in Civic Tech.
 
+These are the three projects I like to highlight:
+
+### Vision Zero Dashboard San Diego
+
+### Code Enforcement Violations San Diego
+
+### Wazimap NG
+
 I give workshops at FOSS4G conference on „Geospatial Data Visualizations with d3“ and published at [mappingwithd3.com](https://mappingwithd3.com)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/f_auto,q_auto,w_400,h_400,c_thumb,r_max,g_face/w_200/milafrerichs.com/resources/fullsizeoutput_2c6a.jpg)
