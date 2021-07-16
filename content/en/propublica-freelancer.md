@@ -27,11 +27,12 @@ I give workshops at FOSS4G conference on „Geospatial Data Visualizations with 
 Quick selection of my skills you might need:
 
 * Data Visualization & Maps with d3.js
+* Data Analysis with pandas, agate, OpenRefine
+* Webapplication Development with React, Svelte, Vue
+* Visualisations with datawrapper
 * Maps with OpenLayers, Leaflet, Mapbox GL.js
-* Satellite Analysis with rasterio in python
-* Webapplication Development with React, Svelte
 
-Would love to work with such a well-known
+Would love to work with such a great publication as ProPublica.
 
 [Curriculum Vitae](/cv)
 
